@@ -65,16 +65,17 @@ class Plantilla
         end
         a << "  <title>#@titulo_sitio | #{titulo}</title>"
         a << '  <!-- TWITTER BOOTSTRAP INICIA -->'
-        # Si prefiere ofrecer Twitter Bootstrap en su servidor
-     #~ a << '  <link href="/css/bootstrap.min.css" rel="stylesheet">'
-        # O para tomarlo desde servidores en Internet
-        a << '  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">'
-        a << '  <link href="//netdna.bootstrapcdn.com/bootswatch/3.0.0/journal/bootstrap.min.css" rel="stylesheet">'
         a << '  <!-- ESTILOS CSS PROPIOS DE ESTE CMS -->'
         if en_raiz
-            a << '  <link href="css/cms.css" rel="stylesheet">'
+            a << '<link rel="stylesheet" href="/css/normalize.css">
+                 <link rel="stylesheet" href="/css/foundation.css">
+                 <link rel="stylesheet" href="/css/style.css">
+                 '
         else
-            a << '  <link href="../css/cms.css" rel="stylesheet">'
+            a << '<link rel="stylesheet" href="../css/normalize.css">
+                  <link rel="stylesheet" href="../css/foundation.css">
+                  <link rel="stylesheet" href="../css/style.css">
+                  '
         end
         a << '  <!-- SOPORTE PARA IE8 -->'
         a << '  <!--[if lt IE 9]>'
@@ -83,76 +84,136 @@ class Plantilla
         a << '  <![endif]-->'
         a << '  <!-- TWITTER BOOTSTRAP TERMINA -->'
         a << '</head>'
-        a << '<body>'
-        if @menu_principal != nil
-            a << '  <!-- MENU PRINCIPAL -->'
-            a << '  <div class="navbar navbar-default navbar-fixed-top menu-principal" role="navigation">'
-            a << '    <div class="container">'
-            a << '      <div class="navbar-header">'
-            a << '        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">'
-            a << '          <span class="sr-only">Toggle navigation</span>'
-            a << '          <span class="icon-bar"></span>'
-            a << '          <span class="icon-bar"></span>'
-            a << '          <span class="icon-bar"></span>'
-            a << '        </button>'
-            if en_raiz
-                a << "        <a class=\"navbar-brand\" href=\"index.html\">#@titulo_sitio</a>"
-            else
-                a << "        <a class=\"navbar-brand\" href=\"../index.html\">#@titulo_sitio</a>"
-            end
-            a << '      </div>'
-            a << '    <div class="navbar-collapse collapse">'
-            a << @menu_principal
-            a << '    </div>'
-            a << '    </div>'
-            a << '  </div>'
+        a << '<body>
+
+  <!-- Nav Bar -->
+
+  <div class="row Contenido">
+    <div class="large-12 columns">
+      <div class="nav-bar right">
+        <br><br>
+
+         <a href="/index.html" class="NavPrincipal">Inicio</a>
+         <a href="/categorias/reuniones.html" class="NavPrincipal">Reuniones</a>
+         <a href="https://github.com/GULAG/Imagenes" class="NavPrincipal">Imagenes</a>
+         <a href="/revista/revista.html" class="NavPrincipal">Revista</a>
+         <a href="/contacto/contacto.html" class="NavPrincipal">Contacto</a>
+
+      </div>
+<img src="/imagenes/logo.jpg" class="Logo">
+
+    </div>
+  </div>
+
+  <!-- End Nav -->
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row Fondo">
+
+    <!-- Main Blog Content -->
+    <div class="large-8 columns Entradas Post" role="content">
+
+      <article class="entradasblog">
+        '
+    a << "<h5>#{titulo}</h5>"
+a <<"  #{contenido}"
+a <<'  </article>
+    </div>
+
+    <!-- End Main Content -->
+
+
+    <!-- Sidebar -->
+
+    <aside class="large-4 columns Lateral">
+
+
+
+      <div class="panel Reuniones">
+        <h5>Proxima Reunion</h5>
+        <p>Fecha: <b>08-Febrero-2014</b></p>
+        <p><b>Taller:</b></p>
+        <p>Creación y actualización de blogs por medio de GitHub</p>
+        <p>Hora: <b>4:00 PM</b></p>
+        <p>Lugar: <b>Universidad Autonoma de la Laguna</b></p>
+
+<iframe width="250" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-103.44012022018433%2C25.57176908572723%2C-103.42368364334106%2C25.582975565123544&amp;layer=mapnik&amp;marker=25.57737245656369%2C-103.4319019317627" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=25.5774&amp;mlon=-103.4319#map=16/25.5774/-103.4319">View Larger Map</a></small>
+
+
+<!--        
+<p> Dirección: </p>
+<br>
+
+            <h6>Platicas Programadas</h6>
+       <ul>
+          <li>Guillermo Valdes- Open Streets Maps</li>
+          <li>Alejandro Esquivel- reportes del servidor proxy squid</li>
+       </ul>-->
+
+      </div>
+      <br>'
+a << "<a class='twitter-timeline' align='center' href='https://twitter.com/gulagmexico'  data-widget-id='274914097148076032'>Tweets por @gulagmexico</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<br><br><br>
+
+
+ <div class='panel Reuniones'>
+ <img src='imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>
+ </div>
+"
+a << '
+
+      <h5>Explorador de Entradas</h5> '
+
+if @contenido_secundario != nil
+            a << '          <!-- Contenido secundario -->'
+            a << '          <div id="sub" class="nav">'
+            a << "              <div class=\"wrapper\">#@contenido_secundario</div>"
+            a << '          </div>'
         end
-        a << '  <div class="container contenido">'
-        if @grafico_encabezado != nil
-            a << @grafico_encabezado
-        else
-            a << '    <!-- JUMBOTRON -->'
-            a << '    <div class="jumbotron">'
-            a << "      <h2>#@titulo_sitio</h2>"
-            a << "      <p>#@frase_sitio</p>"
-            a << '    </div>'
-        end
-        a << '    <!-- CONTENIDO -->'
-        a << "    <h1>#{titulo}</h1>"
-        a << contenido
-        if @contenido_secundario != nil
-            a << '    <!-- CONTENIDO SECUNDARIO -->'
-            a << '    <div class="panel panel-default">'
-            a << '      <div class="panel-body">'
-            a << @contenido_secundario
-            a << '      </div>'
-            a << '    </div>'
-        end
-        a << '  </div>' # container contenido
-        a << '  <!-- PIE -->'
-        a << '  <footer>'
-        a << '    <div class="container">'
         if @menu_secundario != nil
-            a << '    <!-- MENU SECUNDARIO -->'
-            a << '    <div class="panel panel-default panel-menu-secundario">'
-            a << '      <div class="panel-body">'
-            a << @menu_secundario
-            a << '      </div>'
-            a << '    </div>'
+            a << '          <!-- Menú secundario -->'
+            a << '          <div id="nav-sec" class="nav">'
+            a << "              <div class=\"wrapper\">#@menu_secundario</div>"
+            a << '          </div>'
         end
-        a << @pie_html if @pie_html != nil
-        a << '    </div>'
-        a << '  </footer>'
-        a << '  <!-- CODIGO JAVASCRIPT DE BOOTSTRAP PUESTO AL FINAL PARA QUE SE CARGUE MAS RAPIDO LA PAGINA -->'
-        # Si prefiere ofrecer Twitter Bootstrap en su servidor
-     #~ a << '  <script src="/js/jquery.min.js"></script>'
-     #~ a << '  <script src="/js/bootstrap.min.js"></script>'
-        # O para tomarlo desde servidores en Internet
-        a << '  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>'
-        a << '  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>'
-        a << '  '
-        a << '</body>'
-        a << '</html>'
+
+
+a << '</aside>
+
+    <!-- End Sidebar -->
+  </div>
+
+  <!-- End Main Content and Sidebar -->
+
+
+  <!-- Footer -->
+
+  <footer class="row ContenidoPie">
+    <div class="large-12 columns">
+      <div class="row">
+        <div class="large-6 columns">
+          <p align="justify" > Copyright &copy; 2006-2013<br>
+Se otorga permiso para copiar, distribuir y/o modificar este documento bajo los términos de la Licencia de Documentación Libre de GNU, Versión 1.2 o cualquier otra versión posterior publicada por la Free Software Foundation</p>
+<p><a href="https://plus.google.com/u/0/102379541396197060774/posts?rel=author">Plantilla creada por: Sergio aguilera</a></p>
+        </div>
+        <div class="large-6 columns ">
+          <ul class="inline-list right ">
+            <li><a href="/index.html">Inicio</a></li>
+            <li><a href="#">Mapa de Sitio</a></li>
+            <li><a href="/Contacto/contacto.html">Contactanos</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End Footer -->
+</body>
+</html>
+        '
+
         a.join("\n")
     end
 

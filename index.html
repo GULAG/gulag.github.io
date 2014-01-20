@@ -5,13 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <link rel="alternate" type="application/rss+xml" title="CMS de Movimiento Libre" href="rss.xml" />
-  <title>CMS de Movimiento Libre | Página inicial</title>
+  <link rel="alternate" type="application/rss+xml" title="Grupo de Usuarios de GNU/Linux de la Laguna" href="rss.xml" />
+  <title>Grupo de Usuarios de GNU/Linux de la Laguna | Página inicial</title>
   <!-- TWITTER BOOTSTRAP INICIA -->
-  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
-  <link href="//netdna.bootstrapcdn.com/bootswatch/3.0.0/journal/bootstrap.min.css" rel="stylesheet">
   <!-- ESTILOS CSS PROPIOS DE ESTE CMS -->
-  <link href="css/cms.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/normalize.css">
+                 <link rel="stylesheet" href="/css/foundation.css">
+                 <link rel="stylesheet" href="/css/style.css">
+                 
   <!-- SOPORTE PARA IE8 -->
   <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -20,144 +21,240 @@
   <!-- TWITTER BOOTSTRAP TERMINA -->
 </head>
 <body>
-  <!-- MENU PRINCIPAL -->
-  <div class="navbar navbar-default navbar-fixed-top menu-principal" role="navigation">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="index.html">CMS de Movimiento Libre</a>
+
+  <!-- Nav Bar -->
+
+  <div class="row Contenido">
+    <div class="large-12 columns">
+      <div class="nav-bar right">
+        <br><br>
+
+         <a href="/index.html" class="NavPrincipal">Inicio</a>
+         <a href="/categorias/reuniones.html" class="NavPrincipal">Reuniones</a>
+         <a href="https://github.com/GULAG/Imagenes" class="NavPrincipal">Imagenes</a>
+         <a href="/revista/revista.html" class="NavPrincipal">Revista</a>
+         <a href="/contacto/contacto.html" class="NavPrincipal">Contacto</a>
+
       </div>
-    <div class="navbar-collapse collapse">
-<ul class="nav navbar-nav">
-  <li><a href="acerca/">Acerca</a></li>
-  <li><a href="screenshots/">Screenshots</a></li>
-  <li><a href="descargar/">Descargar</a></li>
-  <li><a href="documentacion/">Documentación</a></li>
-  <li><a href="licencias/">Licencias</a></li>
-  <li><a href="contacto/">Contacto</a></li>
-</ul>
-    </div>
+<img src="/imagenes/logo.jpg" class="Logo">
+
     </div>
   </div>
-  <div class="container contenido">
-    <!-- JUMBOTRON -->
-    <div class="jumbotron">
-      <h2>CMS de Movimiento Libre</h2>
-      <p>Administrador de contenidos programado en Ruby. Ahora con Twitter Bootstrap.</p>
+
+  <!-- End Nav -->
+
+
+  <!-- Main Page Content and Sidebar -->
+
+  <div class="row Fondo">
+
+    <!-- Main Blog Content -->
+    <div class="large-8 columns Entradas Post" role="content">
+
+      <article class="entradasblog">
+        
+<h5>Página inicial</h5>
+  <h3><a href="entradas/2014-01-20-reunion-enero-2014.html">Primera reunion del año- Enero 2014</a></h3>
+  <p><small>2014-01-20 12:00 - GULAG</small></p>
+
+<p><img src="entradas/2014-01-20-reunion-enero-2014/guivaloz.jpg" alt="Guillermo Valdez hablando de Git" /><br /><br />
+El pasado sábado 18 de enero del 2014 se llevo acabo la primera junta del año, en la cual se acordaron diversos puntos, que fueron expuestos con anterioridad en la posada del grupo.</p>
+
+<ul>
+  <li>
+    <p><strong>Las juntas mensuales se dividirán en 2 secciones, de 4:00pm a 5:00pm, se darán pláticas a los nuevos integrantes del grupo, y de 5:00pm en adelante, se darán pláticas de nivel Intermedio-Avanzado.</strong></p>
+  </li>
+  <li>
+    <p>De inicio, Sergio Aguilera,dará las pláticas a los nuevos integrantes, sin embargo, se extiende a cualquiera que quiera dar una plática para los nuevos integrantes.</p>
+  </li>
+  <li>
+    <p>La revista está empezando a ser maquillada por  Osvaldo Rodríguez (ChicoXXX), de igual manera, todo el que quiera publicar un artículo en la misma, favor de contactarlo.</p>
+  </li>
+  <li>
+    <p>Debido a la falta de foro, no se trató el tema de suspender las flisol, sin embargo,  se tomó la decisión que <strong>el flisol de este año si se llevara a cabo</strong>, independientemente de que el próximo año dicho evento sea suspendido.</p>
+  </li>
+</ul>
+
+<p>Sergio Aguilera, hablo sobre <a href="http://github.com">GitHub</a> mostrando las bondades que ha incorporado este año y como han impactado de manera significativa a el software libre, junto a ello, anuncío que la pagina de la GULAG, actualmente se encuentra Hospedada en Github, gracias a las bondades de <a href="http://pages.github.com/">GitHub Pages</a>.</p>
+
+<p>Gracias a este nuevo hosting, ahora la actualización de la pagina se ve desentralizada, es decir, <strong>ahora cualquier usuario de la GULAG</strong> podra subir una entrada a el sitio.</p>
+
+<p>Guillermo Valdes nos acompaño con un taller introductorio a git, una herramienta por demas necesara en todo desarrollo, en especial, en aquellos que usan GitHub como manejador de versiones.</p>
+
+<p>Se a creado un respositorio en GitHub donde se subiran mensualmente el recopilatorio de las imagenes tomadas en cada junta, para acceder a el, favor de <a href="https://github.com/GULAG/Imagenes">hacer click aqui</a>.</p>
+
+<blockquote>
+  <h5 id="el-proximo-mes-se-llevara-acabo-la-primera-parte-de-un-taller-sobre-creacin-y-actualizacin-de-blogs-y-sitios-web-mediante-github-pages-y-el-cms-de-movimiento-libre-impartido-por-sergio-aguilera">El proximo mes, se llevara acabo la primera parte de un taller sobre creación y actualización de blogs y sitios web mediante GitHub Pages y el CMS de Movimiento Libre, impartido por <em>Sergio Aguilera</em>.</h5>
+</blockquote>
+
+<blockquote>
+  <p><strong>Requisitos</strong>
+   Maquina con GNU/LINUX</p>
+</blockquote>
+
+
+<h3><a href="entradas/04-09-2013_junta.html">Junta Ordinaria 4-Noviembre-2013</a></h3>
+<blockquote>
+  <p><small>2013-08-25 12:00 - GULAG</small></p>
+<center> <img src='https://lh5.googleusercontent.com/-AdUwSil0HQw/UoAxx7e80TI/AAAAAAAAFXA/CEbHkAmPJmQ/w841-h557-no/DSC_7401.JPG'></center>
+<p>EL pasado día sábado 4 de noviembre se contó con la participación de estudiantes de la <span class="caps">UAC</span> quienes solicitarón una platica sobre la Deep Web, impatida por Sergio Aguilera.</p>
+<p>Despues de  la ronda de preguntas y respuestas ya acostumbradas, nuestro compañero Alejandro Esquivel nos  mostro como instalar y configuar de forma basica Squid, un Proxy licenciado bajo licencias libres.</p>
+<center><img src='https://lh5.googleusercontent.com/-oxmVRvkpJ9A/UoAxx63sQnI/AAAAAAAAFX8/CJHnDHMaV28/w841-h557-no/DSC_7413.JPG'></center>
+  <p class="text-right"><button type="button" class="btn btn-primary publicacion-completa" onclick="location.href='entradas/04-09-2013_junta.html'">Publicación completa...</button></p>
+</blockquote>
+<h3><a href="entradas/12-08-2013_junta.html">Junta Ordinaria 12-Agosto-2013</a></h3>
+<blockquote>
+  <p><small>2013-08-14 12:00 - GULAG</small></p>
+<center><a href="/entradas/2013-08-12-junta-ordinaria/2013-08-12-chicoxxx.JPG"><img src="/entradas/2013-08-12-junta-ordinaria/2013-08-12-chicoxxx.JPG" alt="" /></a></center>
+<p>EL pasado día sábado 12 octubre se habló sobre el uso de <a href="http://github.com">github</a> como una alternativa viable para la edición de la revista, chicoxxx propuso el nombre de &#8220;BytesLibres&#8221; para la revista,asi mismo, se propuso que  todos los articulos fueran subidos a una cuenta en github para centralizar las fuentes y fueran de facil edición previo a creación del documento final por medio de LaTeX.</p>
+<p>Sergio nos hablò del avance de la página, el uso de twitter y facebook asi como de los nuevos proyectos y propuestas para el grupo.</p>
+<center><a href="/entradas/2013-08-12-junta-ordinaria/2013-08-12-sergio.JPG"><img src="/entradas/2013-08-12-junta-ordinaria/2013-08-12-sergio.JPG" alt="" /></a></center>
+<p>Ya entrado en su platica, Sergio Aguilera nos  habló de Mega, como una excelente opcion para guarda y compartición de archivos, todo  esto, ejecutable desde una terminal de linux .</p>
+  <p class="text-right"><button type="button" class="btn btn-primary publicacion-completa" onclick="location.href='entradas/12-08-2013_junta.html'">Publicación completa...</button></p>
+</blockquote>
+<h3><a href="entradas/regresamos.html">Regresamos</a></h3>
+  <p><small>2013-05-16 18:00 - GULAG</small></p>
+<p>Tras el pequeño, incidente que tuvimos posterior a la visita de Stallman con nuestro sitio web, regresamos y ahora mas libres que nunca.</p>
+<p>Un agradecimiento especial a Guillermo Valdes  por la tutoria en la implementación del cms de <a href="http://www.movimientolibre.com">Movimiento Libre</a> .</p>
+<h3><a href="entradas/2012-04-28-flisol.html">FLISOL 2012</a></h3>
+<blockquote>
+  <p><small>2012-04-28 00:01 - guivaloz</small></p>
+<p style="float:right;"><a href="http://www.gulag.org.mx/entradas/2012-04-28-flisol/poster-flisol-2012-con-fondo-v2.jpg"><img src="http://www.gulag.org.mx/entradas/2012-04-28-flisol/poster-flisol-2012-con-fondo-v2-small.jpg" alt="" /></a></p>
+<p>El sábado 28 de abril en <a href="http://www.plazacuatrocaminos.com.mx/">Plaza Cuatro Caminos</a> se llevará a cabo el <a href="http://installfest.info/">Festival Latinoamericano de Instalación de Software Libre 2010</a> (FLISoL) organizado por sexto año consecutivo por el <a href="http://www.gulag.org.mx/">Grupo de Usuarios de <span class="caps">GNU</span>/Linux de La Laguna</a> (<span class="caps">GULAG</span>).</p>
+<h3>¿Qué es el <span class="caps">FLISOL</span>?</h3>
+<p>El FLISoL es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año.</p>
+<p>Su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo.</p>
+  <p class="text-right"><button type="button" class="btn btn-primary publicacion-completa" onclick="location.href='entradas/2012-04-28-flisol.html'">Publicación completa...</button></p>
+</blockquote>
+<h3><a href="entradas/2011-04-12-flisol.html">FLISOL 2011 Reseña</a></h3>
+<blockquote>
+  <p><small>2011-04-12 12:00 - guivaloz</small></p>
+<p><a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-22.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-22.jpg" alt="" /></a> <a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-01.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-01.jpg" alt="" /></a><br />
+El pasado 9 de abril de 2011 se llevó a cabo el <strong>Festival Latinoamericano de Instalación de Software Libre (<span class="caps">FLISOL</span>)</strong>, organizado por cuarta ocasión por el <strong><span class="caps">GULAG</span></strong> y por primera vez en <a href="http://www.plazacuatrocaminos.com.mx/">Plaza Cuatro Caminos</a>.<br />
+<a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-02.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-02.jpg" alt="" /></a> <a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-03.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-03.jpg" alt="" /></a> <a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-04.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-04.jpg" alt="" /></a> <a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-05.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-05.jpg" alt="" /></a> <a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-06.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-06.jpg" alt="" /></a> <a href="/entradas/2011-04-09-flisol/flisol-laguna-2011-07.jpg"><img src="/entradas/2011-04-09-flisol/flisol-laguna-2011-07.jpg" alt="" /></a><br />
+Cabe destacar que al realizar el evento en un <strong>paseo comercial</strong>, se logró <strong>comunicar</strong> la alternativa del Software Libre a un número mucho mayor de personas que en ocasiones anteriores. Con ese fin, se repartieron <strong>mil trípticos</strong> con información del Software Libre a los visitantes.</p>
+  <p class="text-right"><button type="button" class="btn btn-primary publicacion-completa" onclick="location.href='entradas/2011-04-12-flisol.html'">Publicación completa...</button></p>
+</blockquote>
+  </article>
     </div>
-    <!-- CONTENIDO -->
-    <h1>Página inicial</h1>
-<h3><a href="descargar/ml-cms-1.3.html">Descargar la versión 1.3</a></h3>
-<blockquote>
-  <p><small>2008-05-16 18:30 - guivaloz</small></p>
 
-<p>Este sitio web es elaborado con este script. Al descargar el archivo comprimido estará bajando todo el contenido de este sitio; esto le ayudará a comprender mejor su funcionamiento.</p>
-
-<p><a href="https://github.com/MovimientoLibre/cms/releases/tag/1.3">Descargar la versión 1.3 al 16/mayo/2008</a></p>
+    <!-- End Main Content -->
 
 
-  <p class="text-right"><button type="button" class="btn btn-primary publicacion-completa" onclick="location.href='descargar/ml-cms-1.3.html'">Publicación completa...</button></p>
-</blockquote>
-<h3><a href="screenshots/screenshots.html">Screenshots</a></h3>
-  <p><small>2008-05-16 18:15 - guivaloz</small></p>
-<div class="screenshots"> <a href="screenshots/screenshots/gulag.jpg"><img src="screenshots/screenshots/gulag-small.jpg" title="GULAG" alt="GULAG" /></a> <a href="screenshots/screenshots/institutodeciencia.jpg"><img src="screenshots/screenshots/institutodeciencia-small.jpg" title="Instituto de Ciencia" alt="Instituto de Ciencia" /></a> <a href="screenshots/screenshots/movimientolibre.jpg"><img src="screenshots/screenshots/movimientolibre-small.jpg" title="Movimiento Libre" alt="Movimiento Libre" /></a> <a href="screenshots/screenshots/rayasyrayas.jpg"><img src="screenshots/screenshots/rayasyrayas-small.jpg" title="Rayas y Rayas" alt="Rayas y Rayas" /></a> </div>
-<h3><a href="acerca/acerca.html">Acerca del CMS de Movimiento Libre</a></h3>
-<blockquote>
-  <p><small>2008-05-16 18:00 - guivaloz</small></p>
+    <!-- Sidebar -->
 
-<p>El CMS de Movimiento Libre es un sencillo sistema de gestión de contenidos, <em>Content Management System</em> en inglés, abreviado <a href="http://es.wikipedia.org/wiki/Cms">CMS</a>. Es un programa que permite crear una estructura de soporte para la creación y administración de contenidos de un sitio web.</p>
-
-<p>Nace con la intensión de llevar a la práctica algunos conceptos básicos de programación en <a href="http://es.wikipedia.org/wiki/Ruby">Ruby</a> para administrar los contenidos de <a href="http://movimientolibre.com">Movimiento Libre</a> y es liberado bajo la <a href="acerca/licencias/gpl-2.html">Licencia GPL v2</a>. Ha sido para su servidor un buen ejercicio para aprender este lenguaje de programación.</p>
+    <aside class="large-4 columns Lateral">
 
 
-  <p class="text-right"><button type="button" class="btn btn-primary publicacion-completa" onclick="location.href='acerca/acerca.html'">Publicación completa...</button></p>
-</blockquote>
-<h3><a href="documentacion/requerimientos.html">Requerimientos</a></h3>
-  <p><small>2008-05-16 17:50 - guivaloz</small></p>
 
-<p>Para usar el CMS de Movimiento Libre necesita tener instalado:</p>
+      <div class="panel Reuniones">
+        <h5>Proxima Reunion</h5>
+        <p>Fecha: <b>08-Febrero-2014</b></p>
+        <p><b>Taller:</b></p>
+        <p>Creación y actualización de blogs por medio de GitHub</p>
+        <p>Hora: <b>4:00 PM</b></p>
+        <p>Lugar: <b>Universidad Autonoma de la Laguna</b></p>
 
-<ul>
-  <li>GNU/Linux</li>
-  <li>Servidor <a href="http://httpd.apache.org/">Apache HTTP</a> previamente configurado y probado.</li>
-  <li>Intérprete del leguaje <a href="http://www.ruby-lang.org/">Ruby</a>.</li>
-  <li>La gema <a href="http://whytheluckystiff.net/ruby/redcloth/">RedCloth</a>.</li>
-</ul>
+<iframe width="250" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-103.44012022018433%2C25.57176908572723%2C-103.42368364334106%2C25.582975565123544&amp;layer=mapnik&amp;marker=25.57737245656369%2C-103.4319019317627" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=25.5774&amp;mlon=-103.4319#map=16/25.5774/-103.4319">View Larger Map</a></small>
 
-<p>En las instrucciones de instalación se explica cómo instalar Ruby y RedCloth:</p>
 
-<ul>
-  <li>Para Debian Linux.</li>
-  <li>Para Gentoo Linux.</li>
-</ul>
+<!--        
+<p> Dirección: </p>
+<br>
 
-<h3><a href="documentacion/openssh.html">Uso del OpenSSH para este CMS</a></h3>
-  <p><small>2008-05-13 08:00 - guivaloz</small></p>
+            <h6>Platicas Programadas</h6>
+       <ul>
+          <li>Guillermo Valdes- Open Streets Maps</li>
+          <li>Alejandro Esquivel- reportes del servidor proxy squid</li>
+       </ul>-->
 
-<h4 id="para-subir-las-ltimas-publicaciones-a-su-servidor">Para subir las últimas publicaciones a su servidor</h4>
+      </div>
+      <br>
+<a class='twitter-timeline' align='center' href='https://twitter.com/gulagmexico'  data-widget-id='274914097148076032'>Tweets por @gulagmexico</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<br><br><br>
 
-<pre>
-$ rsync -avz /home/guivaloz/www/ml-cms/ -e ssh guivaloz@movimientolibre.com:/home/guivaloz/www/ml-cms/
-</pre>
 
-<h4 id="para-ejecutar-el-script-en-su-servidor">Para ejecutar el script en su servidor</h4>
+ <div class='panel Reuniones'>
+ <img src='imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>
+ </div>
 
-<pre>
-$ ssh guivaloz@movimientolibre.com /home/guivaloz/www/ml-cms/cms.rb
-</pre>
 
-  </div>
-  <!-- PIE -->
-  <footer>
-    <div class="container">
-    <!-- MENU SECUNDARIO -->
-    <div class="panel panel-default panel-menu-secundario">
-      <div class="panel-body">
-<div class="panel panel-default col-md-4 menu-secundario">
+
+      <h5>Explorador de Entradas</h5> 
+          <!-- Menú secundario -->
+          <div id="nav-sec" class="nav">
+              <div class="wrapper"><div class="panel panel-default col-md-4 menu-secundario">
   <div class="panel-heading">Últimas publicaciones</div>
 <ul class="list-group">
-      <li class="list-group-item"><a href="descargar/ml-cms-1.3.html">Descargar V. 1.3</a></li>
-      <li class="list-group-item"><a href="screenshots/screenshots.html">Screenshots</a></li>
-      <li class="list-group-item"><a href="acerca/acerca.html">Acerca</a></li>
-      <li class="list-group-item"><a href="documentacion/requerimientos.html">Requerimientos</a></li>
-      <li class="list-group-item"><a href="documentacion/openssh.html">Uso del OpenSSH para este CMS</a></li>
+      <li class="list-group-item"><a href="entradas/2014-01-20-reunion-enero-2014.html">Primera reunion del año- Enero 2014</a></li>
+      <li class="list-group-item"><a href="entradas/04-09-2013_junta.html">Junta Ordinaria</a></li>
+      <li class="list-group-item"><a href="entradas/12-08-2013_junta.html">Junta Ordinaria</a></li>
+      <li class="list-group-item"><a href="entradas/regresamos.html">prueba</a></li>
+      <li class="list-group-item"><a href="entradas/2012-04-28-flisol.html">FLISOL 2012</a></li>
+      <li class="list-group-item"><a href="entradas/2011-04-12-flisol.html">FLISOL 2011 Reseña</a></li>
 </ul>
 </div><div class="panel panel-default col-md-4 menu-secundario">
   <div class="panel-heading">Categorías</div>
 <ul class="list-group">
-      <li class="list-group-item"><a href="categorias/descargas.html">Descargas (1)</a></li>
-      <li class="list-group-item"><a href="categorias/faq.html">FAQ (2)</a></li>
-      <li class="list-group-item"><a href="categorias/instalacion.html">Instalación (2)</a></li>
-      <li class="list-group-item"><a href="categorias/openssh.html">OpenSSH (1)</a></li>
-      <li class="list-group-item"><a href="categorias/screenshots.html">Screenshots (1)</a></li>
+      <li class="list-group-item"><a href="categorias/conferencias.html">Conferencias (19)</a></li>
+      <li class="list-group-item"><a href="categorias/contacto.html">Contacto (1)</a></li>
+      <li class="list-group-item"><a href="categorias/debian.html">Debian (2)</a></li>
+      <li class="list-group-item"><a href="categorias/eventos.html">Eventos (1)</a></li>
+      <li class="list-group-item"><a href="categorias/flisol.html">FLISOL (7)</a></li>
+      <li class="list-group-item"><a href="categorias/github.html">GitHub (1)</a></li>
+      <li class="list-group-item"><a href="categorias/gnome.html">Gnome (1)</a></li>
+      <li class="list-group-item"><a href="categorias/gulag.html">Gulag (1)</a></li>
+      <li class="list-group-item"><a href="categorias/innovatic.html">InnovaTIC (1)</a></li>
+      <li class="list-group-item"><a href="categorias/install_fest.html">Install Fest (9)</a></li>
+      <li class="list-group-item"><a href="categorias/kde.html">KDE (1)</a></li>
+      <li class="list-group-item"><a href="categorias/reuniones.html">Reuniones (4)</a></li>
+      <li class="list-group-item"><a href="categorias/revista.html">Revista (1)</a></li>
+      <li class="list-group-item"><a href="categorias/softwarelibre.html">SoftwareLibre (1)</a></li>
+      <li class="list-group-item"><a href="categorias/entradas.html">entradas (3)</a></li>
 </ul>
 </div><div class="panel panel-default col-md-4 menu-secundario">
   <div class="panel-heading">Autores</div>
 <ul class="list-group">
-      <li class="list-group-item"><a href="autores/guivaloz.html">guivaloz (7)</a></li>
+      <li class="list-group-item"><a href="autores/gulag.html">GULAG (15)</a></li>
+      <li class="list-group-item"><a href="autores/rive.html">RIVE (1)</a></li>
+      <li class="list-group-item"><a href="autores/guivaloz.html">guivaloz (12)</a></li>
+      <li class="list-group-item"><a href="autores/mibito.html">mibito (1)</a></li>
+      <li class="list-group-item"><a href="autores/rive.html">rive (2)</a></li>
+      <li class="list-group-item"><a href="autores/tono.html">toNo (3)</a></li>
+      <li class="list-group-item"><a href="autores/zerialkiller.html">zerialkiller (1)</a></li>
 </ul>
-</div><div class="panel panel-default col-md-4 menu-secundario">
-  <div class="panel-heading">Sindicalización</div>
-<ul class="list-group">
-      <li class="list-group-item"><a href="../rss.xml"><img src="/imagenes/rss.png" alt="RSS 2.0"> RSS 2.0</a></li>
-</ul>
-</div>
+</div></div>
+          </div>
+</aside>
+
+    <!-- End Sidebar -->
+  </div>
+
+  <!-- End Main Content and Sidebar -->
+
+
+  <!-- Footer -->
+
+  <footer class="row ContenidoPie">
+    <div class="large-12 columns">
+      <div class="row">
+        <div class="large-6 columns">
+          <p align="justify" > Copyright &copy; 2006-2013<br>
+Se otorga permiso para copiar, distribuir y/o modificar este documento bajo los términos de la Licencia de Documentación Libre de GNU, Versión 1.2 o cualquier otra versión posterior publicada por la Free Software Foundation</p>
+<p><a href="https://plus.google.com/u/0/102379541396197060774/posts?rel=author">Plantilla creada por: Sergio aguilera</a></p>
+        </div>
+        <div class="large-6 columns ">
+          <ul class="inline-list right ">
+            <li><a href="/index.html">Inicio</a></li>
+            <li><a href="#">Mapa de Sitio</a></li>
+            <li><a href="/Contacto/contacto.html">Contactanos</a></li>
+          </ul>
+        </div>
       </div>
     </div>
-  Copyright (c) 2013 Guillermo Valdés Lozano. Se otorga permiso para copiar, distribuir y/o modificar este documento.<br>
-  El programa está protegido por la licencia <a href="licencias/gpl-2.html">GPL versión 2</a>.<br>
-  La documentación está protegida por la licencia <a href="licencias/gfdl.html">GFDL</a>.
-
-    </div>
   </footer>
-  <!-- CODIGO JAVASCRIPT DE BOOTSTRAP PUESTO AL FINAL PARA QUE SE CARGUE MAS RAPIDO LA PAGINA -->
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-  
+  <!-- End Footer -->
 </body>
 </html>
+        

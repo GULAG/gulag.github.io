@@ -51,14 +51,14 @@ imprenta = Imprenta.new
 # --------------------------------------------
 
 # URL del sitio, necesario para la sindicalización, NO debe tener diagonal al final
-imprenta.url_sitio = 'http://cms.movimientolibre.com'
+imprenta.url_sitio = 'http://gulag.org.mx'
 
 # Nombre del sitio web
-TITULO_SITIO          = 'CMS de Movimiento Libre'
+TITULO_SITIO          = 'Grupo de Usuarios de GNU/Linux de la Laguna'
 imprenta.titulo_sitio = TITULO_SITIO
 
 # Descripción del sitio web
-DESCRIPCION_SITIO    = 'Administrador de contenidos programado en Ruby. Ahora con Twitter Bootstrap.'
+DESCRIPCION_SITIO    = 'Sitio de la GULAG, un grupo de amantes del software libre  en la Laguna.'
 imprenta.frase_sitio = DESCRIPCION_SITIO
 
 # El anuncio sirve para mostrar un evento, reunión o acontecimiento próximo
@@ -66,7 +66,7 @@ imprenta.frase_sitio = DESCRIPCION_SITIO
 # imprenta.anuncio = ''
 
 # Arreglo con los nombres de los directorios donde se encuentran las publicaciones
-imprenta.publicaciones_directorios = %w{ acerca descargar screenshots documentacion licencias contacto }
+imprenta.publicaciones_directorios = %w{ revista entradas contacto }
 
 # Arreglo con las etiquetas de los directorios donde se encuentran las publicaciones
 # Por ejemplo, un directorio llamado guia_inicio puede aparecer como "Guía de inicio"
@@ -75,7 +75,20 @@ imprenta.publicaciones_etiquetas = { 'documentacion' => "Documentación" }
 
 # Los Anexos sirven para injertar código HTML y/o JavaScript al final de cada publicación completa
 # Aparecen en la página dedicada a cada publicación; pero NO en la página inicial, archivos index, categorias o autores.
-#imprenta.publicaciones_anexos = { 'licencias' => '<h4>Palabra de R.M.S.</h4>', 'contacto' => '<hr>'  }
+imprenta.publicaciones_anexos = { 'entradas' => "<div id='disqus_thread'></div>
+    <script type='text/javascript'>
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'comentariosgulag'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href='http://disqus.com/?ref_noscript'>comments powered by Disqus.</a></noscript>
+    <a href='http://disqus.com' class='dsq-brlink'>comments powered by <span class='logo-disqus'>Disqus</span></a>"}
 
 # Nombre del archivo para la página incial, sin diagonal al principio
 PAGINA_INICIAL = 'index.html'
@@ -99,10 +112,10 @@ menu_principal.agregar('Contacto',       'contacto/')
 # imprenta.contenido_secundario = '<p style="background: #CCC; padding: 4px; border: solid 1px gray; font-style: italic;">' + DESCRIPCION_SITIO + '</p>'
 
 # Cantidad máxima de publicaciones que aparecerán en las páginas
-imprenta.publicaciones_por_pagina_maximo = 5
+imprenta.publicaciones_por_pagina_maximo = 6
 
 # Autor por defecto, se aplica a las publicaciones que no lo tengan definido
-imprenta.autor_por_defecto = 'guivaloz'
+imprenta.autor_por_defecto = 'GULAG'
 
 # Nombre del directorio donde se crearán los índices de cada categoría, por defecto 'categorias'
 # imprenta.categorias_directorio = 'categorias'
