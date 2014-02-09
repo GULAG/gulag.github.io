@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
+<rss xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Grupo de Usuarios de GNU/Linux de la Laguna</title>
     <link>http://gulag.org.mx</link>
     <description>Sitio de la GULAG, un grupo de amantes del software libre  en la Laguna.</description>
+    <item>
+      <title>Gulag aprendiendo a usar GitHub</title>
+      <link>http://gulag.org.mx/entradas/2014-02-08-gulag-aprendiendo-github.html</link>
+      <description>
+&lt;p&gt;En la junta de hoy se impartió un taller sobre GitHub y el CMS de Movimiento libre, ademas tuvimos la presencia de la comunidad de Python Laguna.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;github/comunidadpython.jpg&quot; alt=&quot;expositores de python laguna&quot; /&gt;&lt;/p&gt;
+</description>
+      <author>GULAG</author>
+      <pubDate>Sat, 08 Feb 2014 18:12:00 -0600</pubDate>
+      <dc:date>2014-02-08T18:12:00-06:00</dc:date>
+    </item>
     <item>
       <title>Primera reunion del año- Enero 2014</title>
       <link>http://gulag.org.mx/entradas/2014-01-20-reunion-enero-2014.html</link>
@@ -95,17 +107,6 @@ El pasado sábado 18 de enero del 2014 se llevo acabo la primera junta del año,
       <author>guivaloz</author>
       <pubDate>Sat, 28 Apr 2012 00:01:00 -0500</pubDate>
       <dc:date>2012-04-28T00:01:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>FLISOL 2011 Reseña</title>
-      <link>http://gulag.org.mx/entradas/2011-04-12-flisol.html</link>
-      <description>&lt;p&gt;&lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-22.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-22.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-01.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-01.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
-El pasado 9 de abril de 2011 se llevó a cabo el &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre (&lt;span class=&quot;caps&quot;&gt;FLISOL&lt;/span&gt;)&lt;/strong&gt;, organizado por cuarta ocasión por el &lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;GULAG&lt;/span&gt;&lt;/strong&gt; y por primera vez en &lt;a href=&quot;http://www.plazacuatrocaminos.com.mx/&quot;&gt;Plaza Cuatro Caminos&lt;/a&gt;.&lt;br /&gt;
-&lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-02.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-03.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-04.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-04.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-05.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-05.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-06.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-06.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-07.jpg&quot;&gt;&lt;img src=&quot;/entradas/2011-04-09-flisol/flisol-laguna-2011-07.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
-Cabe destacar que al realizar el evento en un &lt;strong&gt;paseo comercial&lt;/strong&gt;, se logró &lt;strong&gt;comunicar&lt;/strong&gt; la alternativa del Software Libre a un número mucho mayor de personas que en ocasiones anteriores. Con ese fin, se repartieron &lt;strong&gt;mil trípticos&lt;/strong&gt; con información del Software Libre a los visitantes.&lt;/p&gt;</description>
-      <author>guivaloz</author>
-      <pubDate>Tue, 12 Apr 2011 12:00:00 -0500</pubDate>
-      <dc:date>2011-04-12T12:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
