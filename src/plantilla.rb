@@ -160,7 +160,7 @@ a << "<a class='twitter-timeline' align='center' href='https://twitter.com/gulag
 
 
  <div class='panel Reuniones'>
- <img src='imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>
+ <img src='/imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>
  </div>
 "
 a << '
