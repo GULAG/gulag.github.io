@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  version="2.0"
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  version="2.0"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>Grupo de Usuarios de GNU/Linux de la Laguna</title>
     <link>http://gulag.org.mx</link>
@@ -12,7 +12,15 @@
       <title>Gulag aprendiendo a usar GitHub</title>
       <link>http://gulag.org.mx/entradas/2014-02-08-gulag-aprendiendo-github.html</link>
       <description>
-&lt;p&gt;En la junta de hoy se impartió un taller sobre GitHub y el CMS de Movimiento libre, ademas tuvimos la presencia de la comunidad de Python Laguna.&lt;/p&gt;
+&lt;p&gt;En la junta de hoy se impartió un taller sobre GitHub y el CMS de Movimiento libre, además tuvimos la presencia de la comunidad de Python Laguna.&lt;/p&gt;
+
+&lt;p&gt;La gente de Python Laguna extendió la invitación a todos los interesados en formar parte de esta nueva comunidad que nace en la región: &lt;a href=&quot;http://www.pythonlaguna.com/&quot;&gt;Python Laguna&lt;/a&gt; es una comunidad de amantes y entusiastas del lenguaje Python que buscan extender y popularizar su uso, si buscas pertenecer a este grupo no dudes en visitar su página.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, Sergio Aguilera nos Impartió un mini taller donde se enseñó a la comunidad, como actualizar la página de la GULAG desde github.&lt;/p&gt;
+
+&lt;p&gt;Este taller tomo aspectos importantes en la maquetación del contenido como lo es, la estructura de los archivos y una guía de inicio rápido para Markdown el maquetador de contenidos usado para la página.&lt;/p&gt;
+
+&lt;p&gt;Se habló del motor principal de nuestro sitio, el &lt;a href=&quot;http://cms.movimientolibre.com&quot;&gt;CMS de movimiento libre&lt;/a&gt;, un manejador de contenidos nacido en la laguna con un potencial enorme, codificado en ruby, otorga muchas facilidades a la hora de crear sitios web.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;github/comunidadpython.jpg&quot; alt=&quot;expositores de python laguna&quot; /&gt;&lt;/p&gt;
 </description>
