@@ -195,7 +195,7 @@ a << '</aside>
     <div class="large-12 columns">
       <div class="row">
         <div class="large-6 columns">
-          <p align="justify" > Copyright &copy; 2006-2013<br>
+          <p align="justify" > Copyright &copy; 2006-2014<br>
 Se otorga permiso para copiar, distribuir y/o modificar este documento bajo los términos de la Licencia de Documentación Libre de GNU, Versión 1.2 o cualquier otra versión posterior publicada por la Free Software Foundation</p>
 <p><a href="https://plus.google.com/u/0/102379541396197060774/posts?rel=author">Plantilla creada por: Sergio aguilera</a></p>
         </div>
