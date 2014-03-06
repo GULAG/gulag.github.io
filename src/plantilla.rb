@@ -135,7 +135,7 @@ a <<'  </article>
         <h5>Proxima Reunion</h5>
         <p>Fecha: <b>08-Marzo-2014</b></p>
         <p><b>Taller:</b></p>
-        <p>Programando con niños</p>
+        <p>Programando con niños- Ing.Lizbeth Cuevas</p>
         <p>Hora: <b>4:00 PM</b></p>
         <p>Lugar: <b>Universidad Autonoma de la Laguna</b></p>
 
