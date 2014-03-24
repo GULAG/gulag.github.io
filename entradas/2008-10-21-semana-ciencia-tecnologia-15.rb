@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,7 +10,7 @@ def publicacion(dir)
     p.categorias  = ['Conferencias']
     p.autor       = 'guivaloz'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-1-small.jpg!:/entradas/2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-1.jpg !/entradas/2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-2-small.jpg!:/entradas/2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-2.jpg !/entradas/2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-3-small.jpg!:/entradas/2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-3.jpg
+!2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-1-small.jpg!:2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-1.jpg !2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-2-small.jpg!:2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-2.jpg !2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-3-small.jpg!:2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-3.jpg
 
 El pasado 21 de octubre de 2008, "Guillermo Valdés (guivaloz)":http://movimientolibre.com/ impartió la plática "Introducción al Software Libre":http://movimientolibre.com/presentaciones/software-libre.html ante alumnos de 5to. y 6to. de primaria. Los niños de esta generación muestran un mayor uso de las herramientas informáticas que las generaciones pasadas; sin embargo, para ellos fue la primera vez que escucharon hablar sobre _Linux_ y _Software Libre_.
 

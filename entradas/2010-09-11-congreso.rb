@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -37,8 +37,6 @@ h3. Talleres sábado 11 de septiembre de 2010
 10:00 Rafael Bucio: Programación Bash GTK+ II parte.
 
 h3. IV Congreso Internacional del Software Libre
-
-!http://congreso.gulag.org.mx/imagenes/congreso-2010-poster-250x324.jpg!:http://congreso.gulag.org.mx/imagenes/congreso-2010-poster-1600x2071.jpg
 
 El Grupo de Usuarios de GNU/Linux de la Laguna (GULAG) en conjunto con el Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna (ITESM) organizan el IV Congreso Internacional de Software Libre. El evento donde los grandes gurús nos compartirán sus experiencias, se impartirán talleres para poner en práctica programas libres y ejerceremos nuestra libertad de compartir conocimientos y software.
 

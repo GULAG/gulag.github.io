@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,13 +10,13 @@ def publicacion(dir)
     p.categorias  = ['Conferencias']
     p.autor       = 'mibito'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-09-20-aniversario/SFD_2008_Spanish.png!:http://softwarefreedomday.org/
+!2008-09-20-aniversario/SFD_2008_Spanish.png!:http://softwarefreedomday.org/
 
-!/entradas/2008-09-20-aniversario/foto-grupo-small.jpg!:/entradas/2008-09-20-aniversario/foto-grupo.jpg
+!2008-09-20-aniversario/foto-grupo-small.jpg!:2008-09-20-aniversario/foto-grupo.jpg
 
 El pasado sábado 20 de Septiembre de 2008 en las instalaciones de la "Universidad Autónoma de la Laguna":http://www.ual.mx/, se realizó la celebración del *Segundo aniversario del Grupo de Usuarios GNU/Linux de la Laguna* así como el festejo del "_Software Freedom Day_":http://softwarefreedomday.org/ (SFD) con un ciclo de conferencias.
 
-!/entradas/2008-09-20-aniversario/foto-auditorio-ual-small.jpg!:/entradas/2008-09-20-aniversario/foto-auditorio-ual.jpg !/entradas/2008-09-20-aniversario/foto-conferencia-luis_german-small.jpg!:/entradas/2008-09-20-aniversario/foto-conferencia-luis_german.jpg !/entradas/2008-09-20-aniversario/foto-conferencia-mahomedalid-small.jpg!:/entradas/2008-09-20-aniversario/foto-conferencia-mahomedalid.jpg
+!2008-09-20-aniversario/foto-auditorio-ual-small.jpg!:2008-09-20-aniversario/foto-auditorio-ual.jpg !2008-09-20-aniversario/foto-conferencia-luis_german-small.jpg!:2008-09-20-aniversario/foto-conferencia-luis_german.jpg !2008-09-20-aniversario/foto-conferencia-mahomedalid-small.jpg!:2008-09-20-aniversario/foto-conferencia-mahomedalid.jpg
 
 A las 10 de la mañana y contando con la asistencia de más de 120 personas, inició la primer conferencia impartida por Luis Germán Ramírez, conferencia titulada: "Accesos no autorizados y detección de Intrusos".
 
@@ -30,23 +30,23 @@ A la 1:40 comenzó la última plática, la misma impartida por Luis Germán Ram�
 Terminaron los conferencistas y la escuela NIIT hizo la invitación a sus cursos gratuitos en colaboración con el Gobierno del Estado de Coahuila.
 Para finalizar el evento en la universidad, se rifaron entre los asistentes playeras, una memoria usb, una tarjeta de video, varios globos y botones.
 
-!/entradas/2008-09-20-aniversario/foto-pinguino-small.jpg!:/entradas/2008-09-20-aniversario/foto-pinguino.jpg !/entradas/2008-09-20-aniversario/foto-portatiles-small.jpg!:/entradas/2008-09-20-aniversario/foto-portatiles.jpg !/entradas/2008-09-20-aniversario/foto-rive-small.jpg!:/entradas/2008-09-20-aniversario/foto-rive.jpg
+!2008-09-20-aniversario/foto-pinguino-small.jpg!:2008-09-20-aniversario/foto-pinguino.jpg !2008-09-20-aniversario/foto-portatiles-small.jpg!:2008-09-20-aniversario/foto-portatiles.jpg !2008-09-20-aniversario/foto-rive-small.jpg!:2008-09-20-aniversario/foto-rive.jpg
 
 De parte del grupo les decimos: muchas gracias a todos los asistentes e invitados, el evento fue un éxito gracias a ustedes.
 
-!/entradas/2008-09-20-aniversario/foto-convivio-1-small.jpg!:/entradas/2008-09-20-aniversario/foto-convivio-1.jpg !/entradas/2008-09-20-aniversario/foto-convivio-2-small.jpg!:/entradas/2008-09-20-aniversario/foto-convivio-2.jpg !/entradas/2008-09-20-aniversario/foto-elin-daniel-leoneo-small.jpg!:/entradas/2008-09-20-aniversario/foto-elin-daniel-leoneo.jpg
+!2008-09-20-aniversario/foto-convivio-1-small.jpg!:2008-09-20-aniversario/foto-convivio-1.jpg !2008-09-20-aniversario/foto-convivio-2-small.jpg!:2008-09-20-aniversario/foto-convivio-2.jpg !2008-09-20-aniversario/foto-elin-daniel-leoneo-small.jpg!:2008-09-20-aniversario/foto-elin-daniel-leoneo.jpg
 
 <!-- break -->
 
 h3. Conferencistas invitados
 
-!/entradas/2008-09-20-aniversario/foto-discada-luis_german-small.jpg!:/entradas/2008-09-20-aniversario/foto-discada-luis_german.jpg
+!2008-09-20-aniversario/foto-discada-luis_german-small.jpg!:2008-09-20-aniversario/foto-discada-luis_german.jpg
 
 *Luis German Ramírez* (meljux)
 
 Es egresado de la Benemerita Universidad Autonoma de Puebla (BUAP) ha participado en diferentes eventos como el CONSOL, FSL y otros, cuya temática ha sido el Sistema Operativo GNU/Linux y el Software Libre. Actualmente trabaja en Servicios Industriales Peñoles desempeñando diferentes actividades que van desde la administración de red hasta el desarrollo web y la investigación de nuevas tecnologías. Tiene un especial interés en las tecnologías orientadas a web y el web de próxima generación, el web tridimensional.
 
-!/entradas/2008-09-20-aniversario/foto-discada-mahomedalid-small.jpg!:/entradas/2008-09-20-aniversario/foto-discada-mahomedalid.jpg
+!2008-09-20-aniversario/foto-discada-mahomedalid-small.jpg!:2008-09-20-aniversario/foto-discada-mahomedalid.jpg
 
 *Mahomedalid Pacheco* (mictlan)
 
@@ -79,11 +79,11 @@ Inspirado en un libro que permite meter los hacks más utilizados por _gurus gee
 
 h3. Poster
 
-!/entradas/2008-09-20-aniversario/poster-2do-aniversario-small.jpg!:/entradas/2008-09-20-aniversario/poster-2do-aniversario.jpg
+!2008-09-20-aniversario/poster-2do-aniversario-small.jpg!:2008-09-20-aniversario/poster-2do-aniversario.jpg
 
 h3. Patrocinadores
 
-!/entradas/2008-09-20-aniversario/patrocinador-ual.png(Universidad Autonoma de la Laguna)!:http://www.ual.mx/ !/entradas/2008-09-20-aniversario/patrocinador-mcs.png(MCS Network Solution)!:http://www.mcs.com.mx/ !/entradas/2008-09-20-aniversario/patrocinador-ittrade.png(IT Trade)!:http://www.ittrade.com.mx/ !/entradas/2008-09-20-aniversario/patrocinador-niit.png(NIIT)!:http://www.niit-laguna.com/ !/entradas/2008-09-20-aniversario/patrocinador-uane.png(NIIT)!:http://www.uane.edu.mx/
+!2008-09-20-aniversario/patrocinador-ual.png(Universidad Autonoma de la Laguna)!:http://www.ual.mx/ !2008-09-20-aniversario/patrocinador-mcs.png(MCS Network Solution)!:http://www.mcs.com.mx/ !2008-09-20-aniversario/patrocinador-ittrade.png(IT Trade)!:http://www.ittrade.com.mx/ !2008-09-20-aniversario/patrocinador-niit.png(NIIT)!:http://www.niit-laguna.com/ !2008-09-20-aniversario/patrocinador-uane.png(NIIT)!:http://www.uane.edu.mx/
 
 FIN_CONTENIDO
 

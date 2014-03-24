@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,7 +10,7 @@ def publicacion(dir)
     p.categorias  = ['Install Fest', 'FLISOL']
     p.autor       = 'guivaloz'
     p.contenido   = <<FIN_CONTENIDO
-!</entradas/2010-04-24-flisol/poster-flisol-2010-1-025-small.jpg!:/entradas/2010-04-24-flisol/poster-flisol-2010-1-025.jpg
+!<2010-04-24-flisol/poster-flisol-2010-1-025-small.jpg!:2010-04-24-flisol/poster-flisol-2010-1-025.jpg
 
 El sábado 24 de abril en la "Universidad Autónoma de Coahuila":http://www.uadec.mx/ (UAC) se llevará a cabo el "Festival Latinoamericano de Instalación de Software Libre 2010":http://www.flisol.net/ (FLISOL) organizado por cuarto año consecutivo por el "Grupo de Usuarios de GNU/Linux de La Laguna":http://www.gulag.org.mx/ (GULAG).
 

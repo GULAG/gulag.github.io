@@ -1,8 +1,9 @@
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
     p.directorio  = dir
-    p.archivo     = 'regresamos'
+    p.archivo     = '2013-05-16-regresamos'
     p.nombre      = 'Regresamos'
     p.nombre_menu = 'prueba'
     p.fecha       = "2013-05-16 18:00"
@@ -19,8 +20,7 @@ def publicacion(dir)
 
 Tras el pequeño, incidente que tuvimos posterior a la visita de Stallman con nuestro sitio web, regresamos y ahora mas libres que nunca.
 
-
-Un agradecimiento especial a Guillermo Valdes  por la tutoria en la implementación del cms de "Movimiento Libre":http://www.movimientolibre.com .
+Un agradecimiento especial a Guillermo Valdes  por la tutoria en la implementación del CMS de "Movimiento Libre":http://www.movimientolibre.com
 
 FIN_CONTENIDO
 

@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,7 +10,7 @@ def publicacion(dir)
     p.categorias  = ['Conferencias']
     p.autor       = 'guivaloz'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-10-28-cbtis4-aniversario/cbtis4-1-small.jpg!:/entradas/2008-10-28-cbtis4-aniversario/cbtis4-1.jpg !/entradas/2008-10-28-cbtis4-aniversario/cbtis4-3-small.jpg!:/entradas/2008-10-28-cbtis4-aniversario/cbtis4-3.jpg
+!2008-10-28-cbtis4-aniversario/cbtis4-1-small.jpg!:2008-10-28-cbtis4-aniversario/cbtis4-1.jpg !2008-10-28-cbtis4-aniversario/cbtis4-3-small.jpg!:2008-10-28-cbtis4-aniversario/cbtis4-3.jpg
 
 El 28 de octubre del presente, "Guillermo Valdés":http://movimientolibre.com/ participó con la ponencia "Software Libre":http://movimientolibre.com/presentaciones/software-libre.html en los eventos del *XXXVII Aniversario* del "Centro de Bachillerato Tecnológico Industrial y de Servicios No. 4 (CBTiS 4)":http://www.cbtis4.edu.mx/.
 

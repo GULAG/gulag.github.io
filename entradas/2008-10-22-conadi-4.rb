@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,20 +10,24 @@ def publicacion(dir)
     p.categorias  = ['Conferencias']
     p.autor       = 'toNo'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-10-22-conadi-4/conadi-01-small.jpg!:/entradas/2008-10-22-conadi-4/conadi-01.jpg !/entradas/2008-10-22-conadi-4/conadi-02-small.jpg!:/entradas/2008-10-22-conadi-4/conadi-02.jpg
+!2008-10-22-conadi-4/conadi-01-small.jpg!:2008-10-22-conadi-4/conadi-01.jpg !2008-10-22-conadi-4/conadi-02-small.jpg!:2008-10-22-conadi-4/conadi-02.jpg
 
 Los días 20, 21 y 22 de octubre del presente, "Antonio Gurza (ZK)":http://zerialkiller.h4ck3rx.org/, "Oscar Barajas (GnDx)":http://gndx.org/ y "Antonio Martínez (toNo)":http://www.antoniomtz.org/ impartieron un taller y una conferencia en el CONADI 2008 del Instituto Tecnológico Superior de Tamazunchale, San Luís Potosí.
 
-!/entradas/2008-10-22-conadi-4/conadi-03-small.jpg!:/entradas/2008-10-22-conadi-4/conadi-03.jpg !/entradas/2008-10-22-conadi-4/conadi-04-small.jpg!:/entradas/2008-10-22-conadi-4/conadi-04.jpg
+!2008-10-22-conadi-4/conadi-03-small.jpg!:2008-10-22-conadi-4/conadi-03.jpg !2008-10-22-conadi-4/conadi-04-small.jpg!:2008-10-22-conadi-4/conadi-04.jpg
 
 El taller tuvo una duración de 12 hrs. en las cuales, cada uno impartió los siguientes temas: Antonio Gurza: "Comandos Básicos", "Servidor de FTP y SSH". Oscar Barajas: "Entorno de escritorio GNOME" y "Servidor de Correo Electrónico". Antonio Martínez: "Introducción a Debian GNU/Linux" e "Instalación de Debian GNU/Linux, servidor web y base de datos". Hubo un total de 120 alumnos registrados.
 
-!/entradas/2008-10-22-conadi-4/conadi-05-small.jpg!:/entradas/2008-10-22-conadi-4/conadi-05.jpg !/entradas/2008-10-22-conadi-4/conadi-06-small.jpg!:/entradas/2008-10-22-conadi-4/conadi-06.jpg
+!2008-10-22-conadi-4/conadi-05-small.jpg!:2008-10-22-conadi-4/conadi-05.jpg !2008-10-22-conadi-4/conadi-06-small.jpg!:2008-10-22-conadi-4/conadi-06.jpg
 
 El día 22 de octubre, Antonio Martínez participó con la conferencia "¿Qué se puede hacer con el Software Libre?", en la que se mencionaron los tipos de software que existen, la historia de GNU/Linux, los entornos de escritorio, distribuciones, ejercicios en LaTeX y una demostración de la compatibilidad de Mono con MS Visual Studio.
 
-|=. !/imagenes/icono-tgz.png!:/entradas/2008-10-22-conadi-4/email.tar.gz |=. !/imagenes/icono-tgz.png!:/entradas/2008-10-22-conadi-4/ftp_ssh.pdf.tar.gz |=. !/imagenes/icono-tgz.png!:/entradas/2008-10-22-conadi-4/taller-apache.tar.gz |
-| "Taller e-mail":/entradas/2008-10-22-conadi-4/email.tar.gz | "Taller FTP y SSH":/entradas/2008-10-22-conadi-4/ftp_ssh.pdf.tar.gz | "Taller Apache":/entradas/2008-10-22-conadi-4/taller-apache.tar.gz |
+h3. Descargas
+
+* "Taller e-mail":2008-10-22-conadi-4/email.tar.gz
+* "Taller FTP y SSH":2008-10-22-conadi-4/ftp_ssh.pdf.tar.gz
+* "Taller Apache":2008-10-22-conadi-4/taller-apache.tar.gz
+
 FIN_CONTENIDO
 
     # Entregar la publicacion

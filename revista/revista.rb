@@ -1,3 +1,4 @@
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new

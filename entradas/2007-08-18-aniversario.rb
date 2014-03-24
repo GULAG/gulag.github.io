@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -11,7 +11,7 @@ def publicacion(dir)
     p.contenido   = <<FIN_CONTENIDO
 Ponencias muy interesantes, gran camaradería y una buenísima discada es parte de lo mucho que se vivió en el evento con motivo del *Primer Aniversario del Gulag*, realizado el sábado 18 de agosto en el "Instituto Tecnológico de La Laguna":http://www.itlalaguna.edu.mx/
 
-!/entradas/2007-08-18-aniversario/04-asistentes-small.jpg!:/entradas/2007-08-18-aniversario/04-asistentes.jpg
+!2007-08-18-aniversario/04-asistentes-small.jpg!:2007-08-18-aniversario/04-asistentes.jpg
 
 <!-- break -->
 
@@ -23,13 +23,13 @@ La comida, como es ya una tradición, fue una deliciosa discada en la que leoneo
 
 Para terminar el evento, "guivaloz":http://www.movimientolibre.com impartió un taller práctico sobre "Inkscape":http://www.inkscape.org, los asistentes, en su mayoría alumnos del "ITL":http://www.itlalaguna.edu.mx/ mostraron gran entusiasmo.
 
-!/entradas/2007-08-18-aniversario/00-tux-small.jpg!:/entradas/2007-08-18-aniversario/00-tux.jpg !/entradas/2007-08-18-aniversario/01-hugo-small.jpg!:/entradas/2007-08-18-aniversario/01-hugo.jpg !/entradas/2007-08-18-aniversario/02-miguel-small.jpg!:/entradas/2007-08-18-aniversario/02-miguel.jpg !/entradas/2007-08-18-aniversario/03-paola-small.jpg!:/entradas/2007-08-18-aniversario/03-paola.jpg !/entradas/2007-08-18-aniversario/05-discada-small.jpg!:/entradas/2007-08-18-aniversario/05-discada.jpg !/entradas/2007-08-18-aniversario/06-taller-small.jpg!:/entradas/2007-08-18-aniversario/06-taller.jpg !/entradas/2007-08-18-aniversario/07-taller-small.jpg!:/entradas/2007-08-18-aniversario/07-taller.jpg !/entradas/2007-08-18-aniversario/08-taller-small.jpg!:/entradas/2007-08-18-aniversario/08-taller.jpg !/entradas/2007-08-18-aniversario/09-paseo-small.jpg!:/entradas/2007-08-18-aniversario/09-paseo.jpg !/entradas/2007-08-18-aniversario/10-paseo-small.jpg!:/entradas/2007-08-18-aniversario/10-paseo.jpg
+!2007-08-18-aniversario/00-tux-small.jpg!:2007-08-18-aniversario/00-tux.jpg !2007-08-18-aniversario/01-hugo-small.jpg!:2007-08-18-aniversario/01-hugo.jpg !2007-08-18-aniversario/02-miguel-small.jpg!:2007-08-18-aniversario/02-miguel.jpg !2007-08-18-aniversario/03-paola-small.jpg!:2007-08-18-aniversario/03-paola.jpg !2007-08-18-aniversario/05-discada-small.jpg!:2007-08-18-aniversario/05-discada.jpg !2007-08-18-aniversario/06-taller-small.jpg!:2007-08-18-aniversario/06-taller.jpg !2007-08-18-aniversario/07-taller-small.jpg!:2007-08-18-aniversario/07-taller.jpg !2007-08-18-aniversario/08-taller-small.jpg!:2007-08-18-aniversario/08-taller.jpg !2007-08-18-aniversario/09-paseo-small.jpg!:2007-08-18-aniversario/09-paseo.jpg !2007-08-18-aniversario/10-paseo-small.jpg!:2007-08-18-aniversario/10-paseo.jpg
 
 Gracias a los patrocinadores, las instituciones educativas, asistentes y compañeros del grupo por tan magnífico evento. ¡Felicidades al Gulag!
 
 h3. Patrocinadores
 
-!/entradas/2007-08-18-aniversario/patrocinador-itl.png!:http://www.itlalaguna.edu.mx/ !/entradas/2007-08-18-aniversario/patrocinador-ual.png!:http://www.ual.mx/ !/entradas/2007-08-18-aniversario/patrocinador-mcs.png!:http://www.mcs.com.mx/ !/entradas/2007-08-18-aniversario/patrocinador-ittrade.png!:http://www.ittrade.com.mx/ !/entradas/2007-08-18-aniversario/patrocinador-niit.png!:http://http://www.niit-laguna.com/ !/entradas/2007-08-18-aniversario/patrocinador-hauri.png!:http://www.hauri.com.mx !/entradas/2007-08-18-aniversario/patrocinador-proteknet.png!:http://www.protektnet.com/
+!2007-08-18-aniversario/patrocinador-itl.png!:http://www.itlalaguna.edu.mx/ !2007-08-18-aniversario/patrocinador-ual.png!:http://www.ual.mx/ !2007-08-18-aniversario/patrocinador-mcs.png!:http://www.mcs.com.mx/ !2007-08-18-aniversario/patrocinador-ittrade.png!:http://www.ittrade.com.mx/ !2007-08-18-aniversario/patrocinador-niit.png!:http://http://www.niit-laguna.com/ !2007-08-18-aniversario/patrocinador-hauri.png!:http://www.hauri.com.mx !2007-08-18-aniversario/patrocinador-proteknet.png!:http://www.protektnet.com/
 
 h3. Programa
 
@@ -41,8 +41,8 @@ h3. Programa
 
 h3. Descargas de las presentaciones:
 
-* mike - "Honeynets, conociendo a tu enemigo":/entradas/2007-08-18-aniversario/presentacion-mike-honeynets.pdf
-* guivaloz - "Taller de Inkscape":/entradas/2007-08-18-aniversario/presentacion-guivaloz-inkscape.pdf
+* mike - "Honeynets, conociendo a tu enemigo":2007-08-18-aniversario/presentacion-mike-honeynets.pdf
+* guivaloz - "Taller de Inkscape":2007-08-18-aniversario/presentacion-guivaloz-inkscape.pdf
 
 h3. Comentarios en blogs:
 

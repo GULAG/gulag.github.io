@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -14,7 +14,7 @@ Una ves más comentaré ya bastante tarde la actividad que realizamos los miembr
 
 Dentro de las actividades del SINASCI organizado por el "Instituto Tecnológico Superior de Lerdo":http://www.itslerdo.edu.mx/ el grupo de usuarios de Linux en la Laguna (GULAG) fuimos invitados a participar a impartir un taller sobre Linux, el tema fue "TALLER DE INSTALACION DE SERVICIOS DE INTERNET SOBRE DEBIAN GNU/LINUX", el fin de este taller y lo que pretendimos fue enseñar a instalar Debian en un equipo y explicar como instalar en su forma más simple servicio de web, ftp y correo.
 
-!/entradas/2007-10-13-taller-servidores-linux/mibito.jpg! !/entradas/2007-10-13-taller-servidores-linux/mgjc.jpg!
+!2007-10-13-taller-servidores-linux/mibito.jpg! !2007-10-13-taller-servidores-linux/mgjc.jpg!
 
 El taller los impartimos Jesús Uresti "mibito":http://nohappydreams.blogspot.com/ *ftp*, Julio César Magallanes "mgjc":http://mgjc.org, *correo* y su servidor "RIVE":http://www.riveonline.com/ *instalación de Debian y servidor web*.
 
@@ -24,7 +24,9 @@ La instalación del sistema operativo y de los servicios se realizó desde los D
 
 Creo que el taller fue provechoso para los participantes tanto como para los que lo impartimos, solo me queda agradecer a las autoridades del Tec de Lerdo al habernos tomado en cuenta y espero que nos sigan invitando a sus próximos eventos.
 
-"Descarga del material del taller":/entradas/2007-10-13-taller-servidores-linux/taller-servidores-linux.odt
+h3. Descargas
+
+* "Material del taller":2007-10-13-taller-servidores-linux/taller-servidores-linux.odt
 
 César Espino.
 FIN_CONTENIDO

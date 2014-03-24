@@ -1,11 +1,12 @@
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
     p.directorio  = dir
-    p.archivo     = '04-09-2013_junta'
+    p.archivo     = '2013-11-04-junta-ordinaria'
     p.nombre      = 'Junta Ordinaria 4-Noviembre-2013'
     p.nombre_menu = 'Junta Ordinaria'
-    p.fecha       = "2013-08-25 12:00"
+    p.fecha       = "2013-11-04 12:00"
     p.categorias  = ['Reuniones','entradas']
 #########################################################################################
 #NOTA>> NO PASAR ESPACIO AL INICIO                                                      #
@@ -25,7 +26,8 @@ Despues de  la ronda de preguntas y respuestas ya acostumbradas, nuestro compañ
 
 <center><img src='https://lh5.googleusercontent.com/-oxmVRvkpJ9A/UoAxx63sQnI/AAAAAAAAFX8/CJHnDHMaV28/w841-h557-no/DSC_7413.JPG'></center>
 <!-- break -->
-Al terminar , se hablo sobre la posada anual de la GUlAG.
+
+Al terminar , se hablo sobre la posada anual de la GULAG.
 
 Quedan todos invitados a acompañarnos este 14 de diciembre, los datos sobre el evento, los encontraran de la pagina.
 

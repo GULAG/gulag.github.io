@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,24 +10,24 @@ def publicacion(dir)
     p.categorias  = ['Install Fest', 'FLISOL']
     p.autor       = 'guivaloz'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-04-26-flisol/la-caida-de-rive-small.jpg!:/entradas/2008-04-26-flisol/la-caida-de-rive.jpg
+!2008-04-26-flisol/la-caida-de-rive-small.jpg!:2008-04-26-flisol/la-caida-de-rive.jpg
 
 El pasado Sábado 26 de Abril del 2008, se llevó acabo el FLISOL (Festival Latinoamericano de Instalación de Software Libre), el cual fué organizado por segundo año consecutivo por el Grupo de Usuarios de GNU/Linux de la Laguna y con una asistencia de más de 50 personas.
 
 La primer plática fué por parte de "José Antonio Martínez Torres":http://www.antoniomtz.org/ con el tema *Introducción al Software Libre*. Seguido por "Guillermo Valdez Lozano":http://movimientolibre.com/ con *Que se puede hacer con el Software Libre*.
 
-!/entradas/2008-04-26-flisol/dsc04704-small.jpg!:/entradas/2008-04-26-flisol/dsc04704.jpg !/entradas/2008-04-26-flisol/dsc04709-small.jpg!:/entradas/2008-04-26-flisol/dsc04709.jpg !/entradas/2008-04-26-flisol/rive_01-small.jpg!:/entradas/2008-04-26-flisol/rive_01.jpg !/entradas/2008-04-26-flisol/dsc04712-small.jpg!:/entradas/2008-04-26-flisol/dsc04712.jpg
+!2008-04-26-flisol/dsc04704-small.jpg!:2008-04-26-flisol/dsc04704.jpg !2008-04-26-flisol/dsc04709-small.jpg!:2008-04-26-flisol/dsc04709.jpg !2008-04-26-flisol/rive_01-small.jpg!:2008-04-26-flisol/rive_01.jpg !2008-04-26-flisol/dsc04712-small.jpg!:2008-04-26-flisol/dsc04712.jpg
 
-|=. !/imagenes/icono-pdf.png!:/entradas/2008-04-26-flisol/introduccion-al-software-libre.pdf |=. !/imagenes/icono-pdf.png!:/entradas/2008-04-26-flisol/que-se-puede-hacer-con-sl.pdf |
-| "Introducción al S.L.":/entradas/2008-04-26-flisol/introduccion-al-software-libre.pdf | "Que se puede hacer con el S.L.":/entradas/2008-04-26-flisol/que-se-puede-hacer-con-sl.pdf |
+|=. !/imagenes/icono-pdf.png!:2008-04-26-flisol/introduccion-al-software-libre.pdf |=. !/imagenes/icono-pdf.png!:2008-04-26-flisol/que-se-puede-hacer-con-sl.pdf |
+| "Introducción al S.L.":2008-04-26-flisol/introduccion-al-software-libre.pdf | "Que se puede hacer con el S.L.":2008-04-26-flisol/que-se-puede-hacer-con-sl.pdf |
 
 Se instaló GNU/Linux en más de 20 equipos, siendo la distribución más instalada Ubuntu 8.04.
 
-!/entradas/2008-04-26-flisol/dsc04714-small.jpg!:/entradas/2008-04-26-flisol/dsc04714.jpg !/entradas/2008-04-26-flisol/dsc04715-small.jpg!:/entradas/2008-04-26-flisol/dsc04715.jpg !/entradas/2008-04-26-flisol/dsc04719-small.jpg!:/entradas/2008-04-26-flisol/dsc04719.jpg !/entradas/2008-04-26-flisol/dsc04720-small.jpg!:/entradas/2008-04-26-flisol/dsc04720.jpg !/entradas/2008-04-26-flisol/dsc04721-small.jpg!:/entradas/2008-04-26-flisol/dsc04721.jpg !/entradas/2008-04-26-flisol/dsc04722-small.jpg!:/entradas/2008-04-26-flisol/dsc04722.jpg !/entradas/2008-04-26-flisol/gndx_01-small.jpg!:/entradas/2008-04-26-flisol/gndx_01.jpg !/entradas/2008-04-26-flisol/gndx_02-small.jpg!:/entradas/2008-04-26-flisol/gndx_02.jpg
+!2008-04-26-flisol/dsc04714-small.jpg!:2008-04-26-flisol/dsc04714.jpg !2008-04-26-flisol/dsc04715-small.jpg!:2008-04-26-flisol/dsc04715.jpg !2008-04-26-flisol/dsc04719-small.jpg!:2008-04-26-flisol/dsc04719.jpg !2008-04-26-flisol/dsc04720-small.jpg!:2008-04-26-flisol/dsc04720.jpg !2008-04-26-flisol/dsc04721-small.jpg!:2008-04-26-flisol/dsc04721.jpg !2008-04-26-flisol/dsc04722-small.jpg!:2008-04-26-flisol/dsc04722.jpg !2008-04-26-flisol/gndx_01-small.jpg!:2008-04-26-flisol/gndx_01.jpg !2008-04-26-flisol/gndx_02-small.jpg!:2008-04-26-flisol/gndx_02.jpg
 
 Como es tradición, se preparó una riquísima discada que disfrutaron todos los asistentes.
 
-!/entradas/2008-04-26-flisol/rive_02-small.jpg!:/entradas/2008-04-26-flisol/rive_02.jpg !/entradas/2008-04-26-flisol/dsc04716-small.jpg!:/entradas/2008-04-26-flisol/dsc04716.jpg
+!2008-04-26-flisol/rive_02-small.jpg!:2008-04-26-flisol/rive_02.jpg !2008-04-26-flisol/dsc04716-small.jpg!:2008-04-26-flisol/dsc04716.jpg
 
 <!-- break -->
 
@@ -35,7 +35,7 @@ A continución la información de promoción del evento...
 
 h3. ¿Qué es el FLISOL?
 
-!</entradas/2008-04-26-flisol/poster-flisol-2008-small.jpg!:/entradas/2008-04-26-flisol/poster-flisol-2008.jpg
+!<2008-04-26-flisol/poster-flisol-2008-small.jpg!:2008-04-26-flisol/poster-flisol-2008.jpg
 
 El *FLISOL* (Festival Latinoamericano de Instalación de Software Libre) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo.
 
@@ -47,7 +47,7 @@ El *FLISOL 2008* se efectuará el día *sábado 26 de abril* en las instalacione
 
 Las pláticas se celebrarán en el *Auditorio de la Universidad* y el taller de instalación en el *CIP* (vea el siguiente mapa).
 
-!/entradas/2008-04-26-flisol/plano-ual.jpg!
+!2008-04-26-flisol/plano-ual.jpg!
 
 El programa del evento iniciará con las siguientes pláticas en el auditorio:
 

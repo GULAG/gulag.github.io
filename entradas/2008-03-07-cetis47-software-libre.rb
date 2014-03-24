@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,7 +10,7 @@ def publicacion(dir)
     p.categorias  = ['Conferencias']
     p.autor       = 'toNo'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-1-small.jpg!:/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-1.jpg !/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-2-small.jpg!:/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-2.jpg !/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-3-small.jpg!:/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-3.jpg !/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-4-small.jpg!:/entradas/2008-03-07-cetis47-software-libre/cetis47-foto-4.jpg
+!2008-03-07-cetis47-software-libre/cetis47-foto-1-small.jpg!:2008-03-07-cetis47-software-libre/cetis47-foto-1.jpg !2008-03-07-cetis47-software-libre/cetis47-foto-2-small.jpg!:2008-03-07-cetis47-software-libre/cetis47-foto-2.jpg !2008-03-07-cetis47-software-libre/cetis47-foto-3-small.jpg!:2008-03-07-cetis47-software-libre/cetis47-foto-3.jpg !2008-03-07-cetis47-software-libre/cetis47-foto-4-small.jpg!:2008-03-07-cetis47-software-libre/cetis47-foto-4.jpg
 
 El pasado viernes 7 y martes 4 de marzo de 2008, se llevó acabo una conferencia de introducción al software libre, por parte del Grupo de Usuarios de GNU/Linux de la Laguna en la *Preparatoria CETIS 47 de Gómez Palacio*.
 

@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -15,7 +15,7 @@ En el Linux Day 5, realizado en las instalaciones de la U.I.A. por XpoLinux, fue
 
 Afortunadamente mucha gente se acercó. Las pocas fotos del evento son gracias al celular de LeoNeo.
 
-!/entradas/2005-11-17-linux-day-05/01b.jpg! !/entradas/2005-11-17-linux-day-05/02b.jpg! !/entradas/2005-11-17-linux-day-05/03b.jpg!
+!2005-11-17-linux-day-05/01b.jpg! !2005-11-17-linux-day-05/02b.jpg! !2005-11-17-linux-day-05/03b.jpg!
 FIN_CONTENIDO
 
     # Entregar la publicacion

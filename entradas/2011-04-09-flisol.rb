@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,7 +10,7 @@ def publicacion(dir)
     p.categorias  = ['Install Fest', 'FLISOL']
     p.autor       = 'guivaloz'
     p.contenido   = <<FIN_CONTENIDO
-!>http://www.gulag.org.mx/entradas/2012-04-28-flisol/poster-flisol-2012-con-fondo-v2-small.jpg!:http://www.gulag.org.mx/entradas/2011-04-28-flisol/poster-flisol-2012-con-fondo-v2.jpg
+!2012-04-28-flisol/poster-flisol-2012-con-fondo-v2-small.jpg!:2011-04-28-flisol/poster-flisol-2012-con-fondo-v2.jpg
 
 El sábado 28 de abril en "Plaza Cuatro Caminos":http://www.plazacuatrocaminos.com.mx/ se llevará a cabo el "Festival Latinoamericano de Instalación de Software Libre 2010":http://installfest.info/ (FLISoL) organizado por sexto año consecutivo por el "Grupo de Usuarios de GNU/Linux de La Laguna":http://www.gulag.org.mx/ (GULAG).
 

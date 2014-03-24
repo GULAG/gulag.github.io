@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -13,7 +13,7 @@ Casi una semana después del Linux Day, el Instituto Tecnológico de la Laguna n
 
 <!-- break -->
 
-!/entradas/2005-11-23-itl-install-fest/01b.jpg! !/entradas/2005-11-23-itl-install-fest/02b.jpg! !/entradas/2005-11-23-itl-install-fest/03b.jpg! !/entradas/2005-11-23-itl-install-fest/04b.jpg! !/entradas/2005-11-23-itl-install-fest/05b.jpg! !/entradas/2005-11-23-itl-install-fest/06b.jpg! !/entradas/2005-11-23-itl-install-fest/07b.jpg! !/entradas/2005-11-23-itl-install-fest/08b.jpg! !/entradas/2005-11-23-itl-install-fest/09b.jpg! !/entradas/2005-11-23-itl-install-fest/10b.jpg!
+!2005-11-23-itl-install-fest/01b.jpg! !2005-11-23-itl-install-fest/02b.jpg! !2005-11-23-itl-install-fest/03b.jpg! !2005-11-23-itl-install-fest/04b.jpg! !2005-11-23-itl-install-fest/05b.jpg! !2005-11-23-itl-install-fest/06b.jpg! !2005-11-23-itl-install-fest/07b.jpg! !2005-11-23-itl-install-fest/08b.jpg! !2005-11-23-itl-install-fest/09b.jpg! !2005-11-23-itl-install-fest/10b.jpg!
 FIN_CONTENIDO
 
     # Entregar la publicacion

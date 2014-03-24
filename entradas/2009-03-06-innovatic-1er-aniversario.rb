@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -16,7 +16,7 @@ En este primer año se ha conseguido integrar un grupo sólido y enfocado en des
 
 Para celebrarlo se ha organizado, a manera de fiesta de aniversario, tres conferencias a desarrollarse entre las 9:00 y las 13:30 horas el día 6 de marzo de 2009. La sede son las instalaciones del Tec de Monterrey, Campus Laguna.
 
-!/entradas/2009-03-06-innovatic-1er-aniversario/innovatic_1er_aniversario_cartel-small.jpg!:/entradas/2009-03-06-innovatic-1er-aniversario/innovatic_1er_aniversario_cartel.jpg
+!2009-03-06-innovatic-1er-aniversario/innovatic_1er_aniversario_cartel-small.jpg!:2009-03-06-innovatic-1er-aniversario/innovatic_1er_aniversario_cartel.jpg
 
 Para saber más de lo que es InnovaTIC, escuche "esta entrevista":http://www.movimientolibre.com/articulos/innovatic-1er-aniversario/CT_Buffet_Info_2009-03-03_innovatic.ogg (audio OGG, 18 minutos, 10.2 MB) a Miguel Ángel de la Rosa y Luis Rayas Velasco.
 

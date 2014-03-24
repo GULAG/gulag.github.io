@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -9,7 +9,7 @@ def publicacion(dir)
     p.fecha       = "2008-04-17 22:55"
     p.categorias  = ['Conferencias', 'Gulag']
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2008-04-15-tec-lerdo-php-basico/dsc00285-small.jpg!:/entradas/2008-04-15-tec-lerdo-php-basico/dsc00285.jpg !/entradas/2008-04-15-tec-lerdo-php-basico/dsc00288-small.jpg!:/entradas/2008-04-15-tec-lerdo-php-basico/dsc00288.jpg !/entradas/2008-04-15-tec-lerdo-php-basico/dsc00289-small.jpg!:/entradas/2008-04-15-tec-lerdo-php-basico/dsc00289.jpg
+!2008-04-15-tec-lerdo-php-basico/dsc00285-small.jpg!:2008-04-15-tec-lerdo-php-basico/dsc00285.jpg !2008-04-15-tec-lerdo-php-basico/dsc00288-small.jpg!:2008-04-15-tec-lerdo-php-basico/dsc00288.jpg !2008-04-15-tec-lerdo-php-basico/dsc00289-small.jpg!:2008-04-15-tec-lerdo-php-basico/dsc00289.jpg
 
 El pasado 15 de abril de 2008, a nombre del "Grupo de Usuarios de GNU/Linux de La Laguna":http://www.gulag.org.mx, impartí la conferencia "PHP Básico":/presentaciones/php-basico.html en el "Instituto Tecnológico Superior de Lerdo":http://www.itslerdo.edu.mx/.
 
@@ -17,8 +17,11 @@ El pasado 15 de abril de 2008, a nombre del "Grupo de Usuarios de GNU/Linux de L
 
 Los asistentes mostraron gran interés en el tema. Además del tradicional material de presentación, su servidor, ejecutó algunos programas en PHP, esto con el fin de llevar a la práctica los conceptos explicados. Agradezco grandemente todo el apoyo de maestros y personal del Tec de Lerdo, en particular, por haber desconectado la computadora del auditorio (con MS Windows) y permitir conectar la portátil de su servidor.
 
-|=. !/imagenes/icono-pdf.png!:/entradas/2008-04-15-tec-lerdo-php-basico/php-basico.pdf |=. !/imagenes/icono-tgz.png!:/entradas/2008-04-15-tec-lerdo-php-basico/php-basico-ejercicios.tar.gz |
-|=. "Presentación PDF":/entradas/2008-04-15-tec-lerdo-php-basico/php-basico.pdf |=. "Ejercicios":/entradas/2008-04-15-tec-lerdo-php-basico/php-basico-ejercicios.tar.gz |
+h3. Descargas
+
+* "Presentación PDF":2008-04-15-tec-lerdo-php-basico/php-basico.pdf
+* "Ejercicios":2008-04-15-tec-lerdo-php-basico/php-basico-ejercicios.tar.gz
+
 FIN_CONTENIDO
 
     # Entregar la publicacion

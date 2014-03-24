@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 def publicacion(dir)
 
     p             = Publicacion.new
@@ -10,21 +10,21 @@ def publicacion(dir)
     p.categorias  = ['Install Fest', 'FLISOL', 'KDE', 'Gnome']
     p.autor       = 'guivaloz'
     p.contenido   = <<FIN_CONTENIDO
-!/entradas/2009-04-25-flisol/guivaloz-19-gulag-flisol-2009-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-19-gulag-flisol-2009.jpg
+!2009-04-25-flisol/guivaloz-19-gulag-flisol-2009-small.jpg!:2009-04-25-flisol/guivaloz-19-gulag-flisol-2009.jpg
 
 El sábado 25 de abril en la "Universidad Autónoma de Coahuila":http://www.uadec.mx/ (UAC) se llevó a cabo el "Festival Latinoamericano de Instalación de Software Libre 2009":http://www.flisol.net/ (FLISOL) organizado por tercer año consecutivo por el "Grupo de Usuarios de GNU/Linux de La Laguna":http://www.gulag.org.mx/ (GULAG).
 
 h3. Conferencias
 
-!/entradas/2009-04-25-flisol/guivaloz-01-inauguracion-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-01-inauguracion.jpg !/entradas/2009-04-25-flisol/guivaloz-02-conferencias-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-02-conferencias.jpg
+!2009-04-25-flisol/guivaloz-01-inauguracion-small.jpg!:2009-04-25-flisol/guivaloz-01-inauguracion.jpg !2009-04-25-flisol/guivaloz-02-conferencias-small.jpg!:2009-04-25-flisol/guivaloz-02-conferencias.jpg
 
 Con la presencia de más de 100 personas el evento inició con tres conferencias.
 
-!/entradas/2009-04-25-flisol/guivaloz-06-asistentes-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-06-asistentes.jpg !/entradas/2009-04-25-flisol/guivaloz-03-conferencia-gnome-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-03-conferencia-gnome.jpg
+!2009-04-25-flisol/guivaloz-06-asistentes-small.jpg!:2009-04-25-flisol/guivaloz-06-asistentes.jpg !2009-04-25-flisol/guivaloz-03-conferencia-gnome-small.jpg!:2009-04-25-flisol/guivaloz-03-conferencia-gnome.jpg
 
 La primera fue *Gnome e introducción a los programas básicos* por "Oscar Barajas":http://gndx.org/ (GnDx) que trató de la historia, personajes y demostración de este entorno gráfico.
 
-!/entradas/2009-04-25-flisol/guivaloz-04-conferencia-kde4-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-04-conferencia-kde4.jpg !/entradas/2009-04-25-flisol/guivaloz-05-conferencia-gnump3d-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-05-conferencia-gnump3d.jpg
+!2009-04-25-flisol/guivaloz-04-conferencia-kde4-small.jpg!:2009-04-25-flisol/guivaloz-04-conferencia-kde4.jpg !2009-04-25-flisol/guivaloz-05-conferencia-gnump3d-small.jpg!:2009-04-25-flisol/guivaloz-05-conferencia-gnump3d.jpg
 
 La segunda exposición fue "KDE 4 - Reinventando el entorno gráfico":http://www.movimientolibre.com/presentaciones/kde-4-reinventando-el-entorno-grafico.html por "Guillermo Valdés":http://www.movimientolibre.com/ (guivaloz) donde se mostró la nueva versión del KDE, la 4.2, además de su historia, componentes y filosofía. La última exposición fue *Streaming de audio* (GNU/mp3d) por Ernesto Cobos (dnex) quien nos explicó cómo montar un servidor de música para compartirla en la red.
 
@@ -32,7 +32,7 @@ h3. Taller de instalación
 
 Después de las conferencias, se inició el taller de instalación, donde los equipos de cómputo que los asistentes llevaron fueron reinstalados con Software Libre. Más de 20 computadoras, mayoritariamente portátiles, se llevaron "Kubuntu":http://www.kubuntu.org/, "Ubuntu":http://www.ubuntu.com/, "PC-BSD":http://www.pcbsd.org/ y "Debian":http://www.debian.org/. Además, como ya es tradición, se degustó de una deliciosa discada, galletas y refrescos.
 
-!/entradas/2009-04-25-flisol/guivaloz-07-regalando-discos-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-07-regalando-discos.jpg !/entradas/2009-04-25-flisol/guivaloz-08-instalando-software-libre-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-08-instalando-software-libre.jpg !/entradas/2009-04-25-flisol/guivaloz-09-kde35-en-acer-one-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-09-kde35-en-acer-one.jpg !/entradas/2009-04-25-flisol/guivaloz-10-disco-de-kubuntu-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-10-disco-de-kubuntu.jpg !/entradas/2009-04-25-flisol/guivaloz-11-bajo-la-carpa-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-11-bajo-la-carpa.jpg !/entradas/2009-04-25-flisol/guivaloz-12-heroes-del-software-libre-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-12-heroes-del-software-libre.jpg !/entradas/2009-04-25-flisol/guivaloz-13-diablitas-usando-kde42-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-13-diablitas-usando-kde42.jpg !/entradas/2009-04-25-flisol/guivaloz-14-una-instalacion-exitosa-mas-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-14-una-instalacion-exitosa-mas.jpg !/entradas/2009-04-25-flisol/guivaloz-15-laptop-gateway-con-kubuntu-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-15-laptop-gateway-con-kubuntu.jpg !/entradas/2009-04-25-flisol/guivaloz-16-laptop-macbook-con-kubuntu-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-16-laptop-macbook-con-kubuntu.jpg !/entradas/2009-04-25-flisol/guivaloz-17-trabajo-en-equipo-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-17-trabajo-en-equipo.jpg !/entradas/2009-04-25-flisol/guivaloz-18-discada-small.jpg!:/entradas/2009-04-25-flisol/guivaloz-18-discada.jpg
+!2009-04-25-flisol/guivaloz-07-regalando-discos-small.jpg!:2009-04-25-flisol/guivaloz-07-regalando-discos.jpg !2009-04-25-flisol/guivaloz-08-instalando-software-libre-small.jpg!:2009-04-25-flisol/guivaloz-08-instalando-software-libre.jpg !2009-04-25-flisol/guivaloz-09-kde35-en-acer-one-small.jpg!:2009-04-25-flisol/guivaloz-09-kde35-en-acer-one.jpg !2009-04-25-flisol/guivaloz-10-disco-de-kubuntu-small.jpg!:2009-04-25-flisol/guivaloz-10-disco-de-kubuntu.jpg !2009-04-25-flisol/guivaloz-11-bajo-la-carpa-small.jpg!:2009-04-25-flisol/guivaloz-11-bajo-la-carpa.jpg !2009-04-25-flisol/guivaloz-12-heroes-del-software-libre-small.jpg!:2009-04-25-flisol/guivaloz-12-heroes-del-software-libre.jpg !2009-04-25-flisol/guivaloz-13-diablitas-usando-kde42-small.jpg!:2009-04-25-flisol/guivaloz-13-diablitas-usando-kde42.jpg !2009-04-25-flisol/guivaloz-14-una-instalacion-exitosa-mas-small.jpg!:2009-04-25-flisol/guivaloz-14-una-instalacion-exitosa-mas.jpg !2009-04-25-flisol/guivaloz-15-laptop-gateway-con-kubuntu-small.jpg!:2009-04-25-flisol/guivaloz-15-laptop-gateway-con-kubuntu.jpg !2009-04-25-flisol/guivaloz-16-laptop-macbook-con-kubuntu-small.jpg!:2009-04-25-flisol/guivaloz-16-laptop-macbook-con-kubuntu.jpg !2009-04-25-flisol/guivaloz-17-trabajo-en-equipo-small.jpg!:2009-04-25-flisol/guivaloz-17-trabajo-en-equipo.jpg !2009-04-25-flisol/guivaloz-18-discada-small.jpg!:2009-04-25-flisol/guivaloz-18-discada.jpg
 
 GULAG, agradece a..
 * "Universidad Autónoma de Coahuila":http://www.uadec.mx/ (UAC) por abrirnos sus puertas siendo sede del evento.
@@ -49,7 +49,7 @@ GULAG, agradece a..
 
 h3. ¿Qué es el FLISOL?
 
-!</entradas/2009-04-25-flisol/poster-flisol-2009-small.png!:/entradas/2009-04-25-flisol/poster-flisol-2009-792x1223.jpg
+!<2009-04-25-flisol/poster-flisol-2009-small.png!:2009-04-25-flisol/poster-flisol-2009-792x1223.jpg
 
 El *FLISOL* (Festival Latinoamericano de Instalación de Software Libre) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo.
 
@@ -95,21 +95,20 @@ h3. Descargas
 
 Si desea promoveer el FLISOL en su sitio web, puede usar este banner:
 
-!/imagenes/flisol-2009-banner.png!
+!imagenes/flisol-2009-banner.png!
 
 También puede copiar el siguiente código HTML para tener el banner:
 
 <pre>
-<a href="http://www.gulag.org.mx/entradas/2009-04-25-flisol.html"><img src="http://www.gulag.org.mx/imagenes/flisol-2009-banner.png"></a>
+<a href="http://www.gulag.org.mx2009-04-25-flisol.html"><img src="http://www.gulag.org.mx/imagenes/flisol-2009-banner.png"></a>
 </pre>
 
 Puede descargar el poster o cartel en los siguientes formatos y tamaños:
 
-|=. !/imagenes/icono-image.png!:/entradas/2009-04-25-flisol/poster-flisol-2009-792x1223.jpg |=. !/imagenes/icono-image.png!:/entradas/2009-04-25-flisol/poster-flisol-2009-2200x3398.jpg |
-| "jpeg 792x1223":/entradas/2009-04-25-flisol/poster-flisol-2009-792x1223.jpg (257 KB) | "jpeg 2200x3398":/entradas/2009-04-25-flisol/poster-flisol-2009-2200x3398.jpg (1 MB) |
-
-|=. !/imagenes/icono-image.png!:/entradas/2009-04-25-flisol/poster-flisol-2009-792x1223.png |=. !/imagenes/icono-image.png!:/entradas/2009-04-25-flisol/poster-flisol-2009-2200x3398.png |
-| "png 792x1223":/entradas/2009-04-25-flisol/poster-flisol-2009-792x1223.png (680 KB) | "png 2200x3398":/entradas/2009-04-25-flisol/poster-flisol-2009-2200x3398.png (3 MB) |
+* "jpeg 792x1223":2009-04-25-flisol/poster-flisol-2009-792x1223.jpg
+* "jpeg 2200x3398":2009-04-25-flisol/poster-flisol-2009-2200x3398.jpg
+* "png 792x1223":2009-04-25-flisol/poster-flisol-2009-792x1223.png
+* "png 2200x3398":2009-04-25-flisol/poster-flisol-2009-2200x3398.png
 
 ¡Gracias por el interés y esperamos verlos en el FLISOL!
 FIN_CONTENIDO

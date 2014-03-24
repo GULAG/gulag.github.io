@@ -64,18 +64,14 @@ class Plantilla
             a << "  <link rel=\"alternate\" type=\"application/rss+xml\" title=\"#@titulo_sitio\" href=\"../#@archivo_rss\" />" if @archivo_rss != nil
         end
         a << "  <title>#@titulo_sitio | #{titulo}</title>"
-        a << '  <!-- TWITTER BOOTSTRAP INICIA -->'
-        a << '  <!-- ESTILOS CSS PROPIOS DE ESTE CMS -->'
         if en_raiz
-            a << '<link rel="stylesheet" href="/css/normalize.css">
-                 <link rel="stylesheet" href="/css/foundation.css">
-                 <link rel="stylesheet" href="/css/style.css">
-                 '
+            a << '<link rel="stylesheet" href="css/normalize.css">
+                  <link rel="stylesheet" href="css/foundation.css">
+                  <link rel="stylesheet" href="css/style.css">'
         else
             a << '<link rel="stylesheet" href="../css/normalize.css">
                   <link rel="stylesheet" href="../css/foundation.css">
-                  <link rel="stylesheet" href="../css/style.css">
-                  '
+                  <link rel="stylesheet" href="../css/style.css">'
         end
         a << '  <!-- SOPORTE PARA IE8 -->'
         a << '  <!--[if lt IE 9]>'
@@ -89,25 +85,31 @@ class Plantilla
   <!-- Nav Bar -->
 
   <div class="row Contenido">
-    <div class="large-12 columns">
-      <div class="nav-bar right">
-        <br><br>
-
-         <a href="/index.html" class="NavPrincipal">Inicio</a>
-         <a href="/categorias/reuniones.html" class="NavPrincipal">Reuniones</a>
-         <a href="https://github.com/GULAG/Imagenes" class="NavPrincipal">Imagenes</a>
-         <a href="/revista/revista.html" class="NavPrincipal">Revista</a>
-         <a href="/contacto/contacto.html" class="NavPrincipal">Contacto</a>
-
-      </div>
-<img src="/imagenes/logo.jpg" class="Logo">
-
+    <div class="large-12 columns">'
+        if en_raiz
+            a << '<div class="nav-bar right"><br><br>
+                    <a href="index.html" class="NavPrincipal">Inicio</a>
+                    <a href="categorias/reuniones.html" class="NavPrincipal">Reuniones</a>
+                    <a href="https://github.com/GULAG/Imagenes" class="NavPrincipal">Imagenes</a>
+                    <a href="revista/revista.html" class="NavPrincipal">Revista</a>
+                    <a href="contacto/contacto.html" class="NavPrincipal">Contacto</a>
+                  </div>
+                  <img src="imagenes/logo.jpg" class="Logo">'
+        else
+            a << '<div class="nav-bar right"><br><br>
+                    <a href="../index.html" class="NavPrincipal">Inicio</a>
+                    <a href="../categorias/reuniones.html" class="NavPrincipal">Reuniones</a>
+                    <a href="https://github.com/GULAG/Imagenes" class="NavPrincipal">Imagenes</a>
+                    <a href="../revista/revista.html" class="NavPrincipal">Revista</a>
+                    <a href="../contacto/contacto.html" class="NavPrincipal">Contacto</a>
+                  </div>
+                  <img src="../imagenes/logo.jpg" class="Logo">'
+        end
+        a << '
     </div>
   </div>
 
   <!-- End Nav -->
-
-
   <!-- Main Page Content and Sidebar -->
 
   <div class="row Fondo">
@@ -115,21 +117,17 @@ class Plantilla
     <!-- Main Blog Content -->
     <div class="large-8 columns Entradas Post" role="content">
 
-      <article class="entradasblog">
-        '
+      <article class="entradasblog">'
     a << "<h5>#{titulo}</h5>"
-a <<"  #{contenido}"
-a <<'  </article>
+    a <<"  #{contenido}"
+    a <<'  </article>
     </div>
 
     <!-- End Main Content -->
 
-
     <!-- Sidebar -->
 
     <aside class="large-4 columns Lateral">
-
-
 
       <div class="panel Reuniones">
         <h5>Proxima Reunion</h5>
@@ -142,7 +140,7 @@ a <<'  </article>
 <iframe width="250" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-103.44012022018433%2C25.57176908572723%2C-103.42368364334106%2C25.582975565123544&amp;layer=mapnik&amp;marker=25.57737245656369%2C-103.4319019317627" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=25.5774&amp;mlon=-103.4319#map=16/25.5774/-103.4319">View Larger Map</a></small>
 
 
-<!--        
+<!--
 <p> Dirección: </p>
 <br>
 
@@ -159,35 +157,32 @@ a << "<a class='twitter-timeline' align='center' href='https://twitter.com/gulag
 <br><br><br>
 
 
- <div class='panel Reuniones'>
- <img src='/imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>
- </div>
-"
-a << '
-
-      <h5>Explorador de Entradas</h5> '
-
-if @contenido_secundario != nil
-            a << '          <!-- Contenido secundario -->'
-            a << '          <div id="sub" class="nav">'
-            a << "              <div class=\"wrapper\">#@contenido_secundario</div>"
-            a << '          </div>'
+ <div class='panel Reuniones'>"
+    if en_raiz
+        a << "<img src='imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>"
+    else
+        a << "<img src='../imagenes/rss.png' alt='RSS' title='siguenos via RSS!' class='rss'> Siguenos via RSS!<br>agrega esta liga a tu lector favorito: <strong> http://gulag.org.mx/rss.xml</strong>"
+    end
+    a << "</div>"
+    a << '<h5>Explorador de Entradas</h5> '
+    if @contenido_secundario != nil
+        a << '          <!-- Contenido secundario -->'
+        a << '          <div id="sub" class="nav">'
+        a << "              <div class=\"wrapper\">#@contenido_secundario</div>"
+        a << '          </div>'
         end
-        if @menu_secundario != nil
-            a << '          <!-- Menú secundario -->'
-            a << '          <div id="nav-sec" class="nav">'
-            a << "              <div class=\"wrapper\">#@menu_secundario</div>"
-            a << '          </div>'
-        end
-
-
-a << '</aside>
+    if @menu_secundario != nil
+        a << '          <!-- Menú secundario -->'
+        a << '          <div id="nav-sec" class="nav">'
+        a << "              <div class=\"wrapper\">#@menu_secundario</div>"
+        a << '          </div>'
+    end
+    a << '</aside>
 
     <!-- End Sidebar -->
   </div>
 
   <!-- End Main Content and Sidebar -->
-
 
   <!-- Footer -->
 
@@ -200,11 +195,15 @@ Se otorga permiso para copiar, distribuir y/o modificar este documento bajo los 
 <p><a href="https://plus.google.com/u/0/102379541396197060774/posts?rel=author">Plantilla creada por: Sergio aguilera</a></p>
         </div>
         <div class="large-6 columns ">
-          <ul class="inline-list right ">
-            <li><a href="/index.html">Inicio</a></li>
-            <li><a href="#">Mapa de Sitio</a></li>
-            <li><a href="/Contacto/contacto.html">Contactanos</a></li>
-          </ul>
+          <ul class="inline-list right ">'
+    if en_raiz
+        a << '<li><a href="index.html">Inicio</a></li>
+              <li><a href="contacto/contacto.html">Contactanos</a></li>'
+    else
+        a << '<li><a href="../index.html">Inicio</a></li>
+              <li><a href="../contacto/contacto.html">Contactanos</a></li>'
+    end
+    a << '</ul>
         </div>
       </div>
     </div>
