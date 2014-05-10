@@ -14,4 +14,4 @@ Este taller tomo aspectos importantes en la maquetación del contenido como lo e
 
 Se habló del motor principal de nuestro sitio, el [CMS de movimiento libre](http://cms.movimientolibre.com), un manejador de contenidos nacido en la laguna con un potencial enorme, codificado en ruby, otorga muchas facilidades a la hora de crear sitios web.
 
-![expositores de python laguna](github/comunidadpython.jpg)
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="github/comunidadpython.jpg" alt="Python Laguna">
