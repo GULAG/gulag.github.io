@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>OpenSUSE Li-F-E Linux For Education Distribución Educativa</title>
+      <link>http://gulag.org.mx/entradas/2014-05-17-hacklab-cms-guabyboy.html</link>
+      <description>
+&lt;p&gt;La utilización de GNU/Linux es muy noble en ambientes educativos, no por la gratuidad del software, sino por la variedad de aplicaciones con que cuentan las distribuciones educativas de GNU/Linux,  por eso, en esta ocasión,  les hablaré de OpenSUSE  para la educación.&lt;/p&gt;
+
+&lt;p&gt;Normalmente, a los usuarios  de cualquier sistema, al aprender autilizarlo, no les interesa cambiar o experimentar, esto es muy normal, el miedo al cambio o salir de su zona de confort. Por eso la gran fortaleza del sistema operativo GNU/Linux en muchas de sus distribuciones, es la capacidad de poderse probar  en su totalidad en vivo, es decir, sin necesidad de instalarse .      &lt;/p&gt;
+
+&lt;p&gt;Para probar OpenSUSE Li-F-E (Linux For Education), solo es necesario tener el disco grabado y arrancar nuestra computadora desde el lector de  DVD. La imagen completa del dvd se puede descargar de http://sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e.x86_64-13.1.1.iso/download, solo hay que quemar el dvd y listo; es una versión en vivo para probarla, disfrutarla e instalarla se se desea, pero si no se cuenta con unidad lectora de disco, también se puede acceder desde una memoria USB de al menos 4Gb.&lt;/p&gt;
+
+</description>
+      <author>guabyboy</author>
+      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
+      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>FLISOL 2014</title>
       <link>http://gulag.org.mx/entradas/2014-04-26-flisol.html</link>
       <description>
@@ -177,17 +192,6 @@
       <author>guivaloz</author>
       <pubDate>Sat, 28 Apr 2012 00:01:00 -0500</pubDate>
       <dc:date>2012-04-28T00:01:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>FLISOL 2011 Reseña</title>
-      <link>http://gulag.org.mx/entradas/2011-04-12-flisol.html</link>
-      <description>&lt;p&gt;&lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-22.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-22-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-01.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-01-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
-El pasado 9 de abril de 2011 se llevó a cabo el &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre (&lt;span class=&quot;caps&quot;&gt;FLISOL&lt;/span&gt;)&lt;/strong&gt;, organizado por cuarta ocasión por el &lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;GULAG&lt;/span&gt;&lt;/strong&gt; y por primera vez en &lt;a href=&quot;http://www.plazacuatrocaminos.com.mx/&quot;&gt;Plaza Cuatro Caminos&lt;/a&gt;.&lt;br /&gt;
-&lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-02.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-02-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-03.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-03-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-04.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-04-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-05.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-05-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-06.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-06-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;2011-04-09-flisol/flisol-laguna-2011-07.jpg&quot;&gt;&lt;img src=&quot;2011-04-09-flisol/flisol-laguna-2011-07-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
-Cabe destacar que al realizar el evento en un &lt;strong&gt;paseo comercial&lt;/strong&gt;, se logró &lt;strong&gt;comunicar&lt;/strong&gt; la alternativa del Software Libre a un número mucho mayor de personas que en ocasiones anteriores. Con ese fin, se repartieron &lt;strong&gt;mil trípticos&lt;/strong&gt; con información del Software Libre a los visitantes.&lt;/p&gt;</description>
-      <author>guivaloz</author>
-      <pubDate>Tue, 12 Apr 2011 12:00:00 -0500</pubDate>
-      <dc:date>2011-04-12T12:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
