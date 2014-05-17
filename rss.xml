@@ -9,6 +9,19 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Sobre la sección Bytes Libres</title>
+      <link>http://gulag.org.mx/revista/2014-05-17-Sobre-Bytes-Libres.html</link>
+      <description>
+&lt;p&gt;Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.&lt;/p&gt;
+
+&lt;p&gt;La sección Bytes Libres es diferente a las demás, no por que se habla en ella sobre temas relacionados con el software libre, con GNU/Linux o con temas relacionados. No, es diferente por una cosa: sus autores.&lt;/p&gt;
+
+</description>
+      <author> Chico</author>
+      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
+      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>OpenSUSE Li-F-E Linux For Education Distribución Educativa</title>
       <link>http://gulag.org.mx/entradas/2014-05-17-hacklab-cms-guabyboy.html</link>
       <description>
@@ -180,18 +193,6 @@
       <author>guivaloz</author>
       <pubDate>Thu, 16 May 2013 18:00:00 -0500</pubDate>
       <dc:date>2013-05-16T18:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>FLISOL 2012</title>
-      <link>http://gulag.org.mx/entradas/2012-04-28-flisol.html</link>
-      <description>&lt;p&gt;&lt;a href=&quot;2012-04-28-flisol/poster-flisol-2012-con-fondo-v2.jpg&quot;&gt;&lt;img src=&quot;2012-04-28-flisol/poster-flisol-2012-con-fondo-v2-small.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;El sábado 28 de abril en &lt;a href=&quot;http://www.plazacuatrocaminos.com.mx/&quot;&gt;Plaza Cuatro Caminos&lt;/a&gt; se llevará a cabo el &lt;a href=&quot;http://installfest.info/&quot;&gt;Festival Latinoamericano de Instalación de Software Libre 2010&lt;/a&gt; (FLISoL) organizado por sexto año consecutivo por el &lt;a href=&quot;http://www.gulag.org.mx/&quot;&gt;Grupo de Usuarios de &lt;span class=&quot;caps&quot;&gt;GNU&lt;/span&gt;/Linux de La Laguna&lt;/a&gt; (&lt;span class=&quot;caps&quot;&gt;GULAG&lt;/span&gt;).&lt;/p&gt;
-&lt;h3&gt;¿Qué es el &lt;span class=&quot;caps&quot;&gt;FLISOL&lt;/span&gt;?&lt;/h3&gt;
-&lt;p&gt;El FLISoL es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año.&lt;/p&gt;
-&lt;p&gt;Su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo.&lt;/p&gt;</description>
-      <author>guivaloz</author>
-      <pubDate>Sat, 28 Apr 2012 00:01:00 -0500</pubDate>
-      <dc:date>2012-04-28T00:01:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
