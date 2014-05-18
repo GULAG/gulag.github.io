@@ -20,6 +20,15 @@ A todos los que colaboramos de una u otra forma con éste proyecto, difundir el 
 
 ### Artículos publicados
 
-**14 de febrero 2014** [Conociendo el GULAG](http://www.elsiglodetorreon.com.mx/noticia/962699.bytes-libres.html)
+**8 de mayo 2014** [Una distribución educativa](http://www.elsiglodetorreon.com.mx/noticia/991260.bytes-libres.html) _Por Guabyboy_
 
+**24 de abril 2014** [El software libre como herramienta para la educación](http://www.elsiglodetorreon.com.mx/noticia/985920.el-software-libre-como-herramienta-para-la-educacion.html) _Por Linuxman_
+
+**27 de marzo 2014** [Las libertades del Software Libre](http://www.elsiglodetorreon.com.mx/noticia/976561.bytes-libres.html) _Por Chico_
+
+**13 de marzo 2014** [Adiós Wordpress, 2014 será el año de los CMS de archivos planos](http://www.elsiglodetorreon.com.mx/noticia/971928.bits-libres.html) _Por Guivaloz_
+
+**21 de febrero 2014** [OpenStreetMap](http://www.elsiglodetorreon.com.mx/noticia/965041.bytes-libres.html) _Por Guivaloz_
+
+**14 de febrero 2014** [Conociendo el GULAG](http://www.elsiglodetorreon.com.mx/noticia/962699.bytes-libres.html) _Por Chico_
 
