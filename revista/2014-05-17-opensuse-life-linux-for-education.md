@@ -1,7 +1,6 @@
 OpenSUSE Li-F-E Linux For Education Distribución Educativa
 ==========================================================
 
-Corto: OpenSUSE Li-F-E
 Fecha: 2014-05-17
 Autor: guabyboy
 Categorías: Revista, OpenSUSE
