@@ -20,6 +20,8 @@ A todos los que colaboramos de una u otra forma con éste proyecto, difundir el 
 
 ### Artículos publicados
 
+**22 de mayo 2014** [Usando Chromecast](http://www.elsiglodetorreon.com.mx/noticia/997022.bytes-libres.html) _Por Rive_
+
 **8 de mayo 2014** [Una distribución educativa](http://www.elsiglodetorreon.com.mx/noticia/991260.bytes-libres.html) _Por Guabyboy_
 
 **24 de abril 2014** [El software libre como herramienta para la educación](http://www.elsiglodetorreon.com.mx/noticia/985920.el-software-libre-como-herramienta-para-la-educacion.html) _Por Linuxman_
