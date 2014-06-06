@@ -14,11 +14,13 @@ La sección Bytes Libres es diferente a las demás, no por que se habla en ella 
 
 En la sección escriben miembros en activo del GULAG, pero no solo uno sino todos aquellos que deseen participar y sean miembros activos del GULAG. Todos los que buscamos de una o de otra forma promover el Software Libre y GNU/Linux. El nombre de la sección fue propuesto, votado y aceptado por los muchachos del GULAG.
 
-Éste proyecto no seria posible sin la gestión Gabriel Peña con el personal correspondiente del Siglo de Torreón, y por la colaboración de los integrantes del GULAG con distintos artículos, mismos que se pueden ver al final de la presente nota.
+Éste proyecto no seria posible sin la gestión de Gabriel Peña con el personal correspondiente del Siglo de Torreón, y por la colaboración de los integrantes del GULAG con distintos artículos, mismos que se pueden ver al final de la presente nota.
 
 A todos los que colaboramos de una u otra forma con éste proyecto, difundir el Software Libre escribiendo en éste espacio, les agradezco e invito a que sigan participando con los ánimos que los caracterizan.
 
 ### Artículos publicados
+
+**5 de junio 2014** [Software Libre y transparencia](http://www.elsiglodetorreon.com.mx/noticia/1002479.bytes-libres.html) _Por Chico_
 
 **22 de mayo 2014** [Usando Chromecast](http://www.elsiglodetorreon.com.mx/noticia/997022.bytes-libres.html) _Por Rive_
 
