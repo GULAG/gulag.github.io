@@ -52,6 +52,19 @@
       <dc:date>2014-05-17T00:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Uso de Git, Github, Markdown y Ruby en el sitio web</title>
+      <link>http://gulag.org.mx/entradas/2014-05-10-git-ruby.html</link>
+      <description>
+&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2014-05-10-git-ruby/md-rb-git-github-mayo-2014.jpg&quot; alt=&quot;guivaloz hablando sobre git&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En la reunión correspondiente a mayo, guivaloz nos mostró la manera de usar git, github, ruby y markdown para mantener actualizado el sitio del GULAG por cada uno de los miembros del mismo.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 10 May 2014 16:00:00 -0500</pubDate>
+      <dc:date>2014-05-10T16:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>FLISOL 2014</title>
       <link>http://gulag.org.mx/entradas/2014-04-26-flisol.html</link>
       <description>
@@ -187,18 +200,6 @@
       <author>guivaloz</author>
       <pubDate>Mon, 04 Nov 2013 12:00:00 -0600</pubDate>
       <dc:date>2013-11-04T12:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Junta Ordinaria 12-Agosto-2013</title>
-      <link>http://gulag.org.mx/entradas/2013-08-12-junta-ordinaria.html</link>
-      <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2013-08-12-junta-ordinaria/2013-08-12-chicoxxx.JPG&quot;&gt;&lt;/p&gt;
-&lt;p&gt;El pasado día sábado 12 octubre se habló sobre el uso de &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt; como una alternativa viable para la edición de la revista, chicoxxx propuso el nombre de &amp;#8220;BytesLibres&amp;#8221; para la revista,asi mismo, se propuso que  todos los articulos fueran subidos a una cuenta en github para centralizar las fuentes y fueran de facil edición previo a creación del documento final por medio de LaTeX.&lt;/p&gt;
-&lt;p&gt;Sergio nos hablò del avance de la página, el uso de twitter y facebook asi como de los nuevos proyectos y propuestas para el grupo.&lt;/p&gt;
-&lt;p&gt;&amp;lt;img class=&amp;#8220;img-responsive&amp;#8221; style=&amp;#8220;width:40%;height:auto;margin-right:12px;&amp;#8221; src=&amp;quot;&amp;quot;2013-08-12-junta-ordinaria/2013-08-12-sergio.JPG&amp;gt;&lt;/p&gt;
-&lt;p&gt;Ya entrado en su platica, Sergio Aguilera nos habló de Mega, como una excelente opcion para guarda y compartición de archivos, todo  esto, ejecutable desde una terminal de linux .&lt;/p&gt;</description>
-      <author>guivaloz</author>
-      <pubDate>Mon, 12 Aug 2013 12:00:00 -0500</pubDate>
-      <dc:date>2013-08-12T12:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
