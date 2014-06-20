@@ -20,6 +20,8 @@ A todos los que colaboramos de una u otra forma con éste proyecto, difundir el 
 
 ### Artículos publicados
 
+**20 de junio 2014** [Revoluciónate a ti mismo, sé un programador](http://www.elsiglodetorreon.com.mx/noticia/1007916.bytes-libres.html) _Por Guivaloz_
+
 **5 de junio 2014** [Software Libre y transparencia](http://www.elsiglodetorreon.com.mx/noticia/1002479.bytes-libres.html) _Por Chico_
 
 **22 de mayo 2014** [Usando Chromecast](http://www.elsiglodetorreon.com.mx/noticia/997022.bytes-libres.html) _Por Rive_
