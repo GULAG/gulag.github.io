@@ -20,6 +20,8 @@ A todos los que colaboramos de una u otra forma con éste proyecto, difundir el 
 
 ### Artículos publicados
 
+**17 de julio 2014** [Seguridad con Software Libre](http://www.elsiglodetorreon.com.mx/noticia/1017146.bytes-libres-seguridad-con-software-libre.html) _Por Chico_
+
 **20 de junio 2014** [Revoluciónate a ti mismo, sé un programador](http://www.elsiglodetorreon.com.mx/noticia/1007916.bytes-libres.html) _Por Guivaloz_
 
 **5 de junio 2014** [Software Libre y transparencia](http://www.elsiglodetorreon.com.mx/noticia/1002479.bytes-libres.html) _Por Chico_
