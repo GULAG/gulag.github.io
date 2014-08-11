@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Próximamente: Congreso 2014</title>
+      <link>http://gulag.org.mx/entradas/2014-08-10-avances-congreso-2014.html</link>
+      <description>
+&lt;p&gt;Conferencias y talleres estan listos para el Congreso 2014.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 10 Aug 2014 20:00:00 -0500</pubDate>
+      <dc:date>2014-08-10T20:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Revoluciónate a tí mismo, sé un programador</title>
       <link>http://gulag.org.mx/revista/2014-05-19-revolucionate-a-ti-mismo-se-un-programador.html</link>
       <description>
@@ -24,6 +35,19 @@
       <dc:date>2014-05-19T00:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Sobre la sección Bytes Libres</title>
+      <link>http://gulag.org.mx/revista/2014-05-17-Sobre-Bytes-Libres.html</link>
+      <description>
+&lt;p&gt;Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.&lt;/p&gt;
+
+&lt;p&gt;La sección Bytes Libres es diferente a las demás, no por que se habla en ella sobre temas relacionados con el software libre, con GNU/Linux o con temas relacionados. No, es diferente por una cosa: sus autores.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
+      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>OpenSUSE Li-F-E Linux For Education Distribución Educativa</title>
       <link>http://gulag.org.mx/revista/2014-05-17-opensuse-life-linux-for-education.html</link>
       <description>
@@ -35,19 +59,6 @@
 
 </description>
       <author>guabyboy</author>
-      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
-      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Sobre la sección Bytes Libres</title>
-      <link>http://gulag.org.mx/revista/2014-05-17-Sobre-Bytes-Libres.html</link>
-      <description>
-&lt;p&gt;Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.&lt;/p&gt;
-
-&lt;p&gt;La sección Bytes Libres es diferente a las demás, no por que se habla en ella sobre temas relacionados con el software libre, con GNU/Linux o con temas relacionados. No, es diferente por una cosa: sus autores.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
       <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
       <dc:date>2014-05-17T00:00:00-05:00</dc:date>
     </item>
@@ -189,17 +200,6 @@
       <author>guivaloz</author>
       <pubDate>Mon, 20 Jan 2014 12:00:00 -0600</pubDate>
       <dc:date>2014-01-20T12:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Junta Ordinaria 4-Noviembre-2013</title>
-      <link>http://gulag.org.mx/entradas/2013-11-04-junta-ordinaria.html</link>
-      <description>&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src='https://lh5.googleusercontent.com/-AdUwSil0HQw/UoAxx7e80TI/AAAAAAAAFXA/CEbHkAmPJmQ/w841-h557-no/DSC_7401.JPG'&gt;&lt;/p&gt;
-&lt;p&gt;EL pasado día sábado 4 de noviembre se contó con la participación de estudiantes de la &lt;span class=&quot;caps&quot;&gt;UAC&lt;/span&gt; quienes solicitarón una platica sobre la Deep Web, impatida por Sergio Aguilera.&lt;/p&gt;
-&lt;p&gt;Despues de  la ronda de preguntas y respuestas ya acostumbradas, nuestro compañero Alejandro Esquivel nos  mostro como instalar y configuar de forma basica Squid, un Proxy licenciado bajo licencias libres.&lt;/p&gt;
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src='https://lh5.googleusercontent.com/-oxmVRvkpJ9A/UoAxx63sQnI/AAAAAAAAFX8/CJHnDHMaV28/w841-h557-no/DSC_7413.JPG'&gt;&lt;/p&gt;</description>
-      <author>guivaloz</author>
-      <pubDate>Mon, 04 Nov 2013 12:00:00 -0600</pubDate>
-      <dc:date>2013-11-04T12:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
