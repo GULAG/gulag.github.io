@@ -17,10 +17,11 @@ Se tendrán los siguientes conferencistas:
 * José Miguel Jáuregui García **(INAOE)** con la conferencia **Software libre en radioastronomía**.
 * Antonio Gurza.
 * Ernesto Cobos.
+* Oscar Barajas con la conferencia **Google Cloud Platfform**.
 
-También contaremos con los siguientes talleristas:
+También contaremos con los siguientes talleres:
 
-* Gabriel Peña, con el taller **Virtualización**.
-* Carlos Rojas, con el taller **Envío cifrado de mensajes**.
+* **Virtualización para MiPyME** impartido por Gabriel Peña.
+* **Envío cifrado de mensajes** impartido por Carlos Rojas.
 
 La entrada a las conferencias y a los talleres será sin costo.
