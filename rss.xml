@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Reunión ordinaria - Septiembre 2014</title>
+      <link>http://gulag.org.mx/entradas/2014-09-12-reunion-septiembre-2014.html</link>
+      <description>
+&lt;p&gt;El sábado 13 de septiembre la reunion ordinaria, será en Gómez Palacio.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Fri, 12 Sep 2014 12:00:00 -0500</pubDate>
+      <dc:date>2014-09-12T12:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Próximamente: Congreso 2014</title>
       <link>http://gulag.org.mx/entradas/2014-08-10-avances-congreso-2014.html</link>
       <description>
@@ -161,45 +172,6 @@
       <author>guivaloz</author>
       <pubDate>Sat, 08 Feb 2014 18:12:00 -0600</pubDate>
       <dc:date>2014-02-08T18:12:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Primera reunion del año- Enero 2014</title>
-      <link>http://gulag.org.mx/entradas/2014-01-20-reunion-enero-2014.html</link>
-      <description>
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2014-01-20-reunion-enero-2014/guivaloz.jpg&quot; alt=&quot;guivaloz hablando sobre git&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El pasado sábado 18 de enero del 2014 se llevo acabo la primera junta del año, en la cual se acordaron diversos puntos, que fueron expuestos con anterioridad en la posada del grupo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Las juntas mensuales se dividirán en 2 secciones, de 4:00pm a 5:00pm, se darán pláticas a los nuevos integrantes del grupo, y de 5:00pm en adelante, se darán pláticas de nivel Intermedio-Avanzado.&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;De inicio, Sergio Aguilera,dará las pláticas a los nuevos integrantes, sin embargo, se extiende a cualquiera que quiera dar una plática para los nuevos integrantes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;La revista está empezando a ser maquillada por  Osvaldo Salazar (ChicoXXX), de igual manera, todo el que quiera publicar un artículo en la misma, favor de contactarlo.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Debido a la falta de foro, no se trató el tema de suspender las flisol, sin embargo,  se tomó la decisión que &lt;strong&gt;el flisol de este año si se llevara a cabo&lt;/strong&gt;, independientemente de que el próximo año dicho evento sea suspendido.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sergio Aguilera, hablo sobre &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt; mostrando las bondades que ha incorporado este año y como han impactado de manera significativa a el software libre, junto a ello, anuncío que la pagina de la GULAG, actualmente se encuentra Hospedada en Github, gracias a las bondades de &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Gracias a este nuevo hosting, ahora la actualización de la pagina se ve desentralizada, es decir, &lt;strong&gt;ahora cualquier usuario de la GULAG&lt;/strong&gt; podra subir una entrada a el sitio.&lt;/p&gt;
-
-&lt;p&gt;Guillermo Valdes nos acompaño con un taller introductorio a git, una herramienta por demas necesara en todo desarrollo, en especial, en aquellos que usan GitHub como manejador de versiones.&lt;/p&gt;
-
-&lt;p&gt;Se a creado un respositorio en GitHub donde se subiran mensualmente el recopilatorio de las imagenes tomadas en cada junta, para acceder a el, favor de &lt;a href=&quot;https://github.com/GULAG/Imagenes&quot;&gt;hacer click aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;el-proximo-mes-se-llevara-acabo-la-primera-parte-de-un-taller-sobre-creacin-y-actualizacin-de-blogs-y-sitios-web-mediante-github-pages-y-el-cms-de-movimiento-libre-impartido-por-sergio-aguilera&quot;&gt;El proximo mes, se llevara acabo la primera parte de un taller sobre creación y actualización de blogs y sitios web mediante GitHub Pages y el CMS de Movimiento Libre, impartido por &lt;em&gt;Sergio Aguilera&lt;/em&gt;.&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Requisitos&lt;/strong&gt; Maquina con GNU/LINUX&lt;/p&gt;
-</description>
-      <author>guivaloz</author>
-      <pubDate>Mon, 20 Jan 2014 12:00:00 -0600</pubDate>
-      <dc:date>2014-01-20T12:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
