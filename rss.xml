@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Congreso de Software Libre 2014</title>
+      <link>http://gulag.org.mx/entradas/2014-09-13-congreso-2014.html</link>
+      <description>
+&lt;p&gt;Con motivo del &lt;strong&gt;VIII aniversario del Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y con el apoyo de la &lt;strong&gt;Universidad Autónoma de Coahuila, Cordinación Unidad Torreón&lt;/strong&gt;, se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; a celebrarse el &lt;strong&gt;19 de septiembre&lt;/strong&gt; del presente año, a partir de las &lt;strong&gt;9:00 horas&lt;/strong&gt;, en el &lt;strong&gt;Teatro de Cámara&lt;/strong&gt; ubicado en el interior del edificio de Coordinación de la &lt;strong&gt;Universidad Autónoma de Coahuila, Unidad Torreón&lt;/strong&gt;, ubicado en &lt;strong&gt;Boulevard Revolución y Comonfort&lt;/strong&gt;, en Torreón, Coahuila.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 13 Sep 2014 22:00:00 -0500</pubDate>
+      <dc:date>2014-09-13T22:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Reunión ordinaria - Septiembre 2014</title>
       <link>http://gulag.org.mx/entradas/2014-09-12-reunion-septiembre-2014.html</link>
       <description>
@@ -46,19 +57,6 @@
       <dc:date>2014-05-19T00:00:00-05:00</dc:date>
     </item>
     <item>
-      <title>Sobre la sección Bytes Libres</title>
-      <link>http://gulag.org.mx/revista/2014-05-17-Sobre-Bytes-Libres.html</link>
-      <description>
-&lt;p&gt;Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.&lt;/p&gt;
-
-&lt;p&gt;La sección Bytes Libres es diferente a las demás, no por que se habla en ella sobre temas relacionados con el software libre, con GNU/Linux o con temas relacionados. No, es diferente por una cosa: sus autores.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
-      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
-    </item>
-    <item>
       <title>OpenSUSE Li-F-E Linux For Education Distribución Educativa</title>
       <link>http://gulag.org.mx/revista/2014-05-17-opensuse-life-linux-for-education.html</link>
       <description>
@@ -70,6 +68,19 @@
 
 </description>
       <author>guabyboy</author>
+      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
+      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Sobre la sección Bytes Libres</title>
+      <link>http://gulag.org.mx/revista/2014-05-17-Sobre-Bytes-Libres.html</link>
+      <description>
+&lt;p&gt;Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.&lt;/p&gt;
+
+&lt;p&gt;La sección Bytes Libres es diferente a las demás, no por que se habla en ella sobre temas relacionados con el software libre, con GNU/Linux o con temas relacionados. No, es diferente por una cosa: sus autores.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
       <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
       <dc:date>2014-05-17T00:00:00-05:00</dc:date>
     </item>
@@ -152,26 +163,6 @@
       <author>guivaloz</author>
       <pubDate>Sat, 26 Apr 2014 12:00:00 -0500</pubDate>
       <dc:date>2014-04-26T12:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Gulag aprendiendo a usar GitHub</title>
-      <link>http://gulag.org.mx/entradas/2014-02-08-gulag-aprendiendo-github.html</link>
-      <description>
-&lt;p&gt;En la junta de hoy se impartió un taller sobre GitHub y el CMS de Movimiento libre, además tuvimos la presencia de la comunidad de Python Laguna.&lt;/p&gt;
-
-&lt;p&gt;La gente de Python Laguna extendió la invitación a todos los interesados en formar parte de esta nueva comunidad que nace en la región: &lt;a href=&quot;http://www.pythonlaguna.com/&quot;&gt;Python Laguna&lt;/a&gt; es una comunidad de amantes y entusiastas del lenguaje Python que buscan extender y popularizar su uso, si buscas pertenecer a este grupo no dudes en visitar su página.&lt;/p&gt;
-
-&lt;p&gt;Por otra parte, Sergio Aguilera nos Impartió un mini taller donde se enseñó a la comunidad, como actualizar la página de la GULAG desde github.&lt;/p&gt;
-
-&lt;p&gt;Este taller tomo aspectos importantes en la maquetación del contenido como lo es, la estructura de los archivos y una guía de inicio rápido para Markdown el maquetador de contenidos usado para la página.&lt;/p&gt;
-
-&lt;p&gt;Se habló del motor principal de nuestro sitio, el &lt;a href=&quot;http://cms.movimientolibre.com&quot;&gt;CMS de movimiento libre&lt;/a&gt;, un manejador de contenidos nacido en la laguna con un potencial enorme, codificado en ruby, otorga muchas facilidades a la hora de crear sitios web.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;github/comunidadpython.jpg&quot; alt=&quot;Python Laguna&quot; /&gt;&lt;/p&gt;
-</description>
-      <author>guivaloz</author>
-      <pubDate>Sat, 08 Feb 2014 18:12:00 -0600</pubDate>
-      <dc:date>2014-02-08T18:12:00-06:00</dc:date>
     </item>
   </channel>
 </rss>

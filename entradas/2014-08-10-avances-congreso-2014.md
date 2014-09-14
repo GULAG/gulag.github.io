@@ -16,7 +16,7 @@ Se tendrán los siguientes conferencistas:
 * Guillermo Valdés Lozano **(IMPLAN)** con la conferencia **Equidad de Género en Informática**..
 * José Miguel Jáuregui García **(INAOE)** con la conferencia **Software libre en radioastronomía**.
 * Antonio Gurza **(Arkebit)** con la conferencia **(In)Seguridad en routers/modems de los ISP mexicanos**.
-* Ernesto Cobos.
+* Ernesto Cobos con la conferencia **¿Quién apoya el Software Libre?**.
 * Oscar Barajas **(DragonsDev)** con la conferencia **Google Cloud Platfform**.
 
 También contaremos con los siguientes talleres:
