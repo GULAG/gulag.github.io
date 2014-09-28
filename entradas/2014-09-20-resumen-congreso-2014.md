@@ -25,7 +25,7 @@ Al término de las conferencias los asistentes continuaron aprendiendo gracias a
 
 Uno de ellos fue **"Virtualización para MiPyME"** impartido por Gabriel Peña quien enseñó como virtualizar un sistema operativo propietario para usar después las herramientas necesarias para hacer las declaraciones correspondientes al SAT.
 
-**"Envío codificado de mensajes"** fue el otro taller que aprovecharon los asistentes quienes aprendieron de Carlos Rojas los elementos necesarios para ampliar su anillo de confianza de una manera sencilla.
+**"Envío codificado de mensajes"** fue el otro taller que aprovecharon los asistentes quienes aprendieron de Carlos Rojas,  de una manera sencilla, los elementos necesarios para comunicarse de una manera diferente.
 
 Como cada año, tanto los talleres como las conferencias se impartieron sin costo alguno para los asistentes.
 
