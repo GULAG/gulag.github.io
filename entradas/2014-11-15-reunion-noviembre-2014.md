@@ -3,7 +3,7 @@ Reunión ordinaria - Noviembre 2014
 
 Fecha: 2014-11-16 12:00
 Autor:  Chico
-Categorías: Junta Ordinaria
+Categorías: Junta Ordinaria, Markdown, Ruby, Jekyll
 
 El sábado 15 de noviembre se realizó la reunion ordinaria en Arkebit.
 
