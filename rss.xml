@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Reunión ordinaria - Noviembre 2014</title>
+      <link>http://gulag.org.mx/entradas/2014-11-15-reunion-noviembre-2014.html</link>
+      <description>
+&lt;p&gt;El sábado 15 de noviembre se realizó la reunion ordinaria en Arkebit.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 16 Nov 2014 12:00:00 -0600</pubDate>
+      <dc:date>2014-11-16T12:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Resumen del Congreso de Software Libre 2014</title>
       <link>http://gulag.org.mx/entradas/2014-09-20-resumen-congreso-2014.html</link>
       <description>
@@ -98,19 +109,6 @@
       <author>guabyboy</author>
       <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
       <dc:date>2014-05-17T00:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Uso de Git, Github, Markdown y Ruby en el sitio web</title>
-      <link>http://gulag.org.mx/entradas/2014-05-10-git-ruby.html</link>
-      <description>
-&lt;p&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2014-05-10-git-ruby/md-rb-git-github-mayo-2014.jpg&quot; alt=&quot;guivaloz hablando sobre git&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;En la reunión correspondiente a mayo, guivaloz nos mostró la manera de usar git, github, ruby y markdown para mantener actualizado el sitio del GULAG por cada uno de los miembros del mismo.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 10 May 2014 16:00:00 -0500</pubDate>
-      <dc:date>2014-05-10T16:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
