@@ -9,6 +9,28 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Reunión ordinaria - Febrero 2015</title>
+      <link>http://gulag.org.mx/entradas/2015-02-09-reunion-febrero-2015.html</link>
+      <description>
+&lt;p&gt;El sábado 14 de febrero se realizará la reunion ordinaria.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 14 Feb 2015 16:00:00 -0600</pubDate>
+      <dc:date>2015-02-14T16:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Reunión ordinaria - Diciembre 2014</title>
+      <link>http://gulag.org.mx/entradas/2014-12-15-reunion-diciembre-2014.html</link>
+      <description>
+&lt;p&gt;El sábado 13 de diciembre se realizó la reunion ordinaria en Arkebit…&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Mon, 15 Dec 2014 12:00:00 -0600</pubDate>
+      <dc:date>2014-12-15T12:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Reunión ordinaria - Noviembre 2014</title>
       <link>http://gulag.org.mx/entradas/2014-11-15-reunion-noviembre-2014.html</link>
       <description>
@@ -81,34 +103,6 @@
       <author>guivaloz</author>
       <pubDate>Mon, 19 May 2014 00:00:00 -0500</pubDate>
       <dc:date>2014-05-19T00:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Sobre la sección Bytes Libres</title>
-      <link>http://gulag.org.mx/revista/2014-05-17-Sobre-Bytes-Libres.html</link>
-      <description>
-&lt;p&gt;Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.&lt;/p&gt;
-
-&lt;p&gt;La sección Bytes Libres es diferente a las demás, no por que se habla en ella sobre temas relacionados con el software libre, con GNU/Linux o con temas relacionados. No, es diferente por una cosa: sus autores.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
-      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>OpenSUSE Li-F-E Linux For Education Distribución Educativa</title>
-      <link>http://gulag.org.mx/revista/2014-05-17-opensuse-life-linux-for-education.html</link>
-      <description>
-&lt;p&gt;La utilización de GNU/Linux es muy noble en ambientes educativos, no por la gratuidad del software, sino por la variedad de aplicaciones con que cuentan las distribuciones educativas de GNU/Linux,  por eso, en esta ocasión,  les hablaré de OpenSUSE  para la educación.&lt;/p&gt;
-
-&lt;p&gt;Normalmente, a los usuarios  de cualquier sistema, al aprender autilizarlo, no les interesa cambiar o experimentar, esto es muy normal, el miedo al cambio o salir de su zona de confort. Por eso la gran fortaleza del sistema operativo GNU/Linux en muchas de sus distribuciones, es la capacidad de poderse probar  en su totalidad en vivo, es decir, sin necesidad de instalarse .&lt;/p&gt;
-
-&lt;p&gt;Para probar OpenSUSE Li-F-E (Linux For Education), solo es necesario tener el disco grabado y arrancar nuestra computadora desde el lector de  DVD. La imagen completa del dvd se puede descargar de http://sourceforge.net/projects/opensuse-edu/files/download/ISOs/openSUSE-Edu-li-f-e.x86_64-13.1.1.iso/download, solo hay que quemar el dvd y listo; es una versión en vivo para probarla, disfrutarla e instalarla se se desea, pero si no se cuenta con unidad lectora de disco, también se puede acceder desde una memoria USB de al menos 4Gb.&lt;/p&gt;
-
-</description>
-      <author>guabyboy</author>
-      <pubDate>Sat, 17 May 2014 00:00:00 -0500</pubDate>
-      <dc:date>2014-05-17T00:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
