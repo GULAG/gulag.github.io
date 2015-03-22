@@ -9,6 +9,71 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>FLISOL 2015</title>
+      <link>http://gulag.org.mx/entradas/2015-04-25-flisol.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;2015-04-25-flisol/flisol-2015-poster-0480.jpg&quot; alt=&quot;Poster FLISOL 2015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con el objetivo de promover y difundir el uso de Software Libre, el próximo &lt;strong&gt;sábado 25 de Abril de 2015&lt;/strong&gt; se llevará a cabo el &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/strong&gt; en &lt;strong&gt;Plaza Cuatro Caminos&lt;/strong&gt;, atrio principal, en &lt;strong&gt;Torreón, Coahuila, México.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;El Festival Latinoamericano de Instalación de Software Libre (FLISOL) &lt;strong&gt;es el evento internacional más importante y el más grande a nivel mundial de instalación de Software Libre;&lt;/strong&gt; el cual es realizado gratuitamente, a los asistentes que participen llevando su equipo de cómputo, &lt;strong&gt;se les instala software libre&lt;/strong&gt; en los mismos. El evento FLISOL lo ha venido realizando GULAG desde el año de 2006 ininterrumpidamente con el apoyo de diversos patrocinadores. El festival ha tomado tanta relevancia a nivel internacional que en ciudades de países NO latinoamericanos como Portugal, Estados Unidos y Canadá se han unido a su realización.&lt;/p&gt;
+
+&lt;h4 id=&quot;distribuciones-ofrecidas&quot;&gt;Distribuciones ofrecidas:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Debian (recomendado)&lt;/li&gt;
+  &lt;li&gt;Guadalinex&lt;/li&gt;
+  &lt;li&gt;Manjaro&lt;/li&gt;
+  &lt;li&gt;Mint&lt;/li&gt;
+  &lt;li&gt;Trisquel&lt;/li&gt;
+  &lt;li&gt;Ubuntu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fecha-lugar-y-hora&quot;&gt;Fecha Lugar y hora&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fecha: &lt;strong&gt;Sábado 25 de Abril de 2015.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Lugar: &lt;strong&gt;Plaza Cuatro Caminos&lt;/strong&gt;, Atrio principal. Blvd. Independencia #1300 Ote, Col. Navarro Torreón, Coahuila, México.&lt;/li&gt;
+  &lt;li&gt;Horario: &lt;strong&gt;De las 11 hasta las 18 horas.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;actividades&quot;&gt;Actividades&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Charlas&lt;/li&gt;
+  &lt;li&gt;Festival de instalación&lt;/li&gt;
+  &lt;li&gt;Taller de uso de GitHub&lt;/li&gt;
+  &lt;li&gt;Contacto con la comunidad de Software Libre local.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;atencin&quot;&gt;ATENCIÓN&lt;/h4&gt;
+
+&lt;p&gt;Se recomienda que antes de asistir al evento haga un &lt;strong&gt;RESPALDO DE LA INFORMACIÓN IMPORTANTE y defragmentar el disco duro.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;programa&quot;&gt;Programa&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;11:00 Bienvenida&lt;/li&gt;
+  &lt;li&gt;11:00 AM &lt;strong&gt;Documentación Libre para el Software Libre&lt;/strong&gt; por Osvaldo Salazar (Chico)&lt;/li&gt;
+  &lt;li&gt;12:00 PM &lt;strong&gt;Datos Abiertos y el Software Libre en el Gobierno&lt;/strong&gt; por Guillermo Valdés (guivaloz)&lt;/li&gt;
+  &lt;li&gt;01:00 PM &lt;strong&gt;10 Soluciones de Software Gratuito para Negocios Emprendedores&lt;/strong&gt; por Antonio Gurza (ZK)&lt;/li&gt;
+  &lt;li&gt;02:00 PM a 6:00 PM Installfest: &lt;strong&gt;Instalación de software libre en las computadoras que lleven los asistentes.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Evento dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen mucho conocimiento informático.&lt;/p&gt;
+
+&lt;h3 id=&quot;descargas&quot;&gt;Descargas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;2015-04-25-flisol/flisol-2015-poster-1024.jpg&quot;&gt;Poster JPG 1024x1448&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;2015-04-25-flisol/flisol-2015-poster.tar.gz&quot;&gt;Poster archivos fuentes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <author>guivaloz</author>
+      <pubDate>Sat, 25 Apr 2015 08:00:00 -0500</pubDate>
+      <dc:date>2015-04-25T08:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Reunión ordinaria - Febrero 2015</title>
       <link>http://gulag.org.mx/entradas/2015-02-09-reunion-febrero-2015.html</link>
       <description>
@@ -88,21 +153,6 @@
       <author>Chico</author>
       <pubDate>Sun, 10 Aug 2014 20:00:00 -0500</pubDate>
       <dc:date>2014-08-10T20:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Revoluciónate a tí mismo, sé un programador</title>
-      <link>http://gulag.org.mx/revista/2014-05-19-revolucionate-a-ti-mismo-se-un-programador.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Saber programar es conocer diferencia entre ver un reloj desde afuera y saber cómo funciona en su interior.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;En este tiempo, la edad dorada de la informática, vemos que ya es un hecho que &lt;em&gt;casi&lt;/em&gt; todos disponemos de dispositivos digitales complejos; háblese de computadoras, &lt;em&gt;laptops&lt;/em&gt;, &lt;em&gt;tablets&lt;/em&gt; o celulares &lt;em&gt;inteligentes&lt;/em&gt;. Como es natural, de todas estas personas, la mayoría son usuarios y la minoría son &lt;em&gt;creadores&lt;/em&gt;, es decir, quienes hacen programas para que los usen. Lamentablemente esta situación es igual en personas que ejercen las diferentes ramas de la informática; &lt;strong&gt;en la mayoría de nosotros hay muy pocos con entusiasmo para programar&lt;/strong&gt;, se prefieren las labores de venta, instalación, comunicaciones, etc.&lt;/p&gt;
-
-&lt;p&gt;¿Qué sería de nuestra ciudad/estado/país/mundo si todo profesionista dedicara algo de su labor a la programación?. Y en general, para el nivel escolar, &lt;strong&gt;si no sólo hubiera las típicas clases de computación, sino también talleres de programación&lt;/strong&gt;, ¿sería esto una gran herramienta para su futuro?. Seguramente que sí.&lt;/p&gt;
-
-</description>
-      <author>guivaloz</author>
-      <pubDate>Mon, 19 May 2014 00:00:00 -0500</pubDate>
-      <dc:date>2014-05-19T00:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
