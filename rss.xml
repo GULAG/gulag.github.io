@@ -74,6 +74,21 @@
       <dc:date>2015-04-25T08:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Reseña Document Freedom Day 2015</title>
+      <link>http://gulag.org.mx/entradas/2015-03-25-Resumen-DFD2015.html</link>
+      <description>
+&lt;p&gt;El 25 de marzo se celebró el &lt;strong&gt;Document Freedom Day&lt;/strong&gt; en Torreón con una conferencia en la Escuela de Sistemas de la U.A. de C.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2015-03-25-Resumen-DFD2015/LogoDFD.png&quot; alt=&quot;LogoDFD&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 25 Mar 2015 23:00:00 -0600</pubDate>
+      <dc:date>2015-03-25T23:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Document Freedom Day 2015 en Torreón</title>
       <link>http://gulag.org.mx/entradas/2015-03-22-DFD2015.html</link>
       <description>
@@ -142,17 +157,6 @@
       <author>Chico</author>
       <pubDate>Sat, 13 Sep 2014 22:00:00 -0500</pubDate>
       <dc:date>2014-09-13T22:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión ordinaria - Septiembre 2014</title>
-      <link>http://gulag.org.mx/entradas/2014-09-12-reunion-septiembre-2014.html</link>
-      <description>
-&lt;p&gt;El sábado 13 de septiembre la reunion ordinaria, será en Gómez Palacio.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Fri, 12 Sep 2014 12:00:00 -0500</pubDate>
-      <dc:date>2014-09-12T12:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
