@@ -17,19 +17,31 @@ No tuvimos problema en elegir la sede, **Plaza Cuatro Caminos**, atrio principal
 
 Disfrutamos también el visitar escuelas y empresas de la Comarca Lagunera para invitarlos a asistir al Flisol; de igual manera disfrutamos el platicar a nuestros amigos y todo el que quisiera escucharnos, ya sea del ámbito informático o no.
 
-* [Lurk Moar](https://www.youtube.com/watch?v=y52rHJGxbYU)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/y52rHJGxbYU?t=5m7s" frameborder="0" allowfullscreen></iframe>
 
 Iniciamos el Flisol con 3 conferencias:
 
 + **Documentación Libre para el Software Libre** por Osvaldo Salazar (Chico)
 + **Datos Abiertos y el Software Libre en el Gobierno** por Guillermo Valdés (guivaloz)
-+ **10 Soluciones de Software Gratuito para Negocios Emprendedores** por Alejandro Pineda (Death...)
++ **10 Soluciones de Software Gratuito para Negocios Emprendedores** por Alejandro Pineda (DeathScytheH)
+
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://farm8.staticflickr.com/7698/17247792756_5edb9bbf78_n.jpg" alt="Chico" width="325" height="250">
+</center>
 
 En la primer conferencia, **Documentación Libre para el Software Libre**, se nos habló de los origenes de OpenOffice y LibreOffice, se explicó que es OpenDocument y la norma ISO en la cual se basa. También se explicó la falsedad de la campaña "M$ love Linux" y los riesgos que uno tiene al enviar un adjunto en formato privativo, de igual manera se invitó a los asistentes a que insistan en el uso de estándares abiertos. Se terminó la conferencia desarrollando una de las muchas razones por que no le gustan a el conferencista los programas privativos de ofimática: Porque impide que usuarios den el salto al Software Libre.
 
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://farm9.staticflickr.com/8762/17086024540_6534a2ac4c_m.jpg" alt="Guivaloz" width="325" height="250">
+</center>
+
 En la segunda conferencia, **Datos Abiertos y el Software Libre en el Gobierno**, se nos habló de manera amena las libertades del Software Libre, de los fundadores de los proyectos GNU y Linux y, de la enorme ventaja que tenemos de usar los datos abiertos que proporciona el mismo gobierno; las ventajas de usarlos como lo han realizado en varios proyectos facilitando el acceso y la toma de desiciones. Concluyó su conferencia hablando de los proyectos que veremos en el futuro relacionados con el Software Libre.
 
-En la última conferencia Alejandro Pineda (Death...) nos enseñó 10 Software que podemos utilizar en nuestra empresa o en la que estemos por formar de manera gratuita y sin problemas con licencias: Thunderbird, Kali, LibreOffice, por mencionar algunos.
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://farm8.staticflickr.com/7698/17273264605_b8ae07ec05_m.jpg" alt="DeathScytheH" width="325" height="250">
+</center>
+
+En la última conferencia se explicaron 10 programas que podemos utilizar en nuestra empresa, o en la que estemos por formar, de manera gratuita y sin problemas con licencias: Thunderbird, Kali, LibreOffice, por mencionar algunos.
 
 Al terminar las conferencias se procedio a instalar GNU/Linux en los equipos que los asistentes llevaron (con algunos interesantes retos a resolver) y algunos se llevaron una copia de las distribuciones que se instalaron:
 
@@ -46,6 +58,10 @@ Es de notar la participación de escuelas entre las que sobresalieron maestros y
 Esperando que lo aprendido les sea de utilidad los esperamos en el siguiente Flisol y en los eventos que organicemos en el GULAG... pero si no pueden esperar tanto, los invitamos a las reuniones que realizamos cada mes así como unirse a la [lista de correo del grupo](https://groups.google.com/forum/#!forum/gulagmx).
 
 Hasta pronto :)
+
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2015-04-26-resumen-flisol/Flisol2015-Siglo.jpeg" alt="Foto cortesía Siglo de Torreón - FLISOL 2015" width="325" height="250">
+</center>
 
 ### Enlaces a notas
 * [Promueven el Software Libre](http://www.elsiglodetorreon.com.mx/noticia/1108485.promueven-el-software-libre.html)
