@@ -32,13 +32,13 @@ Iniciamos el Flisol con 3 conferencias:
 En la primer conferencia, **Documentación Libre para el Software Libre**, se nos habló de los origenes de OpenOffice y LibreOffice, se explicó que es OpenDocument y la norma ISO en la cual se basa. También se explicó la falsedad de la campaña "M$ love Linux" y los riesgos que uno tiene al enviar un adjunto en formato privativo, de igual manera se invitó a los asistentes a que insistan en el uso de estándares abiertos. Se terminó la conferencia desarrollando una de las muchas razones por que no le gustan a el conferencista los programas privativos de ofimática: Porque impide que usuarios den el salto al Software Libre.
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://farm9.staticflickr.com/8762/17086024540_6534a2ac4c_m.jpg" alt="Guivaloz" width="325" height="250">
+<img class="img-responsive" style="width:65%;height:auto;margin-right:12px;" src="https://farm9.staticflickr.com/8762/17086024540_6534a2ac4c_m.jpg" alt="Guivaloz" width="325" height="250">
 </center>
 
 En la segunda conferencia, **Datos Abiertos y el Software Libre en el Gobierno**, se nos habló de manera amena las libertades del Software Libre, de los fundadores de los proyectos GNU y Linux y, de la enorme ventaja que tenemos de usar los datos abiertos que proporciona el mismo gobierno; las ventajas de usarlos como lo han realizado en varios proyectos facilitando el acceso y la toma de desiciones. Concluyó su conferencia hablando de los proyectos que veremos en el futuro relacionados con el Software Libre.
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://farm8.staticflickr.com/7698/17273264605_b8ae07ec05_m.jpg" alt="DeathScytheH" width="325" height="250">
+<img class="img-responsive" style="width:65%;height:auto;margin-right:12px;" src="https://farm8.staticflickr.com/7698/17273264605_b8ae07ec05_m.jpg" alt="DeathScytheH" width="325" height="250">
 </center>
 
 En la última conferencia se explicaron 10 programas que podemos utilizar en nuestra empresa, o en la que estemos por formar, de manera gratuita y sin problemas con licencias: Thunderbird, Kali, LibreOffice, por mencionar algunos.
@@ -60,7 +60,7 @@ Esperando que lo aprendido les sea de utilidad los esperamos en el siguiente Fli
 Hasta pronto :)
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2015-04-26-resumen-flisol/Flisol2015-Siglo.jpeg" alt="Foto cortesía Siglo de Torreón - FLISOL 2015" width="325" height="250">
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2015-04-26-resumen-flisol/Flisol2015-Siglo.jpeg" alt="Foto cortesía Siglo de Torreón - FLISOL 2015" width="325" height="250">
 </center>
 
 ### Enlaces a notas
