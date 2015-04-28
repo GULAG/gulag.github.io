@@ -9,6 +9,8 @@ Categorías: Install Fest, FLISOL
 
 <!-- break -->
 
+<br />
+
 2015, Flisol 2015.
 
 Nuevamente con gran gusto se empezó a preparar todo lo necesario para la celebración del **Festival Latinoamericano de Instalación de Software Libre** en La Comarca Lagunera con el objetivo de promover y difundir el uso de Software Libre
@@ -17,7 +19,13 @@ No tuvimos problema en elegir la sede, **Plaza Cuatro Caminos**, atrio principal
 
 Disfrutamos también el visitar escuelas y empresas de la Comarca Lagunera para invitarlos a asistir al Flisol; de igual manera disfrutamos el platicar a nuestros amigos y todo el que quisiera escucharnos, ya sea del ámbito informático o no.
 
+<br />
+
+Aquí un promocional (a partir del minuto 4:57)
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/y52rHJGxbYU?t=5m7s" frameborder="0" allowfullscreen></iframe>
+
+<br />
 
 Iniciamos el Flisol con 3 conferencias:
 
@@ -25,17 +33,23 @@ Iniciamos el Flisol con 3 conferencias:
 + **Datos Abiertos y el Software Libre en el Gobierno** por Guillermo Valdés (guivaloz)
 + **10 Soluciones de Software Gratuito para Negocios Emprendedores** por Alejandro Pineda (DeathScytheH)
 
+<br />
+
 <center>
 <img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://farm8.staticflickr.com/7698/17247792756_5edb9bbf78_n.jpg" alt="Chico" width="325" height="250">
 </center>
 
 En la primer conferencia, **Documentación Libre para el Software Libre**, se nos habló de los origenes de OpenOffice y LibreOffice, se explicó que es OpenDocument y la norma ISO en la cual se basa. También se explicó la falsedad de la campaña "M$ love Linux" y los riesgos que uno tiene al enviar un adjunto en formato privativo, de igual manera se invitó a los asistentes a que insistan en el uso de estándares abiertos. Se terminó la conferencia desarrollando una de las muchas razones por que no le gustan a el conferencista los programas privativos de ofimática: Porque impide que usuarios den el salto al Software Libre.
 
+<br />
+
 <center>
 <img class="img-responsive" style="width:65%;height:auto;margin-right:12px;" src="https://farm9.staticflickr.com/8762/17086024540_6534a2ac4c_m.jpg" alt="Guivaloz" width="325" height="250">
 </center>
 
 En la segunda conferencia, **Datos Abiertos y el Software Libre en el Gobierno**, se nos habló de manera amena las libertades del Software Libre, de los fundadores de los proyectos GNU y Linux y, de la enorme ventaja que tenemos de usar los datos abiertos que proporciona el mismo gobierno; las ventajas de usarlos como lo han realizado en varios proyectos facilitando el acceso y la toma de desiciones. Concluyó su conferencia hablando de los proyectos que veremos en el futuro relacionados con el Software Libre.
+
+<br />
 
 <center>
 <img class="img-responsive" style="width:65%;height:auto;margin-right:12px;" src="https://farm8.staticflickr.com/7698/17273264605_b8ae07ec05_m.jpg" alt="DeathScytheH" width="325" height="250">
