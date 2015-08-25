@@ -21,7 +21,7 @@ Les adelantamos las personalidades con que contaremos para las conferencias:
 
 También contaremos con los siguientes talleres:
 
-* **Emprender con las TIC** impartido por Cecy Contreras Villarreal.
+* **Educación y libertad financiera, taller de cashflow** impartido por Cecy Contreras Villarreal.
 * **Git y Github** impartido por Guillermo Valdés Lozano **(IMPLAN)**.
 * **Comunicación entre computadoras por medios alternos** impartido por José Miguel Jáuregui García **(INAOE)**.
 
