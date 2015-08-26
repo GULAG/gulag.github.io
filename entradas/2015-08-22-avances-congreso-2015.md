@@ -13,11 +13,11 @@ Los días 25 y 26 de septiembre estaremos celebrando una edición mas del **Cong
 
 Les adelantamos las personalidades con que contaremos para las conferencias:
 
-* Laura Arjona **(Debian Women)**.
+* **No soy programadora, ¿cómo contribuyo al software libre?** por Laura Arjona **(Debian Women)**.
 * Alicia.
 * Guillermo Valdés Lozano **(IMPLAN)**.
-* Antonio Gurza **(Arkebit)**.
-* Ernesto Gutierrez Muñoz **(Arkebit)**.
+* **Técnicas Black Hat** por Antonio Gurza **(Arkebit)**.
+* **Un mundo conectado** por Ernesto Gutierrez Muñoz **(Arkebit)**.
 
 También contaremos con los siguientes talleres:
 
