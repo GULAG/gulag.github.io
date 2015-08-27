@@ -12,14 +12,14 @@ Los días 25 y 26 de septiembre estaremos celebrando una edición mas del **Cong
 Les adelantamos las personalidades con que contaremos para las conferencias:
 
 * **No soy programadora, ¿cómo contribuyo al software libre?** por Laura Arjona **(Debian Women)**.
-* Alicia.
+* Alejandra Sandoval Ibarra.
 * Guillermo Valdés Lozano **(IMPLAN)**.
 * **Técnicas Black Hat** por Antonio Gurza **(Arkebit)**.
 * **Un mundo conectado** por Ernesto Gutierrez Muñoz **(Arkebit)**.
 
 También contaremos con los siguientes talleres:
 
-* **Educación y libertad financiera, taller de cashflow** impartido por Cecy Contreras Villarreal.
+* **Educación y libertad financiera, taller de cashflow** impartido por Cecy Contreras Villarreal **(Coparmex)**.
 * **Git y Github** impartido por Guillermo Valdés Lozano **(IMPLAN)**.
 * **Comunicación entre computadoras por medios alternos** impartido por José Miguel Jáuregui García **(INAOE)**.
 
