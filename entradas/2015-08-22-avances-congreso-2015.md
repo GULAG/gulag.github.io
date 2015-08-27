@@ -5,11 +5,9 @@ Fecha: 2015-08-22 21:00
 Autor:  Chico
 Categorías: Eventos
 
-Próximamente: Congreso 2015.
+Los días 25 y 26 de septiembre estaremos celebrando una edición mas del **Congreso de Software Libre** el cual se celebrará en el **[Instituto Tecnológico Superior de Lerdo](http://itslerdo.edu.mx/)**.
 
 <!-- break -->
-
-Los días 25 y 26 de septiembre estaremos celebrando una edición mas del **Congreso de Software Libre** el cual se celebrará en el **[Instituto Tecnológico Superior de Lerdo](http://itslerdo.edu.mx/)**.
 
 Les adelantamos las personalidades con que contaremos para las conferencias:
 
