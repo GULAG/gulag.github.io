@@ -1,9 +1,11 @@
 Próximamente: Congreso 2015
 ==================================
 
-Fecha: 2015-08-22 21:00
+Fecha: 2015-08-30 21:00
 Autor:  Chico
 Categorías: Eventos
+
+![Poster Congreso 2015](2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg)
 
 Los días 25 y 26 de septiembre estaremos celebrando una edición mas del **Congreso de Software Libre** el cual se celebrará en el **[Instituto Tecnológico Superior de Lerdo](http://itslerdo.edu.mx/)**.
 
@@ -26,3 +28,7 @@ También contaremos con los siguientes talleres:
 La entrada a las conferencias y a los talleres será sin costo.
 
 Estén pendientes; pronto se abrirá el registro para los talleres.
+
+### Descargas
+
+* [Poster JPG 1200x1553](2015-09-25-congreso-2015/gulag-congreso-2015-poster.jpg)
