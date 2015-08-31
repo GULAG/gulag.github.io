@@ -15,14 +15,14 @@ Les adelantamos las personalidades con que contaremos para las conferencias:
 
 * **No soy programadora, ¿cómo contribuyo al software libre?** por Laura Arjona **(Debian Women)**.
 * **Desarrollo a la medida** por Alejandra Sandoval Ibarra.
-* Guillermo Valdés Lozano **(IMPLAN)**.
+* **Cómo ser un Científico de Datos** Guillermo Valdés Lozano **(IMPLAN Torreón)**.
 * **Técnicas Black Hat** por Antonio Gurza **(Arkebit)**.
 * **Un mundo conectado** por Ernesto Gutierrez Muñoz **(Arkebit)**.
 
 También contaremos con los siguientes talleres:
 
 * **Educación y libertad financiera, taller de cashflow** impartido por Cecy Contreras Villarreal **(Coparmex)**.
-* **Git y Github** impartido por Guillermo Valdés Lozano **(IMPLAN)**.
+* **Git y Github** impartido por Guillermo Valdés Lozano **(IMPLAN Torreón)**.
 * **Comunicación entre computadoras por medios alternos** impartido por José Miguel Jáuregui García **(INAOE)**.
 
 La entrada a las conferencias y a los talleres será sin costo.
