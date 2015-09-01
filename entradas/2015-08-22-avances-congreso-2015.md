@@ -31,4 +31,5 @@ Estén pendientes; pronto se abrirá el registro para los talleres.
 
 ### Descargas
 
-* [Poster JPG 1200x1553](2015-09-25-congreso-2015/gulag-congreso-2015-poster.jpg)
+* [Poster JPG 1530x1980 777 KB](2015-09-25-congreso-2015/gulag-congreso-2015-poster.jpg)
+* [Poster SVG Inkscape e imágenes 1.7 MB](2015-09-25-congreso-2015/gulag-congreso-2015-poster.tar.gz)
