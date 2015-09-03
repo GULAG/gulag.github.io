@@ -9,6 +9,19 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Congreso de Software Libre 2015</title>
+      <link>http://gulag.org.mx/entradas/2015-09-02-congreso-2015.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg&quot; alt=&quot;Poster Congreso 2015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con motivo del &lt;strong&gt;IX aniversario del Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y con el apoyo del &lt;strong&gt;&lt;a href=&quot;http://itslerdo.edu.mx/&quot;&gt;Instituto Tecnológico Superior de Lerdo&lt;/a&gt;&lt;/strong&gt;, se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; a celebrarse los días &lt;strong&gt;25 y 26 de septiembre&lt;/strong&gt; del presente año: el día &lt;strong&gt;25 iniciamos a las 14:00 horas&lt;/strong&gt; y el día &lt;strong&gt;26 a las 9:00 horas&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 02 Sep 2015 22:00:00 -0500</pubDate>
+      <dc:date>2015-09-02T22:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Próximamente: Congreso 2015</title>
       <link>http://gulag.org.mx/entradas/2015-08-22-avances-congreso-2015.html</link>
       <description>
@@ -144,17 +157,6 @@
       <author>Chico</author>
       <pubDate>Mon, 15 Dec 2014 12:00:00 -0600</pubDate>
       <dc:date>2014-12-15T12:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión ordinaria - Noviembre 2014</title>
-      <link>http://gulag.org.mx/entradas/2014-11-15-reunion-noviembre-2014.html</link>
-      <description>
-&lt;p&gt;El sábado 15 de noviembre se realizó la reunion ordinaria en Arkebit.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 16 Nov 2014 12:00:00 -0600</pubDate>
-      <dc:date>2014-11-16T12:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
