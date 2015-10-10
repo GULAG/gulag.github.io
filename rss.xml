@@ -9,6 +9,19 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Resumen del Congreso de Software Libre 2015</title>
+      <link>http://gulag.org.mx/entradas/2015-09-27-resumen-congreso-2015.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg&quot; alt=&quot;Poster Congreso 2015&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Durante los días 25 y 26 de septiembre del 2015 se celebró un aniversario más del &lt;strong&gt;Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y como siempre se realizó con un ciclo de conferencias y talleres de lo mas variado, pero todas girando en torno al software libre.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 27 Sep 2015 12:40:00 -0500</pubDate>
+      <dc:date>2015-09-27T12:40:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Congreso de Software Libre 2015</title>
       <link>http://gulag.org.mx/entradas/2015-09-02-congreso-2015.html</link>
       <description>
@@ -146,17 +159,6 @@
       <author>Chico</author>
       <pubDate>Sat, 14 Feb 2015 16:00:00 -0600</pubDate>
       <dc:date>2015-02-14T16:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión ordinaria - Diciembre 2014</title>
-      <link>http://gulag.org.mx/entradas/2014-12-15-reunion-diciembre-2014.html</link>
-      <description>
-&lt;p&gt;El sábado 13 de diciembre se realizó la reunion ordinaria en Arkebit…&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Mon, 15 Dec 2014 12:00:00 -0600</pubDate>
-      <dc:date>2014-12-15T12:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
