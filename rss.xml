@@ -9,6 +9,24 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title></title>
+      <link>http://gulag.org.mx/entradas/2016-03-21-primer-analisis-de-datos-abiertos-en-seguridad-vial.html</link>
+      <description>&lt;h1 id=&quot;anlisis-de-los-datos-abiertos-de-seguridad-vial&quot;&gt;Análisis de los datos abiertos de seguridad vial&lt;/h1&gt;
+
+&lt;h3 id=&quot;red-mxico-abierto&quot;&gt;Red México Abierto&lt;/h3&gt;
+
+&lt;p&gt;Red México abierto es la iniciativa del Gobierno Federal cuya meta es la incorporación de las entidades e instituciones de todos los niveles de gobierno en un gran número políticas y prácticas que se engloban con el concepto de gobierno abierto.&lt;/p&gt;
+
+&lt;p&gt;El gobierno en todo su conjunto ha sido y será el principal generador de datos; sin ser obligadamente el que más datos tiene. Uno de sus principales objetivos del gobierno es el otorgar servicios públicos de calidad, en tiempo y a todas las personas; algo que ha hecho en su historia al recolectar, administrar y difundir información, siempre en aras de que sus labores sean más eficientes.&lt;/p&gt;
+
+&lt;p&gt;En la teoría se ve bien, en la práctica queda evidente tanto el retraso en el uso de nuevas tecnologías como la modernización de sus políticas y reglamentos que incentiven su incorporación. Es ahí donde Red México Abierto opera como catalizador para capacitar, documentar y difundir prácticas de gobierno abierto.&lt;/p&gt;
+
+</description>
+      <author>guivaloz</author>
+      <pubDate>Mon, 21 Mar 2016 14:00:00 -0600</pubDate>
+      <dc:date>2016-03-21T14:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Resumen del Congreso de Software Libre 2015</title>
       <link>http://gulag.org.mx/entradas/2015-09-27-resumen-congreso-2015.html</link>
       <description>
@@ -148,17 +166,6 @@
       <author>Chico</author>
       <pubDate>Sun, 22 Mar 2015 23:00:00 -0600</pubDate>
       <dc:date>2015-03-22T23:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión ordinaria - Febrero 2015</title>
-      <link>http://gulag.org.mx/entradas/2015-02-09-reunion-febrero-2015.html</link>
-      <description>
-&lt;p&gt;El sábado 14 de febrero se realizó la reunion ordinaria.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 14 Feb 2015 16:00:00 -0600</pubDate>
-      <dc:date>2015-02-14T16:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
