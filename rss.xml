@@ -9,6 +9,19 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>FLISOL 2016</title>
+      <link>http://gulag.org.mx/entradas/2016-04-14-flisol.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;2016-04-14-flisol/flisol-2016-small.png&quot; alt=&quot;FLISOL 2016&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con el objetivo de promover y difundir el uso de Software Libre, el próximo &lt;strong&gt;martes 19 de Abril de 2016&lt;/strong&gt; se llevará a cabo el &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/strong&gt; en la &lt;strong&gt;Escuela de Sistemas&lt;/strong&gt;, de la UAdeC, en &lt;strong&gt;&lt;a href=&quot;http://flisol.info/FLISOL2016/Mexico/Torreon&quot;&gt;Torreón, Coahuila, México&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Thu, 14 Apr 2016 01:00:00 -0500</pubDate>
+      <dc:date>2016-04-14T01:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title></title>
       <link>http://gulag.org.mx/entradas/2016-03-21-primer-analisis-de-datos-abiertos-en-seguridad-vial.html</link>
       <description>&lt;h1 id=&quot;anlisis-de-los-datos-abiertos-de-seguridad-vial&quot;&gt;Análisis de los datos abiertos de seguridad vial&lt;/h1&gt;
@@ -155,17 +168,6 @@
       <author>Chico</author>
       <pubDate>Wed, 25 Mar 2015 23:00:00 -0600</pubDate>
       <dc:date>2015-03-25T23:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Document Freedom Day 2015 en Torreón</title>
-      <link>http://gulag.org.mx/entradas/2015-03-22-DFD2015.html</link>
-      <description>
-&lt;p&gt;El próximo &lt;strong&gt;25 de marzo&lt;/strong&gt; se celebrará el &lt;strong&gt;Document Freedom Day&lt;/strong&gt; en Torreón con una conferencia en la Escuela de Sistemas de la UAdeC.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 22 Mar 2015 23:00:00 -0600</pubDate>
-      <dc:date>2015-03-22T23:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
