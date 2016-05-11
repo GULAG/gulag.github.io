@@ -11,6 +11,6 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 ### Artículos publicados
 
-**Mayo 2016** [Flisol 2016](http://www.gulag.org.mx/) _Por Chico_
+**Mayo 2016** [Flisol 2016](http://www.gulag.org.mx/entradas/2016-05-10-Bits-Libres-Flisol-2016.html) _Por Chico_
 
 
