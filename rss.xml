@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - FLISOL 2016</title>
+      <link>http://gulag.org.mx/entradas/2016-05-10-Bits-Libres-Flisol-2016.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en mayo del 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 10 May 2016 21:03:00 -0500</pubDate>
+      <dc:date>2016-05-10T21:03:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Sobre la sección Bits Libres</title>
       <link>http://gulag.org.mx/revista/2016-05-10-Bits-Libres.html</link>
       <description>
@@ -101,17 +112,6 @@
       <author>Chico</author>
       <pubDate>Sun, 30 Aug 2015 21:00:00 -0500</pubDate>
       <dc:date>2015-08-30T21:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Resumen del FLISOL 2015</title>
-      <link>http://gulag.org.mx/entradas/2015-04-26-resumen-flisol.html</link>
-      <description>
-&lt;p&gt;&lt;img src=&quot;2015-04-25-flisol/flisol-2015-poster-0480.jpg&quot; alt=&quot;Poster FLISOL 2015&quot; /&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 26 Apr 2015 11:00:00 -0500</pubDate>
-      <dc:date>2015-04-26T11:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
