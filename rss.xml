@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - Datos Abiertos</title>
+      <link>http://gulag.org.mx/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 14 Jun 2016 17:10:00 -0500</pubDate>
+      <dc:date>2016-06-14T17:10:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - FLISOL 2016</title>
       <link>http://gulag.org.mx/entradas/2016-05-10-Bits-Libres-Flisol-2016.html</link>
       <description>
@@ -99,19 +110,6 @@
       <author>Chico</author>
       <pubDate>Wed, 02 Sep 2015 22:00:00 -0500</pubDate>
       <dc:date>2015-09-02T22:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Próximamente: Congreso 2015</title>
-      <link>http://gulag.org.mx/entradas/2015-08-22-avances-congreso-2015.html</link>
-      <description>
-&lt;p&gt;&lt;img src=&quot;2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg&quot; alt=&quot;Poster Congreso 2015&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Los días 25 y 26 de septiembre estaremos celebrando una edición mas del &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; el cual se celebrará en el &lt;strong&gt;&lt;a href=&quot;http://itslerdo.edu.mx/&quot;&gt;Instituto Tecnológico Superior de Lerdo&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 30 Aug 2015 21:00:00 -0500</pubDate>
-      <dc:date>2015-08-30T21:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
