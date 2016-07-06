@@ -11,6 +11,10 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 ### Artículos publicados
 
+**Julio 2016** [Ranking de universidades en Software Libre](http://www.gulag.org.mx/entradas/2016-05-10-Bits-Libres-Flisol-2016.html) _Por Chico_
+
+**Junio 2016** [Datos Abiertos](http://www.gulag.org.mx/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html) _Por Chico_
+
 **Mayo 2016** [Flisol 2016](http://www.gulag.org.mx/entradas/2016-05-10-Bits-Libres-Flisol-2016.html) _Por Chico_
 
 
