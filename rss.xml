@@ -10,6 +10,17 @@
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
       <title>Bits Libres - Datos Abiertos</title>
+      <link>http://gulag.org.mx/entradas/2016-07-05-Bits-Libres-RuSL.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en julio del 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 05 Jul 2016 23:30:00 -0500</pubDate>
+      <dc:date>2016-07-05T23:30:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Bits Libres - Datos Abiertos</title>
       <link>http://gulag.org.mx/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html</link>
       <description>
 &lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2016&lt;/em&gt;&lt;/p&gt;
@@ -97,19 +108,6 @@
       <author>Chico</author>
       <pubDate>Sun, 27 Sep 2015 12:40:00 -0500</pubDate>
       <dc:date>2015-09-27T12:40:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Congreso de Software Libre 2015</title>
-      <link>http://gulag.org.mx/entradas/2015-09-02-congreso-2015.html</link>
-      <description>
-&lt;p&gt;&lt;img src=&quot;2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg&quot; alt=&quot;Poster Congreso 2015&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Con motivo del &lt;strong&gt;IX aniversario del Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y con el apoyo del &lt;strong&gt;&lt;a href=&quot;http://itslerdo.edu.mx/&quot;&gt;Instituto Tecnológico Superior de Lerdo&lt;/a&gt;&lt;/strong&gt;, se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; a celebrarse los días &lt;strong&gt;25 y 26 de septiembre&lt;/strong&gt; del presente año: el día &lt;strong&gt;25 iniciamos a las 14:00 horas&lt;/strong&gt; y el día &lt;strong&gt;26 a las 9:00 horas&lt;/strong&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Wed, 02 Sep 2015 22:00:00 -0500</pubDate>
-      <dc:date>2015-09-02T22:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
