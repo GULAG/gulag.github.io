@@ -13,7 +13,7 @@ Sede, conferencias y talleres estan listos para el Congreso 2016.
 
 <!-- break -->
 
-Los próximos **24 y 25 de septiembre del 2016**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso** el cual se celebrará en la **Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna.**.
+Los próximos **23 y 24 de septiembre del 2016**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso** el cual se celebrará en la **Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna.**.
 
 Se tendrán las siguientes conferencias:
 
@@ -33,6 +33,6 @@ La entrada a las conferencias y a los talleres será, como siempre, **sin costo*
 
 **Estén pendientes; pronto se abrirá el registro para las conferencias y los talleres.**
 
-Reserven en sus agendas los días **24 y 25 de septiembre del 2016**.
+Reserven en sus agendas los días **23 y 24 de septiembre del 2016**.
 
 Los esperamos :-D
