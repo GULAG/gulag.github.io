@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - Tux en el espacio</title>
+      <link>http://gulag.org.mx/entradas/2016-08-10-Bits-Libres-Tux-Espacio.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en julio del 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 10 Aug 2016 22:00:00 -0500</pubDate>
+      <dc:date>2016-08-10T22:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Ranking de universidades en Software Libre</title>
       <link>http://gulag.org.mx/entradas/2016-07-05-Bits-Libres-RuSL.html</link>
       <description>
@@ -95,19 +106,6 @@
       <author>guivaloz</author>
       <pubDate>Mon, 21 Mar 2016 14:00:00 -0600</pubDate>
       <dc:date>2016-03-21T14:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Resumen del Congreso de Software Libre 2015</title>
-      <link>http://gulag.org.mx/entradas/2015-09-27-resumen-congreso-2015.html</link>
-      <description>
-&lt;p&gt;&lt;img src=&quot;2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg&quot; alt=&quot;Poster Congreso 2015&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Durante los días 25 y 26 de septiembre del 2015 se celebró un aniversario más del &lt;strong&gt;Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y como siempre se realizó con un ciclo de conferencias y talleres de lo mas variado, pero todas girando en torno al software libre.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 27 Sep 2015 12:40:00 -0500</pubDate>
-      <dc:date>2015-09-27T12:40:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
