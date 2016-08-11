@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Próximamente: Congreso 2016</title>
+      <link>http://gulag.org.mx/entradas/2016-08-11-avances-congreso-2016.html</link>
+      <description>
+&lt;p&gt;Sede, conferencias y talleres estan listos para el Congreso 2016.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2016-08-11-avances-congreso-2016/LogoTecVertical-03.png&quot; alt=&quot;Sede Congreso 2016&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Thu, 11 Aug 2016 10:00:00 -0500</pubDate>
+      <dc:date>2016-08-11T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Tux en el espacio</title>
       <link>http://gulag.org.mx/entradas/2016-08-10-Bits-Libres-Tux-Espacio.html</link>
       <description>
@@ -88,24 +103,6 @@
       <author>Chico</author>
       <pubDate>Thu, 14 Apr 2016 01:00:00 -0500</pubDate>
       <dc:date>2016-04-14T01:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title></title>
-      <link>http://gulag.org.mx/entradas/2016-03-21-primer-analisis-de-datos-abiertos-en-seguridad-vial.html</link>
-      <description>&lt;h1 id=&quot;anlisis-de-los-datos-abiertos-de-seguridad-vial&quot;&gt;Análisis de los datos abiertos de seguridad vial&lt;/h1&gt;
-
-&lt;h3 id=&quot;red-mxico-abierto&quot;&gt;Red México Abierto&lt;/h3&gt;
-
-&lt;p&gt;Red México abierto es la iniciativa del Gobierno Federal cuya meta es la incorporación de las entidades e instituciones de todos los niveles de gobierno en un gran número políticas y prácticas que se engloban con el concepto de gobierno abierto.&lt;/p&gt;
-
-&lt;p&gt;El gobierno en todo su conjunto ha sido y será el principal generador de datos; sin ser obligadamente el que más datos tiene. Uno de sus principales objetivos del gobierno es el otorgar servicios públicos de calidad, en tiempo y a todas las personas; algo que ha hecho en su historia al recolectar, administrar y difundir información, siempre en aras de que sus labores sean más eficientes.&lt;/p&gt;
-
-&lt;p&gt;En la teoría se ve bien, en la práctica queda evidente tanto el retraso en el uso de nuevas tecnologías como la modernización de sus políticas y reglamentos que incentiven su incorporación. Es ahí donde Red México Abierto opera como catalizador para capacitar, documentar y difundir prácticas de gobierno abierto.&lt;/p&gt;
-
-</description>
-      <author>guivaloz</author>
-      <pubDate>Mon, 21 Mar 2016 14:00:00 -0600</pubDate>
-      <dc:date>2016-03-21T14:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
