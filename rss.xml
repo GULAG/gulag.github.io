@@ -10,10 +10,51 @@
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
       <title>Congreso de Software Libre 2016</title>
-      <link>http://gulag.org.mx/entradas/congreso-2016.html</link>
+      <link>http://gulag.org.mx/entradas/2016-09-23-congreso.html</link>
       <description>
+&lt;p&gt;&lt;a class=&quot;img-responsive&quot; href=&quot;2016-09-23-congreso-2016/gulag-congreso-2016-poster.png&quot;&gt;&lt;img src=&quot;2016-09-23-congreso-2016/gulag-congreso-2016-poster-small.jpg&quot; alt=&quot;Congreso Software Libre 2016&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Con motivo de un año más de aniversario del &lt;strong&gt;Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y con el apoyo de la &lt;strong&gt;Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna&lt;/strong&gt;, se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; a celebrarse los días &lt;strong&gt;23 y 24 de septiembre del 2016&lt;/strong&gt;.&lt;/p&gt;
 
+&lt;p&gt;El &lt;strong&gt;viernes 23 de septiembre&lt;/strong&gt; iniciaremos en punto de las 16:00 horas y se tendrán las siguientes conferencias:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;¿Cuándo migrar de una base de datos relacional a Hadoop?&lt;/strong&gt; por &lt;strong&gt;Roberto Andrade Fonseca&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Los gobiernos y las armas digitales&lt;/strong&gt; por &lt;strong&gt;Antonio Gurza&lt;/strong&gt; (Arkebit)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emprendiendo tu libertad financiera&lt;/strong&gt; por &lt;strong&gt;Ernesto Emmanuel Gutiérrez Muñoz&lt;/strong&gt; (Arkebit)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Seguridad informática en el mundo real&lt;/strong&gt; por &lt;strong&gt;Ernesto Cobos Gamón&lt;/strong&gt; (GULAG)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;El &lt;strong&gt;sábado 24 de septiembre&lt;/strong&gt; iniciaremos en punto de las 9:00 horas y se tendrán los siguientes talleres:&lt;/p&gt;
+
+&lt;p&gt;También contaremos con los siguientes talleres:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visualización de datos con R&lt;/strong&gt; por &lt;strong&gt;Roberto Andrade Fonseca&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Programas que hacen programas: GenesisPHP&lt;/strong&gt; por &lt;strong&gt;Guillermo Valdés Lozano&lt;/strong&gt; (IMPLAN Torreón)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Implementación Autokey y Sikuli&lt;/strong&gt; por &lt;strong&gt;José Miguel Jáuregui García&lt;/strong&gt; (INAOE)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para estos talleres los asistentes llevaran sus equipos portatiles.&lt;/p&gt;
+
+&lt;p&gt;Estamos preparando más sorpresas.&lt;/p&gt;
+
+&lt;p&gt;Los talleres son de &lt;strong&gt;CUPO LIMITADO&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La entrada a las conferencias y a los talleres será, como siempre, &lt;strong&gt;sin costo&lt;/strong&gt;; solamente deben de registrarse: &lt;strong&gt;En breve se abrirá el registro&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Reserven en sus agendas los días &lt;strong&gt;23 y 24 de septiembre del 2016&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los esperamos :-D&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vive libre, sé libre, usa software libre.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;descargas&quot;&gt;Descargas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;2016-09-23-congreso-2016/gulag-congreso-2016-poster.png&quot;&gt;Poster Congreso de Software Libre 2016 alta resolución&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GULAG/gulag.github.io/tree/master/entradas/2016-09-23-congreso-2016&quot;&gt;Poster archivos fuente en GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
       <author>Chico</author>
       <pubDate>Thu, 25 Aug 2016 21:00:00 -0500</pubDate>
