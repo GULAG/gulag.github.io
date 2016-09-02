@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="gulag-congreso-2016-poster.svg"
-   inkscape:export-filename="/home/guivaloz/Documentos/GULAG/Congreso-2015/GULAG Congreso 2015 Poster.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/guivaloz/Documentos/GitHub/GULAG/gulag.github.io/entradas/2016-09-23-congreso-2016/gulag-congreso-2016-poster.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs10457">
     <linearGradient
@@ -671,9 +671,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41262626"
-     inkscape:cx="765"
-     inkscape:cy="990"
+     inkscape:zoom="1.1089331"
+     inkscape:cx="1045.7405"
+     inkscape:cy="360.40683"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -694,7 +694,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -707,12 +707,12 @@
     <image
        sodipodi:absref="/home/guivaloz/Documentos/GitHub/GULAG/gulag.github.io/entradas/2016-09-23-congreso-2016/poster-fondo.jpg"
        xlink:href="poster-fondo.jpg"
-       width="602.40002"
-       height="1983.6"
-       preserveAspectRatio="none"
-       id="image6172"
+       y="-0.35091969"
        x="-12.065457"
-       y="-0.35091969" />
+       id="image6172"
+       preserveAspectRatio="none"
+       height="1983.6"
+       width="602.40002" />
     <rect
        style="fill:url(#linearGradient7005);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect6177"
@@ -3210,9 +3210,11 @@
          sodipodi:role="line"
          id="tspan3927"><tspan
            id="tspan4713"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">La entrada a las conferencias y talleres NO TIENE NINGUN COSTO</tspan><tspan
-           style="font-size:20px;fill:#333333"
-           id="tspan3763">. </tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1">La entrada a las conferencias y talleres <tspan
+   style="-inkscape-font-specification:'Bitstream Vera Sans Bold';font-family:'Bitstream Vera Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4007">NO TIENE NINGUN COSTO</tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#333333"
+           id="tspan3763"> .</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
@@ -3268,13 +3270,19 @@
        transform="matrix(1.4871059,0,0,1.4871059,-887.96203,-1017.9693)"><flowRegion
          id="flowRegion7683"><rect
            id="rect7685"
-           width="580.12067"
-           height="82.611893"
+           width="583.75903"
+           height="81.399094"
            x="1003.9496"
            y="313.49115"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a05a2c" /></flowRegion><flowPara
          id="flowPara7687"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.76782322px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Con motivo de un año más de aniversario del Grupo de Usuarios de GNU/Linux de La Laguna (GULAG), y con el apoyo de la Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna, se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al Congreso de Software Libre a celebrarse los días 23 y 24 de septiembre del 2016.</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.92726483px;line-height:140%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Con motivo de un año más de aniversario del <flowSpan
+   style="-inkscape-font-specification:'Bitstream Vera Sans Bold';font-family:'Bitstream Vera Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;line-height:140%;font-size:10.92726483px"
+   id="flowSpan3997">Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)</flowSpan>, y con el apoyo de la <flowSpan
+   style="-inkscape-font-specification:'Bitstream Vera Sans Bold';font-family:'Bitstream Vera Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;line-height:140%;font-size:10.92726483px"
+   id="flowSpan3999">Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna,</flowSpan> se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al <flowSpan
+   style="-inkscape-font-specification:'Bitstream Vera Sans Bold';font-family:'Bitstream Vera Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;line-height:140%;font-size:10.92726483px"
+   id="flowSpan4001">Congreso de Software Libre</flowSpan> a celebrarse los días 23 y 24 de septiembre del 2016.</flowPara></flowRoot>    <g
        style="display:inline"
        id="layer1-3"
        inkscape:label="Layer 1"
@@ -3444,28 +3452,6 @@
          y="1029.8445"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:end;writing-mode:lr-tb;text-anchor:end">http://creativecommons.org/licenses/by-nc-sa/2.5/mx/</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1467.8978"
-       y="934.47125"
-       id="text4253"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4255"
-         x="1471.7181"
-         y="934.47125"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;writing-mode:lr-tb;text-anchor:end">Imagen con efectos de la </tspan><tspan
-         sodipodi:role="line"
-         x="1467.8978"
-         y="949.47125"
-         id="tspan3724"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;writing-mode:lr-tb;text-anchor:end">&quot;Torre del Reloj&quot; de Lerdo, Dgo.</tspan><tspan
-         sodipodi:role="line"
-         x="1467.8978"
-         y="964.47125"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:end;writing-mode:lr-tb;text-anchor:end"
-         id="tspan3702">Hecho con GIMP e Inkscape por guivaloz.</tspan></text>
-    <text
        id="text4257"
        y="37.56855"
        x="604.7168"
@@ -3504,12 +3490,12 @@
     <text
        sodipodi:linespacing="120%"
        id="text4319"
-       y="473.20291"
+       y="475.20291"
        x="605.41791"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:120.00000477%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:120.00000477%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1"
-         y="473.20291"
+         y="475.20291"
          x="605.41791"
          sodipodi:role="line"
          id="tspan4329">Torreón, Coahuila</tspan></text>
@@ -3582,12 +3568,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
        x="605.3064"
-       y="185.71156"
+       y="187.71156"
        id="text5209"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
          x="605.3064"
-         y="185.71156"
+         y="187.71156"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
          id="tspan5211">Roberto Andrade Fonseca</tspan></text>
     <text
@@ -3604,26 +3590,26 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:100.99999905%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008066;fill-opacity:1">Los gobiernos y las armas digitales</tspan></text>
     <text
        id="text5221"
-       y="226.56941"
+       y="230.56941"
        x="603.58887"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:100.99999905%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#008066;fill-opacity:1;stroke:none"
        xml:space="preserve"
        sodipodi:linespacing="101%"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:100.99999905%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008066;fill-opacity:1"
-         y="226.56941"
+         y="230.56941"
          x="603.58887"
          id="tspan5223"
          sodipodi:role="line">Programas que hacen programas: GenesisPHP</tspan></text>
     <text
        sodipodi:linespacing="110%"
        id="text5225"
-       y="253.86452"
+       y="257.8645"
        x="606.04126"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan5227"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1"
-         y="253.86452"
+         y="257.8645"
          x="606.04126"
          sodipodi:role="line">Guillermo Valdés (guivaloz)</tspan></text>
     <text
@@ -3675,7 +3661,11 @@
          x="605.41791"
          sodipodi:role="line"><tspan
            style="font-size:20px;fill:#333333"
-           id="tspan3765">Los talleres son de CUPO LIMITADO. Requieren que lleven su propia laptop.</tspan></tspan></text>
+           id="tspan3765">Los talleres son de <tspan
+   style="-inkscape-font-specification:'Bitstream Vera Sans Bold';font-family:'Bitstream Vera Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4003">CUPO LIMITADO</tspan>. <tspan
+   style="-inkscape-font-specification:'Bitstream Vera Sans Bold';font-family:'Bitstream Vera Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4005">Requieren que lleven su propia laptop</tspan>.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#aa00d4;fill-opacity:1;stroke:none"
@@ -3715,42 +3705,42 @@
     <image
        sodipodi:absref="/home/guivaloz/Documentos/GitHub/GULAG/gulag.github.io/entradas/2016-09-23-congreso-2016/tecnologico-de-monterrey.png"
        xlink:href="tecnologico-de-monterrey.png"
-       width="264.39899"
-       height="264.39899"
-       preserveAspectRatio="none"
-       id="image4706"
+       y="256.16553"
        x="1189.6174"
-       y="264.16553" />
+       id="image4706"
+       preserveAspectRatio="none"
+       height="264.39899"
+       width="264.39899" />
     <text
        sodipodi:linespacing="110%"
        id="text4709"
-       y="449.58878"
+       y="451.58878"
        x="605.41791"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#006680;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4711"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#006680;fill-opacity:1"
-         y="449.58878"
+         y="451.58878"
          x="605.41791"
          sodipodi:role="line">Campus Laguna</tspan></text>
     <image
        sodipodi:absref="/home/guivaloz/Documentos/GitHub/GULAG/gulag.github.io/entradas/2016-09-23-congreso-2016/inaoe.png"
        xlink:href="inaoe.png"
-       width="151.57394"
-       height="151.57394"
-       preserveAspectRatio="none"
-       id="image5410"
+       y="691.42236"
        x="1011.2369"
-       y="691.42236" />
+       id="image5410"
+       preserveAspectRatio="none"
+       height="151.57394"
+       width="151.57394" />
     <image
        sodipodi:absref="/home/guivaloz/Documentos/GitHub/GULAG/gulag.github.io/entradas/2016-09-23-congreso-2016/incubadora-de-empresas.png"
        xlink:href="incubadora-de-empresas.png"
-       width="375.16141"
-       height="160.78346"
-       preserveAspectRatio="none"
-       id="image6106"
+       y="681.07019"
        x="606.09729"
-       y="681.07019" />
+       id="image6106"
+       preserveAspectRatio="none"
+       height="160.78346"
+       width="375.16141" />
   </g>
   <text
      xml:space="preserve"
