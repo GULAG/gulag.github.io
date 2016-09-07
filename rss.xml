@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - Congreso Software Libre</title>
+      <link>http://gulag.org.mx/entradas/2016-09-07-Bits-Libres-Congreso-Software-Libre.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 07 Sep 2016 18:00:00 -0500</pubDate>
+      <dc:date>2016-09-07T18:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Congreso de Software Libre 2016</title>
       <link>http://gulag.org.mx/entradas/2016-09-23-congreso.html</link>
       <description>
@@ -129,19 +140,6 @@
       <author>Chico</author>
       <pubDate>Tue, 10 May 2016 00:00:00 -0500</pubDate>
       <dc:date>2016-05-10T00:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Resumen del FLISOL 2016</title>
-      <link>http://gulag.org.mx/entradas/2016-04-25-resumen-flisol.html</link>
-      <description>
-&lt;p&gt;&lt;img src=&quot;2016-04-14-flisol/flisol-poster-2016-002-small.jpg&quot; alt=&quot;FLISOL 2016&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Con el objetivo de promover y difundir el uso de Software Libre, el martes 19 de Abril del 2016 se llevó a cabo el &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/strong&gt; en la &lt;strong&gt;Escuela de Sistemas&lt;/strong&gt;, de la UAdeC, en &lt;strong&gt;&lt;a href=&quot;http://flisol.info/FLISOL2016/Mexico/Torreon&quot;&gt;Torreón, Coahuila, México&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Mon, 25 Apr 2016 10:00:00 -0500</pubDate>
-      <dc:date>2016-04-25T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
