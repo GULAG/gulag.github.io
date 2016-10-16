@@ -28,7 +28,7 @@ Después el respetable aprendió con la conferencia **Geek Entrepreneur** de __E
 __Roberto Andrade Fonseca__  (Data Diggers) cerró las conferencias del día con el tema **¿Cuándo migrar de una base de datos relacional a Hadoop?**.
 
 <center>
-<a class="img-responsive" href="2016-09-25-resumen-congreso/ConferenciaRoberto.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2016-09-25-resumen-congreso/ConferenciaRoberto.jpg" alt="Conferencia Roberto Congreso Software Libre 2016" width="325" height="250"></a>
+<a class="img-responsive" href="2016-09-25-resumen-congreso/ConferenciaRoberto2.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2016-09-25-resumen-congreso/ConferenciaRoberto2.jpg" alt="Conferencia Roberto Congreso Software Libre 2016" width="325" height="250"></a>
 </center>
 
 El sábado 24 de septiembre iniciamos con talleres simultaneos para todos aquellas personas que se registraron:
