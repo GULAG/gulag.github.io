@@ -5,7 +5,7 @@ Fecha: 2016-08-10 22:00
 Autor: Chico
 Categorías: Revista
 
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en julio del 2016_
+_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en agosto del 2016_
 
 <!-- break -->
 
