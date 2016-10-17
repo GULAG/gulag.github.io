@@ -9,17 +9,6 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
-      <title>Bits Libres - Congreso Software Libre</title>
-      <link>http://gulag.org.mx/entradas/2016-09-07-Bits-Libres-Congreso-Software-Libre.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2016&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Wed, 07 Sep 2016 18:00:00 -0500</pubDate>
-      <dc:date>2016-09-07T18:00:00-05:00</dc:date>
-    </item>
-    <item>
       <title>Resumen del Congreso de Software Libre 2016</title>
       <link>http://gulag.org.mx/entradas/2016-09-25-resumen-congreso.html</link>
       <description>
@@ -71,8 +60,8 @@
 &lt;/ul&gt;
 </description>
       <author>Chico</author>
-      <pubDate>Thu, 25 Aug 2016 23:00:00 -0500</pubDate>
-      <dc:date>2016-08-25T23:00:00-05:00</dc:date>
+      <pubDate>Sun, 25 Sep 2016 23:00:00 -0500</pubDate>
+      <dc:date>2016-09-25T23:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Congreso de Software Libre 2016</title>
@@ -145,8 +134,19 @@
 &lt;/ul&gt;
 </description>
       <author>Chico</author>
-      <pubDate>Thu, 25 Aug 2016 21:00:00 -0500</pubDate>
-      <dc:date>2016-08-25T21:00:00-05:00</dc:date>
+      <pubDate>Thu, 08 Sep 2016 21:00:00 -0500</pubDate>
+      <dc:date>2016-09-08T21:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Bits Libres - Congreso Software Libre</title>
+      <link>http://gulag.org.mx/entradas/2016-09-07-Bits-Libres-Congreso-Software-Libre.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2016&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 07 Sep 2016 18:00:00 -0500</pubDate>
+      <dc:date>2016-09-07T18:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Próximamente: Congreso 2016</title>

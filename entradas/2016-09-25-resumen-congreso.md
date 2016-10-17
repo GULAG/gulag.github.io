@@ -1,7 +1,7 @@
 Resumen del Congreso de Software Libre 2016
 ==================================
 
-Fecha: 2016-08-25 23:00
+Fecha: 2016-09-25 23:00
 Autor:  Chico
 Categorías: Eventos
 
