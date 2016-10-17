@@ -9,6 +9,20 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Reunión octubre 2016</title>
+      <link>http://gulag.org.mx/entradas/2016-10-09-reunion-octubre.html</link>
+      <description>
+&lt;p&gt;El pasado sábado 8 de octubre, se efectuó la reunión mensual ordinaria del GULAG, en las instalaciones de Arkebit contando con la asistencia de un nutrido grupo de jóvenes quienes se manifestaron interesados en seguir asistiendo, aprendiendo y compartiendo la filosofía del Software Libre.&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión Zerial Killer nos habló sobre USB Rubber Ducky, una interesante herramienta para probar la seguridad de los sistemas, pero desde el lado de las cuestiones físicas o hardware y políticas de acceso a dispositivos usb; y las múltiples  opciones que se pueden tener con el dispositivo a través de pequeños programas o scripts, las cuales se pueden utilizar para dejar simples mensajes o hasta para inyectar algún código malicioso a un equipo, dónde el límite es el conocimiento y la imaginación.&lt;/p&gt;
+
+&lt;p&gt;También se habló de las próximas actividades para las reuniones de noviembre y diciembre.&lt;/p&gt;
+</description>
+      <author>Guabyboy</author>
+      <pubDate>Sun, 09 Oct 2016 23:00:00 -0500</pubDate>
+      <dc:date>2016-10-09T23:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Soberanía Tecnológica</title>
       <link>http://gulag.org.mx/entradas/2016-10-05-Bits-Libres-Soberania-Tecnologica.html</link>
       <description>
@@ -138,17 +152,6 @@
       <author>Chico</author>
       <pubDate>Tue, 05 Jul 2016 23:30:00 -0500</pubDate>
       <dc:date>2016-07-05T23:30:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Datos Abiertos</title>
-      <link>http://gulag.org.mx/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2016&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Tue, 14 Jun 2016 17:10:00 -0500</pubDate>
-      <dc:date>2016-06-14T17:10:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
