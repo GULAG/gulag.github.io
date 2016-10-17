@@ -13,7 +13,7 @@ Con motivo de un año más de aniversario del **Grupo de Usuarios de GNU/Linux d
 <a class="img-responsive" href="2016-09-25-resumen-congreso/Asistentes.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2016-09-25-resumen-congreso/Asistentes.jpg" alt="Asistentes Conferencias Congreso Software Libre 2016" width="325" height="250"></a>
 </center>
 
-Se contó con la asistencia de más de 180 personas entre estudiantes y maestros delas universidades de la Comarca Lagunera de Coahuila y de Durango, empresarios, hackers y público en general quienes aprendieron de las conferencias y talleres que para ellos se preparó.
+Se contó con la asistencia de más de 180 personas entre estudiantes y maestros de las universidades de la Comarca Lagunera de Coahuila y de Durango, empresarios, hackers y público en general quienes aprendieron de las conferencias y talleres que para ellos se preparó.
 
 El **viernes 23 de septiembre** se inició con la conferencia **Seguridad informática en el mundo real** por __Ernesto Cobos Gamón__ (GULAG).
 
@@ -38,6 +38,10 @@ El sábado 24 de septiembre iniciamos con talleres simultaneos para todos aquell
 * **Implementación Autokey y Sikuli** por __José Miguel Jáuregui García__ (INAOE)
 
 La entrada a las conferencias y a los talleres fue, como siempre, **sin costo**.
+
+Agradecemos la participación y apoyo de los patrocinadores.
+
+De igual manera agradecemos a todos los miembros del GULAG que de una u otra forma colaborarón para la realización de este congreso.
 
 Los esperamos el siguiente año :-D
 
