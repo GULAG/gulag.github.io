@@ -14,3 +14,9 @@ Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12
 [Guivaloz](http://www.movimientolibre.com/) estará con nosotros explicando [GenesisPHP](https://github.com/guivaloz/GenesisPHP) y con el cual se hará un ejercicio completo, esto es, un sistema básico desde cero.
 
 Todas nuestras reuniones son el segundo sábado de cada mes, y la __entrada es libre.__
+
+Aquí una invitación de nuestro anfitrión:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hWFb54m5XhM" frameborder="0" allowfullscreen></iframe>
+</center>
