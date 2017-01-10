@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a Reunión enero 2017</title>
+      <link>http://gulag.org.mx/entradas/2017-01-10-invitacion-reunion-enero.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de enero&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Arkebit a las 5:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 10 Jan 2017 13:30:00 -0600</pubDate>
+      <dc:date>2017-01-10T13:30:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Ser nuestros propios Hackers</title>
       <link>http://gulag.org.mx/entradas/2016-12-10-Bits-Libres-Ser-Nuestro-Propio-Hacker.html</link>
       <description>
@@ -163,19 +178,6 @@
       <author>Chico</author>
       <pubDate>Sun, 25 Sep 2016 23:00:00 -0500</pubDate>
       <dc:date>2016-09-25T23:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Congreso de Software Libre 2016</title>
-      <link>http://gulag.org.mx/entradas/2016-09-23-congreso.html</link>
-      <description>
-&lt;p&gt;&lt;a class=&quot;img-responsive&quot; href=&quot;2016-09-23-congreso-2016/gulag-congreso-2016-poster.png&quot;&gt;&lt;img src=&quot;2016-09-23-congreso-2016/gulag-congreso-2016-poster-small.jpg&quot; alt=&quot;Congreso Software Libre 2016&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Con motivo de un año más de aniversario del &lt;strong&gt;Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt;, y con el apoyo de la &lt;strong&gt;Incubadora de Empresas del Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Laguna&lt;/strong&gt;, se invita a estudiantes, maestras y maestros, empresarias y empresarios, hackers y público en general al &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; a celebrarse los días &lt;strong&gt;23 y 24 de septiembre del 2016&lt;/strong&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Thu, 08 Sep 2016 21:00:00 -0500</pubDate>
-      <dc:date>2016-09-08T21:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
