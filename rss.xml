@@ -9,6 +9,34 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Actualización de Reunión febrero 2017</title>
+      <link>http://gulag.org.mx/entradas/n-reunion-febrero.html</link>
+      <description>
+&lt;p&gt;Debido a cuestiones ajenas a nosotros, la charla sobre &lt;em&gt;Docker&lt;/em&gt; se pospone; en su lugar se dará el tema de&lt;/p&gt;
+
+&lt;h2 id=&quot;videojuegos-retro-con-retro-pie&quot;&gt;&lt;strong&gt;Videojuegos retro con Retro-pie&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2017-02-11-actuaización-reunion-febrero/Retropie.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2017-02-11-actuaización-reunion-febrero/Retropie.png&quot; alt=&quot;Retropie&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;El lugar de reunión será, a las &lt;em&gt;6:00 pm&lt;/em&gt; en Pavoreal #49, en la colonia Provitec (entre José Vasconcelos y División del Norte)&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3600.330702030189!2d-103.39750578498385!3d25.527358983743586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDMxJzM4LjUiTiAxMDPCsDIzJzQzLjEiVw!5e0!3m2!1ses!2s!4v1486840462340&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Los esperamos :)&lt;/strong&gt;&lt;/p&gt;
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 11 Feb 2017 13:00:00 -0600</pubDate>
+      <dc:date>2017-02-11T13:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Impulsar la Innovación (I): Ciencia Ficción</title>
       <link>http://gulag.org.mx/entradas/2017-02-10-Bits-Libres-Impulsar-La-Innovacion-Ciencia-Ficcion.html</link>
       <description>
@@ -103,30 +131,6 @@
       <author>Chico</author>
       <pubDate>Wed, 09 Nov 2016 11:00:00 -0600</pubDate>
       <dc:date>2016-11-09T11:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión noviembre 2016</title>
-      <link>http://gulag.org.mx/entradas/2016-10-16-invitacion-reunion-noviembre.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;12 de noviembre&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Arkebit a las 6:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.movimientolibre.com/&quot;&gt;Guivaloz&lt;/a&gt; estará con nosotros explicando &lt;a href=&quot;https://github.com/guivaloz/GenesisPHP&quot;&gt;GenesisPHP&lt;/a&gt; y con el cual se hará un ejercicio completo, esto es, un sistema básico desde cero.&lt;/p&gt;
-
-&lt;p&gt;Todas nuestras reuniones son el segundo sábado de cada mes, y la &lt;strong&gt;entrada es libre.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Aquí una invitación de nuestro anfitrión:&lt;/p&gt;
-
-&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hWFb54m5XhM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
-</description>
-      <author>Guabyboy</author>
-      <pubDate>Sun, 16 Oct 2016 23:00:00 -0500</pubDate>
-      <dc:date>2016-10-16T23:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
