@@ -12,7 +12,7 @@ Debido a cuestiones ajenas a nosotros, la charla sobre _Docker_ se pospone; en s
 <br />
 
 <center>
-<a class="img-responsive" href="2017-02-11-actuaización-reunion-febrero/Retropie.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-02-11-actuaización-reunion-febrero/Retropie.png" alt="Retropie" width="325" height="250"></a>
+<a class="img-responsive" href="2017-02-11-actuaizacion-reunion-febrero/Retropie.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-02-11-actuaizacion-reunion-febrero/Retropie.png" alt="Retropie" width="325" height="250"></a>
 </center>
 
 <br />
