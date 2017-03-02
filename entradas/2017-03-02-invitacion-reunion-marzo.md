@@ -23,7 +23,7 @@ En esta reunión veremos el trabajo de dos de nuestros compañeros, iniciando co
 
 <br />
 
-Aquí veremos como podemos utilizar una Raspberry Pi como servidor para aplicaciones web en Python utilizando raspbian, python, django, gunicorn, postgresql, y nginx.
+Aquí veremos como podemos utilizar una [Raspberry Pi](https://www.raspberrypi.org/) como servidor para aplicaciones web en Python utilizando raspbian, python, django, gunicorn, postgresql, y nginx.
 
 Una vez concluido este tema, seguiremos con 
 
@@ -35,7 +35,7 @@ Una vez concluido este tema, seguiremos con
 
 <br />
 
-Ernesto Gutiérrez Muñoz responderá de manera practica a preguntas como ¿Qué es [Docker](https://www.docker.com/)? y ¿Qué puedo hacer con él? mientras nos enseña a trabajar con esta herramienta a la cual se le agregará el uso de [LAMP](https://es.wikipedia.org/wiki/LAMP).
+Ernesto Gutiérrez Muñoz responderá de manera práctica a preguntas como ¿Qué es [Docker](https://www.docker.com/)? y ¿Qué puedo hacer con él? mientras nos enseña a trabajar con esta herramienta a la cual se le agregará el uso de [LAMP](https://es.wikipedia.org/wiki/LAMP).
 
 Todas nuestras reuniones son el segundo sábado de cada mes, y la __entrada es libre.__
 
