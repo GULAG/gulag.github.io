@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - Software Libre estadístico</title>
+      <link>http://gulag.org.mx/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en abril del 2017&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 09 Apr 2017 11:00:00 -0500</pubDate>
+      <dc:date>2017-04-09T11:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Impulsar la Innovación (y II): Cambiar el “no” por “¿qué tal si...?”</title>
       <link>http://gulag.org.mx/entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html</link>
       <description>
@@ -113,17 +124,6 @@
       <author>Chico</author>
       <pubDate>Tue, 10 Jan 2017 13:30:00 -0600</pubDate>
       <dc:date>2017-01-10T13:30:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Ser nuestros propios Hackers</title>
-      <link>http://gulag.org.mx/entradas/2016-12-10-Bits-Libres-Ser-Nuestro-Propio-Hacker.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en diciembre del 2016&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 10 Dec 2016 10:00:00 -0600</pubDate>
-      <dc:date>2016-12-10T10:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
