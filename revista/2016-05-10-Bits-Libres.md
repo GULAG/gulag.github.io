@@ -11,6 +11,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 ### Artículos publicados
 
+**Abril 2017** [Software Libre estadístico](http://www.gulag.org.mx/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html) _Por Chico_
+
 **Marzo 2017** [Impulsar la Innovación (y II): Cambiar el “no” por “¿qué tal si...?”](http://www.gulag.org.mx/entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html) _Por Chico_
 
 **Febrero 2017** [Impulsar la Innovación (I): Ciencia Ficción](http://www.gulag.org.mx/entradas/2017-02-10-Bits-Libres-Impulsar-La-Innovacion-Ciencia-Ficcion.html) _Por Chico_
