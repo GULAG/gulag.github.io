@@ -26,6 +26,24 @@
       <dc:date>2017-05-13T10:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>PSPP Software estadístico</title>
+      <link>http://gulag.org.mx/entradas/2017-04-27-pspp1.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:25%;height:auto;margin-right:12px;&quot; src=&quot;2017-04-27-PSPP/PSPP.png&quot; alt=&quot;PSPP&quot; width=&quot;65&quot; height=&quot;50&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;PSPP es un programa de análisis estadístico, multiplataforma, disponible tanto en 32 como en 64 bits; está escrito en el lenguaje de programación C. Usa la biblioteca científica GNU para sus rutinas matemáticas, y plotutils para la generación de gráficos. Las bibliotecas usadas por PSPP pueden ser accedidas vía programación.&lt;/p&gt;
+
+&lt;p&gt;A PSPP principalmente se ingresa desde consola, pero cuenta con una interfaz gráfica, PSPPIRE, que proporciona funcionalidades básicas cómo: análisis de frecuencias, elaboración de tablas cruzadas, pruebas de hipótesis mediante comparación de medias; regresión lineal y cálculo de los coeficientes de la recta,&lt;/p&gt;
+</description>
+      <author>guabyboy</author>
+      <pubDate>Thu, 27 Apr 2017 10:00:00 -0500</pubDate>
+      <dc:date>2017-04-27T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Software Libre estadístico</title>
       <link>http://gulag.org.mx/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html</link>
       <description>
@@ -115,17 +133,6 @@
       <author>Chico</author>
       <pubDate>Wed, 08 Feb 2017 17:00:00 -0600</pubDate>
       <dc:date>2017-02-08T17:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - ¿Por qué me gusta Linux?</title>
-      <link>http://gulag.org.mx/entradas/2017-01-21-Bits-Libres-Por-que-me-gusta-linux.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en enero del 2017&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 21 Jan 2017 20:00:00 -0600</pubDate>
-      <dc:date>2017-01-21T20:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
