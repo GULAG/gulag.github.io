@@ -9,6 +9,19 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>FLISOL 2017</title>
+      <link>http://gulag.org.mx/entradas/2017-05-13-flisol.html</link>
+      <description>
+&lt;p&gt;&lt;img src=&quot;2017-04-14-flisol/flisol-poster-2016-002-small.jpg&quot; alt=&quot;FLISOL 2017&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con el objetivo de promover y difundir el uso de Software Libre, el próximo &lt;strong&gt;sábado 13 de mayo de 2017&lt;/strong&gt; se llevará a cabo el &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/strong&gt; en la &lt;strong&gt;Facultad de Ingeniería, Ciencias y Arquitectura de la UJED&lt;/strong&gt;, en &lt;strong&gt;&lt;a href=&quot;http://flisol.info/FLISOL2017/Mexico/Torreon&quot;&gt;Gómez Palacio, Dgo, México&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+      <author>guabyboy</author>
+      <pubDate>Sat, 13 May 2017 10:00:00 -0500</pubDate>
+      <dc:date>2017-05-13T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Software Libre estadístico</title>
       <link>http://gulag.org.mx/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html</link>
       <description>
@@ -109,21 +122,6 @@
       <author>Chico</author>
       <pubDate>Sat, 21 Jan 2017 20:00:00 -0600</pubDate>
       <dc:date>2017-01-21T20:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión enero 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-01-10-invitacion-reunion-enero.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de enero&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Arkebit a las 5:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Tue, 10 Jan 2017 13:30:00 -0600</pubDate>
-      <dc:date>2017-01-10T13:30:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
