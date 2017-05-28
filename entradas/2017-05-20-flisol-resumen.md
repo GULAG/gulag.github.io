@@ -5,9 +5,6 @@ Fecha: 2017-05-20 10:00
 Autor: guabyboy
 Categorías: SoftwareLibre, Flisol
 
-
-#### Resumen FLISOL 2017
-
 El pasado sábado 13 de mayo, se llevó a cabo el Festival Latinoamericano de Instalación de Software Libre (FLISOL) 2017, en las instalaciones de la Facultad de Ingeniería, Ciencias y Arquitetura de la Universidad Juárez del Estado de Durango, UJED; festival que se realizó por primera vez en la ciudad de Gómez Palacio. Con este año, GULAG lo ha realizado ininterrumpidamente desde el año 2007.
 
 <!-- break -->
