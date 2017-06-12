@@ -11,6 +11,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 ### Artículos publicados
 
+**Junio 2017** [[Re]Conociendo nuestros derechos: Derecho a cifrar](http://www.gulag.org.mx/entradas/2017-06-11-Bits-Libres-Derecho-A-Cifrar.html) _Por Chico_
+
 **Mayo 2017** [[Re] Conociendo nuestros derechos: Derecho a la privacidad](http://www.gulag.org.mx/entradas/2017-05-03-Bits-Libres-Derecho-A-La-Privacidad.html) _Por Chico_
 
 **Abril 2017** [Software Libre estadístico](http://www.gulag.org.mx/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html) _Por Chico_
