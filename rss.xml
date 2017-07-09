@@ -9,6 +9,30 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>PSPP Software estadístico - Definir Variables</title>
+      <link>http://gulag.org.mx/entradas/2017-07-10-PSPP_DefVar.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:25%;height:auto;margin-right:12px;&quot; src=&quot;2017-07-10-PSPP/PSPP.png&quot; alt=&quot;PSPP&quot; width=&quot;65&quot; height=&quot;50&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Definir variables o atributos, es un paso importante para el manejo de los datos, pero no es algo definitivo, porque podemos cambiar los atributos de las variables al momento que se requiera, sin perder o alterar los datos ya capturados.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:55%;height:auto;margin-right:12px;&quot; src=&quot;2017-07-10-PSPP/PSPP1.png&quot; alt=&quot;PSPP&quot; width=&quot;65&quot; height=&quot;50&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las variables se definen en la vista de variables, ya sea desde el menú Vista-Variables o directamente en la pestaña inferior Vista de Variables&lt;/p&gt;
+</description>
+      <author>guabyboy</author>
+      <pubDate>Mon, 10 Jul 2017 10:00:00 -0500</pubDate>
+      <dc:date>2017-07-10T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - [Re]Conociendo nuestros derechos: Derecho a cifrar</title>
       <link>http://gulag.org.mx/entradas/2017-06-11-Bits-Libres-Derecho-A-Cifrar.html</link>
       <description>
@@ -97,21 +121,6 @@
       <author>Chico</author>
       <pubDate>Wed, 08 Mar 2017 11:00:00 -0600</pubDate>
       <dc:date>2017-03-08T11:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión marzo 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-03-02-invitacion-reunion-marzo.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;11 de marzo&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Arkebit a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Thu, 02 Mar 2017 11:00:00 -0600</pubDate>
-      <dc:date>2017-03-02T11:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>

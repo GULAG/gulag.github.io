@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>GULAG - PSPP Software estadístico - Definir Variables</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="guabyboy">
+  <link href="../rss.xml" rel="alternate" type="application/rss+xml" title="GULAG" />
+  <link href="../css/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/morris.css" rel="stylesheet">
+  <link href="../css/cms.css" rel="stylesheet">
+  <!-- SOPORTE PARA IE8 -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="menu-principal">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-principal-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="../index.html">GULAG</a>
+    </div>
+    <div class="navbar-collapse collapse" id="menu-principal-collapse">
+<ul class="nav navbar-nav">
+  <li><a href="../entradas/index.html">Entradas</a></li>
+  <li><a href="../revista/index.html">Revista</a></li>
+  <li><a href="../contacto/index.html">Contacto</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+  <li><a href="https://github.com/gulag">GitHub</a></li>
+  <li><a href="http://gulag.org.mx/rss.xml">RSS</a></li>
+</ul>
+    </div>
+  </div>
+</nav>
+<div id="contenido">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+            <div class="jumbotron">
+                <h1>GULAG</h1>
+                <p>Grupo de Usuarios de GNU/Linux de la Laguna.</p>
+            </div>
+
+<article>
+  <header>
+    <h1>PSPP Software estadístico - Definir Variables</h1>
+    <p class="autor-fecha">Por guabyboy, 2017-07-10 10:00</p>
+  </header>
+
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/PSPP.png" alt="PSPP" width="65" height="50" />
+</center>
+
+<p><br /></p>
+
+<p>Definir variables o atributos, es un paso importante para el manejo de los datos, pero no es algo definitivo, porque podemos cambiar los atributos de las variables al momento que se requiera, sin perder o alterar los datos ya capturados.</p>
+
+<center>
+<img class="img-responsive" style="width:55%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/PSPP1.png" alt="PSPP" width="65" height="50" />
+</center>
+
+<p><br /></p>
+
+<p>Las variables se definen en la vista de variables, ya sea desde el menú Vista-Variables o directamente en la pestaña inferior Vista de Variables</p>
+
+<center>
+<img class="img-responsive" style="width:90%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/Variables.png" alt="PSPP" width="65" height="50" />
+</center>
+
+<p><br /></p>
+
+<p>Nombre: Acepta letras mayúsculas y minúsculas haciendo diferencia entre ambas, acepta números, no acepta espacios ni caracteres especiales, los espacios se pueden cambiar por guión bajo, no acepta el guión medio.</p>
+
+<p>Tipo: Se pueden definir 8 tipos diferentes de variables, el ancho de las mismas y los decimales que se presentan, los cuales se pueden modificar, sin alterar los valores de datos ya capturados, es decir, si tengo un valor capturado con cinco decimales y la variable se define como cero decimales, al modificar este atributo, se mostrarán los decimales al nuevo número definido. El ancho y los decimales definidos en esta opción, se pueden modificar en las dos siguientes columnas.</p>
+<center>
+<img class="img-responsive" style="width:75%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/Tipo_var.png" alt="PSPP" width="65" height="50" />
+</center>
+
+<p><br /></p>
+
+<p>Etiqueta: nos permite escribir una descripción mas amplia sobre el nombre y concepto de la variable que se está definiendo.</p>
+
+<p>Etiqueta de valor: Nos permite relacionar un valor numérico con una característica o descripción, es decir, al capturar un dato correspondiente a la variable como un valor numérico, este se relaciona con una característica previamente definida en esta opción.</p>
+
+<p>En el campo valor se escribe el número correspondiente a la etiqueta y en etiqueta de Valor escribimos la descripción que corresponde al valor anterior y se añade, repitiendo para cada valor que se tenga contemplado.</p>
+<center>
+<img class="img-responsive" style="width:75%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/Eti_val.png" alt="PSPP" width="65" height="50" />
+</center>
+
+<p><br /></p>
+
+<p>Valores perdidos: Son datos no disponibles al momento de la captura de información y si no se desean contemplar, se deja Sin valores perdidos. Si se desea considerarlos dentro de las estadísticas, se asigna un valor, por ejemplo 999, y ese valor entrará por defecto y no quedará el dato vacío, pudiéndose definir por un intervalo de valores.</p>
+
+<center>
+<img class="img-responsive" style="width:65%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/Val_perd.png" alt="PSPP" width="65" height="50" />
+</center>
+
+<p><br /></p>
+
+<p>Columna: Es el ancho de la columna que se presenta en la Vista de Datos</p>
+
+<p>Alineación: Es el como se presenta el dato en la Vista de Datos.</p>
+
+<p>Medida: Nominal u Ordinal si son variables cualitativas o factores. Escala si son valores numéricos, no importa continuos o discretos.</p>
+
+<p>Rol: Entrada si es un dato que se debe escribir, objetivo si es el resultado de un cálculo, pudiendo ser ambas opciones a la vez. Por defecto y lo mas común es Entrada.</p>
+
+  <footer>
+    <div class="btn-group">
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/softwarelibre.html'">SoftwareLibre</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/educacion.html'">Educación</button>
+    </div>
+  </footer>
+</article>
+      </div>
+      <div class="col-md-3">
+        <aside>
+<div class="panel panel-default menu-secundario">
+<div class="panel-heading">
+  Categorías
+</div>
+<ul class="list-group">
+  <li class="list-group-item"><a href="../categorias/conferencias.html">Conferencias</a><span class="badge">21</span></li>
+  <li class="list-group-item"><a href="../categorias/contacto.html">Contacto</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/debian.html">Debian</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../categorias/document_freedom_day.html">Document Freedom Day</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../categorias/educacion.html">Educación</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../categorias/eventos.html">Eventos</a><span class="badge">10</span></li>
+  <li class="list-group-item"><a href="../categorias/flisol.html">FLISOL</a><span class="badge">13</span></li>
+  <li class="list-group-item"><a href="../categorias/flisol.html">Flisol</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/git.html">Git</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/github.html">GitHub</a><span class="badge">3</span></li>
+  <li class="list-group-item"><a href="../categorias/gnome.html">Gnome</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/gulag.html">Gulag</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/innovatic.html">InnovaTIC</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/install_fest.html">Install Fest</a><span class="badge">15</span></li>
+  <li class="list-group-item"><a href="../categorias/jekyll.html">Jekyll</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/junta_ordinaria.html">Junta Ordinaria</a><span class="badge">13</span></li>
+  <li class="list-group-item"><a href="../categorias/kde.html">KDE</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/markdown.html">Markdown</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../categorias/opensuse.html">OpenSUSE</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/programacion.html">Programación</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/python.html">Python</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/reuniones.html">Reuniones</a><span class="badge">5</span></li>
+  <li class="list-group-item"><a href="../categorias/revista.html">Revista</a><span class="badge">18</span></li>
+  <li class="list-group-item"><a href="../categorias/ruby.html">Ruby</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../categorias/softwarelibre.html">SoftwareLibre</a><span class="badge">5</span></li>
+  <li class="list-group-item"><a href="../categorias/taller.html">Taller</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../categorias/entradas.html">entradas</a><span class="badge">3</span></li>
+</ul>
+</div><div class="panel panel-default menu-secundario">
+<div class="panel-heading">
+  Autores
+</div>
+<ul class="list-group">
+  <li class="list-group-item"><a href="../autores/chico.html">Chico</a><span class="badge">39</span></li>
+  <li class="list-group-item"><a href="../autores/guabyboy.html">Guabyboy</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../autores/rive.html">RIVE</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../autores/guabyboy.html">guabyboy</a><span class="badge">5</span></li>
+  <li class="list-group-item"><a href="../autores/guivaloz.html">guivaloz</a><span class="badge">31</span></li>
+  <li class="list-group-item"><a href="../autores/mibito.html">mibito</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../autores/rive.html">rive</a><span class="badge">2</span></li>
+  <li class="list-group-item"><a href="../autores/rperenr.html">rperenr</a><span class="badge">1</span></li>
+  <li class="list-group-item"><a href="../autores/tono.html">toNo</a><span class="badge">3</span></li>
+  <li class="list-group-item"><a href="../autores/zerialkiller.html">zerialkiller</a><span class="badge">1</span></li>
+</ul>
+</div><div class="panel panel-default menu-secundario">
+<div class="panel-heading">
+  Últimas publicaciones
+</div>
+<ul class="list-group">
+  <li class="list-group-item"><a href="../entradas/2017-07-10-PSPP_DefVar.html">PSPP Software estadístico - Definir Variables</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-06-11-Bits-Libres-Derecho-A-Cifrar.html">Bits Libres - [Re]Conociendo nuestros derechos: Derecho a cifrar</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-05-20-flisol-resumen.html">Resumen FLISOL 2017</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-05-13-flisol.html">FLISOL 2017</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-05-03-Bits-Libres-Derecho-A-La-Privacidad.html">Bits Libres - [Re] Conociendo nuestros derechos: Derecho a la privacidad</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-04-27-pspp1.html">PSPP Software estadístico</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html">Bits Libres - Software Libre estadístico</a></li>
+  <li class="list-group-item"><a href="../entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html">Bits Libres - Impulsar la Innovación (y II): Cambiar el “no” por “¿qué tal si...?”</a></li>
+</ul>
+</div>
+        </aside>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="pie">
+ <div class="container">
+            <p>
+                Copyright (c) 2014 Grupo de Usuarios de GNU/Linux de la Laguna. Se otorga permiso para copiar, distribuir y/o modificar este documento.<br>
+                El programa está protegido por la licencia <a href="http://cms.movimientolibre.com/licencias/gpl-2.html">GPL versión 2</a>.<br>
+                La documentación está protegida por la licencia <a href="http://cms.movimientolibre.com/licencias/gfdl.html">GFDL</a>.
+            </p>
+
+  </div>
+</div>
+  <!-- CODIGO JAVASCRIPT PUESTO AL FINAL PARA QUE SE CARGUE MAS RAPIDO LA PAGINA -->
+  <script src="../js/jquery.min.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/raphael-min.js"></script>
+  <script src="../js/morris.min.js"></script>
+
+</body>
+</html>
