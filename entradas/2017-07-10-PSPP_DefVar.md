@@ -2,7 +2,7 @@ PSPP Software estadístico - Definir Variables
 ===========
 Fecha: 2017-07-10 10:00
 Autor: guabyboy
-Categorías: SoftwareLibre, Educación
+Categorías: PSPP, Educación
 
 <center>
 <img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="2017-07-10-PSPP/PSPP.png" alt="PSPP" width="65" height="50">
