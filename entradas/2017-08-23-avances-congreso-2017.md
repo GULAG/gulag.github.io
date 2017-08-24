@@ -8,7 +8,7 @@ Categorías: Eventos
 Sede, conferencias y talleres estan listos para el Congreso de Software Libre 2017.
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2017-08-23-avances-congreso-2017/GnuNazaTux.png" alt="Gnu Naza Tux" width="325" height="250">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2017-08-23-avances-congreso-2017/LogotipoUniPoli.png" alt="UniPoli" width="325" height="250">
 </center>
 
 <!-- break -->
@@ -34,7 +34,7 @@ Edo. de Durango).
 
 * **15:00 horas Conferencia "Cómo ir más allá de los sitios web y crear Plataformas de Conocimientos" por Ing. Guillermo Valdés Lozano (Gulag)**
 
-* **16:00 horas Conferencia "Facebook Open Source & Tecnologís de Código libre de Facebook" por Oscar Barajas Tavares**
+* **16:00 horas Conferencia "Tecnologías de código libre de Facebook" por Oscar Barajas Tavares**
 
 * **17:00 horas Conferencia "Técnicas de Visual Effects (VFX) con Blender 3D" por Octavio Augusto Méndez Sánchez (Blender México)**
 
