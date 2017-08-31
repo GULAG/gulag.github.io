@@ -15,6 +15,14 @@ Sede, conferencias y talleres estan listos para el Congreso de Software Libre 20
 
 Los próximos **8 y 9 de septiembre del 2017**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso** el cual se celebrará en la **Universidad Politecnica en Gómez Palacio, Durango**.
 
+<br />
+
+<center>
+<a class="img-responsive" href="2017-08-23-avances-congreso-2017/CongresoGulag2017.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-08-23-avances-congreso-2017/CongresoGulag2017.png" alt="Congreso Software Libre 2017" width="325" height="250"></a>
+</center>
+
+<br />
+
 La programación es la siguiente:
 
 ##Viernes 8 de Septiembre
@@ -58,3 +66,10 @@ La entrada a las conferencias y a los talleres será, como siempre, **sin costo*
 Reserven en sus agendas los días **8 y 9 de septiembre del 2017**.
 
 Los esperamos :-D
+
+**Vive libre, sé libre, usa software libre.**
+
+### Descargas
+
+* [Poster Congreso de Software Libre 2017](2017-08-23-avances-congreso-2017/CongresoGulag2017.png)
+* [Poster archivos fuente en GitHub](https://github.com/ChicoXXX/Poster-Congreso-2017)
