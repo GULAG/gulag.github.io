@@ -34,7 +34,7 @@ Edo. de Durango).
 
 * **12:00 horas "Taller de instalación de GNU/Linux" por Ing. Jesús Gerardo Rodríguez Flores (UniPoli).**
 
-* **12:00 horas Taller "Consola retro con raspberry-pi" por Alejandro Hernández Pineda (Gulag)**
+* **12:00 horas Taller "Consola retro con raspberry-pi" por MC. Alejandro Hernández Pineda (Gulag)**
 
     _(Los asistentes deben llevar su raspberry-pi y controles para instalar retro pie)_
 
