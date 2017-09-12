@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Resumen del Congreso de Software Libre 2016</title>
+      <link>http://gulag.org.mx/entradas/2017-09-12-resumen-congreso-2017.html</link>
+      <description>
+&lt;p&gt;Con motivo de un año más de aniversario del &lt;strong&gt;Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt; se celebró el &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; los días &lt;strong&gt;8 y 9 de septiembre del 2017&lt;/strong&gt; en las instalaciones de la Universidad Politécnica de Gómez Palacio, en el estado de Durango.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 12 Sep 2017 03:40:00 -0500</pubDate>
+      <dc:date>2017-09-12T03:40:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Próximamente: Congreso 2017</title>
       <link>http://gulag.org.mx/entradas/2017-08-23-avances-congreso-2017.html</link>
       <description>
@@ -107,24 +118,6 @@
       <author>Chico</author>
       <pubDate>Wed, 03 May 2017 13:00:00 -0500</pubDate>
       <dc:date>2017-05-03T13:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>PSPP Software estadístico</title>
-      <link>http://gulag.org.mx/entradas/2017-04-27-pspp1.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:25%;height:auto;margin-right:12px;&quot; src=&quot;2017-04-27-PSPP/PSPP.png&quot; alt=&quot;PSPP&quot; width=&quot;65&quot; height=&quot;50&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;PSPP es un programa de análisis estadístico, multiplataforma, disponible tanto en 32 como en 64 bits; está escrito en el lenguaje de programación C. Usa la biblioteca científica GNU para sus rutinas matemáticas, y plotutils para la generación de gráficos. Las bibliotecas usadas por PSPP pueden ser accedidas vía programación.&lt;/p&gt;
-
-&lt;p&gt;A PSPP principalmente se ingresa desde consola, pero cuenta con una interfaz gráfica, PSPPIRE, que proporciona funcionalidades básicas cómo: análisis de frecuencias, elaboración de tablas cruzadas, pruebas de hipótesis mediante comparación de medias; regresión lineal y cálculo de los coeficientes de la recta,&lt;/p&gt;
-</description>
-      <author>guabyboy</author>
-      <pubDate>Thu, 27 Apr 2017 10:00:00 -0500</pubDate>
-      <dc:date>2017-04-27T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
