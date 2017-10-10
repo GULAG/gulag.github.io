@@ -1,7 +1,7 @@
 Bits Libres - Sobre la Neutralidad de la Red
 ==================================
 
-Fecha: Fecha: 2017-08-01 13:30
+Fecha: 2017-08-01 13:30
 Autor: Chico
 Categorías: Revista
 

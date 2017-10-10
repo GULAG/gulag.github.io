@@ -1,7 +1,7 @@
 Bits Libres - Más transparencia, por favor
 ==================================
 
-Fecha: Fecha: 2017-10-01 13:30
+Fecha: 2017-10-01 13:30
 Autor: Chico
 Categorías: Revista
 

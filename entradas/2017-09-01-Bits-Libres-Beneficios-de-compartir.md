@@ -1,7 +1,7 @@
 Bits Libres - Beneficios de compartir
 ==================================
 
-Fecha: Fecha: 2017-09-01 13:30
+Fecha: 2017-09-01 13:30
 Autor: Chico
 Categorías: Revista
 
