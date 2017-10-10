@@ -24,6 +24,17 @@
       <dc:date>2017-10-10T01:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Bits Libres - Más transparencia, por favor</title>
+      <link>http://gulag.org.mx/entradas/2017-10-01-Bits-Libres-Mas-transparencia-por-favor.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en octubre del 2017&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 01 Oct 2017 13:30:00 -0500</pubDate>
+      <dc:date>2017-10-01T13:30:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Resumen del Congreso de Software Libre 2016</title>
       <link>http://gulag.org.mx/entradas/2017-09-12-resumen-congreso-2017.html</link>
       <description>
@@ -105,17 +116,6 @@
       <author>Chico</author>
       <pubDate>Sat, 08 Jul 2017 23:40:00 -0500</pubDate>
       <dc:date>2017-07-08T23:40:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - [Re]Conociendo nuestros derechos: Derecho a cifrar</title>
-      <link>http://gulag.org.mx/entradas/2017-06-11-Bits-Libres-Derecho-A-Cifrar.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2017&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 11 Jun 2017 23:40:00 -0500</pubDate>
-      <dc:date>2017-06-11T23:40:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
