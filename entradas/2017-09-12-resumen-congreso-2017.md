@@ -1,4 +1,4 @@
-Resumen del Congreso de Software Libre 2016
+Resumen del Congreso de Software Libre 2017
 ==================================
 
 Fecha: 2017-09-12 03:40
