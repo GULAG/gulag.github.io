@@ -5,7 +5,7 @@ Fecha: 2017-11-13 14:30
 Autor: krh3rtz
 Categorías: Junta Ordinaria
 
-Resumen de la reunión ordinaria que se celebró el __11 de noviembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __Biblioteca "José García de Letona"__ ubicada en la __Alameda Zaragoza.
+Resumen de la reunión ordinaria que se celebró el __11 de noviembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __Biblioteca "José García de Letona"__ ubicada en la __Alameda Zaragoza__.
 
 <center>
 <a class="img-responsive" href="2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png" alt="impulsado por gnu linux" width="325" height="250"></a>
@@ -24,7 +24,7 @@ El pasado sábado 11 de Noviembre asistí como ponente al GULAG abordando el tem
 <br />
 
 <center>
-<a class="img-responsive" href="2017-11-13-Resumen-reunion-noviembre/Reunión_Nov_2017.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-11-13-Resumen-reunion-noviembre/Reunión_Nov_2017.jpg" alt="inteligencia artificial" width="325" height="250"></a>
+<a class="img-responsive" href="2017-11-13-Resumen-reunion-noviembre/Reunion_Nov_2017.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-11-13-Resumen-reunion-noviembre/Reunion_Nov_2017.jpg" alt="inteligencia artificial" width="325" height="250"></a>
 </center>
 
 <br />
