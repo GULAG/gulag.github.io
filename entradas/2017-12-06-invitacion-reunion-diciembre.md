@@ -7,7 +7,7 @@ Categorías: Junta Ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria y posada que se celebrará el __9 de diciembre__ en las instalaciones de __Arkebit a las 4:00 pm__.
 
-En esta reunión aprenderemos de nuestros compañeros Alejandro Hernández Pineda y Triana a hacer un
+En esta reunión aprenderemos de nuestros compañeros Alejandro Hernández Pineda y Luis Martin Triana a hacer un
 
 ## __Cluster de Raspberry Pi con Docker Swarm__
 
