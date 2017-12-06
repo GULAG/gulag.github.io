@@ -21,4 +21,4 @@ Me alegra de tener amigos que comparten, no solamente código fuente, sino tambi
 
 Para nosotros todo el año es tiempo de compartir, no solamente determinados días. 
 
-Si piensas y actúas de ésta forma te esperamos en [www.gulag.org.mx](www.gulag.org.mx)
+Si piensas y actúas de ésta forma te esperamos en [www.gulag.org.mx](http://www.gulag.org.mx/)
