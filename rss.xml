@@ -9,6 +9,28 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a Reunión diciembre 2017</title>
+      <link>http://gulag.org.mx/entradas/2017-12-06-invitacion-reunion-diciembre.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria y posada que se celebrará el &lt;strong&gt;9 de diciembre&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Arkebit a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;En esta reunión aprenderemos de nuestros compañeros Alejandro Hernández Pineda y Triana a hacer un&lt;/p&gt;
+
+&lt;h2 id=&quot;cluster-de-raspberry-pi-con-docker-swarm&quot;&gt;&lt;strong&gt;Cluster de Raspberry Pi con Docker Swarm&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2017-12-06-invitacion-reunion-diciembre/DockerSwarmRaspberryPi.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2017-12-06-invitacion-reunion-diciembre/DockerSwarmRaspberryPi.png&quot; alt=&quot;Raspberry Pi + Docker Swarm&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 06 Dec 2017 13:00:00 -0600</pubDate>
+      <dc:date>2017-12-06T13:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Resumen de Reunión noviembre 2017</title>
       <link>http://gulag.org.mx/entradas/2017-11-13-Resumen-reunion-noviembre.html</link>
       <description>
@@ -102,21 +124,6 @@
       <author>Chico</author>
       <pubDate>Fri, 01 Sep 2017 13:30:00 -0500</pubDate>
       <dc:date>2017-09-01T13:30:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Próximamente: Congreso 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-08-23-avances-congreso-2017.html</link>
-      <description>
-&lt;p&gt;Sede, conferencias y talleres estan listos para el Congreso de Software Libre 2017.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2017-08-23-avances-congreso-2017/LogotipoUniPoli.png&quot; alt=&quot;UniPoli&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Wed, 23 Aug 2017 23:00:00 -0500</pubDate>
-      <dc:date>2017-08-23T23:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
