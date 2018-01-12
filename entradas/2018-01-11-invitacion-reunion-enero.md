@@ -23,6 +23,14 @@ En esta reunión aprenderemos de nuestro compañero Octavio Augusto Méndez Sán
 
 Al terminar tendremos un convivio :-)
 
+<br />
+
+<center>
+<a class="img-responsive" href="2018-01-11-invitacion-reunion-enero/DJ-Tux.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-01-11-invitacion-reunion-enero/DJ-Tux.png" alt="g-blender" width="325" height="250"></a>
+</center>
+
+<br />
+
 Todas nuestras reuniones son el segundo sábado de cada mes, y la entrada es libre.
 
 Los esperamos :-)
