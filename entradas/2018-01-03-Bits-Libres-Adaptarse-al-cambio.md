@@ -15,7 +15,7 @@ Me encuentro dentro de una sala de cine viendo “Star Wars” y al observar la 
 
 Hace algunos años se empezó a popularizar el compartir tanto música como películas y documentos usando distintos protocolos y programas. Recuerdo varias empresas y personas que alzaron la voz diciendo que las industrias del cine, de la música y de los libros se detendrían e incluso desaparecerían terminando con el trabajo de miles de personas detrás del producto final.
 
-Hoy podemos escuchar música, ver películas y leer libros, la mayor parte de manera gratuita, y las industrias arriba mencionadas siguen trabajando y, contrario a aquellos años, reportan ganancias.
+Hoy podemos escuchar música, ver películas y leer libros, la mayor parte de manera gratuita, y las industrias arriba mencionadas siguen trabajando y, contrario a aquellos años, [reportan ganancias](https://www.elsoldecuernavaca.com.mx/celebridades/la-sociedad-de-autores-y-compositores-de-mexico-reportan-mas-ganancias-por-derechos-de-autor).
 
 No entendían lo que muchos decíamos al ver sus lágrimas de cocodrilo: adaptarse a los cambios y buscar otro modelo de negocio con el mismo producto. Se tardaron, pero entendieron: Conciertos, salas de cine y librerías aún siguen; venta y renta de películas, de música y de libros; etcétera. Y eso no me preocupa.
 
