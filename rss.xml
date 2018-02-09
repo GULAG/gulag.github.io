@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a Reunión febrero 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-02-10-invitacion-reunion-febrero.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;10 de febrero&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Biblioteca municipal de la Alameda Zaragoza  a las 5:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2018-02-10-invitacion-reunion-febrero/arduino_logo.jpg&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2018-02-10-invitacion-reunion-febrero/arduino_logo.jpg&quot; alt=&quot;Reunión ordinaria febrero&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>guabyboy</author>
+      <pubDate>Sat, 10 Feb 2018 17:00:00 -0600</pubDate>
+      <dc:date>2018-02-10T17:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Mantener la confianza</title>
       <link>http://gulag.org.mx/entradas/2018-02-03-Bits-Libres-Mantener-la-confianza.html</link>
       <description>
@@ -130,21 +145,6 @@
       <author>Chico</author>
       <pubDate>Tue, 07 Nov 2017 17:00:00 -0600</pubDate>
       <dc:date>2017-11-07T17:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión octubre 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-10-10-invitacion-reunion-octubre.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de octubre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;Biblioteca “José García de Letona”&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Tue, 10 Oct 2017 01:00:00 -0500</pubDate>
-      <dc:date>2017-10-10T01:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
