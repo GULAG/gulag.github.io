@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a Reunión marzo 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-03-03-invitacion-reunion-marzo.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;10 de marzo&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria marzo&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 03 Mar 2018 13:00:00 -0600</pubDate>
+      <dc:date>2018-03-03T13:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Invitación a Reunión febrero 2018</title>
       <link>http://gulag.org.mx/entradas/2018-02-10-invitacion-reunion-febrero.html</link>
       <description>
@@ -130,21 +145,6 @@
       <author>krh3rtz</author>
       <pubDate>Mon, 13 Nov 2017 14:30:00 -0600</pubDate>
       <dc:date>2017-11-13T14:30:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión noviembre 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-11-07-invitacion-reunion-noviembre.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;11 de noviembre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;Biblioteca “José García de Letona”&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Tue, 07 Nov 2017 17:00:00 -0600</pubDate>
-      <dc:date>2017-11-07T17:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
