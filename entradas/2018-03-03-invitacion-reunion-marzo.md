@@ -21,6 +21,13 @@ Nuestro compañero Gerardo García Velazquez nos enseñará a crear una base de 
 
 Se pide a los asistentes llevar instalado [Android Studio](https://en.wikipedia.org/wiki/Android_Studio) en su versión estable.
 
+## Punto de Venta de Odoo
+
+También Alan Ramos va a realizar una demostración de el punto de venta de [Odoo](https://www.odoo.com/) y como se puede configurar para que funcione con hardware, impresora térmica, cajon de dinero, lector de código de barras. Así como la instalación del Posbox en un raspberry.
+
+Para la instalación de Odoo se requiere computadora con Ubuntu o debian, o en su caso cualquier otro SO con docker.
+
+
 Todas nuestras reuniones son el segundo sábado de cada mes, y la __entrada es libre.__
 
 Los esperamos :)
