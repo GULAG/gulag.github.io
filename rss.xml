@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - Datos personales por un peso</title>
+      <link>http://gulag.org.mx/entradas/2018-03-04-Bits-Libres-datos-personales-por-un-peso.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en marzo del 2018&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 04 Mar 2018 19:50:00 -0600</pubDate>
+      <dc:date>2018-03-04T19:50:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Invitación a Reunión marzo 2018</title>
       <link>http://gulag.org.mx/entradas/2018-03-03-invitacion-reunion-marzo.html</link>
       <description>
@@ -130,21 +141,6 @@
       <author>Chico</author>
       <pubDate>Sun, 03 Dec 2017 13:00:00 -0600</pubDate>
       <dc:date>2017-12-03T13:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Resumen de Reunión noviembre 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-11-13-Resumen-reunion-noviembre.html</link>
-      <description>
-&lt;p&gt;Resumen de la reunión ordinaria que se celebró el &lt;strong&gt;11 de noviembre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;Biblioteca “José García de Letona”&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png&quot; alt=&quot;impulsado por gnu linux&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>krh3rtz</author>
-      <pubDate>Mon, 13 Nov 2017 14:30:00 -0600</pubDate>
-      <dc:date>2017-11-13T14:30:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
