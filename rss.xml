@@ -9,6 +9,24 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a Reunión abril 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-04-03-invitacion-reunion-abril.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de abril&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria marzo&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;Todas nuestras reuniones son el segundo sábado de cada mes, y la &lt;strong&gt;entrada es libre.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Los esperamos :)&lt;/p&gt;
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 03 Apr 2018 13:00:00 -0500</pubDate>
+      <dc:date>2018-04-03T13:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Documento libre</title>
       <link>http://gulag.org.mx/entradas/2018-04-02-Bits-Libres-Documento-libre.html</link>
       <description>
@@ -119,28 +137,6 @@
       <author>Chico</author>
       <pubDate>Wed, 03 Jan 2018 13:00:00 -0600</pubDate>
       <dc:date>2018-01-03T13:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión diciembre 2017</title>
-      <link>http://gulag.org.mx/entradas/2017-12-06-invitacion-reunion-diciembre.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria y posada que se celebrará el &lt;strong&gt;9 de diciembre&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Arkebit&lt;/strong&gt; (Pavorreal #49, colonia Provitec, entre División del norte y Vasconcelos) &lt;strong&gt;a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;En esta reunión aprenderemos de nuestros compañeros Alejandro Hernández Pineda y Luis Martin Triana a hacer un&lt;/p&gt;
-
-&lt;h2 id=&quot;cluster-de-raspberry-pi-con-docker-swarm&quot;&gt;&lt;strong&gt;Cluster de Raspberry Pi con Docker Swarm&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2017-12-06-invitacion-reunion-diciembre/DockerSwarmRaspberryPi.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2017-12-06-invitacion-reunion-diciembre/DockerSwarmRaspberryPi.png&quot; alt=&quot;Raspberry Pi + Docker Swarm&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-      <author>Chico</author>
-      <pubDate>Wed, 06 Dec 2017 13:00:00 -0600</pubDate>
-      <dc:date>2017-12-06T13:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
