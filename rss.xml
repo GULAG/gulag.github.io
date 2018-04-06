@@ -9,6 +9,17 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Bits Libres - Documento libre</title>
+      <link>http://gulag.org.mx/entradas/2018-04-02-Bits-Libres-Documento-libre.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en abril del 2018&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Mon, 02 Apr 2018 19:50:00 -0500</pubDate>
+      <dc:date>2018-04-02T19:50:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Datos personales por un peso</title>
       <link>http://gulag.org.mx/entradas/2018-03-04-Bits-Libres-datos-personales-por-un-peso.html</link>
       <description>
@@ -130,17 +141,6 @@
       <author>Chico</author>
       <pubDate>Wed, 06 Dec 2017 13:00:00 -0600</pubDate>
       <dc:date>2017-12-06T13:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Tiempos de compartir</title>
-      <link>http://gulag.org.mx/entradas/2017-12-03-Bits-Libres-Tiempos-de-compartir.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en diciembre del 2017&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 03 Dec 2017 13:00:00 -0600</pubDate>
-      <dc:date>2017-12-03T13:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
