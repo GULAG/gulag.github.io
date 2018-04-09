@@ -32,8 +32,22 @@
 &lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de abril&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria marzo&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2018-04-03-invitacion-reunion-abril/AndroidMasFirebase.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-03-invitacion-reunion-abril/AndroidMasFirebase.png&quot; alt=&quot;Android y Firebase&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
 &lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;creacin-de-base-de-datos&quot;&gt;Creación de base de datos&lt;/h2&gt;
+
+&lt;p&gt;Nuestro compañero Gerardo García Velazquez nos enseñará a crear y usar una base de datos con &lt;a href=&quot;https://en.wikipedia.org/wiki/Firebase&quot;&gt;Firebase&lt;/a&gt; utilizando &lt;a href=&quot;https://en.wikipedia.org/wiki/Kotlin_(programming_language)&quot;&gt;Kotlin&lt;/a&gt; en &lt;a href=&quot;https://en.wikipedia.org/wiki/Android_Studio&quot;&gt;Android Studio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se recomienda a los asistentes llevar instalado:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Android_Studio&quot;&gt;Android Studio&lt;/a&gt; en su versión estable.&lt;/li&gt;
+  &lt;li&gt;Celular android&lt;/li&gt;
+  &lt;li&gt;Cable para conectar el celular a la computadora.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Todas nuestras reuniones son el segundo sábado de cada mes, y la &lt;strong&gt;entrada es libre.&lt;/strong&gt;&lt;/p&gt;
 
