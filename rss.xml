@@ -9,6 +9,26 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>RESUMEN FLISOL 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-05-28-flisol.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-28-flisol/LogoFLISoL-2018.png&quot; alt=&quot;Logo Flisol 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;El pasado sábado 28 de abril, se llevó a cabo el Flisol 2018 en las instalaciones de plaza cuatro caminos.&lt;/p&gt;
+
+&lt;p&gt;Se contó con la participación de Alejandro, Osvaldo, Gerardo, Lugo, Palma y su servidor.
+Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de programa, el impacto, considero, fue positivo.&lt;/p&gt;
+
+</description>
+      <author>guabyboy</author>
+      <pubDate>Mon, 28 May 2018 10:00:00 -0500</pubDate>
+      <dc:date>2018-05-28T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Sistemas de votación</title>
       <link>http://gulag.org.mx/entradas/2018-05-03-Bits-Libres-Sistemas-de-votacion.html</link>
       <description>
@@ -119,17 +139,6 @@
       <author>guabyboy</author>
       <pubDate>Sat, 10 Feb 2018 17:00:00 -0600</pubDate>
       <dc:date>2018-02-10T17:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Mantener la confianza</title>
-      <link>http://gulag.org.mx/entradas/2018-02-03-Bits-Libres-Mantener-la-confianza.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en febrero del 2018&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 03 Feb 2018 19:50:00 -0600</pubDate>
-      <dc:date>2018-02-03T19:50:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
