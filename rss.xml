@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Próximamente: Congreso 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-09-01-avances-congreso-2018.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2018-09-07-congreso/logoTecInstituto_new.png&quot; alt=&quot;Sede Congreso 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 01 Sep 2018 10:00:00 -0500</pubDate>
+      <dc:date>2018-09-01T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>RESUMEN FLISOL 2018</title>
       <link>http://gulag.org.mx/entradas/2018-05-28-flisol.html</link>
       <description>
@@ -124,21 +139,6 @@ Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de 
       <author>Chico</author>
       <pubDate>Sat, 03 Mar 2018 13:00:00 -0600</pubDate>
       <dc:date>2018-03-03T13:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a Reunión febrero 2018</title>
-      <link>http://gulag.org.mx/entradas/2018-02-10-invitacion-reunion-febrero.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;10 de febrero&lt;/strong&gt; en las instalaciones de &lt;strong&gt;Biblioteca municipal de la Alameda Zaragoza  a las 5:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2018-02-10-invitacion-reunion-febrero/arduino_logo.jpg&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2018-02-10-invitacion-reunion-febrero/arduino_logo.jpg&quot; alt=&quot;Reunión ordinaria febrero&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>guabyboy</author>
-      <pubDate>Sat, 10 Feb 2018 17:00:00 -0600</pubDate>
-      <dc:date>2018-02-10T17:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
