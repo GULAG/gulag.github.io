@@ -19,16 +19,16 @@ El próximo **7 de septiembre del 2018**, estaremos celebrando un aniversario m�
 
 Se tendrán las siguientes conferencias:
 
-* Seguridad.
-* OpenStreetMap
+* "De los mapatones de transporte público a una red global de datos colaborativos".
+* "RansomWare: un reto para las PYMES mexicanas".
 
 También contaremos con los siguientes talleres:
 
-* Seguridad.
-* Edición del mapa base de OpenStreetMap.
-* Arduino.
-* Análisis de Stack.
-* Odoo
+* "Introducción a la edición del mapa base de Openstreetmap con enfoque humanitarios".
+* "Electrónica con Arduino"
+* "Análisis de Stack, su organización y explotación".
+* "Odoo"
+* "Travis"
 
 ... y más sorpresas que estamos preparando.
 
