@@ -27,8 +27,9 @@ También contaremos con los siguientes talleres:
 * "Introducción a la edición del mapa base de Openstreetmap con enfoque humanitarios".
 * "Electrónica con Arduino"
 * "Análisis de Stack, su organización y explotación".
-* "Odoo"
-* "Travis"
+* "Controla tu empresa con software libre con Odoo"
+* "Prueba tu código de forma automática con Travis"
+* "HTML5"
 
 ... y más sorpresas que estamos preparando.
 
