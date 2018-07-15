@@ -27,6 +27,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 **Diciembre 2017** [Tiempos de compartir](http://www.gulag.org.mx/entradas/2017-12-03-Bits-Libres-Tiempos-de-compartir.html) _Por Chico_
 
+**Noviembre 2017** [Ahora es más fácil](http://www.gulag.org.mx/entradas/2017-11-02-Bits-Libres-Ahora-es-mas-facil.html) _Por Chico_
+
 **Octubre 2017** [Más transparencia, por favor](http://www.gulag.org.mx/entradas/2017-10-01-Bits-Libres-Mas-transparencia-por-favor.html) _Por Chico_
 
 **Septiembre 2017** [Beneficios de compartir](http://www.gulag.org.mx/entradas/2017-09-01-Bits-Libres-Beneficios-de-compartir.html) _Por Chico_
