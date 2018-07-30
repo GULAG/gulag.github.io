@@ -21,6 +21,7 @@ Se tendrán las siguientes conferencias:
 
 * "De los mapatones de transporte público a una red global de datos colaborativos".
 * "RansomWare: un reto para las PYMES mexicanas".
+* "Privacidad de la información".
 
 También contaremos con los siguientes talleres:
 
