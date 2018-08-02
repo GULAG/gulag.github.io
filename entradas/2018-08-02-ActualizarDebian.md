@@ -7,9 +7,10 @@ Categorías: Debian, entradas
 <center>
 <img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="2018-08-02-ActualizarDebian/Debian9.jpeg" alt="Debian 9" width="65" height="50">
 
+</center>
 <br />
 
-<left>
+
 En este documento trataré de explicar mi experiencia en la actualización completa de mi sistema operativo GNU debian. No se trata de hacer un tutorial, para ello hay mucha información en la red, pero sí se trata de resaltar algunos detalles que  pudieran generar algún inconveniente al momento de realizar el proceso.
 
 <!-- break --> 

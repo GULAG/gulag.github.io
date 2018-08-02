@@ -30,12 +30,11 @@
 &lt;center&gt;
 &lt;img class=&quot;img-responsive&quot; style=&quot;width:25%;height:auto;margin-right:12px;&quot; src=&quot;2018-08-02-ActualizarDebian/Debian9.jpeg&quot; alt=&quot;Debian 9&quot; width=&quot;65&quot; height=&quot;50&quot; /&gt;
 
-&lt;br /&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;left&gt;
-En este documento trataré de explicar mi experiencia en la actualización completa de mi sistema operativo GNU debian. No se trata de hacer un tutorial, para ello hay mucha información en la red, pero sí se trata de resaltar algunos detalles que  pudieran generar algún inconveniente al momento de realizar el proceso.
+&lt;p&gt;En este documento trataré de explicar mi experiencia en la actualización completa de mi sistema operativo GNU debian. No se trata de hacer un tutorial, para ello hay mucha información en la red, pero sí se trata de resaltar algunos detalles que  pudieran generar algún inconveniente al momento de realizar el proceso.&lt;/p&gt;
 
-&lt;/left&gt;&lt;/center&gt;
 </description>
       <author>guabyboy</author>
       <pubDate>Wed, 01 Aug 2018 10:00:00 -0500</pubDate>
