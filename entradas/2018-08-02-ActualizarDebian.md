@@ -30,22 +30,22 @@ Debe verificar tener suficiente espacio libre en la partición donde se encuentr
 Si contamos con máquinas  virtuales, entes de realizar la actualización, recomiendo verifiquen que estén apagadas NO guardadas, para evitar pérdida de datos dentro de las máquina virtuales. Al actualizar la versión de virtualbox y si contamos con maquinas virtuales guardadas, al reiniciarlas en la nueva versión puede que no arranquen y generen un error, por lo que debemos descartar su estado, con la consiguiente pérdida de informacción.
 
 
-##Consideraciones Previas a la actualización
+###Consideraciones Previas a la actualización
 
 
 
 Ignoro el motivo, pero en varias páginas y blogs, recomiendan actualizar nuestro sistema operativo actual, supongo que si hay algún paquete importante que se ejecutará durante el proceso, este estará actualizado. Para lo cual abrimos una terminal y ejecutamos:
 
-###$sudo apt-get update
+__$sudo apt-get update__
 
-###$sudo apt-get upgrade
+__$sudo apt-get upgrade__
 
 Después procedemos en si a la actulización.
 
 
 
 
-##Proceso de actualización
+###Proceso de actualización
 
 
 
@@ -53,28 +53,28 @@ Después procedemos en si a la actulización.
 
 Normalmante el archivo de configuración de los repositorios se encuentra en **/etc/apt/sources.list** el cual debemos abrir con el editor de textos del sistema como administrador con sudo, pudiendo ser gedit, nano o pluma.
 
-####$sudo pluma /etc/apt/sources.list
+__$sudo pluma /etc/apt/sources.list__
 
 Ahí cambiaremos la palabra **jessie** por **strech**, que corresponde a Debian 9, para una mejor referencia consulte:
 
-###https://wiki.debian.org/es/DebianReleases#Versiones.2FRepositorios_actuales
+__https://wiki.debian.org/es/DebianReleases#Versiones.2FRepositorios_actuales__
 
 
-##Ahora, actualizar
+###Ahora, actualizar
 
 Una vez tomadas en cuenta las recomendaciones y haber hecho las modificaciones anteriores, solo falta una buena conexión a internet, buen café y tiempo para que se realice la actualización, recuerde que previamente debe haber modificado el *sources.list*.
 
 Aplicar con paciencia paso a paso cada instrucción 
 
-###$sudo apt-get update
+__$sudo apt-get update__
 
-###$sudo apt-get upgrade
+__$sudo apt-get upgrade__
 
-###$sudo apt-get dist-upgrade
+__$sudo apt-get dist-upgrade__
 
 Para finalizar, eliminamos los paquetes no necesarios, que pudieran haber quedado, con:
 
-###$sudo apt-get autoremove
+__$sudo apt-get autoremove__
 
 
 
