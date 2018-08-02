@@ -48,3 +48,7 @@ Los esperamos :-D
 <center>
 <img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/Patrocinadores.png" alt="Patrocinadores" width="325" height="250">
 </center>
+
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/Patrocinadores2.png" alt="Más patrocinadores" width="325" height="250">
+</center>
