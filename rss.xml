@@ -39,6 +39,21 @@
       <dc:date>2018-09-01T10:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Invitación a reunión agosto 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-08-09-invitacion-reunion-agosto.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;11 de agosto&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2018-07-07-invitacion-reunion-julio/travis-mascot-600px.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2018-08-09-invitacion-reunion-agosto/OSM-blender-blanco.png&quot; alt=&quot;Travis&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Thu, 09 Aug 2018 23:00:00 -0500</pubDate>
+      <dc:date>2018-08-09T23:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Actualizar Debian 8 a Debian 9 stretch</title>
       <link>http://gulag.org.mx/entradas/2018-08-02-ActualizarDebian.html</link>
       <description>
@@ -111,17 +126,6 @@ Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de 
       <author>guabyboy</author>
       <pubDate>Mon, 28 May 2018 10:00:00 -0500</pubDate>
       <dc:date>2018-05-28T10:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Sistemas de votación</title>
-      <link>http://gulag.org.mx/entradas/2018-05-03-Bits-Libres-Sistemas-de-votacion.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en mayo del 2018&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Thu, 03 May 2018 08:00:00 -0500</pubDate>
-      <dc:date>2018-05-03T08:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
