@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a reunión octubre 2018</title>
+      <link>http://gulag.org.mx/entradas/2018-10-08-invitacion-reunion-octubre.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;13 de octubre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2018-10-08-invitacion-reunion-octubre/Openstreetmap_logo.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2018-10-08-invitacion-reunion-octubre/Openstreetmap_logo.png&quot; alt=&quot;OpenStreetMap&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Mon, 08 Oct 2018 16:00:00 -0500</pubDate>
+      <dc:date>2018-10-08T16:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Congreso 2018</title>
       <link>http://gulag.org.mx/entradas/2018-09-07-congreso-2018.html</link>
       <description>
@@ -106,26 +121,6 @@
       <author>Chico</author>
       <pubDate>Sat, 02 Jun 2018 08:00:00 -0500</pubDate>
       <dc:date>2018-06-02T08:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>RESUMEN FLISOL 2018</title>
-      <link>http://gulag.org.mx/entradas/2018-05-28-flisol.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-28-flisol/LogoFLISoL-2018.png&quot; alt=&quot;Logo Flisol 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;El pasado sábado 28 de abril, se llevó a cabo el Flisol 2018 en las instalaciones de plaza cuatro caminos.&lt;/p&gt;
-
-&lt;p&gt;Se contó con la participación de Alejandro, Osvaldo, Gerardo, Lugo, Palma y su servidor.
-Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de programa, el impacto, considero, fue positivo.&lt;/p&gt;
-
-</description>
-      <author>guabyboy</author>
-      <pubDate>Mon, 28 May 2018 10:00:00 -0500</pubDate>
-      <dc:date>2018-05-28T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
