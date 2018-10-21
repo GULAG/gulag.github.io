@@ -103,6 +103,17 @@
       <dc:date>2018-08-01T10:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Bits Libres - Migración</title>
+      <link>http://gulag.org.mx/entradas/2018-08-01-Bits-Libres-Migracion.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en agosto del 2018&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Wed, 01 Aug 2018 08:00:00 -0500</pubDate>
+      <dc:date>2018-08-01T08:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Invitación a reunión julio 2018</title>
       <link>http://gulag.org.mx/entradas/2018-07-07-invitacion-reunion-julio.html</link>
       <description>
@@ -116,17 +127,6 @@
       <author>Chico</author>
       <pubDate>Sat, 07 Jul 2018 14:00:00 -0500</pubDate>
       <dc:date>2018-07-07T14:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Vamos ganando, pero...</title>
-      <link>http://gulag.org.mx/entradas/2018-07-01-Bits-Libres-Vamos-ganando-pero.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en julio del 2018&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 01 Jul 2018 08:00:00 -0500</pubDate>
-      <dc:date>2018-07-01T08:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
