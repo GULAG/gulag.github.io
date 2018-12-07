@@ -11,6 +11,16 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 ### Artículos publicados
 
+**Diciembre 2018** [Compartiendo lo mejor de nosotros](http://www.gulag.org.mx/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html) _Por Chico_
+
+**Noviembre 2018** [Resistencia al cambio](http://www.salazarysanchez.com/entradas/2018-11-01-Bits-Libres-Resistencia-al-cambio.html) _Por Chico_
+
+**Octubre 2018** [Más mujeres en TICs](http://www.salazarysanchez.com/entradas/2018-10-01-Bits-Libres-Mas-Mujeres-en-TICs.html) _Por Chico_
+
+**Septiembre 2018** [Feliz cumpleaños](http://www.salazarysanchez.com/entradas/2018-09-01-Bits-Libres-Feliz-Cumpleanos.html) _Por Chico_
+
+**Agosto 2018** [Migración](http://www.gulag.org.mx/entradas/2018-08-01-Bits-Libres-Migracion.html) _Por Chico_
+
 **Julio 2018** [Vamos ganando, pero...](http://www.gulag.org.mx/entradas/2018-07-01-Bits-Libres-Vamos-ganando-pero.html) _Por Chico_
 
 **Junio 2018** [Interesarnos en la política](http://www.gulag.org.mx/entradas/2018-06-02-Bits-Libres-Interesarnos-en-la-politica.html) _Por Chico_
