@@ -16,6 +16,7 @@ def publicacion(dir)
 <p>Una vez dento puedes enviarnos un mensaje a <b>gulagmx@googlegroups.com</b></p>
 
 <a href="http://twitter.com/gulagmexico"><img src="../imagenes/Twitter.png" class="RedesSociales">@gulagmexico</a><br>
+<a href="https://www.facebook.com/groups/282427405174957/?ref=hl"><img src="../imagenes/Facebook.png" class="RedesSociales">GULAG</a><br>
 <a href="https://www.facebook.com/pages/Gulag/308970342541613?ref=hl"><img src="../imagenes/Facebook.png" class="RedesSociales">Gulag</a><br>
 <a href="https://plus.google.com/communities/112926264472545724218"><img src="../imagenes/Google.png" class="RedesSociales">Comunidad de Gulag</a><br>
 
