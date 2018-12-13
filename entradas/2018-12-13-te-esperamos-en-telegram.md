@@ -11,7 +11,7 @@ Categorías: Telegram, Contacto
 
 <br />
 
-Se ha creado un grupo de telegram, en donde l@s esperamos, para así participemos, colaboremos y nos ayudemos más.
+Se ha creado un grupo de [Telegram](https://telegram.org/), en donde l@s esperamos, para que así participemos, colaboremos y nos ayudemos más.
 
 Este grupo surgió en base a la retroalimentación de la última reunión y la charla con otras personas que han asistido a nuestros eventos y reuniones.
 
