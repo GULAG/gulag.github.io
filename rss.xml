@@ -9,6 +9,32 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Te esperamos en Telegram</title>
+      <link>http://gulag.org.mx/entradas/2018-12-13-te-esperamos-en-telegram.html</link>
+      <description>
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2018-12-13-te-esperamos-en-telegram/Telegram_logo.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2018-12-13-te-esperamos-en-telegram/Telegram_logo.png&quot; alt=&quot;Telegram&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Se ha creado un grupo de telegram, en donde l@s esperamos, para así participemos, colaboremos y nos ayudemos más.&lt;/p&gt;
+
+&lt;p&gt;Este grupo surgió en base a la retroalimentación de la última reunión y la charla con otras personas que han asistido a nuestros eventos y reuniones.&lt;/p&gt;
+
+&lt;h4 id=&quot;link&quot;&gt;Link:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/AfjJPUm4OTpkxyAtZeylhg&quot;&gt;Unirme a los Amigos del Software Libre&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Los esperamos :)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recuerda que pueden invitar a sus amig@s ;)&lt;/strong&gt;&lt;/p&gt;
+</description>
+      <author>Chico</author>
+      <pubDate>Thu, 13 Dec 2018 18:00:00 -0600</pubDate>
+      <dc:date>2018-12-13T18:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Compartiendo lo mejor de nosotros</title>
       <link>http://gulag.org.mx/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html</link>
       <description>
@@ -95,23 +121,6 @@
       <author>Chico</author>
       <pubDate>Thu, 09 Aug 2018 23:00:00 -0500</pubDate>
       <dc:date>2018-08-09T23:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Actualizar Debian 8 a Debian 9 stretch</title>
-      <link>http://gulag.org.mx/entradas/2018-08-02-ActualizarDebian.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:25%;height:auto;margin-right:12px;&quot; src=&quot;2018-08-02-ActualizarDebian/Debian9.jpeg&quot; alt=&quot;Debian 9&quot; width=&quot;65&quot; height=&quot;50&quot; /&gt;
-
-&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;En este documento trataré de explicar mi experiencia en la actualización completa de mi sistema operativo GNU debian. No se trata de hacer un tutorial, para ello hay mucha información en la red, pero sí se trata de resaltar algunos detalles que  pudieran generar algún inconveniente al momento de realizar el proceso.&lt;/p&gt;
-
-</description>
-      <author>guabyboy</author>
-      <pubDate>Wed, 01 Aug 2018 10:00:00 -0500</pubDate>
-      <dc:date>2018-08-01T10:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Bits Libres - Migración</title>
