@@ -74,9 +74,15 @@ En la conferencia **"RansomWare: un reto para las PYMES mexicanas" de Antonio Gu
 
 ### Talleres simultáneos
 
-Después de las conferencias los asistentes satisfacieron el paladar con el servicio de FoodTrucks así como de los restaurantes de su elección; para acto seguido iniciar con uno de los seis talleres simultáneos en los que se registrarón. Los talleres fueron:
+Después de las conferencias los asistentes satisficieron el paladar con el servicio de FoodTrucks así como de los restaurantes de su elección; para acto seguido iniciar con uno de los seis talleres simultáneos en los que se registrarón. Los talleres fueron:
 
-Foto talleres
+<br />
+
+<center>
+<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/html5.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/html5.jpg" alt="Taller HTML5" width="250" height="325"></a>
+</center>
+
+<br />
 
 * **"Introducción a la edición del mapa base de Openstreetmap con enfoque humanitarios" por Céline Jacquin**.
 * **"Electrónica con Arduino" por Gabriel Peña**.
@@ -84,6 +90,14 @@ Foto talleres
 * **"Controla tu empresa con software libre con Odoo" por Jesús Alan Ramos Rodríguez**.
 * **"Prueba tu código de forma automática con Travis" por Luis Martin Triana Olea**.
 * **"Desarrollo Web con HTML5, CSS3 y JavaScript." por Pablo Ulises González Jaquez**.
+
+<br />
+
+<center>
+<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/odoo.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/odoo.jpg" alt="Taller Odoo" width="250" height="325"></a>
+</center>
+
+<br />
 
 La entrada a las conferencias y a los talleres fue, como siempre, **sin costo**.
 
