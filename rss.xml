@@ -9,6 +9,24 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a reunión febrero 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-02-01-invitacion-reunion-febrero.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;9 de febrero&lt;/strong&gt; en las instalaciones de &lt;strong&gt;&lt;a href=&quot;http://ethergroup.mx/&quot;&gt;EtherGroup&lt;/a&gt;&lt;/strong&gt; ubicado en … a las &lt;strong&gt;4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2019-02-01-invitacion-reunion-febrero/arget-1140288-unsplash.jpg&quot;&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:80%;height:auto;margin-right:12px;&quot; src=&quot;2019-02-01-invitacion-reunion-febrero/arget-1140288-unsplash.jpg&quot; alt=&quot;exploit&quot; width=&quot;425&quot; height=&quot;350&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Fri, 01 Feb 2019 13:00:00 -0600</pubDate>
+      <dc:date>2019-02-01T13:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Invitación a reunión enero 2019</title>
       <link>http://gulag.org.mx/entradas/2019-01-08-invitacion-reunion-enero.html</link>
       <description>
@@ -119,21 +137,6 @@
       <author>Chico</author>
       <pubDate>Sat, 08 Sep 2018 03:40:00 -0500</pubDate>
       <dc:date>2018-09-08T03:40:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Congreso 2018</title>
-      <link>http://gulag.org.mx/entradas/2018-09-07-congreso-2018.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2018-09-07-congreso/GULAG-Congreso-2018-Poster.png&quot; alt=&quot;Poster Congreso 2018&quot; width=&quot;250&quot; height=&quot;325&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Fri, 07 Sep 2018 10:00:00 -0500</pubDate>
-      <dc:date>2018-09-07T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
