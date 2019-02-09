@@ -10,7 +10,7 @@ Se hace una atenta invitación a la reunión ordinaria que se celebrará el __9 
 <br />
 
 <center>
-<a class="img-responsive" href="2019-02-01-invitacion-reunion-febrero/arget-1140288-unsplash.jpg">
+<a class="img-responsive" href="2019-02-01-invitacion-reunion-febrero/PopArt.jpg">
 <img class="img-responsive" style="width:80%;height:auto;margin-right:12px;" src="2019-02-01-invitacion-reunion-febrero/PopArt.jpg" alt="PopArt con Gimp" width="425" height="350"></a>
 </center>
 
