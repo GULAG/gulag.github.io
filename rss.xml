@@ -9,6 +9,23 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>FLISOL 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-04-06-flisol.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-28-flisol/LogoFLISoL-2018.png&quot; alt=&quot;Logo Flisol 2019&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con el objetivo de promover y difundir el uso de Software Libre, el próximo &lt;strong&gt;sábado 6 de abril de 2019&lt;/strong&gt; se llevará a cabo el &lt;strong&gt;&lt;a href=&quot;https://flisol.info/FLISOL2019/Mexico/Torreon&quot;&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/a&gt;&lt;/strong&gt; en el atrio principal de la &lt;strong&gt;Plaza Cuatro Caminos&lt;/strong&gt; ubicado en Blvd. Independencia 1300 Ote. Col.Navarro en &lt;strong&gt;Torreón, Coahuila, México.&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 06 Apr 2019 10:00:00 -0600</pubDate>
+      <dc:date>2019-04-06T10:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Reunión de marzo 2019: Rumbo al FLISOL</title>
       <link>http://gulag.org.mx/entradas/2019-03-10-reunion-marzo.html</link>
       <description>
@@ -110,17 +127,6 @@
       <author>Chico</author>
       <pubDate>Thu, 13 Dec 2018 18:00:00 -0600</pubDate>
       <dc:date>2018-12-13T18:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Compartiendo lo mejor de nosotros</title>
-      <link>http://gulag.org.mx/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en diciembre del 2018&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sat, 01 Dec 2018 08:00:00 -0600</pubDate>
-      <dc:date>2018-12-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
