@@ -138,6 +138,8 @@ De igual manera agradecemos a todos los miembros del GULAG que de una u otra for
 ### Promoción en medios de comunicación:
 **18 agosto 2018 - 106.7 FM** : En [video](https://www.facebook.com/comarcadetodoss/videos/1291826967620601/) o [audio (.ogg)](2018-09-07-congreso/2018-08-18-Promocion-Congreso-Software-Libre-2018-en-Radio-106.7-FM.ogg)
 
+**8 septiembre 2018 - Milenio Laguna** : [pdf](2018-09-08-resumen-congreso-2018/Milenio-2018-09-08-Congreso-2018.pdf)
+
 ### Redes sociales:
 
 [Facebook](https://www.facebook.com/groups/282427405174957/)
