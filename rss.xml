@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Próximamente: Congreso 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-09-01-avances-congreso-2019.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2018-09-07-congreso/logoTecInstituto_new.png&quot; alt=&quot;Sede Congreso 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 01 Sep 2019 10:00:00 -0500</pubDate>
+      <dc:date>2019-09-01T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Reunión de abril 2019</title>
       <link>http://gulag.org.mx/entradas/2019-04-12-reunion-abril.html</link>
       <description>
@@ -24,6 +39,27 @@
       <author>Chico</author>
       <pubDate>Fri, 12 Apr 2019 13:00:00 -0500</pubDate>
       <dc:date>2019-04-12T13:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>RESUMEN FLISOL 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-04-07-resumen-flisol.html</link>
+      <description>
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-28-flisol/LogoFLISoL-2018.png&quot; alt=&quot;Logo Flisol 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;El pasado sábado 6 de abril, se llevó a cabo el Flisol 2018 en las instalaciones de plaza cuatro caminos.&lt;/p&gt;
+
+&lt;p&gt;Se contó con la participación de Gabriel, Gerardo, Lugo, Imir, amigos de &lt;a href=&quot;http://fica.ujed.mx/&quot;&gt;FICA-UJED&lt;/a&gt; y de la &lt;a href=&quot;http://www.sistemastorreon.uadec.mx/&quot;&gt;Escuela de Sistemas Unidad Torreón - U.A. de C.&lt;/a&gt; y su servidor.&lt;/p&gt;
+
+&lt;p&gt;Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de programa, el impacto, considero, fue positivo, mayor que el del año pasado.&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 07 Apr 2019 10:00:00 -0500</pubDate>
+      <dc:date>2019-04-07T10:00:00-05:00</dc:date>
     </item>
     <item>
       <title>FLISOL 2019</title>
@@ -92,32 +128,6 @@
       <author>Chico</author>
       <pubDate>Fri, 01 Feb 2019 08:00:00 -0600</pubDate>
       <dc:date>2019-02-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a reunión enero 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-01-08-invitacion-reunion-enero.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;12 de enero&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria enero&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Tue, 08 Jan 2019 14:00:00 -0600</pubDate>
-      <dc:date>2019-01-08T14:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Trabajemos con transparencia</title>
-      <link>http://gulag.org.mx/entradas/2019-01-01-Bits-Libres-Trabajemos-con-transparencia.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en enero del 2019&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Tue, 01 Jan 2019 08:00:00 -0600</pubDate>
-      <dc:date>2019-01-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
