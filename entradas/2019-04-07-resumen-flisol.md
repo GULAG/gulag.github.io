@@ -1,0 +1,50 @@
+RESUMEN FLISOL 2019
+===================
+
+Fecha: 2019-04-07 10:00
+Autor: Chico
+Categorías: Install Fest, FLISOL
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-04-28-flisol/LogoFLISoL-2018.png" alt="Logo Flisol 2018" width="325" height="250">
+</center>
+
+<br />
+
+El pasado sábado 6 de abril, se llevó a cabo el Flisol 2018 en las instalaciones de plaza cuatro caminos.
+
+Se contó con la participación de Gabriel, Gerardo, Lugo, Imir, amigos de [FICA-UJED](http://fica.ujed.mx/) y de la [Escuela de Sistemas Unidad Torreón - U.A. de C.](http://www.sistemastorreon.uadec.mx/) y su servidor.
+
+Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de programa, el impacto, considero, fue positivo, mayor que el del año pasado.
+
+<!-- break -->
+
+<br />
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2019-04-06-flisol/Poster-FLISOL-2019.jpg" alt="Poster Flisol 2019" width="250" height="325">
+</center>
+
+<br />
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-05-28-flisol/flisol.jpeg" alt="Participantes" width="250" height="325">
+</center>
+
+<br />
+Se continuo ofreciendo el taller de arduino, en el cual se acercaron, no solo niños sino también niña, motivada por su padre.
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-05-28-flisol/Papa.jpg" alt="Padre e hija" width="250" height="325">
+</center>
+
+
+<br />
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-05-28-flisol/actividades.jpg" alt="Asistentes" width="250" height="325">
+</center>
+
+<br />
+
+Agradecemos el apoyo de la Plaza Cuatro Caminos, en especial a la Lic. Gabriela Nava, por las facilidades ofrecidas.
