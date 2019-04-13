@@ -28,21 +28,26 @@ Si bien, en esta ocasión no se instaló ninguna distribución o algún tipo de 
 <br />
 
 <center>
-<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-05-28-flisol/flisol.jpeg" alt="Participantes" width="250" height="325">
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2019-04-07-resumen-flisol/003.jpg" alt="Participantes" width="250" height="325">
 </center>
 
 <br />
 Se continuo ofreciendo el taller de arduino, en el cual se acercaron, no solo niños sino también niña, motivada por su padre.
 
 <center>
-<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-05-28-flisol/Papa.jpg" alt="Padre e hija" width="250" height="325">
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2019-04-07-resumen-flisol/004.jpg" alt="Asistentes" width="250" height="325">
 </center>
-
 
 <br />
 
 <center>
-<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-05-28-flisol/actividades.jpg" alt="Asistentes" width="250" height="325">
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2019-04-07-resumen-flisol/005.jpg" alt="Asistentes" width="250" height="325">
+</center>
+
+<br />
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2019-04-07-resumen-flisol/002.jpg" alt="gulag" width="250" height="325">
 </center>
 
 <br />
