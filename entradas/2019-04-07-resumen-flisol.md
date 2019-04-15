@@ -3,7 +3,7 @@ RESUMEN FLISOL 2019
 
 Fecha: 2019-04-07 10:00
 Autor: Chico
-Categorías: Install Fest, FLISOL
+Categorías: Eventos, Install Fest, FLISOL
 
 <center>
 <img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-04-28-flisol/LogoFLISoL-2018.png" alt="Logo Flisol 2018" width="325" height="250">
