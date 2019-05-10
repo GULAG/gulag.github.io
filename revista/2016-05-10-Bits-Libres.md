@@ -11,6 +11,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 
 ### Artículos publicados
 
+**Mayo 2019** [Cámara de eco](http://www.gulag.org.mx/entradas/2019-05-01-Bits-Libres-Camara-de-eco.html) _Por Chico_
+
 **Enero 2019** [Trabajemos con transparencia](http://www.gulag.org.mx/entradas/2019-01-01-Bits-Libres-Trabajemos-con-transparencia.html) _Por Chico_
 
 **Diciembre 2018** [Compartiendo lo mejor de nosotros](http://www.gulag.org.mx/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html) _Por Chico_
