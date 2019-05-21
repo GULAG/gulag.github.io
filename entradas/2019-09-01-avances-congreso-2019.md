@@ -21,6 +21,8 @@ También contaremos con los siguientes talleres:
 
 * Animación 3D con Blender.
 * HTML5.
+* Docker.
+* Pelican.
 
 ... y más sorpresas que estamos preparando.
 
