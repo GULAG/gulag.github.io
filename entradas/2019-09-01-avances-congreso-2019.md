@@ -11,6 +11,8 @@ El próximo **septiembre del 2019**, estaremos celebrando un aniversario más y 
 
 **Ésta pagina se estará actualizando con las novedades para el Congreso: visítala frecuentemente.**
 
+La cita será el **20 de septiembre del 2019** en las instalaciones de la **Escuela de Sistemas, Unidad Torreón, de la Universidad Autónoma de Coahuila**.
+
 Se tendrán las siguientes temáticas en las conferencias:
 
 * Blender - Animación 3D.
@@ -30,7 +32,7 @@ La entrada a las conferencias y a los talleres será, como siempre, **sin costo*
 
 **Estén pendientes; en agosto se abrirá el registro para las conferencias y los talleres.**
 
-Reserven en sus agendas **septiembre del 2019**.
+Reserven en sus agendas **20 septiembre del 2019**.
 
 Los esperamos :-D
 
