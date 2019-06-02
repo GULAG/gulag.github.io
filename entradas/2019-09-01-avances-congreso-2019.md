@@ -28,6 +28,7 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 * __"HTML5"__.
 * **"Docker"** por _Edgar Lugo C._.
 * **"Pelican"** por _Guillermo Valdés Lozano_.
+* **"Estadística con RStudio"** por _Gabriel Peña A._
 
 Para estos talleres los asistentes llevaran sus equipos portatiles.
 
