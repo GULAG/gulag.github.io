@@ -25,7 +25,7 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 
 * **"Crear una red LoRa"** por _Francisco Acosta Padilla_.
 * _Nombre relacionado con Blender por confirmar_ por _Octavio Méndez Sánchez_.
-* __"HTML5"__.
+* **"Desarrollo Web con HTML5, CSS3 y JavaScript"** por _Pablo Ulises González Jaquez_.
 * **"Docker"** por _Edgar Lugo C._.
 * **"Pelican"** por _Guillermo Valdés Lozano_.
 * **"Estadística con RStudio"** por _Gabriel Peña A._
@@ -42,7 +42,7 @@ La entrada a las conferencias y a los talleres será, como siempre, **sin costo*
 
 #### Mapa
 
-_Próximamente._
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-103.33529412746431%2C25.527513571671122%2C-103.32930743694307%2C25.530316324621296&amp;layer=mapnik&amp;marker=25.528917376670478%2C-103.33230078220367" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=25.52892&amp;mlon=-103.33230#map=18/25.52891/-103.33230">Ver mapa más grande</a></small>
 
 #### Patrocinadores:
 
@@ -52,6 +52,8 @@ _Próximamente._
 <br />
 <center>
 <img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2019-09-01-avances-congreso-2019/Perfumeria_Florels_blanco.png" alt="Florels" width="325" height="250">
+<br />
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2019-09-01-avances-congreso-2019/logo_tec_fondo-blanco.png" alt="Tec San Pedro" width="325" height="250">
 </center>
 <br />
 
