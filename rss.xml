@@ -20,6 +20,21 @@
       <dc:date>2019-09-01T10:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Invitación a reunión julio 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-07-07-invitacion-reunion-julio.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;13 de julio&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2019-07-07-invitacion-reunion-julio/julio2019.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:60%;height:auto;margin-right:12px;&quot; src=&quot;2019-07-07-invitacion-reunion-julio/julio2019.png&quot; alt=&quot;Innovando con raspberry pi&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 07 Jul 2019 21:00:00 -0500</pubDate>
+      <dc:date>2019-07-07T21:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Reunión de junio 2019</title>
       <link>http://gulag.org.mx/entradas/2019-06-06-reunion-junio.html</link>
       <description>
@@ -116,17 +131,6 @@
       <author>Chico</author>
       <pubDate>Sat, 06 Apr 2019 10:00:00 -0600</pubDate>
       <dc:date>2019-04-06T10:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión de marzo 2019: Rumbo al FLISOL</title>
-      <link>http://gulag.org.mx/entradas/2019-03-10-reunion-marzo.html</link>
-      <description>
-&lt;p&gt;El pasado 9 de marzo realizamos nuestra reunión mensual en las instalaciones de la &lt;a href=&quot;http://www.ual.mx/&quot;&gt;Universidad Autónoma de La Laguna&lt;/a&gt;: &lt;strong&gt;Sí, regresamos a &lt;a href=&quot;https://www.openstreetmap.org/?mlat=25.57731&amp;amp;mlon=-103.43154#map=17/25.57731/-103.43154&quot;&gt;casa&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 10 Mar 2019 13:00:00 -0600</pubDate>
-      <dc:date>2019-03-10T13:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
