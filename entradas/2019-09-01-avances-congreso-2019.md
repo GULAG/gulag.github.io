@@ -19,14 +19,14 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 
 * _Nombre relacionado con Blender por confirmar_ por _Octavio Méndez Sánchez_.
 * **"Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet"** por __Francisco Acosta Padilla__
-* _Nombre relacionado con Seguridad por confirmar_ por _Antonio Gurza_.
+* **"Que es la Ingeniería Social y como protegerse"** por _Antonio Gurza_.
 
 #### Talleres:
 
 * **"Crear una red LoRa"** por _Francisco Acosta Padilla_.
 * _Nombre relacionado con Blender por confirmar_ por _Octavio Méndez Sánchez_.
 * **"Desarrollo Web con HTML5, CSS3 y JavaScript"** por _Pablo Ulises González Jaquez_.
-* **"Docker"** por _Edgar Lugo C._.
+* **"Docker"** por _Edgar Lugo C._
 * **"Pelican"** por _Guillermo Valdés Lozano_.
 * **"Estadística con RStudio"** por _Gabriel Peña A._
 
@@ -59,4 +59,17 @@ La entrada a las conferencias y a los talleres será, como siempre, **sin costo*
 
 Reserven en sus agendas el **viernes 20 septiembre del 2019**.
 
-Los esperamos :-D
+### Redes sociales:
+[Facebook](https://www.facebook.com/groups/282427405174957/)
+
+[Facebook](https://www.facebook.com/pages/Gulag/308970342541613)
+
+[Twitter](https://twitter.com/gulagmexico)
+
+[Telegram](https://t.me/joinchat/AfjJPUm4OTpkxyAtZeylhg)
+
+### Descargas
+
+Próximamente.
+
+**Los esperamos :-D**
