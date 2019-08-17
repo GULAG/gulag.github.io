@@ -17,18 +17,18 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 
 #### Conferencias:
 
-* _Nombre relacionado con Blender por confirmar_ por _Octavio Méndez Sánchez_.
 * **"Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet"** por __Francisco Acosta Padilla__
 * **"Que es la Ingeniería Social y como protegerse"** por _Antonio Gurza_.
+* _Nombre relacionado con Blender por confirmar_.
 
 #### Talleres:
 
 * **"Crear una red LoRa"** por _Francisco Acosta Padilla_.
-* _Nombre relacionado con Blender por confirmar_ por _Octavio Méndez Sánchez_.
 * **"Desarrollo Web con HTML5, CSS3 y JavaScript"** por _Pablo Ulises González Jaquez_.
 * **"Docker"** por _Edgar Lugo C._
 * **"Pelican"** por _Guillermo Valdés Lozano_.
 * **"Estadística con RStudio"** por _Gabriel Peña A._
+* _Nombre relacionado con Blender por confirmar_.
 
 Para estos talleres los asistentes llevaran sus equipos portatiles.
 
