@@ -18,8 +18,8 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 #### Conferencias:
 
 * **"Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet"** por __Francisco Acosta Padilla__
+* **"Equidad de Género en Informática"** por _Guillermo Valdés Lozano_.
 * **"Que es la Ingeniería Social y como protegerse"** por _Antonio Gurza_.
-* _Nombre relacionado con Blender por confirmar_.
 
 #### Talleres:
 
@@ -28,7 +28,6 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 * **"Docker"** por _Edgar Lugo C._
 * **"Pelican"** por _Guillermo Valdés Lozano_.
 * **"Estadística con RStudio"** por _Gabriel Peña A._
-* _Nombre relacionado con Blender por confirmar_.
 
 Para estos talleres los asistentes llevaran sus equipos portatiles.
 
