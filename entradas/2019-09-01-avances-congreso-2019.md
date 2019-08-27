@@ -17,9 +17,10 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 
 #### Conferencias:
 
-* **"Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet"** por __Francisco Acosta Padilla__
-* **"Equidad de Género en Informática"** por _Guillermo Valdés Lozano_.
-* **"Que es la Ingeniería Social y como protegerse"** por _Antonio Gurza_.
+* **Serán en el "Aula Milenio".**
+* 9:00 horas "Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet" por _Francisco Acosta Padilla_
+* 10:00 horas "Equidad de Género en Informática" por _Guillermo Valdés Lozano_.
+* 11:00 horas "Que es la Ingeniería Social y como protegerse" por _Antonio Gurza_.
 
 #### Talleres:
 
