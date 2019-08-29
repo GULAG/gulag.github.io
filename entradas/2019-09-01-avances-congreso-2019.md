@@ -18,25 +18,29 @@ El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más
 #### Conferencias:
 
 * **Serán en el "Aula Milenio".**
-* 9:00 horas "Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet" por _Francisco Acosta Padilla_
-* 10:00 horas "Equidad de Género en Informática" por _Guillermo Valdés Lozano_.
-* 11:00 horas "Que es la Ingeniería Social y como protegerse" por _Antonio Gurza_.
+* 9:00 horas **"Internet de las cosas: de las redes de sensores inalámbricas a la conectividad con protocolos de internet"** por _Francisco Acosta Padilla_
+* 10:00 horas **"Equidad de Género en Informática"** por _Guillermo Valdés Lozano_.
+* 11:00 horas **"Que es la Ingeniería Social y como protegerse"** por _Antonio Gurza_.
 
-#### Talleres:
+De 12:00 a 15:00 horas se dará tiempo para comer.
 
-* **"Crear una red LoRa"** por _Francisco Acosta Padilla_.
-* **"Desarrollo Web con HTML5, CSS3 y JavaScript"** por _Pablo Ulises González Jaquez_.
-* **"Docker"** por _Edgar Lugo C._
-* **"Pelican"** por _Guillermo Valdés Lozano_.
-* **"Estadística con RStudio"** por _Gabriel Peña A._
+También contaremos con los siguientes
+
+#### Talleres simultáneos:
+
+* 15:00 - 19:00 horas **"Crear una red LoRa"** por _Francisco Acosta Padilla_.
+* 15:00 - 19:00 horas **"Desarrollo Web con HTML5, CSS3 y JavaScript"** por _Pablo Ulises González Jaquez_.
+* 15:00 - 19:00 horas **"Docker"** por _Edgar Lugo C._
+* 15:00 - 19:00 horas **"Pelican"** por _Guillermo Valdés Lozano_.
+* 15:00 - 19:00 horas **"Estadística con RStudio"** por _Gabriel Peña A._
 
 Para estos talleres los asistentes llevaran sus equipos portatiles.
 
 Los talleres son de **CUPO LIMITADO**.
 
-####Registro
+#### Registro
 
-En agosto se abrirá el registro para las conferencias y los talleres.
+En septiembre se abrirá el registro para las conferencias y los talleres.
 
 La entrada a las conferencias y a los talleres será, como siempre, **sin costo**.
 
