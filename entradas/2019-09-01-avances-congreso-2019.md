@@ -74,6 +74,10 @@ Reserven en sus agendas el **viernes 20 septiembre del 2019**.
 
 ### Descargas
 
-Próximamente.
+[Poster del evento (.svg)](2019-09-01-avances-congreso-2019/Congreso2019.svg)
+
+[Poster del evento (.png)](2019-09-01-avances-congreso-2019/PosterCongreso2019.png)
+
+
 
 **Los esperamos :-D**
