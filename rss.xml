@@ -20,6 +20,17 @@
       <dc:date>2019-09-02T10:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Bits Libres - Festejando con los amigos</title>
+      <link>http://gulag.org.mx/entradas/2019-09-01-Bits-Libres-Festejando-con-los-amigos.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2019&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 01 Sep 2019 11:00:00 -0500</pubDate>
+      <dc:date>2019-09-01T11:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Próximamente: Congreso 2019</title>
       <link>http://gulag.org.mx/entradas/2019-09-01-avances-congreso-2019.html</link>
       <description>
@@ -106,25 +117,6 @@
       <author>Chico</author>
       <pubDate>Fri, 12 Apr 2019 13:00:00 -0500</pubDate>
       <dc:date>2019-04-12T13:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>RESUMEN FLISOL 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-04-07-resumen-flisol.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-28-flisol/LogoFLISoL-2018.png&quot; alt=&quot;Logo Flisol 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;El pasado sábado 6 de abril, se llevó a cabo el &lt;a href=&quot;https://flisol.info/FLISOL2019/Mexico/Torreon&quot;&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/a&gt; 2019 en las instalaciones de plaza cuatro caminos.&lt;/p&gt;
-
-&lt;p&gt;Se contó con la participación de Gabriel, Gerardo (a quien agradecemos las fotografías), Guillermo, Jesús, Lugo, Imir, Polo, amigos de &lt;a href=&quot;http://fica.ujed.mx/&quot;&gt;FICA-UJED&lt;/a&gt;, de la &lt;a href=&quot;http://www.sistemastorreon.uadec.mx/&quot;&gt;Escuela de Sistemas Unidad Torreón - U.A. de C.&lt;/a&gt; y su servidor.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 07 Apr 2019 10:00:00 -0500</pubDate>
-      <dc:date>2019-04-07T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
