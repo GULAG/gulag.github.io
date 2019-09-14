@@ -13,17 +13,13 @@ Se hace una atenta invitación a la reunión ordinaria que se celebrará el __14
 
 <!-- break -->
 
-<br />
-
-## LineageOS
+### LineageOS
 
 En esta ocasión estaremos practicando la instalación de [LineageOS](https://www.lineageos.org/) en algunos dispositivos.
 
-## Usuarios nuevos
+### Usuarios nuevos
 
 Si quieres aprender a usar GNU/Linux, en __[GUI](https://es.wikipedia.org/wiki/Interfaz_gr%C3%A1fica_de_usuario)__ y/o __[CLI](https://es.wikipedia.org/wiki/L%C3%ADnea_de_comandos)__ también te esperamos :) 
-
-<br />
 
 Todas nuestras reuniones son el segundo sábado de cada mes, y la __entrada es libre.__
 

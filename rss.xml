@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a reunión septiembre 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-09-13-invitacion-reunion-septiembre.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de septiembre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2019-09-13-invitacion-reunion-septiembre/septiembre2019.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:60%;height:auto;margin-right:12px;&quot; src=&quot;2019-09-13-invitacion-reunion-septiembre/septiembre2019.png&quot; alt=&quot;LineageOS&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Fri, 13 Sep 2019 23:00:00 -0500</pubDate>
+      <dc:date>2019-09-13T23:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Congreso 2019</title>
       <link>http://gulag.org.mx/entradas/2019-09-02-congreso-2019.html</link>
       <description>
@@ -100,23 +115,6 @@
       <author>Chico</author>
       <pubDate>Wed, 01 May 2019 08:00:00 -0500</pubDate>
       <dc:date>2019-05-01T08:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión de abril 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-04-12-reunion-abril.html</link>
-      <description>
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria enero&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Están todos invitados a nuestra reunión,como siempre, el segundo sábado de cada mes, el próximo 13 de abril en las instalaciones de la &lt;a href=&quot;http://www.ual.mx/&quot;&gt;Universidad Autónoma de La Laguna&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Fri, 12 Apr 2019 13:00:00 -0500</pubDate>
-      <dc:date>2019-04-12T13:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
