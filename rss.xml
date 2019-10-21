@@ -9,6 +9,23 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Invitación a reunión noviembre 2019</title>
+      <link>http://gulag.org.mx/entradas/2019-11-03-invitacion-reunion-noviembre.html</link>
+      <description>
+&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;9 de noviembre&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2019-11-03-invitacion-reunion-noviembre/MachineLearning-Python.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:60%;height:auto;margin-right:12px;&quot; src=&quot;2019-11-03-invitacion-reunion-noviembre/MachineLearning-Python.png&quot; alt=&quot;Machine Learning and Python&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sun, 03 Nov 2019 23:00:00 -0600</pubDate>
+      <dc:date>2019-11-03T23:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Invitación a reunión octubre 2019</title>
       <link>http://gulag.org.mx/entradas/2019-10-07-invitacion-reunion-octubre.html</link>
       <description>
@@ -98,23 +115,6 @@
       <author>Chico</author>
       <pubDate>Thu, 06 Jun 2019 11:00:00 -0500</pubDate>
       <dc:date>2019-06-06T11:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Reunión de mayo 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-05-17-reunion-mayo.html</link>
-      <description>
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:30%;height:auto;margin-right:12px;&quot; src=&quot;2016-10-16-invitacion-reunion-noviembre/LinuxParty.png&quot; alt=&quot;Reunión ordinaria enero&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Están todos invitados a nuestra reunión, el 18 de mayo del año en curso, a las 16:00 horas, en el Edificio CTA (Centro de Tecnología Avanzada), segundo piso, de la &lt;a href=&quot;http://www.ual.mx/&quot;&gt;Universidad Autónoma de La Laguna&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Fri, 17 May 2019 13:00:00 -0500</pubDate>
-      <dc:date>2019-05-17T13:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
