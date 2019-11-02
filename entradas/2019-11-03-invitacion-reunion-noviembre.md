@@ -5,10 +5,10 @@ Fecha: 2019-11-03 23:00
 Autor:  Chico
 Categorías: Junta Ordinaria
 
-Se hace una atenta invitación a la reunión ordinaria que se celebrará el __9 de noviembre__.
+Se hace una atenta invitación a la reunión ordinaria que se celebrará el __9 de noviembre__ en [Angelus Cafe Gourmet](https://www.openstreetmap.org/#map=19/25.54129/-103.44632) a las __4:00 pm__.
 
 <center>
-<a class="img-responsive" href="2019-11-03-invitacion-reunion-noviembre/MachineLearning-Python.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2019-11-03-invitacion-reunion-noviembre/MachineLearning-Python.png" alt="Machine Learning and Python" width="325" height="250"></a>
+<a class="img-responsive" href="2019-11-03-invitacion-reunion-noviembre/noviembre2019.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2019-11-03-invitacion-reunion-noviembre/noviembre2019.png" alt="Machine Learning and Python" width="325" height="250"></a>
 </center>
 
 <br />
@@ -17,11 +17,17 @@ Se hace una atenta invitación a la reunión ordinaria que se celebrará el __9 
 
 ### Machine Learning con Python
 
-En esta ocasión el Maestro en Inteligencia Artificial Rogelio Alejandro nos hablará de su trabajo en Machine Learning y como usa Python en ello. También llevaremos a la practica algunos de sus ejercicios.
+En esta ocasión nuestro amigo ragamz nos hablará de su trabajo en Machine Learning y como usa Python en ello. También llevaremos a la práctica algunos de sus ejercicios.
 
 ### Lugar
 
-Por confirmar.
+[Angelus Cafe Gourmet](https://www.openstreetmap.org/#map=19/25.54129/-103.44632)
+
+Av. Allende #201 Ote.
+
+Torreón, Coah.
+<br />
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-103.44781816005708%2C25.540592525161525%2C-103.44482481479646%2C25.541993757010367&amp;layer=mapnik&amp;marker=25.541293143132886%2C-103.44632148742676" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=25.54129&amp;mlon=-103.44632#map=19/25.54129/-103.44632">Ver mapa más grande</a></small>
 
 ### Usuarios nuevos
 
