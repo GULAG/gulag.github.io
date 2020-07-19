@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Reunión julio 2020</title>
+      <link>http://gulag.org.mx/entradas/2020-07-18-reunion-julio.html</link>
+      <description>
+&lt;p&gt;El &lt;strong&gt;18 de julio por videoconferencia, a las 4:00 pm&lt;/strong&gt;, tuvimos nuestra reunión ordinaria.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;a class=&quot;img-responsive&quot; href=&quot;2020-07-18-reunion-julio/LogoEscuelasLinux.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:60%;height:auto;margin-right:12px;&quot; src=&quot;2020-07-18-reunion-julio/LogoEscuelasLinux.png&quot; alt=&quot;Escuelas Linux&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 18 Jul 2020 17:00:00 -0500</pubDate>
+      <dc:date>2020-07-18T17:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>RESUMEN FLISOL 2020</title>
       <link>http://gulag.org.mx/entradas/2020-05-10-resumen-flisol.html</link>
       <description>
@@ -106,17 +121,6 @@
       <author>Chico</author>
       <pubDate>Mon, 02 Sep 2019 10:00:00 -0500</pubDate>
       <dc:date>2019-09-02T10:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Festejando con los amigos</title>
-      <link>http://gulag.org.mx/entradas/2019-09-01-Bits-Libres-Festejando-con-los-amigos.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2019&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Sun, 01 Sep 2019 11:00:00 -0500</pubDate>
-      <dc:date>2019-09-01T11:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
