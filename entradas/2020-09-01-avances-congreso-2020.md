@@ -20,8 +20,8 @@ El próximo **19 de septiembre del 2020**, estaremos celebrando nuestro **XV ani
 Se tendrán las siguientes **conferencias**:
 
 * "What is 'Libre' Culture and why is it good for Mexico?"  - Jon "maddog" Hall.
+* "Blender 3D" - Claudia Hernández.
 * "Software y datos libres para encontrar Zonas de Silencio de radio" - José Miguel Jáuregui García.
-* "Tema de Blender por definir" - Claudia Hernández.
 * "Tema de Seguridad Informática por definir" - Antonio Gurza.
 * "Tema de conectividad por definir".
 
