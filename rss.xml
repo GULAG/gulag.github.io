@@ -9,6 +9,21 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Próximamente: Congreso 2020</title>
+      <link>http://gulag.org.mx/entradas/2020-09-01-avances-congreso-2020.html</link>
+      <description>
+&lt;center&gt;
+&lt;a href=&quot;2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png&quot; alt=&quot;Sede Congreso 2020&quot; width=&quot;225&quot; height=&quot;150&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 01 Sep 2020 10:00:00 -0500</pubDate>
+      <dc:date>2020-09-01T10:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Reunión julio 2020</title>
       <link>http://gulag.org.mx/entradas/2020-07-18-reunion-julio.html</link>
       <description>
@@ -110,17 +125,6 @@
       <author>Chico</author>
       <pubDate>Fri, 13 Sep 2019 23:00:00 -0500</pubDate>
       <dc:date>2019-09-13T23:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Congreso 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-09-02-congreso-2019.html</link>
-      <description>
-&lt;p&gt;El próximo &lt;strong&gt;20 septiembre del 2019&lt;/strong&gt;, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el &lt;strong&gt;Congreso&lt;/strong&gt;. La cita será en las instalaciones de la &lt;strong&gt;Escuela de Sistemas, Unidad Torreón, de la Universidad Autónoma de Coahuila&lt;/strong&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Mon, 02 Sep 2019 10:00:00 -0500</pubDate>
-      <dc:date>2019-09-02T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
