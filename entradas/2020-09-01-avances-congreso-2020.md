@@ -47,3 +47,7 @@ Los esperamos :-D
 <a href="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="325" height="250"></a>
 </center>
 <br />
+<center>
+<a href="2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png" alt="Fica UJED" width="325" height="250"></a>
+</center>
+<br />
