@@ -51,3 +51,7 @@ Los esperamos :-D
 <a href="2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png" alt="Fica UJED" width="325" height="250"></a>
 </center>
 <br />
+<center>
+<a href="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
+</center>
+<br />
