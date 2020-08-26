@@ -17,7 +17,9 @@ El próximo **19 de septiembre del 2020**, estaremos celebrando nuestro **XV ani
 
 #### Ésta pagina se estará actualizando con las novedades para el Congreso: visítala frecuentemente.
 
-Se tendrán las siguientes **conferencias**:
+Se tendrán las siguientes
+
+#### Conferencias:
 
 * "What is 'Libre' Culture and why is it good for Mexico?"  - Jon "maddog" Hall.
 * "Blender 3D" - Claudia Hernández.
@@ -25,9 +27,12 @@ Se tendrán las siguientes **conferencias**:
 * "Tema de Seguridad Informática por definir" - Antonio Gurza.
 * "Tema de conectividad por definir".
 
-También contaremos con los siguientes talleres:
+También contaremos con los siguientes 
+
+#### Talleres:
 
 * "Tema de Blender por definir" - Claudia Hernández.
+* "Tema por definir" - Edgar Lugo Castro.
 
 ... y más sorpresas que estamos preparando.
 
@@ -37,7 +42,7 @@ La transmisión de las conferencias y los talleres será como lo hemos realizado
 
 Los talleres se realizarán en el medio que indiquen los expositores.
 
-Reserven en sus agendas el día **19 de septiembre del 2020**.
+Reserven en sus agendas el día **19 de septiembre del 2020** día en que iniciaremos a las **9:00 horas**.
 
 Los esperamos :-D
 
