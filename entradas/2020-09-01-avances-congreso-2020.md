@@ -32,7 +32,7 @@ También contaremos con los siguientes
 #### Talleres:
 
 * "Tema de Blender por definir" - Claudia Hernández.
-* "Tema por definir" - Edgar Lugo Castro.
+* "Livecode" - Edgar Lugo Castro.
 
 ... y más sorpresas que estamos preparando.
 
@@ -60,3 +60,6 @@ Los esperamos :-D
 <a href="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
 </center>
 <br />
+
+#### Descargas
+* [Poster archivos fuente](https://github.com/GULAG/PosterCongreso2020)
