@@ -60,6 +60,10 @@ Los esperamos :-D
 <a href="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
 </center>
 <br />
+<center>
+<a href="2020-09-01-avances-congreso-2020/logo_ethergroup.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_ethergroup.png" alt="Ethergroup" width="400" height="300"></a>
+</center>
+<br />
 
 #### Descargas
 * [Poster archivos fuente](https://github.com/GULAG/PosterCongreso2020)
