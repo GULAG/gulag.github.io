@@ -21,17 +21,17 @@ Se tendrán las siguientes
 
 #### Conferencias:
 
-* "What is 'Libre' Culture and why is it good for Mexico?"  - Jon "maddog" Hall.
-* "Blender 3D" - Claudia Hernández.
+* **9:00 horas** "What is 'Libre' Culture and why is it good for Mexico?"  - Jon "maddog" Hall.
+* **10:30 horas** "Blender 3D" - Claudia Hernández.
+* **11:30 horas** "Tema de Seguridad Informática por definir" - Antonio Gurza.
 * "Software y datos libres para encontrar Zonas de Silencio de radio" - José Miguel Jáuregui García.
-* "Tema de Seguridad Informática por definir" - Antonio Gurza.
 * "Tema de conectividad por definir".
 
 También contaremos con los siguientes 
 
 #### Talleres:
 
-* "Tema de Blender por definir" - Claudia Hernández.
+* **18:00 horas** "Ejercicio con Blender para principiantes" - Claudia Hernández.
 * "Livecode" - Edgar Lugo Castro.
 
 ... y más sorpresas que estamos preparando.
@@ -40,7 +40,7 @@ La transmisión de las conferencias y los talleres será como lo hemos realizado
 
 ####Estén pendientes; pronto se abrirá el registro para los talleres.
 
-Los talleres se realizarán en el medio que indiquen los expositores.
+Los talleres se realizarán en el medio que indiquen los expositores así como la capacidad de los mismos.
 
 Reserven en sus agendas el día **19 de septiembre del 2020** día en que iniciaremos a las **9:00 horas**.
 
