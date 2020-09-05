@@ -23,7 +23,7 @@ Se tendrán las siguientes
 
 * **9:00 horas** "What is 'Libre' Culture and why is it good for Mexico?"  - Jon "maddog" Hall.
 * **10:30 horas** "Blender 3D" - Claudia Hernández.
-* **11:30 horas** "Tema de Seguridad Informática por definir" - Antonio Gurza.
+* **11:30 horas** "Ingeniería social: el arte de hackear tu mente" - Antonio Gurza.
 * "Software y datos libres para encontrar Zonas de Silencio de radio" - José Miguel Jáuregui García.
 * "Tema de conectividad por definir".
 
