@@ -24,7 +24,7 @@ Se tendrán las siguientes
 * **9:00 horas** "What is 'Libre' Culture and why is it good for Mexico?"  - Jon "maddog" Hall.
 * **10:30 horas** "Blender 3D" - Claudia Hernández.
 * **11:30 horas** "Ingeniería social: el arte de hackear tu mente" - Antonio Gurza.
-* "Software y datos libres para encontrar Zonas de Silencio de radio" - José Miguel Jáuregui García.
+* **12:30 horas** "Software y datos libres para encontrar Zonas de Silencio de radio" - José Miguel Jáuregui García.
 * "Tema de conectividad por definir".
 
 También contaremos con los siguientes 
@@ -32,7 +32,7 @@ También contaremos con los siguientes
 #### Talleres:
 
 * **18:00 horas** "Ejercicio con Blender para principiantes" - Claudia Hernández.
-* "Livecode" - Edgar Lugo Castro.
+* **16:00 horas** "Livecode" - Edgar Lugo Castro.
 
 ... y más sorpresas que estamos preparando.
 
