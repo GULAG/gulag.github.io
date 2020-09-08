@@ -25,7 +25,6 @@ Se tendrán las siguientes
 * **10:30 horas** "Blender 3D" - Claudia Hernández.
 * **11:30 horas** "Ingeniería social: el arte de hackear tu mente" - Antonio Gurza.
 * **12:30 horas** "Software y datos libres para encontrar Zonas de Silencio de radio" - José Miguel Jáuregui García.
-* "Tema de conectividad por definir".
 
 También contaremos con los siguientes 
 
@@ -36,7 +35,7 @@ También contaremos con los siguientes
 
 ... y más sorpresas que estamos preparando.
 
-La transmisión de las conferencias y los talleres será como lo hemos realizado en años anteriores, **sin costo**.
+Las conferencias y los talleres, que en ésta ocasión serán on line, **no tendrá costo**, como siempre lo hemos realizado.
 
 ####Estén pendientes; pronto se abrirá el registro para los talleres.
 
@@ -68,8 +67,10 @@ Los esperamos :-D
 <a href="2020-09-01-avances-congreso-2020/Perfumeria_Florels.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/Perfumeria_Florels.png" alt="Florels" width="400" height="300"></a>
 </center>
 <br />
-
-
+<center>
+<a href="2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png" alt="Linux Foundation" width="400" height="300"></a>
+</center>
+<br />
 
 #### Descargas
 * [Poster archivos fuente](https://github.com/GULAG/PosterCongreso2020)
