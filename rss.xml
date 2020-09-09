@@ -9,6 +9,23 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Congreso 2020</title>
+      <link>http://gulag.org.mx/entradas/2020-09-01-congreso-2020.html</link>
+      <description>
+&lt;center&gt;
+&lt;a href=&quot;2020-09-01-avances-congreso-2020/Congreso_2020.jpeg&quot;&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2020-09-01-avances-congreso-2020/Congreso_2020.jpeg&quot; alt=&quot;Poster Congreso 2020&quot; width=&quot;250&quot; height=&quot;325&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Tue, 01 Sep 2020 11:00:00 -0500</pubDate>
+      <dc:date>2020-09-01T11:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Próximamente: Congreso 2020</title>
       <link>http://gulag.org.mx/entradas/2020-09-01-avances-congreso-2020.html</link>
       <description>
@@ -110,21 +127,6 @@
       <author>Chico</author>
       <pubDate>Mon, 07 Oct 2019 23:00:00 -0500</pubDate>
       <dc:date>2019-10-07T23:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a reunión septiembre 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-09-13-invitacion-reunion-septiembre.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;14 de septiembre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;a class=&quot;img-responsive&quot; href=&quot;2019-09-13-invitacion-reunion-septiembre/septiembre2019.png&quot;&gt;&lt;img class=&quot;img-responsive&quot; style=&quot;width:60%;height:auto;margin-right:12px;&quot; src=&quot;2019-09-13-invitacion-reunion-septiembre/septiembre2019.png&quot; alt=&quot;LineageOS&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;&lt;/a&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Fri, 13 Sep 2019 23:00:00 -0500</pubDate>
-      <dc:date>2019-09-13T23:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
