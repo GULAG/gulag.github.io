@@ -9,6 +9,25 @@
     <link>http://gulag.org.mx</link>
     <description>Grupo de Usuarios de GNU/Linux de la Laguna.</description>
     <item>
+      <title>Resumen del Congreso de Software Libre 2020</title>
+      <link>http://gulag.org.mx/entradas/2020-09-19-resumen-congreso-2020.html</link>
+      <description>
+&lt;center&gt;
+&lt;a href=&quot;2020-09-19-resumen-congreso-2020/TodosCongreso.png&quot;&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2020-09-19-resumen-congreso-2020/TodosCongreso.png&quot; alt=&quot;Participantes Congreso 2020&quot; width=&quot;250&quot; height=&quot;325&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Con motivo del XV aniversario del &lt;strong&gt;Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)&lt;/strong&gt; se celebró el &lt;strong&gt;Congreso de Software Libre&lt;/strong&gt; el día &lt;strong&gt;19 de septiembre del 2020&lt;/strong&gt; en la modalidad a distancia teniendo como sede virtual el &lt;strong&gt;&lt;a href=&quot;https://www.tecsanpedro.edu.mx/web/&quot;&gt;Instituto Tecnológico Superior de San Pedro de las Colonias&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+      <author>Chico</author>
+      <pubDate>Sat, 19 Sep 2020 21:00:00 -0500</pubDate>
+      <dc:date>2020-09-19T21:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Congreso 2020</title>
       <link>http://gulag.org.mx/entradas/2020-09-01-congreso-2020.html</link>
       <description>
@@ -116,17 +135,6 @@
       <author>Chico</author>
       <pubDate>Sun, 03 Nov 2019 23:00:00 -0600</pubDate>
       <dc:date>2019-11-03T23:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Invitación a reunión octubre 2019</title>
-      <link>http://gulag.org.mx/entradas/2019-10-07-invitacion-reunion-octubre.html</link>
-      <description>
-&lt;p&gt;Se hace una atenta invitación a la reunión ordinaria que se celebrará el &lt;strong&gt;12 de octubre&lt;/strong&gt; en las instalaciones de la &lt;strong&gt;Sala UNAM Virtual&lt;/strong&gt; de la &lt;strong&gt;&lt;a href=&quot;https://www.openstreetmap.org/#map=19/25.54029/-103.44524&quot;&gt;Biblioteca “José García de Letona”&lt;/a&gt;&lt;/strong&gt; ubicada en la &lt;strong&gt;Alameda Zaragoza a las 4:00 pm&lt;/strong&gt;.&lt;/p&gt;
-
-</description>
-      <author>Chico</author>
-      <pubDate>Mon, 07 Oct 2019 23:00:00 -0500</pubDate>
-      <dc:date>2019-10-07T23:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
