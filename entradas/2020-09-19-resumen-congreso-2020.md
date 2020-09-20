@@ -33,7 +33,7 @@ Se contó con la asistencia de más de 200 personas de los ámbitos académico, 
 
 <br />
 
-#### Jon "maddog" Hall
+#### Jon "maddog" Hall : "What is ‘Libre’ Culture and why is it good for Mexico?"
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gf6aHLmXgOc?start=855" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -41,7 +41,7 @@ Se contó con la asistencia de más de 200 personas de los ámbitos académico, 
 
 <br />
 
-#### Claudia Hernández
+#### Claudia Hernández : "Blender 3D"
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gf6aHLmXgOc?start=5899" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,7 +49,7 @@ Se contó con la asistencia de más de 200 personas de los ámbitos académico, 
 
 <br />
 
-#### Antonio Gurza
+#### Antonio Gurza : "Ingeniería social: el arte de hackear tu mente"
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gf6aHLmXgOc?start=10300" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -57,7 +57,7 @@ Se contó con la asistencia de más de 200 personas de los ámbitos académico, 
 
 <br />
 
-#### José Miguel Jáuregui García
+#### José Miguel Jáuregui García : "Software y datos libres para encontrar Zonas de Silencio de radio"
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gf6aHLmXgOc?start=14385" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -73,7 +73,16 @@ Después de las conferencias los asistentes participaron en los talleres en los 
 
 #### "Ejercicio con Blender para principiantes" - Claudia Hernández.
 
-El enlace a las conferencias y a los talleres fue, como siempre, **sin costo**.
+<center>
+<a href="2020-09-19-resumen-congreso-2020/Blender-CarlosAngeles.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-19-resumen-congreso-2020/Blender-CarlosAngeles.jpg" alt="Participantes Congreso 2020" width="250" height="325">
+</a>
+<i>Crédito de imagen: Render creado por Carlos Ángeles, participante del taller "Ejercicio con Blender para principiantes".</i>
+</center>
+
+<br />
+
+La participación a las conferencias y a los talleres fue, como siempre, **sin costo**, para quienes se registraron a los mismos.
 
 ### Agradecimientos:
 
