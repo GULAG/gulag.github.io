@@ -3,7 +3,7 @@ Próximamente: Congreso 2015
 
 Fecha: 2015-08-30 21:00
 Autor:  Chico
-Categorías: Eventos
+Categorías: Eventos, Congreso
 
 ![Poster Congreso 2015](2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg)
 

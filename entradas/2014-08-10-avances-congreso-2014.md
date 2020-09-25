@@ -3,7 +3,7 @@ Próximamente: Congreso 2014
 
 Fecha: 2014-08-10 20:00
 Autor:  Chico
-Categorías: Eventos
+Categorías: Eventos, Congreso
 
 Sede, conferencias y talleres estan listos para el Congreso 2014.
 

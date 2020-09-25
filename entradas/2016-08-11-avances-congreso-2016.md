@@ -3,7 +3,7 @@ Próximamente: Congreso 2016
 
 Fecha: 2016-08-11 10:00
 Autor:  Chico
-Categorías: Eventos
+Categorías: Eventos, Congreso
 
 Sede, conferencias y talleres estan listos para el Congreso 2016.
 

@@ -3,7 +3,7 @@ Resumen del Congreso de Software Libre 2015
 
 Fecha: 2015-09-27 12:40
 Autor: Chico
-Categorías: Eventos
+Categorías: Eventos, Congreso
 
 ![Poster Congreso 2015](2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg)
 
