@@ -36,3 +36,11 @@ DEFAULT_PAGINATION = 10
 
 # Themes
 THEME = "pelican-themes/bootstrap2-dark"
+
+STATIC_PATHS = [
+    'images',
+    'extra',  # this
+]
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
+}
