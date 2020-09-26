@@ -1,0 +1,30 @@
+name: Build site
+
+on: 
+  pull-request:
+    branches:
+      - pelican
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Add themes
+      run: |
+        git submodule add https://github.com/getpelican/pelican-themes.git
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Install theme
+      run: |
+        pelican-themes -i pelican-themes/bootstrap2-dark
+    - name: Build site
+      run: |
+        pelican content -o output -s pelicanconf.py
