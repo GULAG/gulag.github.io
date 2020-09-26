@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'GULAG'
 SITENAME = 'GULAG'
-SITEURL = 'gulag.github.io'
+SITEURL = '/gulag.github.io'
 
 PATH = 'content'
 
@@ -32,7 +32,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 # Themes
-THEME = "pelican-themes/bootstrap2-dark"
+# THEME = "pelican-themes/bootstrap2-dark"
