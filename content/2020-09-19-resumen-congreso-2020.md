@@ -1,9 +1,8 @@
-Resumen del Congreso de Software Libre 2020
-==================================
-
-Fecha: 2020-09-19 21:00
-Autor: Chico
-Categorías: Eventos, Congreso
+Title: Resumen del Congreso de Software Libre 2020
+Date: 2020-09-19 21:00
+Author: Chico
+Category: Eventos
+Tags: Eventos, Congreso
 
 <center>
 <a href="2020-09-19-resumen-congreso-2020/TodosCongreso.png">

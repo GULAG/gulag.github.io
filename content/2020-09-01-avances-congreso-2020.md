@@ -1,9 +1,8 @@
-Próximamente: Congreso 2020
-==================================
-
-Fecha: 2020-09-01 10:00
-Autor:  Chico
-Categorías: Eventos, Congreso
+Title: Próximamente: Congreso 2020
+Date: 2020-09-01 10:00
+Author:  Chico
+Category: Eventos
+Tags: Eventos, Congreso
 
 <center>
 <a href="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="225" height="150"></a>

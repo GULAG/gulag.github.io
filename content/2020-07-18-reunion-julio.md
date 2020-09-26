@@ -1,9 +1,8 @@
-Reunión julio 2020
-==================================
-
-Fecha: 2020-07-18 17:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Reunión julio 2020
+Date: 2020-07-18 17:00
+Author:  Chico
+Category: Junta
+Tags: Junta-Ordinaria
 
 El __18 de julio por videoconferencia, a las 4:00 pm__, tuvimos nuestra reunión ordinaria.
 

@@ -1,9 +1,8 @@
-RESUMEN FLISOL 2020
-===========
-
-Fecha: 2020-05-03 16:00
-Autor: Chico
-Categorías: Eventos, Install Fest, FLISOL, Flisol
+Title: RESUMEN FLISOL 2020
+Date: 2020-05-03 16:00
+Author: Chico
+Category: Flisol
+Tags: Eventos, Install-Fest, FLISOL, Flisol
 
 <center>
 <a href="2020-05-03-flisol/Flisol2020-Nube-transparente.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-05-03-flisol/Flisol2020-Nube-transparente.png" alt="Logo Flisol 2020" width="325" height="250"></a>
