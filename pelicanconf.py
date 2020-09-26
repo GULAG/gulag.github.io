@@ -43,4 +43,5 @@ STATIC_PATHS = [
 ]
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
+    'images/favicon.ico': {'path': 'favicon.ico'},
 }
