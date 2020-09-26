@@ -5,7 +5,7 @@ Category: Eventos
 Tags: Eventos, Congreso
 
 <center>
-<a href="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="225" height="150"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="225" height="150"></a>
 </center>
 
 <br />
@@ -47,27 +47,27 @@ Los esperamos :-D
 #### Patrocinadores:
 
 <center>
-<a href="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="325" height="250"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="325" height="250"></a>
 </center>
 <br />
 <center>
-<a href="2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png" alt="Fica UJED" width="325" height="250"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png" alt="Fica UJED" width="325" height="250"></a>
 </center>
 <br />
 <center>
-<a href="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
 </center>
 <br />
 <center>
-<a href="2020-09-01-avances-congreso-2020/logo_ethergroup.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/logo_ethergroup.png" alt="Ethergroup" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_ethergroup.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_ethergroup.png" alt="Ethergroup" width="400" height="300"></a>
 </center>
 <br />
 <center>
-<a href="2020-09-01-avances-congreso-2020/Perfumeria_Florels.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/Perfumeria_Florels.png" alt="Florels" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/Perfumeria_Florels.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/Perfumeria_Florels.png" alt="Florels" width="400" height="300"></a>
 </center>
 <br />
 <center>
-<a href="2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png" alt="Linux Foundation" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png" alt="Linux Foundation" width="400" height="300"></a>
 </center>
 <br />
 

@@ -1,13 +1,13 @@
 Title: Reunión julio 2020
 Date: 2020-07-18 17:00
-Author:  Chico
+Author: Chico
 Category: Junta
 Tags: Junta-Ordinaria
 
 El __18 de julio por videoconferencia, a las 4:00 pm__, tuvimos nuestra reunión ordinaria.
 
 <center>
-<a class="img-responsive" href="2020-07-18-reunion-julio/LogoEscuelasLinux.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2020-07-18-reunion-julio/LogoEscuelasLinux.png" alt="Escuelas Linux" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2020-07-18-reunion-julio/LogoEscuelasLinux.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2020-07-18-reunion-julio/LogoEscuelasLinux.png" alt="Escuelas Linux" width="325" height="250"></a>
 </center>
 
 <!-- break -->
