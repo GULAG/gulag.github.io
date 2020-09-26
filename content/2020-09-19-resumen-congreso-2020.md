@@ -5,8 +5,8 @@ Category: Eventos
 Tags: Eventos, Congreso
 
 <center>
-<a href="{static}/2020-09-19-resumen-congreso-2020/TodosCongreso.png">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{static}/2020-09-19-resumen-congreso-2020/TodosCongreso.png" alt="Participantes Congreso 2020" width="250" height="325">
+<a href="{attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png" alt="Participantes Congreso 2020" width="250" height="325">
 </a>
 </center>
 
@@ -17,16 +17,16 @@ Con motivo del XV aniversario del **Grupo de Usuarios de GNU/Linux de La Laguna 
 <!-- break -->
 
 <br /><center>
-<a href="2020-09-19-resumen-congreso-2020/SFD.png">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{static}/2020-09-19-resumen-congreso-2020/SFD.png" alt="International Software Freedom Day" width="250" height="325">
+<a href="{attach}2020-09-19-resumen-congreso-2020/SFD.png">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-19-resumen-congreso-2020/SFD.png" alt="International Software Freedom Day" width="250" height="325">
 </a>
 </center><br />
 
 Se contó con la asistencia de más de 200 personas de los ámbitos académico, empresarial, gubernamental y público en general de la Comarca Lagunera, de varios estados de la República Mexicana así como de otros países, Brasil y Colombia entre ellos, quienes aprendieron de las conferencias y talleres que para ellos se preparó.
 
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/Congreso_2020.jpeg">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/Congreso_2020.jpeg" alt="Poster Congreso 2020" width="250" height="325">
+<a href="{attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg" alt="Poster Congreso 2020" width="250" height="325">
 </a>
 </center>
 
@@ -75,8 +75,8 @@ Después de las conferencias los asistentes participaron en los talleres en los 
 #### "Ejercicio con Blender para principiantes" - Claudia Hernández.
 
 <center>
-<a href="{static}/2020-09-19-resumen-congreso-2020/Blender-CarlosAngeles.jpg">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{static}/2020-09-19-resumen-congreso-2020/Blender-CarlosAngeles.jpg" alt="Participantes Congreso 2020" width="250" height="325">
+<a href="{attach}2020-09-19-resumen-congreso-2020/Blender-CarlosAngeles.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-19-resumen-congreso-2020/Blender-CarlosAngeles.jpg" alt="Participantes Congreso 2020" width="250" height="325">
 </a>
 <i>Crédito de imagen: Render creado por Carlos Ángeles, participante del taller "Ejercicio con Blender para principiantes".</i>
 </center>
@@ -92,27 +92,27 @@ Agradecemos la participación y apoyo de la sede virtual, **[Instituto Tecnológ
 Agradecemos también a los **patrocinadores**:
 
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="325" height="250"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png" alt="Sede Congreso 2020" width="325" height="250"></a>
 </center>
 <br />
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png" alt="Fica UJED" width="325" height="250"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_fica_ujed_blanco.png" alt="Fica UJED" width="325" height="250"></a>
 </center>
 <br />
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/EscuelaDeSistemas-v2.png" alt="Sistemas UT UAdeC" width="400" height="300"></a>
 </center>
 <br />
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/logo_ethergroup.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/logo_ethergroup.png" alt="Ethergroup" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/logo_ethergroup.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/logo_ethergroup.png" alt="Ethergroup" width="400" height="300"></a>
 </center>
 <br />
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/Perfumeria_Florels.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/Perfumeria_Florels.png" alt="Florels" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/Perfumeria_Florels.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/Perfumeria_Florels.png" alt="Florels" width="400" height="300"></a>
 </center>
 <br />
 <center>
-<a href="{static}/2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{static}/2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png" alt="Linux Foundation" width="400" height="300"></a>
+<a href="{attach}2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/Linux_Foundation_logo.png" alt="Linux Foundation" width="400" height="300"></a>
 </center>
 <br />
 
@@ -140,6 +140,6 @@ De igual manera agradecemos a todos los miembros del GULAG que de una u otra for
 
 ### Descargas
 
-* [Poster Congreso de Software Libre 2020 (LowRes)]({static}/2020-09-01-avances-congreso-2020/Congreso_2020.jpeg)
-* [Poster Congreso de Software Libre 2020 (HiRes)]({static}/2020-09-01-avances-congreso-2020/Congreso_2020.png)
+* [Poster Congreso de Software Libre 2020 (LowRes)]({attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg)
+* [Poster Congreso de Software Libre 2020 (HiRes)]({attach}2020-09-01-avances-congreso-2020/Congreso_2020.png)
 * [Poster archivos fuente](https://github.com/GULAG/PosterCongreso2020)
