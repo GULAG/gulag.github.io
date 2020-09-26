@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Add themes
-      run: |
-        git submodule add https://github.com/getpelican/pelican-themes.git
+    #- name: Add themes
+    #  run: |
+    #    git submodule add https://github.com/getpelican/pelican-themes.git
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
