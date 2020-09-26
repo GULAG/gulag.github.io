@@ -133,3 +133,5 @@ output/
 
 # varios
 .vscode/
+pelican-themes/
+.gitmodules
