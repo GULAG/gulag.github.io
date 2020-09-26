@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 # Themes
-# THEME = "pelican-themes/bootstrap2-dark"
+THEME = "pelican-themes/bootstrap2-dark"
