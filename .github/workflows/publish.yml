@@ -1,6 +1,6 @@
 name: Publish site
 
-on: 
+on:
   push:
     branches:
       - pelican
@@ -30,7 +30,7 @@ jobs:
         pelican content -o output -s pelicanconf.py
     - name: Update local site branch
       run: |
-        ghp-import output -b site
+        ghp-import output -b master
     - name: Push local site to remote
       run: |
-        git push -f origin site
+        git push -f origin master
