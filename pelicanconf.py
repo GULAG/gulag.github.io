@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'GULAG'
-SITENAME = 'GULAG'
-SITEURL = ''
+AUTHOR = "GULAG"
+SITENAME = "GULAG"
+SITEURL = ""
 
-PATH = 'content'
+PATH = "content"
 
-TIMEZONE = 'America/Mexico_City'
+TIMEZONE = "America/Mexico_City"
 
-DEFAULT_LANG = 'es'
+DEFAULT_LANG = "es"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,14 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ("Pelican", "http://getpelican.com/"),
+    ("Python.org", "http://python.org/"),
+    ("Jinja2", "http://jinja.pocoo.org/"),
+    ("You can modify those links in your config file", "#"),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ("You can add links in your config file", "#"),
+    ("Another social link", "#"),
+)
 
 DEFAULT_PAGINATION = 10
 
@@ -37,11 +41,8 @@ DEFAULT_PAGINATION = 10
 # Themes
 THEME = "pelican-themes/bootstrap2-dark"
 
-STATIC_PATHS = [
-    'images',
-    'extra',  # this
-]
+STATIC_PATHS = ["images", "extra/CNAME", "extra/favicon.ico"]  # this
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
-    'images/favicon.ico': {'path': 'favicon.ico'},
+    "extra/favicon.ico": {"path": "favicon.ico"},  # and this
+    "extra/CNAME": {"path": "CNAME"},
 }
