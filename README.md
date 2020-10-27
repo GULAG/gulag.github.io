@@ -12,6 +12,7 @@ Nuestras guias de como aportar en este `hacktoberfest` en este repositorio.
 
 - [`Portugues`](https://github.com/GULAG/gulag.github.io/blob/pelican/hacktoberfestptbr.md)
 
+- Sigue esta [PR](https://github.com/GULAG/gulag.github.io/pull/44) como ejemplo
 
 ## Guia de como subir tu articulo al blog de `GULAG`.
 
