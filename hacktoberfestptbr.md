@@ -7,6 +7,8 @@ Teremos vários [`issues`](https://github.com/GULAG/gulag.github.io/issues) pron
 
 A ideia é migrar os metadados e fotos de artigos de formato antigo para um formato compatível com `pelican`.
 
+- Sigue esta [PR](https://github.com/GULAG/gulag.github.io/pull/44) como ejemplo
+
 - Um exemplo de como migrar metadados: 
 
 ```md
