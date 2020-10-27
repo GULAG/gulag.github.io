@@ -1,9 +1,8 @@
-Invitación a reunión octubre 2019
-==================================
-
-Fecha: 2019-10-07 23:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Invitación a reunión octubre 2019
+Date: 2019-10-07 23:00
+Author: Chico
+Category: Blog
+Tags: Junta Ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12 de octubre__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 
@@ -12,7 +11,7 @@ Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12
 ### Instalación de GNU/Linux
 
 <center>
-<a class="img-responsive" href="2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png" alt="KeepCalmAndInstallLinux" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png" alt="KeepCalmAndInstallLinux" width="325" height="250"></a>
 </center>
 
 <br />
@@ -22,7 +21,7 @@ En esta ocasión Gabriel Peña hablará de la instalación de un sistema operati
 ### Docker (Parte 1)
 
 <center>
-<a class="img-responsive" href="2019-10-07-invitacion-reunion-octubre/Docker_logo.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2019-10-07-invitacion-reunion-octubre/Docker_logo.png" alt="Docker" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2019-10-07-invitacion-reunion-octubre/Docker_logo.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2019-10-07-invitacion-reunion-octubre/Docker_logo.png" alt="Docker" width="325" height="250"></a>
 </center>
 
 <br />
