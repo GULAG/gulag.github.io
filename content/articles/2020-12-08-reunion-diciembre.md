@@ -20,7 +20,13 @@ En ésta reunión Guillermo Valdés nos hablará de __"Pelican, constructor de s
 </a>
 </center>
 
-El día de la reunión se publicará el link aquí y en redes sociales: [twitter](https://twitter.com/gulagmexico), [facebook](https://www.facebook.com/groups/282427405174957) y en [Telegram](https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ)
+El día de la reunión se publicará el link aquí y en redes sociales: [twitter](https://twitter.com/gulagmexico), [facebook](https://www.facebook.com/groups/282427405174957) y en [Telegram](https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ).
+
+### Update
+
+Aquí pueden ver la grabación de la reunión:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Op-_3S9O4cY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Todas nuestras reuniones son el segundo sábado de cada mes. La __entrada y acceso son libres.__
 
