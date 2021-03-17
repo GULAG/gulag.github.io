@@ -4,11 +4,7 @@ Author: guabyboy
 Category: Taller
 Tags: Taller, Contabilidad, KEME
 
-<center>
-<a href="{attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png">
-<img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="{attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png" alt="poster KEME" width="325" height="250">
-</a>
-</center>
+[![poster KEME]({attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png)]({attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png)
 
 Nos es grato haber obtenido su respuesta para el curso en línea promovido por GULAG impartido por nuestro amigo [Gabriel Peña](https://twitter.com/guabyboy). Les compartimos la liga de descarga del programa [KEME-Contabilidad](https://sourceforge.net/projects/keme/files/KEME-Contabilidad/3.2.1.5/).
 

@@ -15,7 +15,7 @@ En estas ocasiones tratamos distintos temas, hoy hablamos de:
 
 Aquí pueden ver la reunión:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/2AgDXcJr-F8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2AgDXcJr-F8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Redes sociales:
 

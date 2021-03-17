@@ -6,6 +6,10 @@ AUTHOR = "GULAG"
 SITENAME = "GULAG"
 SITEURL = ""
 
+# Variable para el theme pelican-cait
+SITESUBTITLE = "Grupo de Usuarios de GNU/Linux de La Laguna"
+SITELOGO = "pelican-themes/pelican-cait/logo.jpg"
+
 PATH = "content"
 
 TIMEZONE = "America/Mexico_City"
@@ -39,7 +43,7 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Themes
-THEME = "pelican-themes/bootstrap2-dark"
+THEME = "pelican-themes/pelican-cait"
 
 STATIC_PATHS = ["images", "extra/CNAME", "extra/favicon.ico"]  # this
 EXTRA_PATH_METADATA = {

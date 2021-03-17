@@ -4,11 +4,7 @@ Author: guabyboy
 Category: Taller
 Tags: Taller, Contabilidad, KEME
 
-<center>
-<a href="{attach}2020-11-27-taller-contabilidad-keme/posterKEME.png">
-<img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="{attach}2020-11-27-taller-contabilidad-keme/posterKEME.png" alt="poster KEME" width="325" height="250">
-</a>
-</center>
+[![poster KEME]({attach}2020-11-27-taller-contabilidad-keme/posterKEME.png)]({attach}2020-11-27-taller-contabilidad-keme/posterKEME.png)
 
 Nos es grato haber obtenido su respuesta para el curso en línea promovido por GULAG, he impartido por nuestro amigo [Gabriel Peña](https://twitter.com/guabyboy). Les compartimos la liga de descarga del programa [KEME-Contabilidad](https://sourceforge.net/projects/keme/files/KEME-Contabilidad/3.2.1.5/).
 
@@ -19,15 +15,11 @@ si lo hacen en windows descargar [aquí](https://sourceforge.net/projects/keme/f
 
 #### Primer parte del taller
 
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dIdrKcx_GQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 
 #### Segunda parte del taller
 
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kbc9YHwlbN0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 
 Si te interesa saber más puedes contactar a [Gabriel Peña](https://twitter.com/guabyboy).
 
