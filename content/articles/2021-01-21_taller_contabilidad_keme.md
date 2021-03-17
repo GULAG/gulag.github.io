@@ -6,15 +6,10 @@ Tags: Taller, Contabilidad, KEME
 
 Nos es grato invitarlos a el curso en línea KEME-Contabilidad mismo que será impartido por nuestro amigo [Gabriel Peña](https://twitter.com/guabyboy).
 
-<center>
-<a href="{attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png">
-<img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="{attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png" alt="poster KEME" width="325" height="250">
-</a>
-</center>
+[![poster KEME]({attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png)]({attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png)
 
 #### Costo:
 __Tiempo y dedicación.__
-
 
 #### Descargas
 

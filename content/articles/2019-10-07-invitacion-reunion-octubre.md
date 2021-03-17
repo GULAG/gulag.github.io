@@ -10,24 +10,15 @@ Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12
 
 ### Instalación de GNU/Linux
 
-<center>
-<a class="img-responsive" href="{attach}2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png" alt="KeepCalmAndInstallLinux" width="325" height="250"></a>
-</center>
-
-<br />
+[![Keep Calm And Install Linux]({attach}2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png)]({attach}2019-10-07-invitacion-reunion-octubre/KeepCalmInstallLinux.png)
 
 En esta ocasión Gabriel Peña hablará de la instalación de un sistema operativo GNU/Linux con arranque dual windows en [uefi](https://es.wikipedia.org/wiki/UEFI).
 
 ### Docker (Parte 1)
 
-<center>
-<a class="img-responsive" href="{attach}2019-10-07-invitacion-reunion-octubre/Docker_logo.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2019-10-07-invitacion-reunion-octubre/Docker_logo.png" alt="Docker" width="325" height="250"></a>
-</center>
-
-<br />
+[![Docker]({attach}2019-10-07-invitacion-reunion-octubre/Docker_logo.png)]({attach}2019-10-07-invitacion-reunion-octubre/Docker_logo.png)
 
 También trataremos la primer parte de el taller práctico de [Docker](https://es.wikipedia.org/wiki/Docker_(software)) por parte de Edgar Lugo.
-
 
 ### Usuarios nuevos
 
