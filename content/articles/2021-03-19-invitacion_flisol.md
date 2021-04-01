@@ -34,7 +34,7 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
-* **El poder del software libre** por Jon "maddog" Hall.
+* **El poder del software libre** por Jon "maddog" Hall, Chairman of the Board of the [Linux Professional Institute](https://www.lpi.org/).
 * Inicia: 09:00 am (GMT -5)
 * Inicio de preguntas: 09:45 am (GMT -5)
 
@@ -42,21 +42,27 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
-* **Fastapi** por Alejandro Hdz Pineda.
-* Inicia: Por confirmar
-* Termina: Por confirmar
++ **OnlyOffice en tu nube** por Klaibson Ribeiro
++ Inicia: 10:00 CDMX (UTC-5)
++ Termina: 10:45 CDMX (UTC-5)
+
+**Resumen:** En esta presentación, conocerás la suite ofimática [OnlyOffice](https://www.onlyoffice.com/), que es gratuita y de código abierto, que funciona en la nube, en el escritorio, en el móvil y en el servidor. Muy conocido en Europa, sin embargo, está dando sus primeros pasos en Brasil y América Latina. También se demostrarán las formas de contribuir al proyecto.
 
 <br />
 
-+ **Conferencia de Blender** por Claudia Hernández.
-+ Inicia: Por confirmar
-+ Termina: Por confirmar
+* **Taller "Fast-api - de dev a prod en 3 pasos"** por Alex Pineda.
+* Inicia: 11:00 CDMX
+* Termina: 13:00 CDMX
+
+**Resumen:** En el taller veremos como crear una api y hacer deploy de la misma utilizando python, docker, github y heroku. También, utilizaremos github actions para crear un pipeline CI/CD con pruebas unitarias
 
 <br />
 
-+ **Taller de Blender** por Claudia Hernández.
-+ Inicia: Por confirmar
-+ Termina: Por confirmar
++ **Blender usos, aplicaciones, donde aprender y más** por [Claudia Teresa Hernández Ascencio](https://twitter.com/Casyopea).
++ Inicia: 16:00 CDMX
++ Termina: 17:00 CDMX
+
+**Resumen:** En esta ocasión platicaremos sobre [Blender](https://www.blender.org/), ¿Qué es?, ¿Quiénes lo usan?, ¿Qué puedes hacer con el software?
 
 <br />
 
@@ -70,21 +76,13 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 + Inicia: Por confirmar
 + Termina: Por confirmar
 
-<br />
-
-+ **OnlyOffice en tu nube** por Klaibson Ribeiro
-+ Inicia: Por confirmar
-+ Termina: Por confirmar
-
-**Resumen:** En esta presentación, conocerás la suite ofimática OnlyOffice, que es gratuita y de código abierto, que funciona en la nube, en el escritorio, en el móvil y en el servidor. Muy conocido en Europa, sin embargo, está dando sus primeros pasos en Brasil y América Latina. También se demostrarán las formas de contribuir al proyecto.
-
 #### Requerimientos para seguir las prácticas
 
-Próximamente.
+* **Taller "Fast-api - de dev a prod en 3 pasos"**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
 
 #### Link de las sesiones (Próximamente)
 + Jitsi
-+ YouTube Live
++ YouTube
 
 #### ¿Te interesa participar?
 
