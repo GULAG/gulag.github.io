@@ -66,6 +66,12 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
++ **Tema por confirmar** por Desarrolladores de [Lenguaje Latino](https://www.lenguajelatino.org/)
++ Inicia: Por confirmar
++ Termina: Por confirmar
+
+<br />
+
 + **Tema por confirmar** por Rolando.
 + Inicia: Por confirmar
 + Termina: Por confirmar
@@ -95,9 +101,15 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 [![florels]({attach}2021-03-19-invitacion_flisol/Perfumeria_Florels_blanco.png)]({attach}2021-03-19-invitacion_flisol/Perfumeria_Florels_blanco.png)
 
-[![OnlyOffice]({attach}2021-03-19-invitacion_flisol/Logo_light_onlyoffice.png)]({attach}2021-03-19-invitacion_flisol/Logo_light_onlyoffice.png)
+[![OnlyOffice]({attach}2021-03-19-invitacion_flisol/Logo_light_onlyoffice.png)](https://www.onlyoffice.com)
 
-[![Cursos Blender]({attach}2021-03-19-invitacion_flisol/logo-cursosblender.png)]({attach}2021-03-19-invitacion_flisol/logo-cursosblender.png)
+[![Cursos Blender]({attach}2021-03-19-invitacion_flisol/logo-cursosblender.png)](http://cursosblender.com)
+
+[![Lenguaje Latino]({attach}2021-03-19-invitacion_flisol/Latino-logo-color.png)](https://www.lenguajelatino.org)
+
+#### Descargas
+
+[Fuentes de Poster](https://github.com/GULAG/PosterFlisol2021)
 
 #### Los esperamos :-)
 
