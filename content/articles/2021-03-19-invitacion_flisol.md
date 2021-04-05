@@ -14,6 +14,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 #### Ésta pagina se estará actualizando conforme se sumen más participantes y tengamos más información.
 
+[![poster Flisol 2021](https://github.com/GULAG/PosterFlisol2021/blob/main/Poster_carta.png?raw=true)](https://github.com/GULAG/PosterFlisol2021/blob/main/flisol2021.png?raw=true)
+
 #### Fecha, lugar y hora
 
 + Fecha: **Sábado 24 de abril de 2021**
@@ -88,7 +90,7 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 #### Link de las sesiones (Próximamente)
 + Jitsi
-+ YouTube
++ [YouTube](https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g)
 
 #### ¿Te interesa participar?
 
@@ -110,6 +112,10 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 #### Descargas
 
 [Fuentes de Poster](https://github.com/GULAG/PosterFlisol2021)
+
+[Poster Flisol 2021 Low-Res](https://github.com/GULAG/PosterFlisol2021/blob/main/Poster_carta.png?raw=true)
+
+[Poster Flisol 2021 Hi-Res](https://github.com/GULAG/PosterFlisol2021/blob/main/flisol2021.png?raw=true)
 
 #### Los esperamos :-)
 
