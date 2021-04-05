@@ -90,7 +90,7 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 #### Link de las sesiones (Próximamente)
 + Jitsi
-+ YouTube
++ [YouTube](https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g)
 
 #### ¿Te interesa participar?
 
