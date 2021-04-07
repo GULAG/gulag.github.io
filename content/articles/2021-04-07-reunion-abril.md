@@ -6,7 +6,7 @@ Tags: Junta-Ordinaria
 
 A partir de hoy cambiaremos la hora y día de nuestra reunión mensual por videoconferencia, la cual será el __viernes 9 de abril__ a las __20:00 horas CDMX (UTC-5)__.
 
-En ésta reunión hablaremos de:
+En ésta reunión estaremos con __FiveN00m__ con quien hablaremos de:
 
 * Lenguaje C en GNU/Linux, Unix VS el COVID19
 * y más...
