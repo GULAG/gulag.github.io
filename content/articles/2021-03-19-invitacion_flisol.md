@@ -56,7 +56,9 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 * Inicia: 11:00 CDMX
 * Termina: 13:00 CDMX
 
-**Resumen:** En el taller veremos como crear una api y hacer deploy de la misma utilizando python, docker, github y heroku. También, utilizaremos github actions para crear un pipeline CI/CD con pruebas unitarias
+**Resumen:** En el taller veremos como crear una api y hacer deploy de la misma utilizando python, docker, github y heroku. También, utilizaremos github actions para crear un pipeline CI/CD con pruebas unitarias.
+
+**Requerimientos**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
 
 <br />
 
@@ -68,27 +70,13 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
-+ **Tema por confirmar** por Desarrolladores de [Lenguaje Latino](https://www.lenguajelatino.org/)
-+ Inicia: Por confirmar
-+ Termina: Por confirmar
++ **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González 
++ Inicia: 16:00 CDMX
++ Termina: 17:00 CDMX
 
-<br />
+**Resumen:** Inicios de [Latino](https://www.lenguajelatino.org) y la necesidad de un lenguaje de programación en español para que más personas de habla hispana sean referentes en el desarrollo tecnológico en la región y en el mundo.
 
-+ **Tema por confirmar** por Rolando.
-+ Inicia: Por confirmar
-+ Termina: Por confirmar
-
-<br />
-
-+ **Tema por confirmar** por Osvaldo Salazar
-+ Inicia: Por confirmar
-+ Termina: Por confirmar
-
-#### Requerimientos para seguir las prácticas
-
-* **Taller "Fast-api - de dev a prod en 3 pasos"**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
-
-#### Link de las sesiones (Próximamente)
+#### Link de las sesiones
 + Jitsi
 + [YouTube](https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g)
 
