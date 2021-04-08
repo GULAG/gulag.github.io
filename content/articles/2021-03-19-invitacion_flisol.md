@@ -71,8 +71,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 <br />
 
 + **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González 
-+ Inicia: 16:00 CDMX
-+ Termina: 17:00 CDMX
++ Inicia: 17:00 CDMX
++ Termina: 18:00 CDMX
 
 **Resumen:** Inicios de [Latino](https://www.lenguajelatino.org) y la necesidad de un lenguaje de programación en español para que más personas de habla hispana sean referentes en el desarrollo tecnológico en la región y en el mundo.
 
