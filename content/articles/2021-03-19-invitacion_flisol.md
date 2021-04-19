@@ -62,6 +62,12 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
++ **Gobierno y el Software Libre** por **LPI**
++ Inicia: 15:00 CDMX
++ Termina: 16:00 CDMX
+
+<br />
+
 + **Blender usos, aplicaciones, donde aprender y más** por [Claudia Teresa Hernández Ascencio](https://twitter.com/Casyopea).
 + Inicia: 16:00 CDMX
 + Termina: 17:00 CDMX
@@ -75,6 +81,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 + Termina: 18:00 CDMX
 
 **Resumen:** Inicios de [Latino](https://www.lenguajelatino.org) y la necesidad de un lenguaje de programación en español para que más personas de habla hispana sean referentes en el desarrollo tecnológico en la región y en el mundo.
+
+<br />
 
 #### Link de las sesiones
 + Jitsi
