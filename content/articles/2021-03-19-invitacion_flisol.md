@@ -52,13 +52,19 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
-* **Taller "Fast-api - de dev a prod en 3 pasos"** por Alex Pineda.
+* **Taller "Fast-api: de dev a prod en 3 pasos"** por Alex Pineda.
 * Inicia: 11:00 CDMX
 * Termina: 13:00 CDMX
 
 **Resumen:** En el taller veremos como crear una api y hacer deploy de la misma utilizando python, docker, github y heroku. También, utilizaremos github actions para crear un pipeline CI/CD con pruebas unitarias.
 
 **Requerimientos**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
+
+<br />
+
++ **Tema por definir** por [Ivan Chavero](https://twitter.com/imcsk8)
++ Inicia: 14:00 CDMX
++ Termina: 15:00 CDMX
 
 <br />
 
