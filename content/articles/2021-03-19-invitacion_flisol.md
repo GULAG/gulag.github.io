@@ -36,6 +36,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![Lugo]({attach}2021-03-19-invitacion_flisol/2021-01-lugo.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-01-lugo.png)
+
 * **Taller: Introducción de Ecosistema Docker** por [Edgar Lugo Castro](https://twitter.com/lugouadec)
 * Inicia: 16:00 CDMX (UTC -5)
 * Termina: 18:00 CDMX (UTC -5)
@@ -51,6 +53,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![maddog]({attach}2021-03-19-invitacion_flisol/2021-02-maddog.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-02-maddog.png)
+
 * **El poder del software libre** por Jon "maddog" Hall, Chairman of the Board of the [Linux Professional Institute](https://www.lpi.org/).
 * Inicia: 09:00 CDMX (UTC -5)
 * Inicio de preguntas: 09:45 CDMX (UTC -5)
@@ -59,6 +63,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![klaibsonn]({attach}2021-03-19-invitacion_flisol/2021-03-onlyoffice.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-03-onlyoffice.png)
+
 + **OnlyOffice en tu nube** por [Klaibson Ribeiro](https://twitter.com/klaibsonn)
 + Inicia: 10:00 CDMX (UTC-5)
 + Termina: 10:45 CDMX (UTC-5)
@@ -66,6 +72,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 **Resumen:** En esta presentación, conocerás la suite ofimática [OnlyOffice](https://www.onlyoffice.com/), que es gratuita y de código abierto, que funciona en la nube, en el escritorio, en el móvil y en el servidor. Muy conocido en Europa, sin embargo, está dando sus primeros pasos en Brasil y América Latina. También se demostrarán las formas de contribuir al proyecto.
 
 <br />
+
+[![Alex]({attach}2021-03-19-invitacion_flisol/2021-04-alex.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-04-alex.png)
 
 * **Taller "Fast-api: de dev a prod en 3 pasos"** por Alex Pineda.
 * Inicia: 11:00 CDMX
@@ -77,11 +85,15 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![Chavero]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)
+
 + **Tema por definir** por [Ivan Chavero](https://twitter.com/imcsk8)
 + Inicia: 14:00 CDMX
 + Termina: 15:00 CDMX
 
 <br />
+
+[![Hernan]({attach}2021-03-19-invitacion_flisol/2021-06-hernan.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-06-hernan.png)
 
 + **Gobierno y el Software Libre** por [Hernán Pachas](https://twitter.com/hernanpachas)
 + Inicia: 15:00 CDMX
@@ -91,6 +103,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![Casyopea]({attach}2021-03-19-invitacion_flisol/2021-07-casyopea.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-07-casyopea.png)
+
 + **Blender usos, aplicaciones, donde aprender y más** por [Claudia Hernández Ascencio](https://twitter.com/Casyopea).
 + Inicia: 16:00 CDMX
 + Termina: 17:00 CDMX
@@ -98,6 +112,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 **Resumen:** En esta ocasión platicaremos sobre [Blender](https://www.blender.org/), ¿Qué es?, ¿Quiénes lo usan?, ¿Qué puedes hacer con el software?
 
 <br />
+
+[![Latino]({attach}2021-03-19-invitacion_flisol/2021-08-latino.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-08-latino.png)
 
 + **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González 
 + Inicia: 17:00 CDMX
