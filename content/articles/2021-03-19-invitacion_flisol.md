@@ -44,6 +44,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 **Resumen:** Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres (namespaces) para permitir que 'contenedores' independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales.
 
+[Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
+
 **Requisitos:** Computadora con Sistemas Operativo GNU/ Linux Ubuntu, Debian, Mint, etc. o Windows 8. 8.1 o 10 version profesional, Conexion a Internet Estable y muchas ganas de aprender.
 
 #### Programa Sábado 24
@@ -80,6 +82,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 * Termina: 13:00 CDMX
 
 **Resumen:** En el taller veremos como crear una api y hacer deploy de la misma utilizando python, docker, github y heroku. También, utilizaremos github actions para crear un pipeline CI/CD con pruebas unitarias.
+
+[Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
 
 **Requerimientos**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
 
