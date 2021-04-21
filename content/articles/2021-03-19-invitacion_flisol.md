@@ -18,7 +18,7 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 #### Fecha, lugar y hora
 
-+ Fecha: **Viernes 23 y Sábado 24 de abril de 2021**
++ Fecha: **Sábado 24 de abril de 2021**
 + Lugar: on line #QuédateEnCasa
 + Horario: Iniciaremos a las **08:50 horas CDMX**
 
@@ -28,23 +28,6 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 + Muestra de Software Libre
 + Festival de instalación
 + Contacto con la comunidad de Software Libre local.
-
-#### Programa Viernes 23
-
-* **Bienvenida**
-* Inicia: 15:55 horas CDMX
-
-<br />
-
-[![Lugo]({attach}2021-03-19-invitacion_flisol/2021-01-lugo.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-01-lugo.png)
-
-* **Taller: Introducción de Ecosistema Docker** por [Edgar Lugo Castro](https://twitter.com/lugouadec)
-* Inicia: 16:00 CDMX (UTC -5)
-* Termina: 18:00 CDMX (UTC -5)
-
-**Resumen:** Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres (namespaces) para permitir que 'contenedores' independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales.
-
-**Requisitos:** Computadora con Sistemas Operativo GNU/ Linux Ubuntu, Debian, Mint, etc. o Windows 8. 8.1 o 10 version profesional, Conexion a Internet Estable y muchas ganas de aprender.
 
 #### Programa Sábado 24
 
@@ -81,15 +64,9 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 **Resumen:** En el taller veremos como crear una api y hacer deploy de la misma utilizando python, docker, github y heroku. También, utilizaremos github actions para crear un pipeline CI/CD con pruebas unitarias.
 
+[Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
+
 **Requerimientos**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
-
-<br />
-
-[![Chavero]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)
-
-+ **Tema por definir** por [Ivan Chavero](https://twitter.com/imcsk8)
-+ Inicia: 14:00 CDMX
-+ Termina: 15:00 CDMX
 
 <br />
 
@@ -113,9 +90,23 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![Lugo]({attach}2021-03-19-invitacion_flisol/2021-01-lugo.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-01-lugo.png)
+
+* **Taller: Introducción de Ecosistema Docker** por [Edgar Lugo Castro](https://twitter.com/lugouadec)
+* Inicia: 16:00 CDMX (UTC -5)
+* Termina: 18:00 CDMX (UTC -5)
+
+**Resumen:** Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres (namespaces) para permitir que 'contenedores' independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales.
+
+[Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
+
+**Requisitos:** Computadora con Sistemas Operativo GNU/ Linux Ubuntu, Debian, Mint, etc. o Windows 8. 8.1 o 10 version profesional, Conexion a Internet Estable y muchas ganas de aprender.
+
+<br />
+
 [![Latino]({attach}2021-03-19-invitacion_flisol/2021-08-latino.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-08-latino.png)
 
-+ **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González 
++ **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González
 + Inicia: 17:00 CDMX
 + Termina: 18:00 CDMX
 
