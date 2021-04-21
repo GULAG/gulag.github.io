@@ -18,7 +18,7 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 #### Fecha, lugar y hora
 
-+ Fecha: **Viernes 23 y Sábado 24 de abril de 2021**
++ Fecha: **Sábado 24 de abril de 2021**
 + Lugar: on line #QuédateEnCasa
 + Horario: Iniciaremos a las **08:50 horas CDMX**
 
@@ -67,14 +67,6 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 [Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
 
 **Requerimientos**: [Python](https://www.python.org/) instalado, cuenta de [github](https://github.com/) y cuenta de [heroku](https://www.heroku.com/). El tier gratuito basta.
-
-<br />
-
-[![Chavero]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)
-
-+ **Tema por definir** por [Ivan Chavero](https://twitter.com/imcsk8)
-+ Inicia: 14:00 CDMX
-+ Termina: 15:00 CDMX
 
 <br />
 
