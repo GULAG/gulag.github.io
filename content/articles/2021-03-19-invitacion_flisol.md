@@ -29,25 +29,6 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 + Festival de instalación
 + Contacto con la comunidad de Software Libre local.
 
-#### Programa Viernes 23
-
-* **Bienvenida**
-* Inicia: 15:55 horas CDMX
-
-<br />
-
-[![Lugo]({attach}2021-03-19-invitacion_flisol/2021-01-lugo.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-01-lugo.png)
-
-* **Taller: Introducción de Ecosistema Docker** por [Edgar Lugo Castro](https://twitter.com/lugouadec)
-* Inicia: 16:00 CDMX (UTC -5)
-* Termina: 18:00 CDMX (UTC -5)
-
-**Resumen:** Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres (namespaces) para permitir que 'contenedores' independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales.
-
-[Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
-
-**Requisitos:** Computadora con Sistemas Operativo GNU/ Linux Ubuntu, Debian, Mint, etc. o Windows 8. 8.1 o 10 version profesional, Conexion a Internet Estable y muchas ganas de aprender.
-
 #### Programa Sábado 24
 
 * **Bienvenida**
@@ -117,9 +98,23 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![Lugo]({attach}2021-03-19-invitacion_flisol/2021-01-lugo.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-01-lugo.png)
+
+* **Taller: Introducción de Ecosistema Docker** por [Edgar Lugo Castro](https://twitter.com/lugouadec)
+* Inicia: 16:00 CDMX (UTC -5)
+* Termina: 18:00 CDMX (UTC -5)
+
+**Resumen:** Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos. Docker utiliza características de aislamiento de recursos del kernel Linux, tales como cgroups y espacios de nombres (namespaces) para permitir que 'contenedores' independientes se ejecuten dentro de una sola instancia de Linux, evitando la sobrecarga de iniciar y mantener máquinas virtuales.
+
+[Aquí se pueden registrar a este taller](https://docs.google.com/forms/d/e/1FAIpQLSdCnKl7sXPRj4oHq3YnMLvu0Y-52p4BSmhwR21_HqW4aFVfNg/viewform)
+
+**Requisitos:** Computadora con Sistemas Operativo GNU/ Linux Ubuntu, Debian, Mint, etc. o Windows 8. 8.1 o 10 version profesional, Conexion a Internet Estable y muchas ganas de aprender.
+
+<br />
+
 [![Latino]({attach}2021-03-19-invitacion_flisol/2021-08-latino.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-08-latino.png)
 
-+ **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González 
++ **Lenguaje Latino** por Primitivo Roman Montero y Jorge Luis González
 + Inicia: 17:00 CDMX
 + Termina: 18:00 CDMX
 
