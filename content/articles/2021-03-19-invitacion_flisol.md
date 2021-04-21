@@ -70,6 +70,15 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 <br />
 
+[![Chavero]({attach}2021-03-19-invitacion_flisol/2021-chavero.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-chavero.png)
+
++ **SotolitOS: Haciendo tu remix de CentOS** por [Ivan Chavero](https://twitter.com/imcsk8)
++ Inicia: 14:00 CDMX
++ Termina: 15:00 CDMX
+
+<br />
+
+
 [![Hernan]({attach}2021-03-19-invitacion_flisol/2021-06-hernan.png)]({attach}2021-03-19-invitacion_flisol/flisol2021-06-hernan.png)
 
 + **Gobierno y el Software Libre** por [Hernán Pachas](https://twitter.com/hernanpachas)
