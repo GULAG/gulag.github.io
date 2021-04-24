@@ -146,6 +146,8 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 [![Sistemas-UT-UAdeC]({attach}2021-03-19-invitacion_flisol/EscuelaDeSistemas-v2.png)](http://www.sistemastorreon.uadec.mx)
 
+[![Sistemas-UT-UAdeC]({attach}2021-03-19-invitacion_flisol/LPI_Logo-ColourLarge.png)](https://www.lpi.org)
+
 #### Descargas
 
 [Fuentes de Poster](https://github.com/GULAG/PosterFlisol2021)
