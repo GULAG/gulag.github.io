@@ -14,7 +14,11 @@ La lista detallada la pueden ver [aquí](http://www.gulag.org.mx/flisol-2021.htm
 
 Pueden seguir la transmisión del evento en el canal de [youtube del grupo](https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g) :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm6VLmPPVk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CjOAdq4j6Xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJDzWrqNQYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Cupón de descuento ofrecido por el Linux Professional Institute
 
@@ -44,6 +48,6 @@ Pueden seguir la transmisión del evento en el canal de [youtube del grupo](http
 
 #### Los esperamos :-)
 
-Evento dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y personas que aun no poseen mucho conocimiento informático.
+Evento dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y personas que deseen adquirir conocimiento informático.
 
 **#QuédateEnCasa**
