@@ -8,8 +8,8 @@ Reunion mensual de Mayo 2021
 
 Temas a tratar
 
-- Como aportar a la pagina [gulag.org.mx](http://gulag.org.mx)
-- Backups de MariaDB
+- Como aportar a la pagina "Don Aletz" [gulag.org.mx](http://gulag.org.mx)
+- Backups de MariaDB "Jose Edgar Lugo Castro"
 - Temas varios
 
 Aquí pueden seguir la reunión:
