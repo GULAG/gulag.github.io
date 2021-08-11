@@ -4,8 +4,6 @@ Author: Don Aletz
 Category: Junta
 Tags: Junta-Ordinaria
 
-Reunion mensual de Mayo 2021
-
 Temas a tratar
 
 - Como aportar a la pagina, por _[Don Aletz](https://twitter.com/DeathScytheH)_
