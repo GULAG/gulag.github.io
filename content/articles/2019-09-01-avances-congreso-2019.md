@@ -1,19 +1,12 @@
-Próximamente: Congreso 2019
-==================================
-
-Fecha: 2019-09-01 10:00
-Autor:  Chico
-Categorías: Eventos, Congreso
+Title: Próximamente: Congreso 2019
+Date: 2019-09-01 10:00
+Author: Chico
+Category: Eventos, Congreso
+Tags: Eventos, Congreso
 
 El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso**. La cita será en las instalaciones de la **Escuela de Sistemas, Unidad Torreón, de la Universidad Autónoma de Coahuila**.
 
-<!-- break -->
-
-<br />
-
 ###Ésta pagina se estará actualizando con las novedades para el Congreso: visítala frecuentemente.
-
-<br />
 
 #### Conferencias:
 
@@ -50,27 +43,17 @@ La entrada a las conferencias y a los talleres será, como siempre, **sin costo*
 
 #### Patrocinadores:
 
-<center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2016-09-23-congreso-2016/UAdeC.png" alt="UAdeC" width="325" height="250">
-</center>
+[![UAdeC]({attach}2016-09-23-congreso-2016/UAdeC.png)]({attach}2016-09-23-congreso-2016/UAdeC.png)
 <br />
-<center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2019-09-01-avances-congreso-2019/Perfumeria_Florels_blanco.png" alt="Florels" width="325" height="250">
+[![Florels]({attach}2019-09-01-avances-congreso-2019/Perfumeria_Florels_blanco.png)]({attach}2019-09-01-avances-congreso-2019/Perfumeria_Florels_blanco.png)
 <br />
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2019-09-01-avances-congreso-2019/logo_tec_fondo-blanco.png" alt="Tec San Pedro" width="325" height="250">
-</center>
-<br />
+[![Tec San Pedro]({attach}2019-09-01-avances-congreso-2019/logo_tec_fondo-blanco.png)]({attach}2019-09-01-avances-congreso-2019/logo_tec_fondo-blanco.png)
 
 Reserven en sus agendas el **viernes 20 septiembre del 2019**.
 
 ### Redes sociales:
-[Facebook](https://www.facebook.com/groups/282427405174957/)
 
-[Facebook](https://www.facebook.com/pages/Gulag/308970342541613)
-
-[Twitter](https://twitter.com/gulagmexico)
-
-[Telegram](https://t.me/joinchat/AfjJPUm4OTpkxyAtZeylhg)
+[Facebook](https://www.facebook.com/groups/282427405174957/), [Facebook](https://www.facebook.com/pages/Gulag/308970342541613), [Twitter](https://twitter.com/gulagmexico), [Telegram](https://t.me/joinchat/AfjJPUm4OTpkxyAtZeylhg)
 
 ### Descargas
 
@@ -78,6 +61,4 @@ Reserven en sus agendas el **viernes 20 septiembre del 2019**.
 
 [Poster del evento (.png)](2019-09-01-avances-congreso-2019/PosterCongreso2019.png)
 
-
-
-**Los esperamos :-D**
+### Los esperamos :-D
