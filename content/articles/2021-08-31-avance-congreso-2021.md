@@ -10,13 +10,22 @@ El próximo **17 de septiembre del 2021**, estaremos celebrando un aniversario m
 
 <!-- break -->
 
+[![poster Congreso 2021](https://github.com/GULAG/PosterCongreso2021/blob/main/Congreso_2021.png?raw=true)](https://github.com/GULAG/PosterCongreso2021/blob/main/Congreso_2021.png?raw=true)
+
 Se tendrán
 
 #### Conferencias:
 
+* _Próximamente_
+* _Próximamente_
+* _Próximamente_
+* _Próximamente_
+
 También contaremos con
 
 #### Talleres:
+
+* _Próximamente_
 
 ... y más sorpresas que estamos preparando.
 
@@ -32,5 +41,8 @@ Los esperamos :-D
 
 #### Patrocinadores:
 
+[![Florels]({attach}2021-08-31-avance-congreso-2021/Perfumeria_Florels_blanco.png)]({attach}2021-08-31-avance-congreso-2021/Perfumeria_Florels_blanco.png)
+
 #### Descargas
 
+[Fuentes de Poster](https://github.com/GULAG/PosterCongreso2021)
