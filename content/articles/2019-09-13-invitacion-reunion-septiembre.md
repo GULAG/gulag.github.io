@@ -1,17 +1,14 @@
-Invitación a reunión septiembre 2019
-==================================
-
-Fecha: 2019-09-13 23:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Invitación a reunión septiembre 2019
+Date: 2019-09-13 23:00
+Author: Chico
+Category: Junta
+Tags: Junta-Ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __14 de septiembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 
-<center>
-<a class="img-responsive" href="2019-09-13-invitacion-reunion-septiembre/septiembre2019.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2019-09-13-invitacion-reunion-septiembre/septiembre2019.png" alt="LineageOS" width="325" height="250"></a>
-</center>
-
 <!-- break -->
+
+[![LineageOS]({attach}2019-09-13-invitacion-reunion-septiembre/septiembre2019.png)]({attach}2019-09-13-invitacion-reunion-septiembre/septiembre2019.png)
 
 ### LineageOS
 
