@@ -12,11 +12,15 @@ El próximo **17 de septiembre del 2021**, estaremos celebrando un aniversario m
 
 [![poster Congreso 2021](https://github.com/GULAG/PosterCongreso2021/blob/main/Congreso_2021.png?raw=true)](https://github.com/GULAG/PosterCongreso2021/blob/main/Congreso_2021.png?raw=true)
 
-Se tendrán
+<br/>
+
+Se tendrán las siguientes
 
 #### Conferencias:
 
-* _Próximamente_
+* __[María Encalada](https://twitter.com/AniiEncalada)__ (Ecuador)
+    * __Gestión de proyectos de software__
+    * _9:00 horas CDMX_
 * _Próximamente_
 * _Próximamente_
 * _Próximamente_
@@ -42,6 +46,8 @@ Los esperamos :-D
 #### Patrocinadores:
 
 [![Florels]({attach}2021-08-31-avance-congreso-2021/Perfumeria_Florels_blanco.png)]({attach}2021-08-31-avance-congreso-2021/Perfumeria_Florels_blanco.png)
+
+[![Loxa Libre](2021-08-31-avance-congreso-2021/logo_loxa.png)](https://loxalibre.org/)
 
 #### Descargas
 
