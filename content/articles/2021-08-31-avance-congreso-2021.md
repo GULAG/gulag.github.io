@@ -29,6 +29,9 @@ También contaremos con
 
 #### Talleres:
 
+* __[Alex Pineda](https://twitter.com/DeathScytheH)__ (México-USA)
+    * __CI/CD con github actions y python__
+    * _17:00 horas CDMX_
 * _Próximamente_
 
 ... y más sorpresas que estamos preparando.
