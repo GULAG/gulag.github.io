@@ -21,6 +21,9 @@ Se tendrán las siguientes
 * __[María Encalada](https://twitter.com/AniiEncalada)__ (Ecuador)
     * __Gestión de proyectos de software__
     * _9:00 horas CDMX_
+* __[Alexandre Varela Sixto (ShellDredd)](https://www.twitch.tv/shelldredd)__ (España)
+    * __GNU/LINUX, de pasión a forma de vida__
+    * _10:00 horas CDMX_ / _17:00 horas España_
 * _Próximamente_
 * _Próximamente_
 * _Próximamente_
@@ -50,7 +53,10 @@ Los esperamos :-D
 
 [![Florels]({attach}2021-08-31-avance-congreso-2021/Perfumeria_Florels_blanco.png)]({attach}2021-08-31-avance-congreso-2021/Perfumeria_Florels_blanco.png)
 
-[![Loxa Libre](2021-08-31-avance-congreso-2021/logo_loxa.png)](https://loxalibre.org/)
+[![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/logo_loxa.png)](https://loxalibre.org/)
+
+[![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/ShellDredd_logo.png)](https://www.twitch.tv/shelldredd)
+
 
 #### Descargas
 
