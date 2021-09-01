@@ -21,10 +21,12 @@ Se tendrán las siguientes
 * __[María Encalada](https://twitter.com/AniiEncalada)__ (Ecuador)
     * __Gestión de proyectos de software__
     * _9:00 horas CDMX_
-* __[Alexandre Varela Sixto (ShellDredd)](https://www.twitch.tv/shelldredd)__ (España)
+* __[Alexandre Varela (ShellDredd)](https://www.twitch.tv/shelldredd)__ (España)
     * __GNU/LINUX, de pasión a forma de vida__
     * _10:00 horas CDMX_ / _17:00 horas España_
-* _Próximamente_
+* __[Antonio Gurza (zerialkiller)](https://www.youtube.com/zerialkiller)__ (México)
+    * __Las vulnerabilidades más explotadas en GNU/Linux__
+    * _20:00 horas CDMX_
 * _Próximamente_
 * _Próximamente_
 
@@ -57,6 +59,7 @@ Los esperamos :-D
 
 [![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/ShellDredd_logo.png)](https://www.twitch.tv/shelldredd)
 
+[![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/zk_s.jpg)](https://www.youtube.com/zerialkiller)
 
 #### Descargas
 
