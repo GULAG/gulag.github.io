@@ -24,6 +24,9 @@ Se tendrán las siguientes
 * __[Alexandre Varela (ShellDredd)](https://www.twitch.tv/shelldredd)__ (España)
     * __GNU/LINUX, de pasión a forma de vida__
     * _10:00 horas CDMX_ / _17:00 horas España_
+* __[Hernán Pachas](https://twitter.com/hernanpachas)__ (Perú)
+    * __3 pasos para encontrar oportunidades laborales de código abierto__
+    * _11:00 horas CDMX_
 * __[Antonio Gurza (zerialkiller)](https://www.youtube.com/zerialkiller)__ (México)
     * __Las vulnerabilidades más explotadas en GNU/Linux__
     * _20:00 horas CDMX_
