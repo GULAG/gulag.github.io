@@ -27,20 +27,27 @@ Se tendrán las siguientes
 * __[Hernán Pachas](https://twitter.com/hernanpachas)__ (Perú)
     * __3 pasos para encontrar oportunidades laborales de código abierto__
     * _11:00 horas CDMX_
+* __[José Miguel Jáuregui García (Taquinux)](https://www.linkedin.com/in/jmjaureguig)__ (México-Canadá)
+    * __Hardware abierto para radioastronomía__
+    * _12:00 horas CDMX_
+* __[Jesús Gómez](http://www.gulag.org.mx/)__ (México)
+    * _Próximamente_
+    * _19:00 horas CDMX_
 * __[Antonio Gurza (zerialkiller)](https://www.youtube.com/zerialkiller)__ (México)
     * __Las vulnerabilidades más explotadas en GNU/Linux__
     * _20:00 horas CDMX_
-* _Próximamente_
 * _Próximamente_
 
 También contaremos con
 
 #### Talleres:
 
+* __[Alex Mayorga](https://twitter.com/alex_mayorga)__ (México)
+    * __Soy un Mozilla Firefox Nightly tester IAmA__
+    * _Próximamente_
 * __[Alex Pineda](https://twitter.com/DeathScytheH)__ (México-USA)
     * __CI/CD con github actions y python__
     * _17:00 horas CDMX_
-* _Próximamente_
 
 ... y más sorpresas que estamos preparando.
 
