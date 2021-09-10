@@ -76,6 +76,10 @@ Los esperamos :-D
 
 [![Taquinux]({attach}2021-08-31-avance-congreso-2021/cita-logo.jpg)](https://www.cita.utoronto.ca)
 
+[![Mozilla]({attach}2021-08-31-avance-congreso-2021/mozilla white.png)](https://foundation.mozilla.org/en)
+
+[![LPI]({attach}2021-08-31-avance-congreso-2021/LPI_Logo-Colour-White-Large.png)](https://www.lpi.org)
+
 #### Descargas
 
 [Fuentes de Poster](https://github.com/GULAG/PosterCongreso2021)
