@@ -4,7 +4,7 @@ Author:  Chico
 Category: Eventos
 Tags: Eventos, Congreso
 
-El próximo **17 de septiembre del 2021**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, el cual se celebrará, de manera virtual.
+El próximo **17 y 18 de septiembre del 2021**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, el cual se celebrará, de manera virtual.
 
 #### Ésta pagina se estará actualizando con las novedades para el Congreso: visítala frecuentemente.
 
@@ -42,12 +42,15 @@ También contaremos con
 
 #### Talleres:
 
-* __[Alex Mayorga](https://twitter.com/alex_mayorga)__ (México)
-    * __Soy un Mozilla Firefox Nightly tester IAmA__
-    * _Próximamente_
 * __[Alex Pineda](https://twitter.com/DeathScytheH)__ (México-USA)
     * __CI/CD con github actions y python__
+    * __Viernes 17 de septiembre__
     * _17:00 horas CDMX_
+
+* __[Alex Mayorga](https://twitter.com/alex_mayorga)__ (México)
+    * __Soy un Mozilla Firefox Nightly tester IAmA__
+    * __Sábado 18 de septiembre__
+    * _10:00 horas CDMX_
 
 ... y más sorpresas que estamos preparando.
 
@@ -57,7 +60,7 @@ Las conferencias y los talleres, que en ésta ocasión serán on line, **no tend
 
 Los talleres se realizarán en el medio que indiquen los expositores así como la capacidad de los mismos.
 
-Reserven en sus agendas el día **17 de septiembre del 2021**.
+Reserven en sus agendas los días **17 y 18 de septiembre del 2021**.
 
 Los esperamos :-D
 
@@ -67,9 +70,11 @@ Los esperamos :-D
 
 [![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/logo_loxa.png)](https://loxalibre.org/)
 
-[![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/ShellDredd_logo.png)](https://www.twitch.tv/shelldredd)
+[![shelldredd]({attach}2021-08-31-avance-congreso-2021/ShellDredd_logo.png)](https://www.twitch.tv/shelldredd)
 
-[![Loxa Libre]({attach}2021-08-31-avance-congreso-2021/zk_s.jpg)](https://www.youtube.com/zerialkiller)
+[![zerialkiller]({attach}2021-08-31-avance-congreso-2021/zk_s.jpg)](https://www.youtube.com/zerialkiller)
+
+[![Taquinux]({attach}2021-08-31-avance-congreso-2021/cita-logo.jpg)](https://www.cita.utoronto.ca)
 
 #### Descargas
 
