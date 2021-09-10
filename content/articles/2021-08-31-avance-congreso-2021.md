@@ -30,9 +30,9 @@ Se tendrán las siguientes
 * __[José Miguel Jáuregui García (Taquinux)](https://www.linkedin.com/in/jmjaureguig)__ (México-Canadá)
     * __Hardware abierto para radioastronomía__
     * _12:00 horas CDMX_
-* __[Jesús Gómez](http://www.gulag.org.mx/)__ (México)
-    * _Próximamente_
-    * _19:00 horas CDMX_
+* __[Jesús Gómez](https://twitter.com/gomezbjesus)__ (México)
+    * __Ecosistema de ciberseguridad defensiva corporativa__
+    * _18:30 horas CDMX_
 * __[Antonio Gurza (zerialkiller)](https://www.youtube.com/zerialkiller)__ (México)
     * __Las vulnerabilidades más explotadas en GNU/Linux__
     * _20:00 horas CDMX_
