@@ -1,11 +1,13 @@
-# Hacktoberfest!
+# Hacktoberfest 2021!
 
 ## Guia de participacion.
 
-Muchas gracias por apoyar este repositorio dentro de `Hacktoberfest`.
+Muchas gracias por apoyar este repositorio dentro de `Hacktoberfest 2021`.
 Tenemos varios [`issues`](https://github.com/GULAG/gulag.github.io/issues) listos para este evento.
 
-La idea es migrar los metadatos y fotos de articulos de formato antiguo a formato compatible con `pelican`.
+Queremos migrar los metadatos y fotos de articulos de formato antiguo (`ruby`) a formato compatible con `pelican`.
+
+Antes de participar, recuerda `registrarte` en la siguiente [pagina](https://hacktoberfest.digitalocean.com/) para que tus `PR` sean validas.
 
 - Sigue esta [PR](https://github.com/GULAG/gulag.github.io/pull/44) como ejemplo
 
