@@ -4,13 +4,13 @@ Sitio web del Grupo de Usuario de GNU/Linux de la Laguna.
 
 [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
-## Guias de participacion para Hacktoberfest
+## Guias de participacion para Hacktoberfest 2021
 
 Nuestras guias de como aportar en este `hacktoberfest` en este repositorio.
 
-- [`Espanol`](https://github.com/GULAG/gulag.github.io/blob/pelican/hacktoberfest.md)
+- [`Espanol`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_es_MX.md)
 
-- [`Portugues`](https://github.com/GULAG/gulag.github.io/blob/pelican/hacktoberfestptbr.md)
+- [`Portugues`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_pr_BR.md)
 
 - Sigue esta [PR](https://github.com/GULAG/gulag.github.io/pull/44) como ejemplo
 
