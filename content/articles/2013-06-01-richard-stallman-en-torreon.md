@@ -1,15 +1,12 @@
-Richard Stallman en Torreón
-===========
+Title: Richard Stallman en Torreón
+Slug: 2013-06-01-richard-stallman-en-torreon
+Date: 2013-06-01 01:12
+Author: Chico
+Category: Eventos
+Tags: Richard Stallman, rms
 
-Fecha: 2013-06-01 01:12
-Autor: Chico
-Categorías: Richard Stallman, rms
 
-<center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2013-06-01-richard-stallman-en-torreon/Congreso2013.jpeg" alt="poster Congreso 2013" width="425" height="350">
-</center>
-
-<!-- break -->
+<img class="img-fluid" src="2013-06-01-richard-stallman-en-torreon/Congreso2013.jpeg" alt="poster Congreso 2013">
 
 El [Grupo de Usuarios de GNU/Linux de la Laguna (GULAG)](http://www.gulag.org.mx/) hace una atenta invitación a las conferencias a realizarse el día 13 de junio del 2013 a partir de las 10:00 de la mañana, en la Plaza Peñoles del museo Arocena, cepeda 354 sur, en Torreón, Coahuila.
 
@@ -41,8 +38,6 @@ A continuación una entrevista de Maximino Luna a Richard Stallman.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/onrIApj3Cjs" frameborder="0" allowfullscreen></iframe>
 
-<br />
-
 Las conferencias, como todas las actividades que realiza el GULAG, serán gratuitas, abiertas al publico en general, cupo limitado, lo unico que tienen que hacer es registrarse en [http://www.gulag.org.mx](http://www.gulag.org.mx/).
 
 Si conoces a alguien que le guste tanto la docencia como la informática y crees que pueda aprovechar la oportunidad de escuchar y preguntar a personas de talla internacional, por favor enviále esta información.
@@ -50,5 +45,3 @@ Si conoces a alguien que le guste tanto la docencia como la informática y crees
 Por lo pronto te dejo con una nota publicada en el [Siglo de Torreón](http://www.elsiglodetorreon.com.mx/noticia/877341.participara-en-foro-de-reflexion-informatica.html) y un par de Megacable [aquí](https://www.youtube.com/watch?v=cZStvJ_pfqU) y [aquí](https://www.youtube.com/watch?v=4M-CjwnhhDc) y, sobre todo, te pido por favor leas el artículo ["_El derecho a leer_"](https://www.gnu.org/philosophy/right-to-read.es.html) de Richard M. Stallman.
 
 Esperamos verte en este evento :)
-
-<br />
