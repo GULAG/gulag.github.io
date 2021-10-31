@@ -1,15 +1,14 @@
-Resumen del Congreso de Software Libre 2014
-==================================
+Title: Resumen del Congreso de Software Libre 2014
+Slug: 2014-09-20-resumen-congreso-2014
+Date: 2014-09-20 22:00
+Author: Chico
+Category: Evento
+Tags: Eventos, Congreso
 
-Fecha: 2014-09-20 22:00
-Autor: Chico
-Categorías: Eventos, Congreso
 
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-09-13-congreso-2014/Poster-Congreso-2014.png" alt="poster congreso 2014" width="425" height="350">
+<img class="img-fluid" src="{attach}2014-09-13-congreso-2014/Poster-Congreso-2014.png" alt="poster congreso 2014">
 
 El pasado 19 de septiembre se llevó a cabo el **VIII aniversario del Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)**, y como siempre se realizó con un ciclo de conferencias de lo mas variado, pero todas girando en torno al software libre.
-
-<!-- break -->
 
 En el Teatro de Cámara, ubicado en el interior de la Coordinación Unidad Torreón de la Universidad Autónoma de Coahuila, se inicio con la conferencia **"(In)Seguridad en routers/modems de los ISP mexicanos"** impartida por Antonio Gurza quien explicó varios conceptos que mantuvieron interesados a los asistentes.
 

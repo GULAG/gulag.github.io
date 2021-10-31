@@ -1,13 +1,12 @@
-Reunión ordinaria - Noviembre 2014
-==================================
+Title: Reunión ordinaria - Noviembre 2014
+Slug: 2014-11-15-reunion-noviembre-2014
+Date: 2014-11-16 12:00
+Author: Chico
+Category: Junta
+Tags: Junta Ordinaria, Markdown, Ruby, Jekyll
 
-Fecha: 2014-11-16 12:00
-Autor:  Chico
-Categorías: Junta Ordinaria, Markdown, Ruby, Jekyll
 
 El sábado 15 de noviembre se realizó la reunion ordinaria en Arkebit.
-
-<!-- break -->
 
 En dicha reunión [DeathScytheH](https://deathscytheh.github.io/) nos habló de [jekyll](http://jekyllrb.com/), una gema de [Ruby](https://www.ruby-lang.org/en/) para generar sitios web estáticos.
 
