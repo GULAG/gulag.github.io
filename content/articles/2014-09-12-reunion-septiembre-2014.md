@@ -1,13 +1,12 @@
-Reunión ordinaria - Septiembre 2014
-==================================
+Title: Reunión ordinaria - Septiembre 2014
+Slug: 2014-09-12-reunion-septiembre-2014
+Date: 2014-09-12 12:00
+Author: Chico
+Category: Junta
+Tags: Junta Ordinaria
 
-Fecha: 2014-09-12 12:00
-Autor:  Chico
-Categorías: Junta Ordinaria
 
 El sábado 13 de septiembre la reunion ordinaria, será en Gómez Palacio.
-
-<!-- break -->
 
 La dirección es: Coral 523, Fraccionamiento La Esperanza, en Gómez Palacio, a las 16:00 horas.
 
@@ -17,4 +16,3 @@ La dirección es: Coral 523, Fraccionamiento La Esperanza, en Gómez Palacio, a 
 <br/><small><a href="http://www.openstreetmap.org/#map=16/25.5728/-103.5144">Ver mapa más grande</a></small>
 
 Los esperamos.
-

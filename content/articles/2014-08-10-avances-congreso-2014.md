@@ -1,13 +1,12 @@
-Próximamente: Congreso 2014
-==================================
+Title: Próximamente Congreso 2014
+Slug: 2014-08-10-avances-congreso-2014
+Date: 2014-08-10 20:00
+Author: Chico
+Category: Eventos
+Tags: Eventos, Congreso
 
-Fecha: 2014-08-10 20:00
-Autor:  Chico
-Categorías: Eventos, Congreso
 
 Sede, conferencias y talleres estan listos para el Congreso 2014.
-
-<!-- break -->
 
 El próximo 19 de septiembre, a partir de las 9:00 horas, estaremos celebrando una edición mas del **Congreso de Software Libre** el cual se celebrará en el **Teatro de Cámara de la U.A. de C, Coordinación Unidad Torreón**.
 
