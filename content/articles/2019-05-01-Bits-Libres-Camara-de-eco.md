@@ -1,9 +1,8 @@
-Bits Libres - Cámara de eco
-==================================
-
-Fecha: 2019-05-01 8:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Cámara de eco
+Date: 2019-05-01 8:00
+Author: Chico
+Category: Revista
+Tags: revista, bits, libres
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en mayo del 2019_
 
