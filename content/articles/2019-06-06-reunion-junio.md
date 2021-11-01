@@ -1,13 +1,10 @@
-Reunión de junio 2019
-==================================
+Title: Reunión de junio 2019
+Date: 2019-06-06 11:00
+Author:  Chico
+Category: Junta Ordinaria
+Tags: junta, ordinaria
 
-Fecha: 2019-06-06 11:00
-Autor:  Chico
-Categorías: Junta Ordinaria
-
-<center>
-<a class="img-responsive" href="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png"><img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="2019-06-06-reunion-junio/logo_edmodo.jpeg" alt="edmodo" width="325" height="250"></a>
-</center>
+<img class="img-fluid" src="{attach}2019-06-06-reunion-junio/logo_edmodo.jpeg" alt="logo edmodo">
 
 <br />
 
