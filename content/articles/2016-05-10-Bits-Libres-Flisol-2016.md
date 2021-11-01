@@ -1,13 +1,12 @@
-Bits Libres - FLISOL 2016
-==================================
+Title: Bits Libres - FLISOL 2016
+Slug: 2016-05-10-bits-libres-flisol-2016
+Date: 2016-05-10 21:03
+Author: Chico
+Category: Revista
+Tags: Revista
 
-Fecha: 2016-05-10 21:3
-Autor: Chico
-Categorías: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en mayo del 2016_
-
-<!-- break -->
 
 ### FLISOL 2016
 
