@@ -1,9 +1,10 @@
-Bits Libres - Datos Abiertos
-==================================
+Title: Bits Libres - Datos Abiertos
+Slug: 2016-06-14-bits-libres-datos-abiertos
+Date: 2016-06-14 17:10
+Author: Chico
+Category: Revista
+Tags: Revista
 
-Fecha: 2016-06-14 17:10
-Autor: Chico
-Categorías: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en junio del 2016_
 
@@ -19,7 +20,7 @@ Los datos abiertos son aquella información que el gobierno (federal, estatal y 
 
 Los datos que se publiquen con esta política deberán estar en formatos abiertos (TXT y CVS principalmente) ya que tienen sus especificaciones públicas y documentadas. Aunque algunas Secretarías publican dicha información en formatos cerrados (XLS o XLSX), esto es, desconocemos cómo están los datos, sólo lo conoce la empresa o el desarrollador que creo el software.
 
-Quien deseé realizar investigación con los datos abiertos publicados hasta el día de hoy, puede visitar el sitio que para ello se tiene en [http://datos.gob.mx/](http://datos.gob.mx/), en donde estudiantes, maestros o profesionistas pueden descargarlos, estudiarlos, analizarlos y compartir sus hallazgos con la comunidad.  
+Quien deseé realizar investigación con los datos abiertos publicados hasta el día de hoy, puede visitar el sitio que para ello se tiene en [http://datos.gob.mx/](http://datos.gob.mx/), en donde estudiantes, maestros o profesionistas pueden descargarlos, estudiarlos, analizarlos y compartir sus hallazgos con la comunidad.
 
 En el GULAG ([http://www.gulag.org.mx/](http://www.gulag.org.mx/)) se organizó un hackaton para analizar la información publicada por la Dirección de Tránsito y Vialidad del Municipio de Torreón; el resultado se resume en una infografía publicada en nuestro [sitio](http://www.gulag.org.mx/entradas/2016-03-21-primer-analisis-de-datos-abiertos-en-seguridad-vial.html).
 
