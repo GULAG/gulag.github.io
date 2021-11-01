@@ -1,13 +1,10 @@
-Reunión de abril 2019
-==================================
+Title: Reunión de abril 2019
+Date: 2019-04-12 13:00
+Author:  Chico
+Category: Junta Ordinaria
+Tags: junta, ordinaria
 
-Fecha: 2019-04-12 13:00
-Autor:  Chico
-Categorías: Junta Ordinaria
-
-<center>
-<a class="img-responsive" href="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png"><img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="Reunión ordinaria enero" width="325" height="250"></a>
-</center>
+<img class="img-fluid" src="{attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="logo flisol">
 
 <br />
 
