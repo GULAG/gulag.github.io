@@ -1,15 +1,12 @@
-Invitación a reunión julio 2019
-==================================
-
-Fecha: 2019-07-07 21:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Invitación a reunión julio 2019
+Date: 2019-07-07 21:00
+Author:  Chico
+Category: Junta Ordinaria
+Tags: junta, ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __13 de julio__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 
-<center>
-<a class="img-responsive" href="2019-07-07-invitacion-reunion-julio/julio2019.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2019-07-07-invitacion-reunion-julio/julio2019.png" alt="Innovando con raspberry pi" width="325" height="250"></a>
-</center>
+<img class="img-fluid" src="{attach}2019-07-07-invitacion-reunion-julio/julio2019.png" alt="julio">
 
 <!-- break -->
 
