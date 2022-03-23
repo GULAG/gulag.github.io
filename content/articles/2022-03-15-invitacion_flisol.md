@@ -1,4 +1,4 @@
-Title: FLISOL 2022
+Title: Invitación al FLISOL 2022
 Date: 2022-03-15 21:00
 Author: Chico
 Category: Flisol
@@ -6,7 +6,7 @@ Tags: Eventos, Install Fest, FLISOL, Flisol
 
 [![Logo Flisol 2021]({attach}2021-03-19-invitacion_flisol/flisol-libre-software-logo.jpg)]({attach}2021-03-19-invitacion_flisol/flisol-libre-software-logo.jpg)
 
-Con el objetivo de promover y difundir el uso de Software Libre, el próximo **sábado 23 de abril de 2021** se llevará a cabo el **[Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/FLISOL2021/Mexico/)** en modalidad **híbrida**.
+Con el objetivo de promover y difundir el uso de Software Libre, el próximo **sábado 23 de abril de 2022** se llevará a cabo el **[Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/FLISOL2022/Mexico/)** en modalidad **híbrida**.
 
 <!-- break -->
 
@@ -20,9 +20,9 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 + Fecha: **Sábado 23 de abril de 2021**
 + Lugar: [YouTube](https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g)
-+ Hora de inicio: Por confirmar
++ Hora de inicio: **10:00 CDMX**
 
-#### Actividades
+### Actividades
 
 ### [Aquí puedes ver un adelanto de las propuestas](https://pad.riseup.net/p/Flisol2022Gulag-Gpl)
 
@@ -34,6 +34,10 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 #### Programa Sábado 23
 
 * **Bienvenida**
+* 10:00 **Breve historia y porque es importante GNU/Linux**
+* 10:30 **Como usar tor**
+* 11:30 **Conoce el Proyecto Fedora**
+* 13:00 **Como hacer tu CLI en Python usando Typer CLI**
 
 #### Link de las sesiones
 + Jitsi
@@ -49,12 +53,10 @@ El Festival Latinoamericano de Instalación de Software Libre (FLISOL) **es el e
 
 [![florels]({attach}2021-03-19-invitacion_flisol/Perfumeria_Florels_blanco.png)]({attach}2021-03-19-invitacion_flisol/Perfumeria_Florels_blanco.png)
 
-#### Descargas
-
-[Fuentes de Poster](https://github.com/GULAG/PosterFlisol2022)
-
 #### Los esperamos :-)
 
 Evento dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y personas que aun no poseen mucho conocimiento informático.
 
+#### Descargas
 
+[Fuentes de Poster](https://github.com/GULAG/PosterFlisol2022)
