@@ -1,13 +1,9 @@
-Bits Libres - Adaptarse al cambio
-==================================
-
-Fecha: 2018-01-03 13:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Adaptarse al cambio
+Date: 2018-01-03 13:00
+Author: Chico
+Category: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en enero del 2018_
-
-<!-- break -->
 
 ### Adaptarse al cambio
 

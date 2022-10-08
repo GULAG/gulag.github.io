@@ -1,19 +1,11 @@
-Resumen de Reunión noviembre 2017
-==================================
-
-Fecha: 2017-11-13 14:30
-Autor: krh3rtz
-Categorías: Junta Ordinaria
+Title: Resumen de Reunión noviembre 2017
+Date: 2017-11-13 14:30
+Author: krh3rtz
+Category: Junta Ordinaria
 
 Resumen de la reunión ordinaria que se celebró el __11 de noviembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __Biblioteca "José García de Letona"__ ubicada en la __Alameda Zaragoza__.
 
-<center>
-<a class="img-responsive" href="2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png" alt="impulsado por gnu linux" width="325" height="250"></a>
-</center>
-
-<!-- break -->
-
-<br />
+[![impulsado por gnu linux]({attach}2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png)]({attach}2017-11-13-Resumen-reunion-noviembre/Impulsado_por_GNU-Linux.png)
 
 Antes que todo, un sincero agradecimiento al Grupo de Usuarios de GNU/Linux de la Laguna por la oportunidad.
 
@@ -21,13 +13,7 @@ El pasado sábado 11 de Noviembre asistí como ponente al GULAG abordando el tem
 
 ### __Inteligencia Artificial: progreso y futuro__
 
-<br />
-
-<center>
-<a class="img-responsive" href="2017-11-13-Resumen-reunion-noviembre/Reunion_Nov_2017.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-11-13-Resumen-reunion-noviembre/Reunion_Nov_2017.jpg" alt="inteligencia artificial" width="325" height="250"></a>
-</center>
-
-<br />
+[![inteligencia artificial]({attach}2017-11-13-Resumen-reunion-noviembre/Reunion_Nov_2017.jpg)]({attach}2017-12-06-invitacion-reunion-diciembre/DockerSwarmRaspberryPi.png)
 
 Durante la plática charlamos un poco de la historia de la Inteligencia Artificial (IA), pasando por las diferentes disciplinas que esta abarca y terminando con una pequeña prueba de concepto haciéndo uso del lenguaje de programación [Python](https://www.python.org/) (en su versión 3.4). Dicha prueba consistió en utilizar [el conjunto de datos Iris](https://es.wikipedia.org/wiki/Iris_flor_conjunto_de_datos) para crear un pequeño clasificador.
 
@@ -46,4 +32,3 @@ Se dieron algunas referencias literarias. Estas son:
 En la parte digital, el [blog](http://descubriendolaia.blogspot.mx/) de Oscar Riquelme y su [canal de youtube](https://www.youtube.com/watch?v=ivpWblHUwUM&list=PL_v-GoZ43zvZvpk3atOcd-nJ2F8qqxuWX) son de las mejores referencias en español.
 
 _[Link a nota original](https://krh3rtz.blogspot.mx/2017/11/inteligencia-artificial-progreso-y.html)_
-
