@@ -1,15 +1,11 @@
-Bits Libres - Tiempos de compartir
-==================================
-
-Fecha: 2017-12-03 13:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Tiempos de compartir
+Date: 2017-12-03 13:00
+Author: Chico
+Category: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en diciembre del 2017_
 
-<!-- break -->
-
-### Tiempos de compartir
+## Tiempos de compartir
 
 En muchos libros se indica que queda rigurosamente prohibida la reproducción total o parcial [...] por cualquier medio físico o informático [...] y su distribución mediante alquiler o préstamo público. Pero, afortunadamente, cada vez me encuentro con más libros y autores que indican todo lo contrario.
 
