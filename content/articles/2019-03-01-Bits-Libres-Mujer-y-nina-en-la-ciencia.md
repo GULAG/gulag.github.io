@@ -1,8 +1,8 @@
 Title: Bits Libres - Mujer y la Niña en la Ciencia
 Date: 2019-03-01 08:00
 Author: Chico
-Category: Revista
-Tags: revista, bits, libres
+Category: Blog
+Tags: Bits Libres, Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en marzo del 2019_
 
@@ -23,3 +23,4 @@ En mi recorrido por los institutos de educación de la Comarca Lagunera, y fuera
 Como promotor siempre me surge la pregunta: ¿qué hacer para motivar más la participación de chicas en STEM?
 
 Espero sus respuestas.
+

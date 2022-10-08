@@ -1,9 +1,8 @@
-Bits Libres - De eso se trata
-==================================
-
-Fecha: 2019-02-01 08:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - De eso se trata
+Date: 2019-02-01 08:00
+Author: Chico
+Category: Blog
+Tags: Bits Libres, Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en febrero del 2019_
 
@@ -32,3 +31,4 @@ Y entonces, levantamos la mirada del monitor y nos empezamos a observar, y vemos
 * Que todo lo hacemos desde la libertad.
 
 Porque de eso se trata todo: de ser libres.
+
