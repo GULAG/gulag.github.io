@@ -14,7 +14,19 @@ Hacktoberfest es el evento anual de DigitalOcean que alienta a las personas a co
 
 _fuente: [hacktoberfest](https://hacktoberfest.com/about/)_
 
+#### ¿Cómo participar en nuestro repositorio?
 
+Entra a el sitio de [registro de hacktoberfest](https://hacktoberfest.com/auth/); sigue las instrucciones para un fácil registro.
 
-#### Los esperamos :-)
+Después entra a nuestro [repositorio](https://github.com/GULAG/gulag.github.io) en donde están las instrucciones a la vista en el README.
+
+Puedes elegir alguno de los [issues](https://github.com/GULAG/gulag.github.io/issues) que tenemos.
+
+No olvidar las labels __enhancement__ y __Hacktoberfest__ a tus aportaciones durante octubre
+
+...¡y listo!
+
+Cualquier duda, te esperamos en [telegram](https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ).
+
+#### Esperamos sus participaciones :-)
 
