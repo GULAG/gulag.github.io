@@ -1,19 +1,12 @@
-Invitación a Reunión marzo 2018
-==================================
-
-Fecha: 2018-03-03 13:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Invitación a Reunión marzo 2018
+Date: 2018-03-03 13:00
+Author:  Chico
+Category: Junta Ordinaria
+Tags: Junta
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __10 de marzo__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 
-<center>
-<a class="img-responsive" href="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png"><img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="Reunión ordinaria marzo" width="325" height="250"></a>
-</center>
-
-<!-- break -->
-
-<br />
+[![Reunión ordinaria marzo]({attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png)]({attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png)
 
 ## Creación de base de datos
 
@@ -26,7 +19,6 @@ Se pide a los asistentes llevar instalado [Android Studio](https://en.wikipedia.
 También Alan Ramos va a realizar una demostración de el punto de venta de [Odoo](https://www.odoo.com/) y como se puede configurar para que funcione con hardware, impresora térmica, cajon de dinero, lector de código de barras. Así como la instalación del Posbox en un raspberry.
 
 Para la instalación de Odoo se requiere computadora con Ubuntu o debian, o en su caso cualquier otro SO con docker.
-
 
 Todas nuestras reuniones son el segundo sábado de cada mes, y la __entrada es libre.__
 
