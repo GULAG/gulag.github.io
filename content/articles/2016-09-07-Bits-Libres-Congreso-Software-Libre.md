@@ -1,9 +1,8 @@
-Bits Libres - Congreso Software Libre
-==================================
-
-Fecha: 2016-09-07 18:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Congreso Software Libre
+Date: 2016-09-07 18:00
+Author: Chico
+Category: Blog
+Tags: Bits Libres, Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en septiembre del 2016_
 
