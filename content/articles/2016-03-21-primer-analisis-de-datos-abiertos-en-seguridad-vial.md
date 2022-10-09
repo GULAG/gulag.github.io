@@ -2,7 +2,7 @@ Title: Análisis de los datos abiertos de seguridad vial
 Slug: 2016-03-21-primer-analisis-de-datos-abiertos-en-seguridad-vial
 Date: 2016-03-21 14:00
 Author: guivaloz
-Category: Taller
+Category: Eventos
 Tags: Reuniones
 
 

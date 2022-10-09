@@ -2,7 +2,7 @@ Title: Gulag aprendiendo a usar GitHub
 Slug: 2014-02-08-gulag-aprendiendo-github
 Date: 2014-02-08 18:12
 Author: guivaloz
-Category: Junta Ordinaria
+Category: Juntas
 Tags: Taller, Junta Ordinaria, GitHub, Python
 
 

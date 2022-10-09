@@ -1,7 +1,7 @@
 Title: Invitación a reunión septiembre 2019
 Date: 2019-09-13 23:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __14 de septiembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.

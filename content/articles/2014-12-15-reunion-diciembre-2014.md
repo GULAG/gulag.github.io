@@ -1,6 +1,7 @@
 Title: Reunión ordinaria - Diciembre 2014
 Slug: 2014-12-15-reunion-diciembre-2014
 Date: 2014-12-15 12:00
+Category: Juntas
 Author:  Chico
 Tags: Junta Ordinaria
 

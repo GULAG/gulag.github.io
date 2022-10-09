@@ -1,0 +1,8 @@
+<div id="asideTags" class="card border-0">
+    <div class="card-body">
+        <h3 class="card-title mt-0">Etiquetas</h3>
+        <ul class="list-group list-group-flush">
+            {% for tag, null in tags|sort -%}<li class="list-group-item"><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>{% endfor %}
+        </ul>
+    </div>
+</div>

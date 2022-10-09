@@ -1,7 +1,7 @@
 Title: Reunión enero 2021
 Date: 2021-01-10 19:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Como ya es tradición, el segundo sábado del mes, el 9 de enero, tuvimos nuestra reunión ordinaria, en esta ocasión por videoconferencia.

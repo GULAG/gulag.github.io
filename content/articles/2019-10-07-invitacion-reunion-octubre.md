@@ -1,7 +1,7 @@
 Title: Invitación a reunión octubre 2019
 Date: 2019-10-07 23:00
 Author: Chico
-Category: Blog
+Category: Juntas
 Tags: Junta Ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12 de octubre__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.

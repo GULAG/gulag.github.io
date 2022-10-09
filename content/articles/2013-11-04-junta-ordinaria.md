@@ -1,7 +1,7 @@
 Title: Junta Ordinaria Noviembre-2013
 Date: 2013-11-04 12:00
 Author: guivaloz
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 EL pasado día sábado 4 de noviembre se contó con la participación de estudiantes de la UAdeC quienes solicitarón una platica sobre la Deep Web, impatida por Sergio Aguilera.

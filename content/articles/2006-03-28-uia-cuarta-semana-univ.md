@@ -1,7 +1,7 @@
 Title: Cuarta Semana Universitaria U.I.A.
 Date: 2006-03-28 23:00
 Author: m77
-Category: Conferencia
+Category: Eventos
 Tags: Conferencia
 
 Agenda:

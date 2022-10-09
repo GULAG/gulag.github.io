@@ -2,7 +2,7 @@ Title: Reunión ordinaria - Noviembre 2014
 Slug: 2014-11-15-reunion-noviembre-2014
 Date: 2014-11-16 12:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta Ordinaria, Markdown, Ruby, Jekyll
 
 

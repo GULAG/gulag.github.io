@@ -1,7 +1,7 @@
 Title: Próximamente: Congreso 2019
 Date: 2019-09-01 10:00
 Author: Chico
-Category: Eventos, Congreso
+Category: Eventos
 Tags: Eventos, Congreso
 
 El próximo **20 septiembre del 2019**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso**. La cita será en las instalaciones de la **Escuela de Sistemas, Unidad Torreón, de la Universidad Autónoma de Coahuila**.

@@ -1,7 +1,7 @@
 Title: "Seguridad Informática" en la UANE
 Date: 2009-02-03 12:00
 Author: toNo
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![seguridad]({attach}2009-02-03-uane-seguridad_informatica/uane-seguridad_informatica-1.jpg)]({attach}2009-02-03-uane-seguridad_informatica/uane-seguridad_informatica-2.jpg)

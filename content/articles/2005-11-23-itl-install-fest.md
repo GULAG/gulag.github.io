@@ -1,7 +1,7 @@
 Title: Install Fest en el I.T.L.
 Date: 2005-11-23 23:00
 Author: m77
-Category: Flisol
+Category: Eventos
 Tags: Eventos, Install Fest, FLISOL, Flisol
 
 Casi una semana después del Linux Day, el Instituto Tecnológico de la Laguna nos invitó a realizar un Install Fest en sus instalaciones. Hicimos una instalación guiada de Debian GNU/Linux Sarge en modo experto en las PC's que el I.T.L. proporcionó, aunque algunos alumnos llevaron su laptop.

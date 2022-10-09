@@ -2,7 +2,7 @@ Title: Próximamente Congreso 2015
 Slug: 2015-08-22-avances-congreso-2015
 Date: 2015-08-30 21:00
 Author:  Chico
-Category: Evento
+Category: Eventos
 Tags: Eventos, Congreso
 
 
