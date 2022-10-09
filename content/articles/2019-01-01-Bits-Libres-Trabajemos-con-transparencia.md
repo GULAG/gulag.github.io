@@ -1,15 +1,10 @@
-Bits Libres - Trabajemos con transparencia
-==================================
+Title: Bits Libres - Trabajemos con transparencia
+Date: 2019-01-01 8:00
+Author: Chico evaldivi
+Category: Revista
+Tags: Transparencia, Software Libre
 
-Fecha: 2019-01-01 8:00
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en enero del 2019_
-
-<!-- break -->
-
-### Trabajemos con transparencia
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en enero del 2019_
 
 En el ambiente de Software Libre se maneja la transparencia en todo momento. Es por ello que los grandes proyectos tienen éxito.
 
