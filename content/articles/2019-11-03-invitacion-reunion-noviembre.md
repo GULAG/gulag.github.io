@@ -1,7 +1,7 @@
 Title: Invitación a reunión noviembre 2019
 Date: 2019-11-03 23:00
 Author:  Chico
-Category: Blog
+Category: Juntas
 Tags: Junta Ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __9 de noviembre__ en [Angelus Cafe Gourmet](https://www.openstreetmap.org/#map=19/25.54129/-103.44632) a las __4:00 pm__.

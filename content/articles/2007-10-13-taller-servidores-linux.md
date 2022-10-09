@@ -1,7 +1,7 @@
 Title: Taller Servidores Linux
 Date: 2007-10-22 22:00
 Author: RIVE
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 Una ves más comentaré ya bastante tarde la actividad que realizamos los miembros del GULAG el sábado 13 de octubre.

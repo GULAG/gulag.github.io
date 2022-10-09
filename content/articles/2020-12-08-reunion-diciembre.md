@@ -1,7 +1,7 @@
 Title: Reunión diciembre 2020
 Date: 2020-12-08 19:50
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 El __12 de diciembre por videoconferencia, a las 21:00 horas, tiempo de CDMX__, tendremos nuestra reunión ordinaria.

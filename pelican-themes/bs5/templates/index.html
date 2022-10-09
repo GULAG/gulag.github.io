@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+{% if output_file == 'index.html' %}
+    <meta name="description" content="{{ SITEDESCRIPTION }}">
+    <meta name="keywords" content="{{ SITEKEYWORDS }}">
+    <meta name="author" content="{{ AUTHOR }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ SITETWITTER }}">
+    <meta name="twitter:title" content="{{ SITENAME }}">
+    <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:title" content="{{ SITENAME }}">
+    <meta property="og:type" content="summary">
+    <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
+    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+    <meta property="og:site_name" content="{{ SITENAME }}">
+{% else %}
+    <meta name="description" content="Índice de publicaciones.">
+    <meta name="keywords" content="">
+    <meta name="author" content="{{ AUTHOR }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ SITETWITTER }}">
+    <meta name="twitter:title" content="Índice - {{ SITENAME }}">
+    <meta name="twitter:description" content="Índice de publicaciones.">
+    <meta name="twitter:image:src" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:title" content="Índice - {{ SITENAME }}">
+    <meta property="og:type" content="summary">
+    <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
+    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:description" content="Índice de publicaciones.">
+    <meta property="og:site_name" content="{{ SITENAME }}">
+{% endif %}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "{{ SITEURL }}",
+        "name": "{{ SITENAME }}",
+        "description": "{{ SITEDESCRIPTION }}"
+    }
+    </script>
+{% endblock %}
+
+{% block content %}
+    <main>
+        {% if articles %}
+        <section>
+            {% block content_title %}{% endblock %}
+            {% for article in articles_page.object_list %}
+            <div class="card border-0">
+                <div class="card-body">
+                    {% if article.preview -%}<a href="{{ SITEURL }}/{{ article.url }}"><img class="float-start mx-3" src="{{ SITEURL }}/{{ article.url }}{{ article.preview }}" alt="Imagen previa"></a>{%- endif %}
+                    <h3 class="card-title mt-0"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+                    <p class="card-text">{{ article.summary | striptags }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </section>
+        {% if articles_page %}
+        <nav>
+            <ul class="pagination justify-content-center">
+                {% if articles_page.has_previous() %}
+                <li>
+                    {% if articles_page.previous_page_number() == 1 %}
+                    <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}.html">
+                        <span aria-hidden="true">&laquo;</span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    {% else %}
+                    <a class="page-link" aria-label="Previous" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.previous_page_number() }}.html">
+                        &#60;&#60;
+                    </a>
+                    {% endif %}
+                </li>
+                {% endif %}
+                {% for page_number in range(1, 1 + articles_paginator.num_pages) %}
+                {% if (page_number - articles_page.number < 3) and (page_number - articles_page.number > -3) %}
+                <li class="page-item">
+                    <a class="page-link" href="{{ SITEURL }}/{{ page_name }}{{ page_number if page_number > 1 else '' }}.html">{{ page_number }}</a>
+                </li>
+                {% endif %}
+                {% endfor %}
+                {% if articles_page.has_next() %}
+                <li class="page-item">
+                    <a class="page-link" aria-label="Next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html">
+                        <span aria-hidden="true">&raquo;</span>
+                        <span class="sr-only">Siguiente</span>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </nav>
+        {% endif %}
+        {% else %}
+        <p>No hay contenido.</p>
+        {% endif %}
+    </main>
+{% endblock %}

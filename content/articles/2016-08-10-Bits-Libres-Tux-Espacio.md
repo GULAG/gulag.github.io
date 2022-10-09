@@ -1,7 +1,7 @@
 Title: Bits Libres - Tux en el espacio
 Date: 2016-08-10 22:00
 Author: Chico
-Category: Blog
+Category: Revista
 Tags: Bits Libres, Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en agosto del 2016_

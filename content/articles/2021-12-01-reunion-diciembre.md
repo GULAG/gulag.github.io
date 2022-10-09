@@ -1,7 +1,7 @@
 Title: Reunión de diciembre 2021
 Date: 2021-12-01 20:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Como ya es tradición, el segundo viernes del mes tuvimos nuestra reunión ordinaria, por videoconferencia.

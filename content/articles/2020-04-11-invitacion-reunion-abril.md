@@ -1,7 +1,7 @@
 Title: Invitación a reunión abril 2020
 Date: 2020-04-11 14:00
 Author:  Chico
-Category: Blog
+Category: Juntas
 Tags: Junta ordinaria
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __11 de abril por videoconferencia a las 4:00 pm__.

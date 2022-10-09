@@ -1,7 +1,7 @@
 Title: Reunión de marzo 2022
 Date: 2022-03-11 12:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Como ya es tradición, el segundo viernes de cada mes tendremos nuestra reunión ordinaria a las __20:00 horas CDMX__, por videoconferencia.

@@ -2,7 +2,7 @@ Title: Resumen del FLISOL 2016
 Slug: 2016-04-25-resumen-flisol
 Date: 2016-04-25 10:00
 Author: Chico
-Category: Install Fest
+Category: Eventos
 Tags: Install Fest, FLISOL
 
 

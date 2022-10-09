@@ -1,7 +1,7 @@
 Title: Reunión febrero 2021
 Date: 2021-02-12 19:30
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Como ya es tradición, el segundo sábado del mes, el 13 de febrero, tendremos nuestra reunión ordinaria, por videoconferencia.

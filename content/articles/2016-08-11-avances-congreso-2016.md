@@ -1,7 +1,7 @@
 Title: Próximamente: Congreso 2016
 Date: 2016-08-11 10:00
 Author:  Chico
-Category: Eventos, Congreso, Blog
+Category: Eventos
 Tags: Eventos, Congreso, Talleres, Conferencias
 
 Sede, conferencias y talleres estan listos para el Congreso 2016.

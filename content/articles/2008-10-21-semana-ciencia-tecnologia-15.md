@@ -1,7 +1,7 @@
 Title: "Software Libre" en la XV Semana de Ciencia y Tecnología
 Date: 2008-10-27 21:00
 Author: guivaloz
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![semana cyt 1]({attach}2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-1-small.jpg)]({attach}2008-10-21-semana-ciencia-tecnologia-15/semana-ciencia-tecnologia-1.jpg)

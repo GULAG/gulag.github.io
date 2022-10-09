@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+    <meta name="description" content="{{ page.summary|striptags }}">
+    <meta name="keywords" content="{{ [page.tags|join(', '), page.category]|join(', ') }}">
+    <meta name="author" content="{{ page.author.name }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ SITETWITTER }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.summary|striptags }}">
+{% if page.image %}
+    <meta name="twitter:image" content="{{ SITEURL }}/{{ page.url }}{{ page.image }}">
+{% elif page.preview %}
+    <meta name="twitter:image" content="{{ SITEURL }}/{{ page.url }}{{ page.preview }}">
+{% endif %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}">
+{% if page.image %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ page.url }}{{ page.image }}">
+{% elif page.preview %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ page.url }}{{ page.preview }}">
+{% endif %}
+    <meta property="og:description" content="{{ page.summary|striptags }}">
+    <meta property="og:site_name" content="{{ SITENAME }}">
+{% endblock %}
+
+{% block content %}
+    <article>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "BlogPosting",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ SITENAME }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                    },
+                    "url": "{{ SITEURL }}"
+                },
+                "author": "{{ page.author }}",
+                "name": "{{ page.title }}",
+                "headline": "{{ page.title }}",
+                "description": "{{ page.summary|striptags }}",
+                "dateCreated": "{{ page.date }}",
+                "datePublished": "{{ page.date }}",
+                "dateModified": "{{ page.modified }}",
+                {% if page.image %}
+                "image": "{{ SITEURL }}/{{ page.category }}/{{ page.slug }}/{{ page.image }}",
+                {% elif page.preview %}
+                "image": "{{ SITEURL }}/{{ page.category }}/{{ page.slug }}/{{ page.preview }}",
+                {% else %}
+                "image": "{{ SITEURL }}/{{ SITELOGO }}",
+                {% endif %}
+                "url": "{{ SITEURL }}/{{ page.url }}"
+            }
+        </script>
+        <h2>{{ page.title }}</h2>
+        {{ page.content }}
+    </article>
+{% endblock %}

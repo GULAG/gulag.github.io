@@ -1,7 +1,7 @@
 Title: Conferencias en el CETIS 47
 Date: 2008-03-19 10:40
 Author: toNo
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 ### Conferencias de introducción al S.L. en el CETIS 47 de Gómez Palacio

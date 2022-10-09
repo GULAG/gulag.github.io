@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = "GULAG"
 SITENAME = "GULAG"
+SITEDESCRIPTION = "Grupo de Usuarios de GNU/Linux de La Laguna"
 SITEURL = ""
 
 # Variable para el theme pelican-cait
@@ -43,7 +44,7 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 # Themes
-THEME = "pelican-themes/pelican-cait"
+THEME = "pelican-themes/bs5"
 
 STATIC_PATHS = ["images", "extra/CNAME", "extra/favicon.ico"]  # this
 EXTRA_PATH_METADATA = {

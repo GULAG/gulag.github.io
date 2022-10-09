@@ -1,7 +1,7 @@
 Title: "PHP Básico" en el Tec de Lerdo
 Date: 2008-04-17 22:55
 Author: guivaloz
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![php basico 1]({attach}2008-04-15-tec-lerdo-php-basico/dsc00285-small.jpg)]({attach}2008-04-15-tec-lerdo-php-basico/dsc00285.jpg)

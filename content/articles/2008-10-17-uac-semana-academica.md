@@ -1,7 +1,7 @@
 Title: "Introducción a GNU/Linux" en la UAdeC Semana Académica
 Date: 2008-10-27 17:00
 Author: RIVE
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![Semana academica uadec 1]({attach}2008-10-17-uac-semana-academica/uac-semana-academica-1-small.jpg)]({attach}2008-10-17-uac-semana-academica/uac-semana-academica-1.jpg)

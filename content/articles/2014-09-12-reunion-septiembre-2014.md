@@ -2,7 +2,7 @@ Title: Reunión ordinaria - Septiembre 2014
 Slug: 2014-09-12-reunion-septiembre-2014
 Date: 2014-09-12 12:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta Ordinaria
 
 

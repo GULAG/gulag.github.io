@@ -1,7 +1,7 @@
 Title: Reunión de mayo 2019
 Date: 2019-05-17 13:00
 Author:  Chico
-Category: Junta Ordinaria
+Category: Juntas
 Tags: junta, ordinaria
 
 <img class="img-fluid" src="{attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="Linux Party">

@@ -1,7 +1,7 @@
 Title: Junta Ordinaria
 Date: 2013-08-12 12:00
 Author: guivaloz
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 [![Chico]({attach}2013-08-12-junta-ordinaria/2013-08-12-chicoxxx.JPG)]({attach}2013-08-12-junta-ordinaria/2013-08-12-chicoxxx.JPG)

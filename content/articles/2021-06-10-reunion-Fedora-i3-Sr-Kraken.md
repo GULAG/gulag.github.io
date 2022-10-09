@@ -1,7 +1,7 @@
 Title: Reunión de Junio 2021
 Date: 2021-06-10 20:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Como ya es tradición, el segundo viernes del mes tuvimos nuestra reunión ordinaria, por videoconferencia.
