@@ -1,11 +1,10 @@
-Bits Libres - Soberanía Tecnológica
-==================================
+Title: Bits Libres - Soberanía Tecnológica
+Date: 2016-10-05 17:10
+Author: Chico
+Category: Revista
+Tags: Revista, Bits Libres, Entretodos
 
-Fecha: 2016-10-05 17:10
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en octubre del 2016_
+**Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en octubre del 2016**
 
 <!-- break -->
 
