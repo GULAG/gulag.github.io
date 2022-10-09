@@ -1,13 +1,13 @@
-Te esperamos en Telegram
-==================================
-
-Fecha: 2018-12-13 18:00
-Autor:  Chico
-Categorías: Telegram, Contacto
+Title: Te esperamos en Telegram
+Date: 2018-12-13 18:00
+Author:  Chico
+Category: Eventos
+Tags: Telegram, Contacto
 
 <center>
 <a class="img-responsive" href="2018-12-13-te-esperamos-en-telegram/Telegram_logo.png"><img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="2018-12-13-te-esperamos-en-telegram/Telegram_logo.png" alt="Telegram" width="325" height="250"></a>
 </center>
+
 
 <br />
 
