@@ -1,11 +1,9 @@
-Bits Libres - Compartiendo lo mejor de nosotros
-==================================
+Title: Bits Libres - Compartiendo lo mejor de nosotros
+Date: 2018-12-01 8:00
+Author: Chico
+Category: Revista
 
-Fecha: 2018-12-01 8:00
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en diciembre del 2018_
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en diciembre del 2018_
 
 <!-- break -->
 
