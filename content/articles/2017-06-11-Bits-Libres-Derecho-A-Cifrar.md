@@ -1,11 +1,9 @@
-Bits Libres - [Re]Conociendo nuestros derechos: Derecho a cifrar
-==================================
+Title: Bits Libres - [Re]Conociendo nuestros derechos: Derecho a cifrar
+Date: 2017-06-11 23:40
+Author: Chico
+Category: Revista
 
-Fecha: 2017-06-11 23:40
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en junio del 2017_
+_Publicado en la sección **Bits Libres** [Entretodos](http://periodicoentretodos.mx/version-impresa/), en junio del 2017_
 
 <!-- break -->
 
