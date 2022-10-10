@@ -1,14 +1,12 @@
-Invitación a Reunión abril 2018
-==================================
-
-Fecha: 2018-04-03 13:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Invitación a Reunión abril 2018
+Date: 2018-04-03 13:00
+Author:  Chico
+Category: Juntas
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __14 de abril__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 
 <center>
-<a class="img-responsive" href="2018-04-03-invitacion-reunion-abril/AndroidMasFirebase.png"><img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="2018-04-03-invitacion-reunion-abril/AndroidMasFirebase.png" alt="Android y Firebase" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-04-03-invitacion-reunion-abril/AndroidMasFirebase.png"><img class="img-responsive" style="width:30%;height:auto;margin-right:12px;" src="{attach}2018-04-03-invitacion-reunion-abril/AndroidMasFirebase.png" alt="Android y Firebase" width="325" height="250"></a>
 </center>
 
 <br />
