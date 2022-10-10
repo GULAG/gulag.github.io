@@ -4,7 +4,7 @@ Sitio web del Grupo de Usuario de GNU/Linux de la Laguna.
 
 [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
-## Guias de participacion para Hacktoberfest 2021
+## Guias de participacion para Hacktoberfest 2022
 
 Nuestras guias de como aportar en este `hacktoberfest` en este repositorio.
 
@@ -105,7 +105,7 @@ Title: Articulo | <Nombre de articulo>
 
 12. En el cuerpo de la PR explica los cambios que realizaste.
 
-13. Agrega el label / etiqueta de `enchancement` a tu PR para que cuente. En `reviewers` agrega a GULAG/Publicadores
+13. Agrega el label / etiqueta de `enhancement` a tu PR para que cuente. En `reviewers` agrega a GULAG/Publicadores
 
 14. Dale click al boton `crear PR` / `Create PR`. Eso lanzara el proceso de CI del sitio. Si pasa los checks, felicidades! Tu PR estara lista para hacer `merge`. Espera la revision de alguien del equipo.
 
