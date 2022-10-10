@@ -1,12 +1,10 @@
-Resumen del Congreso de Software Libre 2018
-==================================
-
-Fecha: 2018-09-08 03:40
-Autor: Chico
-Categorías: Eventos, Congreso
+Title: Resumen del Congreso de Software Libre 2018
+Date: 2018-09-08 03:40
+Author: Chico
+Category: Eventos
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/GULAG-Congreso-2018-Poster.png" alt="Poster Congreso 2018" width="250" height="325">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/GULAG-Congreso-2018-Poster.png" alt="Poster Congreso 2018" width="250" height="325">
 </center>
 
 <br />
@@ -18,13 +16,13 @@ Con motivo de un año más de aniversario del **Grupo de Usuarios de GNU/Linux d
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/asistentes-1.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/asistentes-1.jpg" alt="Asistentes" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/asistentes-1.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/asistentes-1.jpg" alt="Asistentes" width="250" height="325"></a>
 </center>
 
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/asistentes-2.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/asistentes-2.jpg" alt="Asistentes" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/asistentes-2.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/asistentes-2.jpg" alt="Asistentes" width="250" height="325"></a>
 </center>
 
 <br />
@@ -36,7 +34,7 @@ Se contó con la asistencia de más de 200 personas de los ámbitos académico, 
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/Conferencia-osm.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/Conferencia-osm.jpg" alt="Conferencia OSM" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/Conferencia-osm.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/Conferencia-osm.jpg" alt="Conferencia OSM" width="250" height="325"></a>
 </center>
 
 <br />
@@ -52,7 +50,7 @@ _La intención general es compartir datos en el mismo formato estándar (GTFS), 
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/Conferencia-mozilla.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/Conferencia-mozilla.jpg" alt="Conferencia Mozilla" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/Conferencia-mozilla.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/Conferencia-mozilla.jpg" alt="Conferencia Mozilla" width="250" height="325"></a>
 </center>
 
 <br />
@@ -64,7 +62,7 @@ Se creó una conciencia de que tantos datos emitimos y que luego no nos damos cu
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/Conferencia-zk.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/Conferencia-zk.jpg" alt="Conferencia Seguridad" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/Conferencia-zk.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/Conferencia-zk.jpg" alt="Conferencia Seguridad" width="250" height="325"></a>
 </center>
 
 <br />
@@ -79,7 +77,7 @@ Después de las conferencias los asistentes satisficieron el paladar con el serv
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/html5.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/html5.jpg" alt="Taller HTML5" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/html5.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/html5.jpg" alt="Taller HTML5" width="250" height="325"></a>
 </center>
 
 <br />
@@ -94,7 +92,7 @@ Después de las conferencias los asistentes satisficieron el paladar con el serv
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/odoo.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/odoo.jpg" alt="Taller Odoo" width="250" height="325"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/odoo.jpg"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/odoo.jpg" alt="Taller Odoo" width="250" height="325"></a>
 </center>
 
 <br />
@@ -110,15 +108,15 @@ Agradecemos también a los patrocinadores:
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-07-congreso/Patrocinadores.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/Patrocinadores.png" alt="Patrocinadores" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-09-07-congreso/Patrocinadores.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/Patrocinadores.png" alt="Patrocinadores" width="325" height="250"></a>
 </center>
 
 <center>
-<a class="img-responsive" href="2018-09-07-congreso/Patrocinadores2.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/Patrocinadores2.png" alt="Más patrocinadores" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-09-07-congreso/Patrocinadores2.png"><img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/Patrocinadores2.png" alt="Más patrocinadores" width="325" height="250"></a>
 </center>
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/OCV.png"><img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/OCV.png" alt="OCV patrocina" width="200" height="100"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/OCV.png"><img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/OCV.png" alt="OCV patrocina" width="200" height="100"></a>
 </center>
 
 <br />
@@ -130,7 +128,7 @@ De igual manera agradecemos a todos los miembros del GULAG que de una u otra for
 <br />
 
 <center>
-<a class="img-responsive" href="2018-09-08-resumen-congreso-2018/Gulag-Final.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-09-08-resumen-congreso-2018/Gulag-Final.jpg" alt="Foto final en Congreso Software Libre 2018" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-09-08-resumen-congreso-2018/Gulag-Final.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2018-09-08-resumen-congreso-2018/Gulag-Final.jpg" alt="Foto final en Congreso Software Libre 2018" width="325" height="250"></a>
 </center>
 
 <br />
@@ -156,4 +154,4 @@ De igual manera agradecemos a todos los miembros del GULAG que de una u otra for
 
 ### Descargas
 
-* [Poster Congreso de Software Libre 2018](2018-09-07-congreso/GULAG-Congreso-2018-Poster.png)
+* [Poster Congreso de Software Libre 2018]({attach}2018-09-07-congreso/GULAG-Congreso-2018-Poster.png)

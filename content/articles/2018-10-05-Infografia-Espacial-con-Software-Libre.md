@@ -1,16 +1,14 @@
-Taller Infografía Espacial con Software Libre
-==================================
-
-Fecha: 2018-10-05 13:00
-Autor: Chico
-Categorías: Talleres
+Title: Taller Infografía Espacial con Software Libre
+Date: 2018-10-05 13:00
+Author: Chico
+Category: Eventos
 
 Con motivo de la celebración de la [Semana Mundial del Espacio](https://haciaelespacio.aem.gob.mx/sme-mexico/2018/) y con el [Grupo Astronómico de Gómez Palacio](https://facebook.com/pages/Grupo-Astron%C3%B3mico-G%C3%B3mez-Palacio/114277575272066/) como sede en Gómez Palacio, Dgo., nuestro compañero [Osvaldo Salazar](http://www.salazarysanchez.com/) impartió, representando al [GULAG](http://www.gulag.org.mx/), el taller _"Infografía Espacial con Software Libre"_ en el Centro Mexicano-Francés del Conalep de Gómez Palacio.
 
 <br />
 
 <center>
-<a class="img-responsive" href="2018-10-05-Infografia-Espacial-con-Software-Libre/portada-gagp.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-10-05-Infografia-Espacial-con-Software-Libre/portada-gagp.jpg" alt="Semana Mundial Espacio 2018" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/portada-gagp.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/portada-gagp.jpg" alt="Semana Mundial Espacio 2018" width="325" height="250"></a>
 </center>
 
 <!-- break -->
@@ -29,19 +27,19 @@ A continuación se muestran algunos trabajos que los alumnos realizaron:
 
 <center>
 
-<a class="img-responsive" href="2018-10-05-Infografia-Espacial-con-Software-Libre/08-Luna.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-10-05-Infografia-Espacial-con-Software-Libre/08-Luna.png" alt="Infografía Luna" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/08-Luna.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/08-Luna.png" alt="Infografía Luna" width="325" height="250"></a>
 
 <br />
 
-<a class="img-responsive" href="2018-10-05-Infografia-Espacial-con-Software-Libre/05-ET.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-10-05-Infografia-Espacial-con-Software-Libre/05-ET.png" alt="Infografía ET" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/05-ET.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/05-ET.png" alt="Infografía ET" width="325" height="250"></a>
 
 <br />
 
-<a class="img-responsive" href="2018-10-05-Infografia-Espacial-con-Software-Libre/03-Estrellas-Fugaces.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-10-05-Infografia-Espacial-con-Software-Libre/03-Estrellas-Fugaces.png" alt="Infografía Estrellas Fugaces" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/03-Estrellas-Fugaces.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/03-Estrellas-Fugaces.png" alt="Infografía Estrellas Fugaces" width="325" height="250"></a>
 
 <br />
 
-<a class="img-responsive" href="2018-10-05-Infografia-Espacial-con-Software-Libre/02-mercurio.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2018-10-05-Infografia-Espacial-con-Software-Libre/02-mercurio.png" alt="Infografía Mercurio" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/02-mercurio.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2018-10-05-Infografia-Espacial-con-Software-Libre/02-mercurio.png" alt="Infografía Mercurio" width="325" height="250"></a>
 
 </center>
 
