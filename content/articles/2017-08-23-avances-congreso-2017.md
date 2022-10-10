@@ -1,14 +1,13 @@
-Próximamente: Congreso 2017
-==================================
-
-Fecha: 2017-08-23 23:00
-Autor:  Chico
-Categorías: Eventos, Congreso
+Title: Próximamente: Congreso 2017
+Date: 2017-08-23 23:00
+Author:  Chico
+Category: Eventos
+Tags: Congreso
 
 Sede, conferencias y talleres estan listos para el Congreso de Software Libre 2017.
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2017-08-23-avances-congreso-2017/LogotipoUniPoli.png" alt="UniPoli" width="325" height="250">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2017-08-23-avances-congreso-2017/LogotipoUniPoli.png" alt="UniPoli" width="325" height="250">
 </center>
 
 <!-- break -->
@@ -18,7 +17,7 @@ Los próximos **8 y 9 de septiembre del 2017**, estaremos celebrando un aniversa
 <br />
 
 <center>
-<a class="img-responsive" href="2017-08-23-avances-congreso-2017/CongresoGulag2017.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-08-23-avances-congreso-2017/CongresoGulag2017.png" alt="Congreso Software Libre 2017" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2017-08-23-avances-congreso-2017/CongresoGulag2017.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2017-08-23-avances-congreso-2017/CongresoGulag2017.png" alt="Congreso Software Libre 2017" width="325" height="250"></a>
 </center>
 
 <br />
@@ -71,5 +70,5 @@ Los esperamos :-D
 
 ### Descargas
 
-* [Poster Congreso de Software Libre 2017](2017-08-23-avances-congreso-2017/CongresoGulag2017.png)
+* [Poster Congreso de Software Libre 2017]({attach}2017-08-23-avances-congreso-2017/CongresoGulag2017.png)
 * [Poster archivos fuente en GitHub](https://github.com/ChicoXXX/Poster-Congreso-2017)
