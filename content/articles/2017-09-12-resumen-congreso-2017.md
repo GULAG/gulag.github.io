@@ -1,16 +1,15 @@
-Resumen del Congreso de Software Libre 2017
-==================================
-
-Fecha: 2017-09-12 03:40
-Autor: Chico
-Categorías: Eventos, Congreso
+Title: Resumen del Congreso de Software Libre 2017
+Date: 2017-09-12 03:40
+Author: Chico
+Category: Eventos
+Tags: Congreso
 
 Con motivo de un año más de aniversario del **Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)** se celebró el **Congreso de Software Libre** los días **8 y 9 de septiembre del 2017** en las instalaciones de la Universidad Politécnica de Gómez Palacio, en el estado de Durango.
 
 <!-- break -->
 
 <center>
-<a class="img-responsive" href="2017-08-23-avances-congreso-2017/CongresoGulag2017.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-08-23-avances-congreso-2017/CongresoGulag2017.png" alt="Congreso Software Libre 2017" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2017-08-23-avances-congreso-2017/CongresoGulag2017.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2017-08-23-avances-congreso-2017/CongresoGulag2017.png" alt="Congreso Software Libre 2017" width="325" height="250"></a>
 </center>
 
 <br />
@@ -30,7 +29,7 @@ Despues de un descanso, se continuo con la siguiente conferencia, **Tecnologías
 <br />
 
 <center>
-<a class="img-responsive" href="2017-09-12-resumen-congreso-2017/Guivaloz.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-09-12-resumen-congreso-2017/Guivaloz.jpg" alt="Guivaloz en conferencia en Congreso Software Libre 2017" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2017-09-12-resumen-congreso-2017/Guivaloz.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2017-09-12-resumen-congreso-2017/Guivaloz.jpg" alt="Guivaloz en conferencia en Congreso Software Libre 2017" width="325" height="250"></a>
 </center>
 
 <br />
@@ -61,7 +60,7 @@ Damos las gracias a el respetable público esperando lo enseñado estos días le
 <br />
 
 <center>
-<a class="img-responsive" href="2017-09-12-resumen-congreso-2017/Gndx-Octagesimal.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-09-12-resumen-congreso-2017/Gndx-Octagesimal.jpg" alt="Gndx y Octagesimal en Congreso Software Libre 2017" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2017-09-12-resumen-congreso-2017/Gndx-Octagesimal.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2017-09-12-resumen-congreso-2017/Gndx-Octagesimal.jpg" alt="Gndx y Octagesimal en Congreso Software Libre 2017" width="325" height="250"></a>
 </center>
 
 <br />
@@ -72,5 +71,5 @@ Los esperamos el siguiente año :-D
 
 ### Descargas
 
-* [Poster Congreso de Software Libre 2017](2017-08-23-avances-congreso-2017/CongresoGulag2017.png)
+* [Poster Congreso de Software Libre 2017]({attach}2017-08-23-avances-congreso-2017/CongresoGulag2017.png)
 * [Poster archivos fuente en GitHub](https://github.com/ChicoXXX/Poster-Congreso-2017)
