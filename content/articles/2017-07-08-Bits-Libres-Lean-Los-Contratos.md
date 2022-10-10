@@ -1,11 +1,9 @@
-Bits Libres - Lean los contratos
-==================================
+Title: Bits Libres - Lean los contratos
+Date: 2017-07-08 23:40
+Author: Chico
+Category: Revista
 
-Fecha: 2017-07-08 23:40
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en julio del 2017_
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en julio del 2017_
 
 <!-- break -->
 

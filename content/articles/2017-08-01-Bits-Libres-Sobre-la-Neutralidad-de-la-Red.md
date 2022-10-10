@@ -1,11 +1,9 @@
-Bits Libres - Sobre la Neutralidad de la Red
-==================================
+Title: Bits Libres - Sobre la Neutralidad de la Red
+Date: 2017-08-01 13:30
+Author: Chico
+Category: Revista
 
-Fecha: 2017-08-01 13:30
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en agosto del 2017_
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en agosto del 2017_
 
 <!-- break -->
 
