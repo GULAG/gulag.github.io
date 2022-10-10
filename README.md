@@ -10,7 +10,7 @@ Our guides about how to contribute to this `hacktoberfest` in this repository.
 
 - [`Spanish`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_es_MX.md)
 
-- [`Portuguese](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_pr_BR.md)
+- [`Portuguese`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_pr_BR.md)
 
 - Follow this [PR](https://github.com/GULAG/gulag.github.io/pull/44) as an example.
 
