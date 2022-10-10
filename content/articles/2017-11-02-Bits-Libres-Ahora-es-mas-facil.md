@@ -1,11 +1,9 @@
-Bits Libres - Ahora es más fácil
-==================================
+Title: Bits Libres - Ahora es más fácil
+Date: 2017-11-02 8:00
+Author: Chico
+Category: Revista
 
-Fecha: 2017-11-02 8:00
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en noviembre del 2017_
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en noviembre del 2017_
 
 <!-- break -->
 
