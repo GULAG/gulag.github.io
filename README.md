@@ -1,89 +1,89 @@
 # GULAG
 
-Sitio web del Grupo de Usuario de GNU/Linux de la Laguna.
+Website for the GNU/Linux Users Group of la Laguna (Grupo de Usuarios GNU/Linux de la Laguna)
 
 [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
-## Guias de participacion para Hacktoberfest 2021
+## Participation Guides for HacktoberFest 2022
 
-Nuestras guias de como aportar en este `hacktoberfest` en este repositorio.
+Our guides about how to contribute to this `hacktoberfest` in this repository.
 
-- [`Espanol`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_es_MX.md)
+- [`Spanish`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_es_MX.md)
 
-- [`Portugues`](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_pr_BR.md)
+- [`Portuguese](https://github.com/GULAG/gulag.github.io/blob/pelican/CONTRIBUTING_pr_BR.md)
 
-- Sigue esta [PR](https://github.com/GULAG/gulag.github.io/pull/44) como ejemplo
+- Follow this [PR](https://github.com/GULAG/gulag.github.io/pull/44) as an example.
 
-## Guia de como subir tu articulo al blog de `GULAG`.
+## Guide on how to upload your article to the `GULAG` blog.
 
-### Prerequisitos
+### Pre-requisites
 
-- Tener git instalado y cuenta de github.
-- Editor de texto favorito.
-- Python 3.8+ instalado.
+- Having a GitHub account and Git installed in your device.
+- Use your favorite text editor.
+- Have Python 3.8+ installed in your device.
 
-Sigue estos pasos para aportar a este repositorio.
+Follow these steps to contribute to this repository.
 
-1. Clona el repositorio.
+1. Clone this repository.
 
 ```bash
-# ssh clone - si tienes habilitado verificacion en dos pasos
+# ssh clone - if you have two step verification enabled
 git clone git@github.com:GULAG/gulag.github.io.git
 
 # http clone
 git clone https://github.com/GULAG/gulag.github.io.git
 ```
 
-2. Entra al folder `gulag.github.io`
+2. Go into the folder `gulag.github.io`
 
 ```bash
 cd gulag.github.io
 ```
 
-3. Instalar las librerias en `requirements.txt`
+3. Install the libraries found in `requirements.txt`
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Crea un branch con la fecha y el nombre del articulo.
+4. Create a branch with the date and the name of the article.
 
 ```bash
-git checkout -b articulo/<fecha>_<titulo>  
+git checkout -b article/<date>_<title>
 
-# Ejemplo
-git checkout -b articulo/2020_10_26_mi_super_titulo
+# Example
+git checkout -b article/2022_10_26_my_awesome_title
 ```
 
-5. Agrega tu articulo en formato `md` dentro de la carpeta `content/articles`. El nombre del articulo debera seguir la siguiente nomenclatura.
+5. Add your article in `md` format inside the folder `content/articles`. The article name has to follow this naming convention.
 
-- `<fecha>`-`<nombre>`.md
-    - Ejemplo: 2020-10-26-mi-super-articulo.md
+- `<date>`-`<name>`.md
+    - Example: 2022-10-26-my-awesome-article.md
 
 
-Si tu articulo tiene imagenes, crea una carpeta con el mismo nombre que tu articulo y agrega el tag `{attach}` a `href` y a `src`.
+If your article has images, create a folder with the same name as your article and add the tag `{attach}` to `href` and to `src`.
 
-- Ejemplo:
+- Example:
 
 ```html
 <center>
-<a class="img-responsive" href="{attach}2020-10-26-mi-super-articulo/chat.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2020-10-26-mi-super-articulo/chat.png" alt="VideoConferencia abril" width="325" height="250"></a>
+    <a class="img-responsive" href="{attach}2022-10-26-my_awesome_article/chat.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2022-10-26-my_awesome_article/chat.png" alt="Image description" width="325" height="250"></a>
 </center>
 ```
 
-6. Para probar tus cambios corre los siguientes comandos en terminal.
+6. To try your changes, run the following comands in terminal.
 
 ```bash
-# construir el sitio
+# build the site
 pelican content -o output -s pelicanconf.py
 
-# correr el sitio en server local
+# run the site in local server
 pelican -l -r
 
-# presiona ctrl+c para salir del server local
+#press ctrl+c to exit the local server
 ```
 
-7. Ya que esten listos es hora de hacer tu Pull Request (PR). Corre los siguientes comandos para publicar tu branch con tus cambios en Github.
+7. Once this is ready, it's time to create your Pull Request (PR). Run the following commands to publish your branch in GitHub with all the changes.
 
 ```bash
 git add .
@@ -91,22 +91,22 @@ git commit -m 'Mensage concreto de tus cambios'
 git push --set-upstream origin <nombre de tu branch>
 ```
 
-9. Ahora visita el [repositorio](https://github.com/GULAG/gulag.github.io) en github.com
+9. Now visit the [repository](https://github.com/GULAG/gulag.github.io) in github.com
 
-10. Tu branch debera aparecer junto a un boton que diga `comparar y crear PR` o `compare and create PR`. Dale click.
+10. Your branch should appear next to a button that says `compare and create PR`. Click on it.
 
-11. En la siguiente pagina llena el titulo y cuerpo con los datos de tu articulo.
+11. On the next page fill in the title and body with the basic information from your article.
 
-- Ejemplo:
+- Example:
 
 ```
-Title: Articulo | <Nombre de articulo>
+Title: Article | <Your article name>
 ```
 
-12. En el cuerpo de la PR explica los cambios que realizaste.
+12. In the body of the PR explain the changes you made.
 
-13. Agrega el label / etiqueta de `enchancement` a tu PR para que cuente. En `reviewers` agrega a GULAG/Publicadores
+13. Add the label / tag of `enhancement` to your PR so it counts. In `reviewers` add GULAG/Publicadores
 
-14. Dale click al boton `crear PR` / `Create PR`. Eso lanzara el proceso de CI del sitio. Si pasa los checks, felicidades! Tu PR estara lista para hacer `merge`. Espera la revision de alguien del equipo.
+14. Click the button `Create PR`. This will launch the CI process on the site. If it clears all the checks, congratulations! Your PR will be ready to `merge`. Wait for someone on the team to review it.
 
-15. Si no paso el check de CI. No te preocupes. Revisa el log y trata de nuevo. Manda un comentario y te ayudaremos.
+15. If it didn't clear the CI check, don't worry. Go through the log and try again. Add a comment and we will help you.
