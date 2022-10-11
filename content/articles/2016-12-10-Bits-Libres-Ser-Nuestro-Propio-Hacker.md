@@ -1,9 +1,8 @@
-Bits Libres - Ser nuestros propios Hackers
-==================================
-
-Fecha: 2016-12-10 10:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Ser nuestros propios Hackers
+Date: 2016-12-10 10:00
+Author: Chico
+Category: Blog
+Tags: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en diciembre del 2016_
 
