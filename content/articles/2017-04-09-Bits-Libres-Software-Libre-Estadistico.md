@@ -1,9 +1,8 @@
-Bits Libres - Software Libre estadístico
-==================================
-
-Fecha: 2017-04-09 11:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Software Libre estadístico
+Date: 2017-04-09 11:00
+Author: Chico
+Category: Blog
+Tags: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en abril del 2017_
 
