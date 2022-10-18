@@ -1,9 +1,8 @@
-Actualización de Reunión febrero 2017
-==================================
-
-Fecha: 2017-02-11 13:00
-Autor:  Chico
-Categorías: Junta Ordinaria
+Title: Actualización de Reunión febrero 2017
+Date: 2017-02-11 13:00
+Author:  Chico
+Category: Blog
+Tags: Junta Ordinaria
 
 Debido a cuestiones ajenas a nosotros, la charla sobre _Docker_ se pospone; en su lugar se dará el tema de
 
@@ -12,7 +11,7 @@ Debido a cuestiones ajenas a nosotros, la charla sobre _Docker_ se pospone; en s
 <br />
 
 <center>
-<a class="img-responsive" href="2017-02-11-actuaizacion-reunion-febrero/Retropie.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-02-11-actuaizacion-reunion-febrero/Retropie.png" alt="Retropie" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2017-02-11-actuaizacion-reunion-febrero/Retropie.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2017-02-11-actuaizacion-reunion-febrero/Retropie.png" alt="Retropie" width="325" height="250"></a>
 </center>
 
 <br />
