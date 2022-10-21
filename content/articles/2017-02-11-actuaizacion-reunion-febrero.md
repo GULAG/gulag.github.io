@@ -1,7 +1,7 @@
 Title: Actualización de Reunión febrero 2017
 Date: 2017-02-11 13:00
 Author:  Chico
-Category: Blog
+Category: Juntas
 Tags: Junta Ordinaria
 
 Debido a cuestiones ajenas a nosotros, la charla sobre _Docker_ se pospone; en su lugar se dará el tema de

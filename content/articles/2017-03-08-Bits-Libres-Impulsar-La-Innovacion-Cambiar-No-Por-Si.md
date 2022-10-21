@@ -1,10 +1,10 @@
 Title: Bits Libres - Impulsar la Innovación (y II): Cambiar el “no” por “¿qué tal si...?”
 Date: 2017-03-08 11:00
 Author: Chico
-Category: Blog
+Category: Revista
 Tags: Revista
 
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en marzo del 2017_
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](https://periodicoentretodos.mx/version-impresa/), en marzo del 2017_
 
 <!-- break -->
 
