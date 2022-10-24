@@ -1,14 +1,13 @@
-Invitación a Reunión enero 2017
-==================================
-
-Fecha: 2017-01-10 13:30
-Autor:  Chico
-Categorías: Junta Ordinaria
+Ttiel: Invitación a Reunión enero 2017
+Date: 2017-01-10 13:30
+Author: Chico
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __14 de enero__ en las instalaciones de __Arkebit a las 5:00 pm__.
 
 <center>
-<a class="img-responsive" href="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="Reunión ordinaria" width="325" height="250"></a>
+<a class="img-responsive" href="{attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="{attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="Reunión ordinaria" width="325" height="250"></a>
 </center>
 
 <!-- break -->
