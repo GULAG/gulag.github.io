@@ -1,8 +1,8 @@
 Title: Invitación a Reunión febrero 2017
 Date: 2017-02-08 17:00
 Author: Chico
-Category: Junta Ordinaria
-Tag: Juntas
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __11 de febrero__ en las instalaciones de __Arkebit a las 6:00 pm__.
 
