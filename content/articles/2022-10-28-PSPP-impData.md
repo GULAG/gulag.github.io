@@ -29,7 +29,7 @@ Para importar, PSPP no reconoce los archivos de MS-excel, se recomienda abrirlos
 
 Los archivos que mejor importa son ODS (hoja electrónica formato abierto), no hay problema por usar la primer línea de datos como nombre de variables en este tipo de archivos.
 
-Usaremos un archivo en ods ( https://app.box.com/s/bzjlmaunae8wj476ple41e78117eipoi)con datos hipotéticos para utilizarlos de ejemplo en nuestro gnu PSPP y realizar una pequeña práctica de importación de datos. Archivo en csv clic para visualizar y descargar ( https://app.box.com/s/mu08surd56r5pz0uq84cmmpt79mm48m0 ). Ambos archivos contienen los mismos datos y se pueden descargar para practicar.
+Usaremos un archivo en ods ( https://app.box.com/s/bzjlmaunae8wj476ple41e78117eipoi )con datos hipotéticos para utilizarlos de ejemplo en nuestro gnu PSPP y realizar una pequeña práctica de importación de datos. Archivo en csv clic para visualizar y descargar ( https://app.box.com/s/mu08surd56r5pz0uq84cmmpt79mm48m0 ). Ambos archivos contienen los mismos datos y se pueden descargar para practicar.
  
 La forma de importar datos es muy similar en archivos de texto csv y de formato abierto como ods. 
 
