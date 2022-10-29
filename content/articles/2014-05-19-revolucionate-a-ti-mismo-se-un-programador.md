@@ -16,7 +16,7 @@ En este tiempo, la edad dorada de la informática, vemos que ya es un hecho que 
 
 Así que, en mi ámbito familiar, motivé a mi hija a que tomara un [curso en línea de programación en Ruby](http://www.codecademy.com/). Ocurre que como todo adolescente, inmerso en la modernidad celular/tablet/internet ella tiene grandes habilidades para manejar estos dispositivos y el internet. Pero es escaso su interés en la programación, aunado a ello, **en su escuela secundaria es un tema que no se ve o se toca muy superficialmente**.
 
-Así que, para que _camine el burro_ se tiene que poner _una zanahoria por delate_. Un estímulo económico por completar el curso en [Codecademy](http://www.codecademy.com/).
+Así que, para que _camine el burro_ se tiene que poner _una zanahoria por delante_. Un estímulo económico por completar el curso en [Codecademy](http://www.codecademy.com/).
 
 Cuando yo tenía su edad fue cuando empecé a programar BASIC en una [Timex Sinclair 1000](https://en.wikipedia.org/wiki/Timex_Sinclair_1000) y vaya que lo disfruté. **Lo que en aquel entonces fue mi pasatiempo ahora es mi profesión.**
 
