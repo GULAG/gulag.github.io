@@ -55,3 +55,52 @@ Para las __variables cuantitativas (EDAD PES0)__ se genera la tabla de frecuenci
 En la opción de __Analizar->Estadística descriptiva->Descriptivos__ solo aparecen las variables o atributos cuantitativos, con el cálculo de algunos estadísticos muy similares a los obtenidos en la opción de Frecuencias, dando la opción del cálculo considerando valores perdidos o no y la opción de calcular los valores de puntos Z de la normal.
 
 El reporte generado en la ventana de objetivo se puede guardar en un archivo PDF, tal como fue generado, con la salvedad de que se genera una página por tabla o por imagen. Y para guardarse en formato para procesador de texto solo se guardan los valores numéricos en tablas. Con el archivo de texto, podemos guadar la sintaxis y ejecutarla desde el menú __Archivo->Nuevo->Sintaxis__. Ahí lo copiamos y lo ejecutamos.
+
+## Frecuencias acumuladas
+
+En el ejercico anterior utilizamos la opción de analizar frecuencias, pero en la variable __PESO__ prácticamente no hay  repetición en los datos, por lo que la frecuencia es 1 y la gráfica de barras se presenta sin ninguna tendencia y la circular muestra una sección para cada dato. Para evitar esto, generaremos una tabla de __Frecuencias acumuladas__.
+PSPP no genera esta tabla, hay que construirla. Para ello tomamos el valor mayor y menor de la variable a acumular (__PESO__) y calculamos el número de rangos a utilizar. Para este ejemplo usaremos un incremento de 5, en 5.
+
+### Definiendo la tabla
+
+Utilizaremos la opción de __Transforar->Recodificar en Variables Diferentes__ , se abre un cuadro de diálogo donde incluiremos los valores. Seleccionamos la variable __PESO__  y luego damos clic en Valores de salida y escribimos el nombre de la nueva variable y clic en __Cambio__, y luego en __Valores anteriores y nuevos__, seleccionamos el botón de Rango, escribimos el valor mínimo y máximo de cada rango y en nuevo valor el valor medio del rango, que es con el que PSPP va a calcular un nuevo análisis.
+
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="{attach}2022-10-30-PSPP-practica/04recodificar.png" alt="PSPP" width="65" height="50">
+</center>
+
+Una vez completado todos los rangos que abarquen desde el valor mínimo al máximo damos __Continuar__, el proceso lo podemos repetir para varias variables, una vez concluido, damos __OK__ y se genera una nueva columna con la nueva variable, y hacemos un nuevo análisis descritivo de frecuencias y veremos la diferencia.
+
+##Ejemplo de sistaxis
+
+Les comparto un fragmento de un archivo de sintaxis, que pueden ejecutar desde PSPP, para que abra el archivo __Datos.sav__ y lo ejecute desde el menú __Archivo->Nuevo->Sintaxis__
+
+GET FILE="/home/usuario/Datos.sav".
+
+FREQUENCIES
+	/VARIABLES= EDAD PESO TALLA SEXO
+	/FORMAT=AVALUE TABLE
+	/PIECHART= NOMISSING
+	/BARCHART=.
+
+  
+RECODE  PESO
+	(49.5 THRU 54.49 = 52) (54.5 THRU 59.49 = 57) (64.5 THRU 69.495 = 67) (59.5
+THRU 64.495 = 62) (69.5 THRU 74.495 = 72) (74.5 THRU 79.495 = 77) (79.5 THRU
+84.495 = 82) (84.5 THRU 89.495 = 87)
+	INTO PesoAcum .
+
+EXECUTE.
+
+FREQUENCIES
+	/VARIABLES= PesoAcum
+	/FORMAT=AVALUE TABLE
+	/PIECHART= NOMISSING
+	/BARCHART=.
+
+
+
+
+
+
+
