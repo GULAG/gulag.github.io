@@ -1,0 +1,26 @@
+<nav id="navigationBase" class="navbar navbar-expand-sm fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="{{ SITEURL }}/"><i class="fa fa-home"></i></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigationCollapse" aria-controls="navigationCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fas fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navigationCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+                <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/category/eventos.html">Eventos</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/category/juntas.html">Juntas</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/category/revista.html">Revista</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/category/articulos.html">Artículos</a></li>
+            </ul>
+            <ul class="navbar-nav">
+                <li><a class="mx-2" href="https://twitter.com/gulagmexico/" target="_blank"><i class="fab fa-twitter-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://www.facebook.com/groups/282427405174957/" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://github.com/gulag" target="_blank"><i class="fab fa-github-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ" target="_blank"><i class="fab fa-telegram fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g" target="_blank"><i class="fab fa-youtube-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://fosstodon.org/@gulagmexico" target="_blank"><i class="fab fa-mastodon fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://www.instagram.com/gulagmexico" target="_blank"><i class="fab fa-instagram-square fa-2x"></i></a></li>
+                {% if FEED_ALL_RSS -%}<li><a class="mx-2" href="{{ SITEURL }}/{{ FEED_ALL_RSS }}"><i class="fa fa-rss-square fa-2x"></i></a></li>{%- endif %}
+            </ul>
+        </div>
+    </div>
+</nav>

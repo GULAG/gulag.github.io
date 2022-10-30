@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content="Pelican Static Site Generator, Powered by Python" />
+    {% block meta_tags %}{% endblock %}
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/favicon.ico" />
+    <link rel="icon" href="{{ SITEURL }}/theme/images/icon-hires.png" sizes="192x192" />
+    <link rel="icon" href="{{ SITEURL }}/theme/images/icon-normal.png" sizes="128x128" />
+    <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon-76x76.png" sizes="76x76" />
+    <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon-120x120.png" sizes="120x120" />
+    <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon-152x152.png" sizes="152x152" />
+    <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/images/apple-touch-icon-180x180.png" sizes="180x180" />
+    {% if FEED_ALL_RSS %}<link rel="alternate" href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" title="{{ SITENAME }} Full RSS Feed" />{% endif %}
+    {% if USE_REMOTE_SERVICES %}<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74263253-1"></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-74263253-1'); </script>{% endif %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" />
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/gulag.css" />
+{% if article %}
+    {% if article.stylesheets %}
+        {% for stylesheet in article.stylesheets %}
+{{ stylesheet }}
+        {% endfor %}
+    {% endif %}
+{% endif %}
+</head>
+<body>
+    {% include 'navigation.html' %}
+    {% include 'header.html' %}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                {% block content %}{% endblock %}
+            </div>
+            <div class="col-lg-4">
+                <aside>
+                    {% include 'aside-about.html' %}
+                    {% include 'aside-tags.html' %}
+                </aside>
+            </div>
+        </div>
+    </div>
+    {% include 'footer.html' %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.min.js" integrity="sha512-OvBgP9A2JBgiRad/mM36mkzXSXaJE9BEIENnVEmeZdITvwT09xnxLtT4twkCa8m/loMbPHsvPl0T8lRGVBwjlQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="{{ SITEURL }}/theme/js/navigation.js"></script>
+{% if article %}
+    {% if article.javascripts %}
+        {% for javascript in article.javascripts %}
+{{ javascript }}
+        {% endfor %}
+    {% endif %}
+{% endif %}
+</body>
+</html>

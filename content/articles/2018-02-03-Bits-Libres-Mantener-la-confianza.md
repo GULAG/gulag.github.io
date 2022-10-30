@@ -1,13 +1,10 @@
-Bits Libres - Mantener la confianza
-==================================
-
-Fecha: 2018-02-03 19:50
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Mantener la confianza
+Date: 2018-02-03 19:50
+Author: Chico
+Category: Revista
+Tags: Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en febrero del 2018_
-
-<!-- break -->
 
 ### Mantener la confianza
 

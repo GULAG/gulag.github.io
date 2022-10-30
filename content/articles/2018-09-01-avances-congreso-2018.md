@@ -1,12 +1,10 @@
-Próximamente: Congreso 2018
-==================================
-
-Fecha: 2018-09-01 10:00
-Autor:  Chico
-Categorías: Eventos, Congreso
+Title: Próximamente: Congreso 2018
+Date: 2018-09-01 10:00
+Author:  Chico
+Category: Eventos
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/logoTecInstituto_new.png" alt="Sede Congreso 2018" width="325" height="250">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/logoTecInstituto_new.png" alt="Sede Congreso 2018" width="325" height="250">
 </center>
 
 <br />
@@ -46,9 +44,9 @@ Los esperamos :-D
 <br />
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/Patrocinadores.png" alt="Patrocinadores" width="325" height="250">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/Patrocinadores.png" alt="Patrocinadores" width="325" height="250">
 </center>
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2018-09-07-congreso/Patrocinadores2.png" alt="Más patrocinadores" width="325" height="250">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/Patrocinadores2.png" alt="Más patrocinadores" width="325" height="250">
 </center>

@@ -1,7 +1,7 @@
 Title: "Demostración de Programas Multimedia" en el SINASCI 2008
 Date: 2008-10-27 23:00
 Author: guivaloz
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![SINASCI 1]({attach}2008-10-23-tec-lerdo-sinasci-4/tec-lerdo-sinasci-1-small.jpg)]({attach}2008-10-23-tec-lerdo-sinasci-4/tec-lerdo-sinasci-1.jpg)

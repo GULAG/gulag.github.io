@@ -1,7 +1,7 @@
 Title: Plática "Software Libre" en la U.A. de C.
 Date: 2008-03-13 18:00
 Author: zerialkiller
-Category: Conferencia
+Category: Eventos
 Tags: Conferencia
 
 [![SL en UAdeC 1]({attach}2008-03-07-uac-software-libre/dsc00834-small.jpg)]({attach}2008-03-07-uac-software-libre/dsc00834.jpg)

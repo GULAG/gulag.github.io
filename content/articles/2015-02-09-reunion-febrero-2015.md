@@ -2,7 +2,7 @@ Title: Reunión ordinaria - Febrero 2015
 Slug: 2015-02-09-reunion-febrero-2015
 Date: 2015-02-14 16:00
 Author: Chico
-Category: Junta
+Category: Juntas
 Tags: Junta Ordinaria
 
 

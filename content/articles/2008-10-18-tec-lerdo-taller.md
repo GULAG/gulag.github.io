@@ -1,7 +1,7 @@
 Title: "Taller de creación de multimedia con S.L." en el Tec de Lerdo
 Date: 2008-10-27 18:00
 Author: RIVE
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![taller multimedia 1]({attach}2008-10-18-tec-lerdo-taller/taller-tec-lerdo-1-small.jpg)]({attach}2008-10-18-tec-lerdo-taller/taller-tec-lerdo-1.jpg)

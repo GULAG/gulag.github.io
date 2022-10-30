@@ -1,7 +1,7 @@
 Title: "Software Libre" en el 35 Aniversario del CBTiS 4
 Date: 2008-11-04 19:00
 Author: guivaloz
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 [![cbtis4-1]({attach}2008-10-28-cbtis4-aniversario/cbtis4-1-small.jpg)]({attach}2008-10-28-cbtis4-aniversario/cbtis4-1.jpg)

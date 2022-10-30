@@ -1,7 +1,7 @@
 Title: XVI Semana Académica UAdeC
 Date: 2006-11-13 23:00
 Author: m77
-Category: Conferencias
+Category: Eventos
 Tags: Conferencias
 
 Agenda durante la __XVI Semana Académica "Un encuentro dinámico con tu entorno" en la U.A. de C.__:

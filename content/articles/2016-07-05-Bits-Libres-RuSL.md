@@ -1,9 +1,8 @@
-Bits Libres - Ranking de universidades en Software Libre
-==================================
-
-Fecha: 2016-07-05 23:30
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - Ranking de universidades en Software Libre
+Date: 2016-07-05 23:30
+Author: Chico
+Category: Revista
+Tags: Bits Libres, Revista
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en julio del 2016_
 

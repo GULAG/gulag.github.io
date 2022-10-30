@@ -1,7 +1,7 @@
 Title: FLISOL 2011 Reseña
 Date: 2011-04-12 12:00
 Author: guivaloz
-Category: Install Fest, FLISOL
+Category: Eventos
 Tags: Install Fest, FLISOL
 
 [![flisol 2011-01]({attach}2011-04-09-flisol/flisol-laguna-2011-22-small.jpg)]({attach}2011-04-09-flisol/flisol-laguna-2011-22.jpg)

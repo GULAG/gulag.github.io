@@ -1,7 +1,7 @@
 Title: Reunión de marzo 2019: Rumbo al FLISOL
 Date: 2019-03-10 13:00
 Author:  Chico
-Category: Junta Ordinaria
+Category: Juntas
 Tags: junta, ordinaria
 
 El pasado 9 de marzo realizamos nuestra reunión mensual en las instalaciones de la [Universidad Autónoma de La Laguna](http://www.ual.mx/): __Sí, regresamos a [casa](https://www.openstreetmap.org/?mlat=25.57731&mlon=-103.43154#map=17/25.57731/-103.43154).__ 

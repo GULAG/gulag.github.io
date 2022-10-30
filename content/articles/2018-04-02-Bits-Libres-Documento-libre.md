@@ -1,11 +1,9 @@
-Bits Libres - Documento libre
-==================================
+Title: Bits Libres - Documento libre
+Data: 2018-04-02 19:50
+Author: Chico
+Category: Revista
 
-Fecha: 2018-04-02 19:50
-Autor: Chico
-Categorías: Revista
-
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en abril del 2018_
+_Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en abril del 2018_
 
 <!-- break -->
 

@@ -22,7 +22,7 @@ jobs:
         pip install -r requirements.txt
     - name: Install theme
       run: |
-        pelican-themes -i pelican-themes/bootstrap2-dark
+        pelican-themes -i pelican-themes/bs5
     - name: Build site
       run: |
         pelican content -o output -s pelicanconf.py

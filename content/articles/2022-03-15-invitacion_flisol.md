@@ -1,7 +1,7 @@
 Title: Invitación al FLISOL 2022
 Date: 2022-03-15 21:00
 Author: Chico
-Category: Flisol
+Category: Eventos
 Tags: Eventos, Install Fest, FLISOL, Flisol
 
 [![Logo Flisol 2021]({attach}2021-03-19-invitacion_flisol/flisol-libre-software-logo.jpg)]({attach}2021-03-19-invitacion_flisol/flisol-libre-software-logo.jpg)

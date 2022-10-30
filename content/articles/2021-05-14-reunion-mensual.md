@@ -1,7 +1,7 @@
 Title: Reunion Mensual de Mayo 2021
 Date: 2021-05-14 20:00
 Author: Don Aletz
-Category: Junta
+Category: Juntas
 Tags: Junta-Ordinaria
 
 Temas a tratar

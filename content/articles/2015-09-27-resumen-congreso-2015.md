@@ -2,7 +2,7 @@ Title: Resumen del Congreso de Software Libre 2015
 Slug: 2015-09-27-resumen-congreso-2015
 Date: 2015-09-27 12:40
 Author: Chico
-Category: Evento
+Category: Eventos
 Tags: Eventos, Congreso
 
 

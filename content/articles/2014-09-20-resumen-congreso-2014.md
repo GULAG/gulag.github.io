@@ -2,7 +2,7 @@ Title: Resumen del Congreso de Software Libre 2014
 Slug: 2014-09-20-resumen-congreso-2014
 Date: 2014-09-20 22:00
 Author: Chico
-Category: Evento
+Category: Eventos
 Tags: Eventos, Congreso
 
 

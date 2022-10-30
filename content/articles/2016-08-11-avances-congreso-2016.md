@@ -1,14 +1,13 @@
-Próximamente: Congreso 2016
-==================================
-
-Fecha: 2016-08-11 10:00
-Autor:  Chico
-Categorías: Eventos, Congreso
+Title: Próximamente: Congreso 2016
+Date: 2016-08-11 10:00
+Author:  Chico
+Category: Eventos
+Tags: Eventos, Congreso, Talleres, Conferencias
 
 Sede, conferencias y talleres estan listos para el Congreso 2016.
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2016-08-11-avances-congreso-2016/LogoTecVertical-03.png" alt="Sede Congreso 2016" width="325" height="250">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2016-08-11-avances-congreso-2016/LogoTecVertical-03.png" alt="Sede Congreso 2016" width="325" height="250">
 </center>
 
 <!-- break -->
