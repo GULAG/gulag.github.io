@@ -1,9 +1,8 @@
-Bits Libres - [Re] Conociendo nuestros derechos: Derecho a la privacidad
-==================================
-
-Fecha: 2017-05-03 13:00
-Autor: Chico
-Categorías: Revista
+Title: Bits Libres - [Re] Conociendo nuestros derechos: Derecho a la privacidad
+Date: 2017-05-03 13:00
+Author: Chico
+Category: Revista
+Tags: Bits Libres, Revista, Articulo
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en mayo del 2017_
 

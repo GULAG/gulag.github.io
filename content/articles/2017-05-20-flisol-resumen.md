@@ -1,9 +1,8 @@
-Resumen FLISOL 2017
-===========
-
-Fecha: 2017-05-20 10:00
-Autor: guabyboy
-Categorías: SoftwareLibre, Flisol
+Title: Resumen FLISOL 2017
+Date: 2017-05-20 10:00
+Author: guabyboy
+Category: Flisol
+Tags: FLISOL, SoftwareLibre
 
 El pasado sábado 13 de mayo, se llevó a cabo el Festival Latinoamericano de Instalación de Software Libre (FLISOL) 2017, en las instalaciones de la Facultad de Ingeniería, Ciencias y Arquitetura de la Universidad Juárez del Estado de Durango, UJED; festival que se realizó por primera vez en la ciudad de Gómez Palacio. Con este año, GULAG lo ha realizado ininterrumpidamente desde el año 2007.
 
@@ -14,7 +13,7 @@ Se contó con la participación de alumnos de la carrera de Ingeniería de Siste
 En esta ocasión se impartieron dos charlas previas al festival; la primera a cargo del CP Gabriel Peña, guabyboy, con el tema "Software Libre en tu Empresa", en la que se tocaron temas como el costo de las licencias privativas, los retos y oportunidades futuras por el posible endurecimiento hacia el uso de software privativo con licencias ilegales y las limitantes actuales que el mismo gobierno establece para el uso del Software Libre y en especial, la limitante hacia GNU/Linux.
 
 <center>
-<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2017-05-20-flisol-resumen/01-flisol.jpg" alt="guabyboy" width="65" height="50">
+<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2017-05-20-flisol-resumen/01-flisol.jpg" alt="guabyboy" width="65" height="50">
 </center>
 
 <br />
@@ -24,7 +23,7 @@ La segunda plática impartida muy a su estilo por el LIc. Antonio Gurza, zerialk
 También tocó el tema de WANNACRY, lo que pone de  manifiesto su actualización constante en temas de seguridad informática.
 
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2017-05-20-flisol-resumen/03-flisol.jpg" alt="ZK" width="65" height="50">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2017-05-20-flisol-resumen/03-flisol.jpg" alt="ZK" width="65" height="50">
 </center>
 
 <br />
@@ -38,7 +37,7 @@ Siempre se aprende algo nuevo, en esta ocasión al instalar un GNU/Linux Lubuntu
 Al final del evento, como es costumbre, se procedió a un pequeño convivio.
 
 <center>
-<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2017-05-20-flisol-resumen/05-flisol.jpg" alt="Final" width="65" height="50">
+<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2017-05-20-flisol-resumen/05-flisol.jpg" alt="Final" width="65" height="50">
 </center> 
 
 
