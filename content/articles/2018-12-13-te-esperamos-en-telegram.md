@@ -1,7 +1,7 @@
 Title: Te esperamos en Telegram
 Date: 2018-12-13 18:00
 Author:  Chico
-Category: Eventos
+Category: Artículos
 Tags: Telegram
 
 <center>

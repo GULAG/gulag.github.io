@@ -1,7 +1,7 @@
 Title: Actualizar Debian 8 a Debian 9 stretch
 Date: 2018-08-01 10:00
 Author: guabyboy
-Category: Eventos
+Category: Artículos
 Tags: Debian
 
 <center>
