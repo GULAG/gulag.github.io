@@ -5,10 +5,9 @@ Category: Eventos
 Tags: Telegram, Contacto
 
 <center>
-
-![Telegram](2018-12-13-te-esperamos-en-telegram/Telegram_logo.png)
-
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-12-13-te-esperamos-en-telegram/Telegram_logo.png" alt="Telegram" width="250" height="325">
 </center>
+
 
 # ¡¡¡ Te Esperamos En Nuestro Grupo de TELEGRAM !!!
 
