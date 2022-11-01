@@ -3,7 +3,7 @@ Slug: 2013-06-14-stallman-en-torreon-resumen
 Date: 2013-06-14 18:54
 Author: Chico
 Category: Eventos
-Tags: Richard Stallman, rms
+Tags: Richard Stallman
 
 
 <img class="img-fluid" src="2013-06-01-richard-stallman-en-torreon/Congreso2013.jpeg" alt="poster Congreso 2013" width="425" height="350">

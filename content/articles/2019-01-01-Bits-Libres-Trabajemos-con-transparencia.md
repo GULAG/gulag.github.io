@@ -2,7 +2,7 @@ Title: Bits Libres - Trabajemos con transparencia
 Date: 2019-01-01 8:00
 Author: Chico evaldivi
 Category: Revista
-Tags: Transparencia, Software Libre
+Tags: Bits Libres, Datos Abiertos
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en enero del 2019_
 

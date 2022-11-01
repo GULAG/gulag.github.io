@@ -2,7 +2,7 @@ Title: Q&A en Creative Commons
 Date: 2021-07-16 20:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 En ésta ocasión tuvimos como invitados a __[Salvador Alcántar Morán](https://twitter.com/salvador_alc)__ y a __[José María Serralde Ruiz](https://twitter.com/joseserralde)__, ambos de __[Creative Commons México](https://twitter.com/ccmx)__, quienes respondieron preguntas de realcionadas con el tema de licenciamientos.
 

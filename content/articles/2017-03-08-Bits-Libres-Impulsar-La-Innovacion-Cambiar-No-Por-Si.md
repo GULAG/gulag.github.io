@@ -2,7 +2,7 @@ Title: Bits Libres - Impulsar la Innovación (y II): Cambiar el “no” por “
 Date: 2017-03-08 11:00
 Author: Chico
 Category: Revista
-Tags: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](https://periodicoentretodos.mx/version-impresa/), en marzo del 2017_
 

@@ -2,7 +2,7 @@ Title: Reunión de octubre 2021
 Date: 2021-10-05 19:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias, Hacktoberfest
 
 Como ya es tradición, el segundo viernes del mes tendremos nuestra reunión ordinaria, por videoconferencia.
 

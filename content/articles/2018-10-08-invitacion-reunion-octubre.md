@@ -2,7 +2,7 @@ Title: Invitación a reunión octubre 2018
 date: 2018-10-08 16:00
 Author:  Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __13 de octubre__, a las 16:00 horas, en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 

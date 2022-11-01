@@ -2,7 +2,7 @@ Title: PSPP Software estadístico - Práctica
 Date: 2022-10-30 10:00
 Author: guabyboy
 Category: Artículos
-Tags: PSPP, Educación, Artículos
+Tags: PSPP
 # Práctica en PSPP
 
 <center>

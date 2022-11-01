@@ -2,6 +2,7 @@ Title: Bits Libres - Datos personales por un peso
 Date: 2018-03-04 19:50
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en marzo del 2018_
 

@@ -2,7 +2,7 @@ Title: Bits Libres - Festejando con los amigos
 Date: 2019-09-01 11:00
 Author: Chico
 Category: Revista
-Tags: Revista
+Tags: Bits Libres
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en septiembre del 2019_
 

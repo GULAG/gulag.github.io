@@ -1,7 +1,8 @@
 Title: Resumen de Reunión noviembre 2017
 Date: 2017-11-13 14:30
 Author: krh3rtz
-Category: Junta Ordinaria
+Category: Juntas
+Tags: Juntas Ordinarias, Python
 
 Resumen de la reunión ordinaria que se celebró el __11 de noviembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __Biblioteca "José García de Letona"__ ubicada en la __Alameda Zaragoza__.
 

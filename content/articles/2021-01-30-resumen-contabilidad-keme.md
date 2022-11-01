@@ -2,7 +2,7 @@ Title: Resumen del Taller de Contabilidad en KEME
 Date: 2021-01-30 17:00
 Author: guabyboy
 Category: Eventos
-Tags: Taller, Contabilidad, KEME
+Tags: Talleres, Contabilidad, KEME
 
 [![poster KEME]({attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png)]({attach}2021-01-21-taller-contabilidad-keme/PosterContaGulag2021.png)
 

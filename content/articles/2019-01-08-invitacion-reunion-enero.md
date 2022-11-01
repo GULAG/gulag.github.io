@@ -1,8 +1,8 @@
 Title: Invitación a reunión enero 2019
 Date: 2019-01-08 14:00
 Author: Chico
-Category: Junta
-Tags: Junta-Ordinaria
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12 de enero__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 

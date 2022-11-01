@@ -2,6 +2,7 @@ Title: Bits Libres - Compartiendo lo mejor de nosotros
 Date: 2018-12-01 8:00
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en diciembre del 2018_
 

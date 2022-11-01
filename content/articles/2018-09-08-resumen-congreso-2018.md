@@ -2,6 +2,7 @@ Title: Resumen del Congreso de Software Libre 2018
 Date: 2018-09-08 03:40
 Author: Chico
 Category: Eventos
+Tags: Congresos
 
 <center>
 <img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/GULAG-Congreso-2018-Poster.png" alt="Poster Congreso 2018" width="250" height="325">

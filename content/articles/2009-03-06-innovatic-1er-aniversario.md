@@ -2,7 +2,7 @@ Title: InnovaTIC 1er Aniversario
 Date: 2009-03-06 09:00
 Author: guivaloz
 Category: Eventos
-Tags: Conferencia
+Tags: Conferencias
 
 [InnovaTIC](http://www.innovatic.org.mx) es un grupo de personas interesadas en la Innovación Colaborativa en el tema de TIC's, donde el GULAG está representado con Guillermo Valdés (guivaloz), el cual está cumpliendo un año de haberse integrado como una RED de Trabajo.
 

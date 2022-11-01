@@ -2,7 +2,7 @@ Title: Invitación a Reunión marzo 2017
 Date: 2017-03-02 11:00
 Author:  Chico
 Category: Juntas
-Tags: Junta Ordinaria
+Tags: Juntas Ordinarias, Python
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __11 de marzo__ en las instalaciones de __Arkebit a las 4:00 pm__.
 

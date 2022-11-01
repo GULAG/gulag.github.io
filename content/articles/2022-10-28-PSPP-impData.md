@@ -2,7 +2,7 @@ Title: PSPP Software estadístico - Importar Datos
 Date: 2022-10-28 10:00
 Author: guabyboy
 Category: Artículos
-Tags: PSPP, Educación, Artículos
+Tags: PSPP
 
 
 # Importar datos con PSPP

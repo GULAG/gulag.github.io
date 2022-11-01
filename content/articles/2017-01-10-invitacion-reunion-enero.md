@@ -1,4 +1,4 @@
-Ttiel: Invitación a Reunión enero 2017
+Title: Invitación a Reunión enero 2017
 Date: 2017-01-10 13:30
 Author: Chico
 Category: Juntas

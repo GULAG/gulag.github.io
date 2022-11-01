@@ -2,7 +2,7 @@ Title: Sobre la sección Bytes Libres
 Date: 2014-05-17
 Author:  Chico
 Category: Revista
-Tags: Bytes Libres
+Tags: Bits Libres
 
 Desde éste año, 2014, los miembros del GULAG han empezado a escribir en la sección Bytes Libres en el periódico El Siglo de Torreón.
 

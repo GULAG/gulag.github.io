@@ -2,7 +2,7 @@ Title: Bits Libres - ¡Instalemos Software Libre!
 Date: 2021-04-01 8:00
 Author: Chico
 Category: Revista
-Tags: Install Fest, FLISOL, Flisol
+Tags: Bits Libres, Install Fest, FLISOL
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en abril del 2021_
 

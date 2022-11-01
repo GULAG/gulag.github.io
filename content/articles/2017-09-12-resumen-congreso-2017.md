@@ -2,7 +2,7 @@ Title: Resumen del Congreso de Software Libre 2017
 Date: 2017-09-12 03:40
 Author: Chico
 Category: Eventos
-Tags: Congreso
+Tags: Congresos
 
 Con motivo de un año más de aniversario del **Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)** se celebró el **Congreso de Software Libre** los días **8 y 9 de septiembre del 2017** en las instalaciones de la Universidad Politécnica de Gómez Palacio, en el estado de Durango.
 

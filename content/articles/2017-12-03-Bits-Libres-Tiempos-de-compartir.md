@@ -2,6 +2,7 @@ Title: Bits Libres - Tiempos de compartir
 Date: 2017-12-03 13:00
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en diciembre del 2017_
 

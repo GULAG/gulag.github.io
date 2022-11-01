@@ -2,7 +2,7 @@ Title: Reunión de febrero 2022
 Date: 2022-02-06 12:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 Como ya es tradición, el segundo viernes de cada mes tendremos nuestra reunión ordinaria a las __20:00 horas CDMX__, por videoconferencia.
 

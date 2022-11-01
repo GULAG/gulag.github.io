@@ -3,7 +3,7 @@ Slug: 2015-09-27-resumen-congreso-2015
 Date: 2015-09-27 12:40
 Author: Chico
 Category: Eventos
-Tags: Eventos, Congreso
+Tags: Congresos
 
 
 ![Poster Congreso 2015]({attach}2015-09-25-congreso-2015/gulag-congreso-2015-poster-small.jpg)

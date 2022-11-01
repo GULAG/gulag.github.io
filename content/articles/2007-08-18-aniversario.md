@@ -2,7 +2,7 @@ Title: Primer aniversario del Gulag
 Date: 2007-08-26 13:15
 Author: m77
 Category: Eventos
-Tags: Eventos, Congreso
+Tags: Congresos
 
 Ponencias muy interesantes, gran camaradería y una buenísima discada es parte de lo mucho que se vivió en el evento con motivo del __Primer Aniversario del Gulag__, realizado el sábado 18 de agosto en el [Instituto Tecnológico de La Laguna](http://www.itlalaguna.edu.mx)
 

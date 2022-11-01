@@ -2,7 +2,7 @@ Title: Reunión de abril 2019
 Date: 2019-04-12 13:00
 Author:  Chico
 Category: Juntas
-Tags: junta, ordinaria
+Tags: Juntas Ordinarias
 
 <img class="img-fluid" src="{attach}2016-10-16-invitacion-reunion-noviembre/LinuxParty.png" alt="logo flisol">
 

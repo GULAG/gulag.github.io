@@ -2,7 +2,7 @@ Title: Día Debian en la Comarca Lagunera
 Date: 2006-08-09 23:00
 Author: m77
 Category: Eventos
-Tags: Eventos, Debian Day
+Tags: Debian Day
 
 [![debday000]({attach}2006-08-19-debian-day/diadebian.jpg)]({attach}2006-08-19-debian-day/diadebian.jpg)
 

@@ -2,6 +2,7 @@ Title: Bits Libres - Sobre la Neutralidad de la Red
 Date: 2017-08-01 13:30
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en agosto del 2017_
 

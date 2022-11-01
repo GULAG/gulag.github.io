@@ -3,7 +3,7 @@ Slug: 2016-03-21-primer-analisis-de-datos-abiertos-en-seguridad-vial
 Date: 2016-03-21 14:00
 Author: guivaloz
 Category: Eventos
-Tags: Reuniones
+Tags: Datos Abiertos
 
 
 ### Red México Abierto

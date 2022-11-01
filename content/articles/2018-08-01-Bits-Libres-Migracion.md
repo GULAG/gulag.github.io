@@ -2,6 +2,7 @@ Title: Bits Libres - Migración
 Date: 2018-08-01 8:00
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en agosto del 2018_
 

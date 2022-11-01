@@ -2,7 +2,7 @@ Title: Reunión noviembre 2016
 Date: 2016-11-13 23:00
 Author: rperenr
 Category: Blog
-Tags: Junta Ordinaria
+Tags: Juntas Ordinarias
 
 El pasado sábado 12 de Noviembre en punto de las 18:00 horas, se llevó a cabo la reunión mensual ordinaria del GULAG en las instalaciones de Arkebit. Se contó con la presencia tanto de antiguos como de nuevos integrantes del grupo, todos con un gran ánimo por adquirir nuevos conocimientos y de aportar lo propio en materia de Software Libre.
 

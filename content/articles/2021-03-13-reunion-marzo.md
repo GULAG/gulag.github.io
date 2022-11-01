@@ -2,7 +2,7 @@ Title: Reunión marzo 2021
 Date: 2021-03-13 10:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 Como ya es tradición, el segundo sábado del mes, el 13 de marzo, tendremos nuestra reunión ordinaria, por videoconferencia.
 

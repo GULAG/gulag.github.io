@@ -2,7 +2,7 @@ Title: HacktoberFest 2022
 Date: 2022-10-08 13:30
 Author: Chico
 Category: Eventos
-Tags: Eventos, HacktoberFest
+Tags: Hacktoberfest
 
 [![Poster Congreso 2022]({attach}2022-10-08-HacktoberFest-2022/hackt2.png)]({attach}2022-10-08-HacktoberFest-2022/hackt1.png)
 

@@ -2,7 +2,7 @@ Title: Bits Libres - Software Libre estadístico
 Date: 2017-04-09 11:00
 Author: Chico
 Category: Revista
-Tags: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](https://periodicoentretodos.mx/version-impresa/), en abril del 2017_
 

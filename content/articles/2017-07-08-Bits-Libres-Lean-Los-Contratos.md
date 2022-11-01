@@ -2,6 +2,7 @@ Title: Bits Libres - Lean los contratos
 Date: 2017-07-08 23:40
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en julio del 2017_
 

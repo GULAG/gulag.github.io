@@ -2,7 +2,7 @@ Title: [Software+Hardware] Libre + Astronomía
 Date: 2017-10-09 23:40
 Author: Chico
 Category: Eventos
-Tags: Conferencias
+Tags: Congresos
 
 Con motivo de la celebración de la Semana Mundial del Espacio organizada en Gómez Palacio, Dgo., Osvaldo Salazar, representando al GULAG, impartió la conferencia _"[Software+Hardware] Libre + Astronomía"_ en el CONALEP de Gómez Palacio.
 

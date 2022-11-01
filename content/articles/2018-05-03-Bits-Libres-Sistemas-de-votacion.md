@@ -2,6 +2,7 @@ Title: Bits Libres - Sistemas de votación
 Date: 2018-05-03 8:00
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa), en mayo del 2018_
 
