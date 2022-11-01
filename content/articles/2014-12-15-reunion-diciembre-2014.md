@@ -3,7 +3,7 @@ Slug: 2014-12-15-reunion-diciembre-2014
 Date: 2014-12-15 12:00
 Category: Juntas
 Author:  Chico
-Tags: Junta Ordinaria
+Tags: Juntas Ordinarias
 
 
 El sábado 13 de diciembre se realizó la reunion ordinaria en Arkebit...

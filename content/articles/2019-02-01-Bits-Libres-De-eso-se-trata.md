@@ -2,7 +2,7 @@ Title: Bits Libres - De eso se trata
 Date: 2019-02-01 08:00
 Author: Chico
 Category: Blog
-Tags: Bits Libres, Revista
+Tags: Bits Libres
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en febrero del 2019_
 

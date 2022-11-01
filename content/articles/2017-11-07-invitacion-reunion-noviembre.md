@@ -2,6 +2,7 @@ Title: Invitación a Reunión noviembre 2017
 Date: 2017-11-07 17:00
 Author:  Chico
 Category: Juntas
+Tags: Juntas Ordinarias, Python
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __11 de noviembre__ en las instalaciones de la __Sala UNAM Virtual__ de la __Biblioteca "José García de Letona"__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 

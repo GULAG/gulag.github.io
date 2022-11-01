@@ -2,7 +2,7 @@ Title: Reunión de Julio 2021
 Date: 2021-07-09 20:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 Como ya es tradición, el segundo viernes del mes tuvimos nuestra reunión ordinaria, por videoconferencia.
 

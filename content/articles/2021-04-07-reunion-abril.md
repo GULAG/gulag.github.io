@@ -2,7 +2,7 @@ Title: Reunión abril 2021
 Date: 2021-04-07 17:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 A partir de hoy cambiaremos la hora y día de nuestra reunión mensual por videoconferencia, la cual será el __viernes 9 de abril__ a las __20:00 horas CDMX (UTC-5)__.
 

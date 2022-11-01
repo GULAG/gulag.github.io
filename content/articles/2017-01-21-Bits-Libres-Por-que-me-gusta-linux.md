@@ -2,7 +2,7 @@ Title: Bits Libres - ¿Por qué me gusta Linux?
 Date: 2017-01-21 20:00
 Author: Chico
 Category: Revista
-Tag: Revista
+Tag: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](https://periodicoentretodos.mx/version-impresa/), en enero del 2017_
 

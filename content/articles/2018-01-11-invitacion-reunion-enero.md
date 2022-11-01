@@ -1,8 +1,8 @@
 Title: Invitación a Reunión enero 2018
 Date: 2018-01-11 17:30
 Author: Chico
-Category: Junta Ordinaria
-Tags: Junta
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la primer reunión ordinaria que se celebraremos el __13 de enero__ en las instalaciones de __Arkebit__ (Pavorreal #49, colonia Provitec, entre División del norte y Vasconcelos) __a las 5:00 pm__.
 

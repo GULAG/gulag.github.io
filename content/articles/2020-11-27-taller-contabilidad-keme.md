@@ -2,7 +2,7 @@ Title: Taller de Contabilidad en KEME
 Date: 2020-11-27 17:00
 Author: guabyboy
 Category: Eventos
-Tags: Taller, Contabilidad, KEME
+Tags: Talleres, Contabilidad, KEME
 
 [![poster KEME]({attach}2020-11-27-taller-contabilidad-keme/posterKEME.png)]({attach}2020-11-27-taller-contabilidad-keme/posterKEME.png)
 

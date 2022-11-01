@@ -2,7 +2,7 @@ Title: Debian Day 2021
 Date: 2021-08-14 9:00
 Author: Chico
 Category: Eventos
-Tags: Eventos, Debian Day
+Tags: Debian Day
 
 [![Invitacion Debian Day 2021]({attach}2021-08-14-debianday/debian_day_2021.jpg)]({attach}2021-08-14-debianday/debian_day_2021.jpg)
 

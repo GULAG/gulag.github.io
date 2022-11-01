@@ -2,7 +2,7 @@ Title: Reunión de noviembre 2021
 Date: 2021-11-01 20:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias
 
 Como ya es tradición, el segundo viernes del mes tuvimos nuestra reunión ordinaria, por videoconferencia.
 

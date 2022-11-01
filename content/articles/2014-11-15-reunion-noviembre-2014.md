@@ -3,7 +3,7 @@ Slug: 2014-11-15-reunion-noviembre-2014
 Date: 2014-11-16 12:00
 Author: Chico
 Category: Juntas
-Tags: Junta Ordinaria, Markdown, Ruby, Jekyll
+Tags: Juntas Ordinarias, Markdown, Ruby, Jekyll
 
 
 El sábado 15 de noviembre se realizó la reunion ordinaria en Arkebit.

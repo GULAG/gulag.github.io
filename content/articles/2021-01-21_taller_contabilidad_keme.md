@@ -2,7 +2,7 @@ Title: Taller de Contabilidad en KEME enero 2021
 Date: 2021-01-21 21:00
 Author: guabyboy
 Category: Eventos
-Tags: Taller, Contabilidad, KEME
+Tags: Talleres, Contabilidad, KEME
 
 Nos es grato invitarlos a el curso en línea KEME-Contabilidad mismo que será impartido por nuestro amigo [Gabriel Peña](https://twitter.com/guabyboy).
 

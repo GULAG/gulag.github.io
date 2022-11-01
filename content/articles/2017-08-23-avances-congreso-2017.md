@@ -2,7 +2,7 @@ Title: Próximamente: Congreso 2017
 Date: 2017-08-23 23:00
 Author:  Chico
 Category: Eventos
-Tags: Congreso
+Tags: Congresos
 
 Sede, conferencias y talleres estan listos para el Congreso de Software Libre 2017.
 

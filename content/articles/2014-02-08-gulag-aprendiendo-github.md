@@ -3,7 +3,7 @@ Slug: 2014-02-08-gulag-aprendiendo-github
 Date: 2014-02-08 18:12
 Author: guivaloz
 Category: Juntas
-Tags: Taller, Junta Ordinaria, GitHub, Python
+Tags: Juntas Ordinarias, Git, Python
 
 
 En la junta de hoy se impartió un taller sobre GitHub y el CMS de Movimiento libre, además tuvimos la presencia de la comunidad de Python Laguna.

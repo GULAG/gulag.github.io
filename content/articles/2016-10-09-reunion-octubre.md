@@ -2,7 +2,7 @@ Title: Reunión octubre 2016
 Date: 2016-10-09 23:00
 Author:  Guabyboy
 Category: Juntas
-Tags: Junta
+Tags: Juntas Ordinarias
 
 El pasado sábado 8 de octubre, se efectuó la reunión mensual ordinaria del GULAG, en las instalaciones de Arkebit contando con la asistencia de un nutrido grupo de jóvenes quienes se manifestaron interesados en seguir asistiendo, aprendiendo y compartiendo la filosofía del Software Libre.
 

@@ -1,8 +1,8 @@
 Title: Invitación a Reunión febrero 2018
 Date: 2018-02-10 17:00
 Author:  guabyboy
-Category: Junta Ordinaria
-Tags: Junta
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __10 de febrero__ en las instalaciones de __Biblioteca municipal de la Alameda Zaragoza  a las 5:00 pm__.
 

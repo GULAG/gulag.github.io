@@ -2,7 +2,7 @@ Title: RESUMEN FLISOL 2020
 Date: 2020-05-10 16:00
 Author: Chico
 Category: Eventos
-Tags: Eventos, Install-Fest, FLISOL, Flisol
+Tags: Install Fest, FLISOL
 
 [![Logo Flisol 2020]({attach}2020-05-03-flisol/Flisol2020-Nube-transparente.png)]({attach}2020-05-03-flisol/Flisol2020-Nube-transparente.png)
 

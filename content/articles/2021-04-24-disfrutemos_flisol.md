@@ -2,7 +2,7 @@ Title: Disfrutemos del FLISOL 2021
 Date: 2021-04-24 1:00
 Author: Chico
 Category: Eventos
-Tags: Eventos, Install Fest, FLISOL, Flisol
+Tags: Install Fest, FLISOL
 
 Hoy, 24 de abril, iniciaremos el **[Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/FLISOL2021/Mexico/Torreon?highlight=%28%5CbCategoryCity%5Cb%29)** en modalidad **on line**.
 

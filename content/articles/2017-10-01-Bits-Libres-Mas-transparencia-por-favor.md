@@ -2,6 +2,7 @@ Title: Bits Libres - Más transparencia, por favor
 Date: 2017-10-01 13:30
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en octubre del 2017_
 

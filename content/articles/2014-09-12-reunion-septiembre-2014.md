@@ -3,7 +3,7 @@ Slug: 2014-09-12-reunion-septiembre-2014
 Date: 2014-09-12 12:00
 Author: Chico
 Category: Juntas
-Tags: Junta Ordinaria
+Tags: Juntas Ordinarias
 
 
 El sábado 13 de septiembre la reunion ordinaria, será en Gómez Palacio.

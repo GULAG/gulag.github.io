@@ -2,7 +2,7 @@ Title: Segundo Aniversario del Gulag & Software Freedom Day
 Date: 2008-09-27 22:00
 Author: mibito
 Category: Eventos
-Tags: Eventos, Congreso
+Tags: Congresos
 
 [![2o aniversario 1]({attach}2008-09-20-aniversario/SFD_2008_Spanish.png)](http://softwarefreedomday.org)
 

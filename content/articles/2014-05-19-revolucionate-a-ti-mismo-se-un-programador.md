@@ -2,7 +2,7 @@ Title: Sé un programador
 Date: 2014-05-19
 Author: guivaloz
 Category: Revista
-Tags: Transparencia, Software Libre, Programación
+Tags: Programación
 
 # Saber programar es conocer diferencia entre ver un reloj desde afuera y saber cómo funciona en su interior.
 

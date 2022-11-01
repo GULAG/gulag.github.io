@@ -2,7 +2,7 @@ Title: Resumen del Congreso de Software Libre 2016
 Date: 2016-09-25 23:00
 Author:  Chico
 Category: Eventos
-Tags: Congreso, Evento, Taller
+Tags: Congresos
 
 <a class="img-responsive" href="{attach}2016-09-23-congreso-2016/gulag-congreso-2016-poster.png"><img src="{attach}2016-09-23-congreso-2016/gulag-congreso-2016-poster-small.jpg" alt="Congreso Software Libre 2016"></a>
 

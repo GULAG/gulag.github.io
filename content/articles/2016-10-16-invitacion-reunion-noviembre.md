@@ -2,7 +2,7 @@ Title: Invitación a Reunión noviembre 2016 32
 Date: 2016-10-16 23:00
 Author:  Guabyboy
 Category: Blog
-Tags: Junta Ordinaria
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __12 de noviembre__ en las instalaciones de __Arkebit a las 6:00 pm__.
 

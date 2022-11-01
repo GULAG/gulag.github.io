@@ -2,6 +2,7 @@ Title: Próximamente: Congreso 2018
 Date: 2018-09-01 10:00
 Author:  Chico
 Category: Eventos
+Tags: Congresos
 
 <center>
 <img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2018-09-07-congreso/logoTecInstituto_new.png" alt="Sede Congreso 2018" width="325" height="250">

@@ -2,7 +2,7 @@ Title: Reunión: Una más...
 Date: 2021-01-23 18:28
 Author: Chico
 Category: Juntas
-Tags: Junta-Nada-Ordinaria
+Tags: Junta Nada Ordinaria
 
 No hemos dejado de reunirnos cada mes, pero existen momentos en que no podemos esperar treinta días.
 

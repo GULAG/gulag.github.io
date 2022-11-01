@@ -1,7 +1,8 @@
 Title: Invitación a Reunión diciembre 2017
 Date: 2017-12-06 13:00
 Author: Chico
-Category: Junta Ordinaria
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria y posada que se celebrará el __9 de diciembre__ en las instalaciones de __Arkebit__ (Pavorreal #49, colonia Provitec, entre División del norte y Vasconcelos) __a las 4:00 pm__.
 

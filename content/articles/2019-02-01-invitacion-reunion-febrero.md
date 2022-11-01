@@ -1,8 +1,8 @@
 Title: Invitación a reunión febrero 2019
 Date: 2019-02-01 13:00
 Author: Chico
-Category: Junta
-Tags: Junta-Ordinaria
+Category: Juntas
+Tags: Juntas Ordinarias
 
 Se hace una atenta invitación a la reunión ordinaria que se celebrará el __9 de febrero__ en las instalaciones de la __Sala UNAM Virtual__ de la __[Biblioteca "José García de Letona"](https://www.openstreetmap.org/#map=19/25.54029/-103.44524)__ ubicada en la __Alameda Zaragoza a las 4:00 pm__.
 

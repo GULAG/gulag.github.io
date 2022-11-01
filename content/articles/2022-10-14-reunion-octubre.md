@@ -2,7 +2,7 @@ Title: Reunión de octubre 2022
 Date: 2022-10-14 16:00
 Author: guabyboy
 Category: Juntas
-Tags: Junta-Ordinaria
+Tags: Juntas Ordinarias, Hacktoberfest
 
 Como ya es costumbre, la segunda semana de cada mes, en esta ocasión, el segundo viernes de octubre, tuvimos nuestra reunión ordinaria a las 20:00 horas CDMX, por videoconferencia.
 

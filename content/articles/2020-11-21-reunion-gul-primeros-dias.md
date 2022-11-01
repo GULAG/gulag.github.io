@@ -2,7 +2,7 @@ Title: Reunión nada ordinaria: gul, primeros días
 Date: 2020-11-21 21:00
 Author: Chico
 Category: Juntas
-Tags: Junta-Nada-Ordinaria
+Tags: Junta Nada Ordinaria
 
 No hemos dejado de reunirnos cada mes, pero existen momentos en que no podemos esperar treinta días.
 

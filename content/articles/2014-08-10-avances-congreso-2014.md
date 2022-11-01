@@ -3,7 +3,7 @@ Slug: 2014-08-10-avances-congreso-2014
 Date: 2014-08-10 20:00
 Author: Chico
 Category: Eventos
-Tags: Eventos, Congreso
+Tags: Congresos
 
 
 Sede, conferencias y talleres estan listos para el Congreso 2014.

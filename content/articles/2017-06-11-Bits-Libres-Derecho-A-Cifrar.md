@@ -2,6 +2,7 @@ Title: Bits Libres - [Re]Conociendo nuestros derechos: Derecho a cifrar
 Date: 2017-06-11 23:40
 Author: Chico
 Category: Revista
+Tags: Bits Libres
 
 _Publicado en la sección **Bits Libres** [Entretodos](http://periodicoentretodos.mx/version-impresa/), en junio del 2017_
 

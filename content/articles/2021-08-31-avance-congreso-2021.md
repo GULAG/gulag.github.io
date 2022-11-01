@@ -2,7 +2,7 @@ Title: Próximamente: Congreso 2021
 Date: 2021-08-31 10:00
 Author:  Chico
 Category: Eventos
-Tags: Eventos, Congreso
+Tags: Congresos, Python
 
 El próximo **17 y 18 de septiembre del 2021**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, el cual se celebrará, de manera virtual.
 

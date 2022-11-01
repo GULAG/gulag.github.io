@@ -2,15 +2,13 @@ Title: Revoluciónate a tí mismo, sé un programador
 Date: 2014-05-19
 Author: guivaloz
 Category: Revista
-Tags: Programar, Sé un programador
+Tags: Programación
 
 _Saber programar es conocer diferencia entre ver un reloj desde afuera y saber cómo funciona en su interior._
 
 En este tiempo, la edad dorada de la informática, vemos que ya es un hecho que _casi_ todos disponemos de dispositivos digitales complejos; háblese de computadoras, _laptops_, _tablets_ o celulares _inteligentes_. Como es natural, de todas estas personas, la mayoría son usuarios y la minoría son _creadores_, es decir, quienes hacen programas para que los usen. Lamentablemente esta situación es igual en personas que ejercen las diferentes ramas de la informática; **en la mayoría de nosotros hay muy pocos con entusiasmo para programar**, se prefieren las labores de venta, instalación, comunicaciones, etc.
 
 ¿Qué sería de nuestra ciudad/estado/país/mundo si todo profesionista dedicara algo de su labor a la programación?. Y en general, para el nivel escolar, **si no sólo hubiera las típicas clases de computación, sino también talleres de programación**, ¿sería esto una gran herramienta para su futuro?. Seguramente que sí.
-
-<!-- break -->
 
 ### La zanahoria para que camine el burro
 
