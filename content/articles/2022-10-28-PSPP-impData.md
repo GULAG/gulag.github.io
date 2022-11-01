@@ -21,7 +21,7 @@ PSPP puede importar formatos de: Gnumeric, OpenDocument, bases de datos Postgres
 # Menú Archivo -> Importar Datos
 
 <center>
-<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="{attach}2022-10-28-PSPP-impData/01omportar.png" alt="PSPP" width="65" height="50">
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="{attach}2022-10-28-PSPP-impData/01importar.png" alt="PSPP" width="65" height="50">
 </center>
 <br />
 
