@@ -2,7 +2,7 @@ Title: Próximamente: Congreso 2020
 Date: 2020-09-01 10:00
 Author:  Chico
 Category: Eventos
-Tags: Congresos
+Tags: Congresos, Jon "maddog" Hall
 
 [![Sede Congreso 2020]({attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png)]({attach}2020-09-01-avances-congreso-2020/logo_tec_SP_fondo-blanco.png)
 

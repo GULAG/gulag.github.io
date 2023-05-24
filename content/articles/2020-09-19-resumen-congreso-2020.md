@@ -2,7 +2,7 @@ Title: Resumen del Congreso de Software Libre 2020
 Date: 2020-09-19 21:00
 Author: Chico
 Category: Eventos
-Tags: Congresos
+Tags: Congresos, Jon "maddog" Hall
 
 [![Participantes Congreso 2020]({attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png)]({attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png)
 
