@@ -22,24 +22,35 @@ Se tendrán las siguientes
 
 ### Conferencias:
 
-* **Rolman**
-* **Gunnar**
-* **Sandino**
-* **Zerialkiller**
-* **Taquinux**
-* **María**
+* __[Taquinux](https://www.linkedin.com/in/jmjaureguig/)__
+    * __Hardware y software abiertos en investigación e industria__
+    * __9:00 horas CDMX__
+* __María__
+    * __Entorno de interceptación de datos__
+* __Zerialkiller__
+* __Sandino__
+* __Rolman__
+* __Gunnar__
+* __Alejandro__
 
 También contaremos con
 
-### Talleres:
+### Talleres simultáneos (16:00 CDMX):
 
-* **Gimp e Inkscape** _Próximamente_
-* **AI** _Próximamente_
-* **Servidores** _Próximamente_
-* **Python y bases de datos** _Próximamente_
-* _Próximamente_
-* _Próximamente_
-* _Próximamente_
+* __[Chico](https://www.salazarysanchez.com/)__
+    * __Gimp e Inkscape__
+* __ragamz__
+    * __A.I.__
+* __Krh3rtz__
+    * __Servidores__
+* __[Guivaloz](https://movimientolibre.com/)__
+    * __Uso de Bases de Datos con Python__
+* __[Taquinux](https://www.linkedin.com/in/jmjaureguig/)__
+    * __Microcontroladores a bajo nivel. De switches, 0s, 1s a pong__
+* __Alejandro__
+    * __Crea tu propio pokedex usando fastapi y htmx__
+* __Próximamente__
+    * __R__
 
 ### Sede:
 

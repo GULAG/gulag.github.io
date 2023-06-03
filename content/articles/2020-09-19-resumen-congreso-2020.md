@@ -4,7 +4,9 @@ Author: Chico
 Category: Eventos
 Tags: Congresos, Jon "maddog" Hall
 
-[![Participantes Congreso 2020]({attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png)]({attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png)
+<center>
+<a class="img-responsive" href="{attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2020-09-19-resumen-congreso-2020/TodosCongreso.png" alt="Participantes Congreso 2020" width="325" height="250"></a>
+</center>
 
 Con motivo del XV aniversario del **Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)** y en marco del **International Software Freedom Day** se celebró el **Congreso de Software Libre** el día **19 de septiembre del 2020** en la modalidad a distancia teniendo como sede virtual el **[Instituto Tecnológico Superior de San Pedro de las Colonias](https://www.tecsanpedro.edu.mx/web/)**
 
@@ -14,7 +16,9 @@ Con motivo del XV aniversario del **Grupo de Usuarios de GNU/Linux de La Laguna 
 
 Se contó con la asistencia de más de 200 personas de los ámbitos académico, empresarial, gubernamental y público en general de la Comarca Lagunera, de varios estados de la República Mexicana así como de otros países, Brasil y Colombia entre ellos, quienes aprendieron de las conferencias y talleres que para ellos se preparó.
 
-[![Poster Congreso 2020]({attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg)]({attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg)
+<center>
+<a class="img-responsive" href="{attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2020-09-01-avances-congreso-2020/Congreso_2020.jpeg" alt="Poster Congreso 2020" width="325" height="250"></a>
+</center>
 
 ### Conferencias
 
