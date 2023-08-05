@@ -32,6 +32,7 @@ Se tendrán las siguientes
 * __Sandino__
 * __Rolman__
 * __Gunnar__
+    * __Current challenges for the OpenPGP keyserver network: Is there a way forward?__
 * __Alejandro__
 
 También contaremos con
