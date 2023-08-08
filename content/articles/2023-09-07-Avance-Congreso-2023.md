@@ -30,7 +30,9 @@ Se tendrán las siguientes
 * __[Zerialkiller](https://linktr.ee/zerialkiller)__
     * __Conociendo a nuestro adversario__
 * __Sandino__
+    * __Tuneo de PostgreSQL para alta transaccionalidad__
 * __Rolman__
+    * __Ceph__
 * __Gunnar__
 * __Alejandro__
 
@@ -41,7 +43,7 @@ También contaremos con
 * __[Chico](https://www.salazarysanchez.com/)__
     * __Gimp e Inkscape__
 * __ragamz__
-    * __A.I.__
+    * __Máquina de estados finitos__
 * __Krh3rtz__
     * __Servidores__
 * __[Guivaloz](https://movimientolibre.com/)__
@@ -61,11 +63,15 @@ También contaremos con
 
 ### Registro:
 
-* _Próximamente_
+* [Aquí](https://forms.gle/pbrHyiCdqVxXfoT56) te puedes registrar a las conferencias y talleres.
 
 ### Patrocinadores:
 
-* _Próximamente_
+<img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/logo_zk_empresa.jpg" alt="logo zk">
+<br /><br />
+<img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/Logo_Openlab2n.png" alt="Logo Openlab">
+<br />
+
 
 ### Descargas
 
