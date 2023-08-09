@@ -34,6 +34,7 @@ Se tendrán las siguientes
 * __Rolman__
     * __Ceph__
 * __Gunnar__
+    * __Current challenges for the OpenPGP keyserver network: Is there a way forward?__
 * __Alejandro__
 
 También contaremos con
@@ -65,13 +66,17 @@ También contaremos con
 
 * [Aquí](https://forms.gle/pbrHyiCdqVxXfoT56) te puedes registrar a las conferencias y talleres.
 
+<a href="https://forms.gle/pbrHyiCdqVxXfoT56"><img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/TuxRegistro.jpeg" alt="registro"></a>
+<br />
+
 ### Patrocinadores:
 
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/logo_zk_empresa.jpg" alt="logo zk">
 <br /><br />
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/Logo_Openlab2n.png" alt="Logo Openlab">
+<br /><br />
+<img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/logo_ocv.png" alt="Logo OCV">
 <br />
-
 
 ### Descargas
 
