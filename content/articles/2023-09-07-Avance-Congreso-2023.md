@@ -35,7 +35,7 @@ Se tendrán las siguientes
     * __Ceph__
 * __Gunnar__
     * __Current challenges for the OpenPGP keyserver network: Is there a way forward?__
-* __Alejandro__
+* __Don Aletz__
 
 También contaremos con
 
@@ -51,7 +51,7 @@ También contaremos con
     * __Uso de Bases de Datos con Python__
 * __[Taquinux](https://www.linkedin.com/in/jmjaureguig/)__
     * __Microcontroladores a bajo nivel. De switches, 0s, 1s a pong__
-* __Alejandro__
+* __Don Aletz__
     * __Crea tu propio pokedex usando fastapi y htmx__
 * __Próximamente__
     * __R__
@@ -71,12 +71,15 @@ También contaremos con
 
 ### Patrocinadores:
 
+<center>
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/logo_zk_empresa.jpg" alt="logo zk">
 <br /><br />
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/Logo_Openlab2n.png" alt="Logo Openlab">
 <br /><br />
+<img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/PerfumeriaFlorel.png" alt="Logo Florels">
+<br /><br />
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/logo_ocv.png" alt="Logo OCV">
-<br />
+<br /></center>
 
 ### Descargas
 
