@@ -24,7 +24,7 @@ Se tendrán las siguientes
 
 * __[Taquinux](https://www.linkedin.com/in/jmjaureguig/)__
     * __Hardware y software abiertos en investigación e industria__
-    * __9:00 horas CDMX__
+    * __8:00 horas CDMX__
 * __[María](https://www.linkedin.com/in/aniiencalada)__
     * __Peticiones HTTP vistas con MITM proxy__
 * __[Zerialkiller](https://linktr.ee/zerialkiller)__
