@@ -36,7 +36,8 @@ Se tendrán las siguientes
 * __Gunnar__
     * __Current challenges for the OpenPGP keyserver network: Is there a way forward?__
 * __Don Aletz__
-
+    * __Q&A__
+    
 También contaremos con
 
 ### Talleres simultáneos (16:00 CDMX):
@@ -46,7 +47,7 @@ También contaremos con
 * __ragamz__
     * __Máquina de estados finitos__
 * __Krh3rtz__
-    * __Servidores__
+    * __Servidores GNU/Linux__
 * __[Guivaloz](https://movimientolibre.com/)__
     * __Uso de Bases de Datos con Python__
 * __[Taquinux](https://www.linkedin.com/in/jmjaureguig/)__
@@ -68,6 +69,16 @@ También contaremos con
 
 <a href="https://forms.gle/pbrHyiCdqVxXfoT56"><img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/TuxRegistro.jpeg" alt="registro"></a>
 <br />
+
+### Hotel Sede:
+
+<center>
+<a href="{attach}2023-09-07-Avance-Congreso-2023/hotel.jpg">
+<img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/hotel-logo.jpg" alt="logo hotel">
+</a>
+
+Vean [aquí]({attach}2023-09-07-Avance-Congreso-2023/hotel.jpg) la oferta del hotel sede.
+</center>
 
 ### Patrocinadores:
 
