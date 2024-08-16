@@ -4,7 +4,7 @@ Author:  Chico
 Category: Eventos
 Tags: Congresos
 
-El próximo **viernes 20 de septiembre del 20241**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, y para ello la cita será en el **Tecnológico Nacional de México Campus La Laguna**.
+El próximo **viernes 20 de septiembre del 2024**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, y para ello la cita será en el **Tecnológico Nacional de México Campus La Laguna**.
 
 ### Ésta pagina se estará actualizando con las novedades para el Congreso: visítala frecuentemente.
 
@@ -48,6 +48,17 @@ A las 15:00 horas iniciaran los talleres de:
 * Próximamente se anunciará reto y premios
 
 ... y más sorpresas que estamos preparando.
+
+Estas actividades estarán dentro del **Software Freedom Day**
+
+<br />
+
+<center>
+<a href="https://en.wikipedia.org/wiki/Software_Freedom_Day">
+<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SFDLogo.svg/640px-SFDLogo.svg.png" alt="SFD"></a></small>
+</center>
+
+<br />
 
 Las conferencias y los talleres **no tendrá costo** como siempre lo hemos realizado.
 
