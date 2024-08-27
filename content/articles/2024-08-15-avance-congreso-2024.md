@@ -11,8 +11,10 @@ El próximo **viernes 20 de septiembre del 2024**, estaremos celebrando un anive
 <!-- break -->
 
 <center>
-<a href="https://es.wikipedia.org/wiki/Tux">
-<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/405px-Tux.svg.png" alt="tux"></a></small>
+<a href="https://github.com/GULAG/PosterCongreso2024/blob/main/CongresoGulag2024.png?raw=true">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://github.com/GULAG/PosterCongreso2024/blob/main/CongresoGulag2024.png?raw=true" alt="Poster Congreso 2024" width="250" height="325">
+</a>
+<br />
 </center>
 
 <br />
@@ -33,7 +35,7 @@ A las 9:00 horas iniciaran las conferencias de:
 
 * Cyberseguridad
 * LLMs
-* Próximamente más
+* Aplicación de tecnologías libres en proyecto de astrofotografía: Caso "Estrellas Compartidas"
 
 #### Talleres:
 
@@ -85,7 +87,7 @@ Reserven en sus agendas el día **20 de septiembre del 2024**.
 
 #### Descargas
 
-* Próximamente
+[Fuentes de Poster](https://github.com/GULAG/PosterCongreso2024)
 
 ### Los esperamos :-D
 
