@@ -4,7 +4,7 @@ Author:  Chico
 Category: Eventos
 Tags: Congresos
 
-El próximo **viernes 20 de septiembre del 2024**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, y para ello la cita será en el **Tecnológico Nacional de México Campus La Laguna**.
+El próximo **viernes 20 de septiembre del 2024**, estaremos celebrando un aniversario más y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso de Software Libre**, y para ello la cita será en la **Sala de Usos Múltiples** del **Tecnológico Nacional de México Campus La Laguna**.
 
 ### Ésta pagina se estará actualizando con las novedades para el Congreso: visítala frecuentemente.
 
@@ -33,16 +33,33 @@ Hasta el momento se han considerado las siguientes
 
 A las 9:00 horas iniciaran las conferencias de:
 
-* Cyberseguridad
-* LLMs
-* Aplicación de tecnologías libres en proyecto de astrofotografía: Caso "Estrellas Compartidas"
+* Ceremonia de inauguración.
+* **«Aplicación de tecnologías libres en proyecto de astrofotografía: Caso "Estrellas Compartidas"»** por **[Juan Antonio González Herrera](https://estrellascompartidas.com/)**
+* **«IA: Aprende a aprender con Chatgpt»** por **Don Aletz**
+    - **Descrpción:**
+        + Con el auge de las AI, un nuevo set de herramientas y habilidades están surgiendo. En esta conferencia hablaremos de como aprovechar esas herramientas, volverte más productivo, mejorar tu ingreso.
+* **«Conociendo las Entrañas de un Ciberataque»** por **[Zerialkiller](https://linktr.ee/zerialkiller)**
 
 #### Talleres:
 
-A las 15:00 horas iniciaran los talleres de:
+A las 15:00 horas iniciaran los talleres simultáneos:
 
-* LLMs
-* Base de datos
+* **«Local AI»** por **Don Aletz**
+    - **Descrpción:**
+        + Corre modelos IA abiertos de manera local y segura en tu computadora.
+    - **Requisitos:** 
+        + Internet
+        + Computadora
+        + Ideal, pero no necesario, gpu rtx Nvidia
+* **«Crear dashboards a partir de bases de datos con Python»** por **[Guivaloz](https://movimientolibre.com/)**
+    - **Requisitos:** 
+        + Internet
+        + [Brave](https://brave.com/es/) o Google Chrome
+* **«Diseño gráfico»** por **[Chico](https://www.salazarysanchez.com/)**
+    - **Requisitos:** 
+        + [GIMP](https://www.gimp.org/)
+        + [Inkscape](https://inkscape.org/es/)
+
 * Próximamente más
 
 #### Mapathon:
@@ -51,7 +68,7 @@ A las 15:00 horas iniciaran los talleres de:
 
 ... y más sorpresas que estamos preparando.
 
-Estas actividades estarán dentro del **Software Freedom Day**
+Estas actividades estarán dentro del **[Software Freedom Day](https://digitalfreedoms.org/en/software-freedom-day/events/congreso-de-software-libre)**
 
 <br />
 
@@ -75,6 +92,18 @@ Reserven en sus agendas el día **20 de septiembre del 2024**.
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/ITL.png" alt="ITL">
 <br />
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-103.44177246093751%2C25.5301469027273%2C-103.42979907989502%2C25.53599423998621&amp;layer=mapnik&amp;marker=25.533070606989106%2C-103.43578577041626" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=25.53307&amp;mlon=-103.43579#map=17/25.53307/-103.43579">Ver mapa más grande</a></small>
+
+### Mapa de la sede:
+
+<center>
+<a href="{attach}2023-09-08-congreso-2023/ITL_Plano.jpg"><img class="img-fluid" src="{attach}2023-09-08-congreso-2023/ITL_Plano.jpg" alt="Mapa ITL"></a>
+<br />
+</center>
+
+**Recuerda:**
+
+* Las conferencias serán en la Sala de Usos Múltiples **(23)**
+* El estacionamiento será el número 3, entre **38** y **41**
 
 #### Patrocinadores:
 
