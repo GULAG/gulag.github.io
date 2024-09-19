@@ -116,6 +116,11 @@ Reserven en sus agendas el día **20 de septiembre del 2024**.
 * Las conferencias serán en la Sala de Usos Múltiples **(23)**
 * El estacionamiento será el número 3, entre **38** y **41**
 
+#### Transmisión de las conferencias:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXhaBFeei24?si=Er3IjfyZAckzLTkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br /><br />
+
 #### Patrocinadores:
 
 <center>
