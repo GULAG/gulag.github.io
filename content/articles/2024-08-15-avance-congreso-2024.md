@@ -105,6 +105,13 @@ Reserven en sus agendas el día **20 de septiembre del 2024**.
 * Las conferencias serán en la Sala de Usos Múltiples **(23)**
 * El estacionamiento será el número 3, entre **38** y **41**
 
+### Registro:
+
+* [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScXdl2SgVPyB7Fj9E0srBC0xUNLyhJ-_lo7_I-krRZMIf82Mw/viewform) te puedes registrar a las conferencias y talleres.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScXdl2SgVPyB7Fj9E0srBC0xUNLyhJ-_lo7_I-krRZMIf82Mw/viewform"><img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/TuxRegistro.jpeg" alt="registro"></a>
+<br /><br />
+
 #### Patrocinadores:
 
 <center>
