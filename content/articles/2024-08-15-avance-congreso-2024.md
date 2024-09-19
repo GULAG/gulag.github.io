@@ -64,7 +64,16 @@ A las 15:00 horas iniciaran los talleres simultáneos:
 
 #### Mapathon:
 
-* Próximamente se anunciará reto y premios
+* [Aquí](https://docs.google.com/forms/d/e/1FAIpQLSfXFH4v71bM6dmE75uP-8P4FKi8W-OaBV9u9CHH4xQK7ENaaA/viewform) te puedes registrar a el mapathon.
+    - Te puedes apoyar en los siguientes videos:
+        + [Como crear tu cuenta en OpenStreetMap](https://www.youtube.com/watch?v=2_4ep7GMs3U)
+        + [Como mapear Edificios](https://www.youtube.com/watch?v=1LYomoDRdLo)
+    - y/o puedes entrar a [LearnOSM (en español)](https://learnosm.org/es/beginner/)
+        + [Primeros pasos en OpenStreetMap](https://learnosm.org/es/beginner/start-osm/)
+        + [Editor iD](https://learnosm.org/es/beginner/id-editor/)
+        + [Trazado de edificios rectangulares](https://learnosm.org/es/hot-tips/tracing-rectangular-buildings/)
+* **Cualquier duda nuestro amigo Osvaldo te puede ayudar ¡Búscalo en el Congreso :-) !**
+
 
 ... y más sorpresas que estamos preparando.
 
