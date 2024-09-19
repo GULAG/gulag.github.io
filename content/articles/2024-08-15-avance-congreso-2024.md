@@ -60,11 +60,22 @@ A las 15:00 horas iniciaran los talleres simultáneos:
         + [GIMP](https://www.gimp.org/)
         + [Inkscape](https://inkscape.org/es/)
 
+#### Si te registraste a algún taller, trae tu taza o tu termo ;-)
+
 * Próximamente más
 
 #### Mapathon:
 
-* Próximamente se anunciará reto y premios
+* [Aquí](https://docs.google.com/forms/d/e/1FAIpQLSfXFH4v71bM6dmE75uP-8P4FKi8W-OaBV9u9CHH4xQK7ENaaA/viewform) te puedes registrar a el mapathon.
+    - Te puedes apoyar en los siguientes videos:
+        + [Como crear tu cuenta en OpenStreetMap](https://www.youtube.com/watch?v=2_4ep7GMs3U)
+        + [Como mapear Edificios](https://www.youtube.com/watch?v=1LYomoDRdLo)
+    - y/o puedes entrar a [LearnOSM (en español)](https://learnosm.org/es/beginner/)
+        + [Primeros pasos en OpenStreetMap](https://learnosm.org/es/beginner/start-osm/)
+        + [Editor iD](https://learnosm.org/es/beginner/id-editor/)
+        + [Trazado de edificios rectangulares](https://learnosm.org/es/hot-tips/tracing-rectangular-buildings/)
+* **Cualquier duda nuestro amigo Osvaldo te puede ayudar ¡Búscalo en el Congreso :-) !**
+
 
 ... y más sorpresas que estamos preparando.
 
@@ -105,11 +116,17 @@ Reserven en sus agendas el día **20 de septiembre del 2024**.
 * Las conferencias serán en la Sala de Usos Múltiples **(23)**
 * El estacionamiento será el número 3, entre **38** y **41**
 
+
+#### Transmisión de las conferencias:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXhaBFeei24?si=Er3IjfyZAckzLTkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Registro:
 
 * [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScXdl2SgVPyB7Fj9E0srBC0xUNLyhJ-_lo7_I-krRZMIf82Mw/viewform) te puedes registrar a las conferencias y talleres.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScXdl2SgVPyB7Fj9E0srBC0xUNLyhJ-_lo7_I-krRZMIf82Mw/viewform"><img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/TuxRegistro.jpeg" alt="registro"></a>
+
 <br /><br />
 
 #### Patrocinadores:
