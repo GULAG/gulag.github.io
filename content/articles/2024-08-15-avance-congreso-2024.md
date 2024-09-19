@@ -60,6 +60,8 @@ A las 15:00 horas iniciaran los talleres simultáneos:
         + [GIMP](https://www.gimp.org/)
         + [Inkscape](https://inkscape.org/es/)
 
+#### Si te registraste a algún taller, trae tu taza o tu termo ;-)
+
 * Próximamente más
 
 #### Mapathon:
