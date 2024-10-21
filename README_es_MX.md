@@ -4,7 +4,7 @@ Sitio web del Grupo de Usuario de GNU/Linux de la Laguna.
 
 [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
-## Guias de participacion para Hacktoberfest 2022
+## Guias de participacion para Hacktoberfest 2024
 
 Nuestras guias de como aportar en este `hacktoberfest` en este repositorio.
 

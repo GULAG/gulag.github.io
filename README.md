@@ -4,7 +4,7 @@ Website for the GNU/Linux Users Group of la Laguna (Grupo de Usuarios GNU/Linux 
 
 [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
-## Participation Guides for HacktoberFest 2022
+## Participation Guides for HacktoberFest 2024
 
 Our guides about how to contribute to this `hacktoberfest` in this repository.
 
@@ -52,13 +52,13 @@ pip install -r requirements.txt
 git checkout -b article/<date>_<title>
 
 # Example
-git checkout -b article/2022_10_26_my_awesome_title
+git checkout -b article/2024_10_26_my_awesome_title
 ```
 
 5. Add your article in `md` format inside the folder `content/articles`. The article name has to follow this naming convention.
 
 - `<date>`-`<name>`.md
-    - Example: 2022-10-26-my-awesome-article.md
+    - Example: 2024-10-26-my-awesome-article.md
 
 
 If your article has images, create a folder with the same name as your article and add the tag `{attach}` to `href` and to `src`.
@@ -67,7 +67,7 @@ If your article has images, create a folder with the same name as your article a
 
 ```html
 <center>
-    <a class="img-responsive" href="{attach}2022-10-26-my_awesome_article/chat.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2022-10-26-my_awesome_article/chat.png" alt="Image description" width="325" height="250"></a>
+    <a class="img-responsive" href="{attach}2024-10-26-my_awesome_article/chat.png"><img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="{attach}2024-10-26-my_awesome_article/chat.png" alt="Image description" width="325" height="250"></a>
 </center>
 ```
 
