@@ -132,6 +132,8 @@ Reserven en sus agendas el día **20 de septiembre del 2024**.
 #### Patrocinadores:
 
 <center>
+<img class="img-fluid" src="{attach}2024-08-15-avance-congreso-2024/TomTom-Logo.png" alt="TomTom">
+<br /><br />
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/logo_zk_empresa.jpg" alt="logo zk">
 <br /><br />
 <img class="img-fluid" src="{attach}2023-09-07-Avance-Congreso-2023/PerfumeriaFlorel.png" alt="Logo Florels">
