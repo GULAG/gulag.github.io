@@ -21,29 +21,41 @@ Los próximos **viernes 19 y sábado 20 de septiembre del 2025**, estaremos cele
 
 <br />
 
-#### Ubicación:
+<center>
+<a href="https://github.com/GULAG/PosterCongreso2025/blob/main/CongresoGulag2025.png?raw=true">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://github.com/GULAG/PosterCongreso2025/blob/main/CongresoGulag2025.png?raw=true" alt="Poster Congreso 2025" width="250" height="325">
+</a>
+<br />
+</center>
+
+### Ubicación de Universidad Sede:
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-103.43798518180849%2C25.574672419417645%2C-103.426011800766%2C25.580256299945802&amp;layer=mapnik&amp;marker=25.577464392240287%2C-103.43199849128723" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=25.577464&amp;mlon=-103.431998#map=17/25.577464/-103.431998">Ver el mapa más grande</a></small>
 
 Se tendrán las siguientes
 
-#### Conferencias:
+### Conferencias:
 
-* __"Mujeres Hackers"__ por _Dra. Irene Soria Guzmán_
-* Panel
+* __"MxOS: Fomentando la soberanía tecnológica"__ por _René Bon Ćirić_
 * Seguridad - _Título por confirmar_
-* Por confirmar
-* Por confirmar
+* __Panel de Expertos__
+* __"Mujeres Hackers"__ por _Dra. Irene Soria Guzmán_
 
 También contaremos con los siguientes 
 
-#### Talleres:
+### Talleres simultáneos:
 
-* __"Introducción a Contratos Inteligentes con Vyper"__ por _Don Alex_
-* Electrónica - _Título por confirmar_
+* __"Introducción a Contratos Inteligentes con Vyper"__ por _Alejandro Pineda_
+* __"Taller de KEME"__ por _Gabriel Peña A._
+* __"Taller de IA"__ por _Rogelio A. García M._
 * Desarrollo - _Título por confirmar_
 * __"Mapeo con OpenStreetMap"__ por _Chico_
-* Por confirmar
+
+
+### Ubicación de conferencias y talleres:
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/congreso-sl-2025_1254148?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/congreso-sl-2025_1254148?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
+
 
 ... y más sorpresas que estamos preparando.
 
@@ -51,13 +63,16 @@ Las conferencias y los talleres **no tendrá costo**, como siempre lo hemos real
 
 Reserven en sus agendas los días **viernes 19 y sábado 20 de septiembre del 2025**.
 
-Los esperamos :-D
-
-#### Patrocinadores:
+### Patrocinadores:
 
 <center>
 <a href="https://www.ual.mx/"><img class="img-fluid" src="{attach}2025-09-01-avances-congreso-2025/logo-ual.png" alt="Logo UAL" width="250" height="325"></a>
-<br />
+<br /><br />
+</center>
+
+<center>
+<a href="https://www.ethergroup.mx/"><img class="img-fluid" src="{attach}2025-09-01-avances-congreso-2025/logo-ethergroup.png" alt="Logo Ethergroup" width="250" height="325"></a>
+<br /><br />
 </center>
 
 <center>
@@ -65,7 +80,14 @@ Los esperamos :-D
 <br />
 </center>
 
-#### Descargas
+<center>
+<a href="https://wiki.openstreetmap.org/wiki/ES:M%C3%A9xico"><img class="img-fluid" src="{attach}2025-09-01-avances-congreso-2025/OpenStreetMap-Mexico.png" alt="OpenStreetMap México" width="250" height="325"></a>
+<br /><br />
+</center>
 
-* Próximamente
+### Descargas
+
+* [Fuentes de Poster](https://github.com/GULAG/PosterCongreso2025)
+
+Les esperamos :-D
 
