@@ -36,21 +36,22 @@ Se tendrán las siguientes
 
 ### Conferencias:
 
-* __"MxOS: Fomentando la soberanía tecnológica"__ por _René Bon Ćirić_
-* Seguridad - _Título por confirmar_
-* __Panel de Expertos__
-* __"Mujeres Hackers"__ por _Dra. Irene Soria Guzmán_
+* 9:00 __"Ceremonia de inauguración"__ 
+* 9:30 __"MxOS: Fomentando la soberanía tecnológica"__ por _René Bon Ćirić_
+* 10:30 Seguridad - _Título por confirmar_
+* 11:30 __Panel de Expertos__
+* 12:30 __"Mujeres Hackers"__ por _Dra. Irene Soria Guzmán_
 
 También contaremos con los siguientes 
 
 ### Talleres simultáneos:
 
-* __"Introducción a Contratos Inteligentes con Vyper"__ por _Alejandro Pineda_
-* __"Taller de KEME"__ por _Gabriel Peña A._
-* __"Taller de IA"__ por _Rogelio A. García M._
-* Desarrollo - _Título por confirmar_
-* __"Mapeo con OpenStreetMap"__ por _Chico_
-
+* 15:00 __"Diseño Gráfico con Software Libre"__ por _Dra. Irene Soria Guzmán_
+* 15:00 __"Introducción a Contratos Inteligentes con Vyper"__ por _Alejandro Pineda_
+* 15:00 __"Taller de KEME"__ por _Gabriel Peña A._
+* 15:00 __"Taller de IA"__ por _Rogelio A. García M._
+* 15:00 __"Crea código con cabeza: IA te ayuda y tú tomas decisiones"__ por _[Guillermo Valdés Lozano](https://movimientolibre.com/)_
+* 15:00 __"Mapeo con OpenStreetMap"__ por _[Chico](https://www.salazarysanchez.com/)_
 
 ### Ubicación de conferencias y talleres:
 
@@ -62,6 +63,10 @@ También contaremos con los siguientes
 Las conferencias y los talleres **no tendrá costo**, como siempre lo hemos realizado.
 
 Reserven en sus agendas los días **viernes 19 y sábado 20 de septiembre del 2025**.
+
+### Registro:
+
+Próximamente.
 
 ### Patrocinadores:
 
