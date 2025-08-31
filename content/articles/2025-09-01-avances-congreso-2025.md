@@ -8,7 +8,7 @@ Ya tenemos sede y fecha para nuestro próximo congreso. Poco a poco estaremos al
 
 <!-- break -->
 
-Los próximos **viernes 19 y sábado 20 de septiembre del 2025**, estaremos celebrando nuestro **XX aniversario** y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso**, el cual se celebrará en la **[Universidad Autónoma de la Laguna](https://www.ual.mx/)**.
+El próximo **viernes 19 de septiembre del 2025**, estaremos celebrando nuestro **XX aniversario** y lo festejaremos como siempre lo hacemos, compartiendo conocimiento en el **Congreso**, el cual se celebrará en la **[Universidad Autónoma de la Laguna](https://www.ual.mx/)**.
 
 <center>
 <a href="https://www.ual.mx/"><img class="img-fluid" src="{attach}2025-09-01-avances-congreso-2025/logo-ual.png" alt="Logo UAL" width="250" height="325"></a>
@@ -62,7 +62,7 @@ También contaremos con los siguientes
 
 Las conferencias y los talleres **no tendrá costo**, como siempre lo hemos realizado.
 
-Reserven en sus agendas los días **viernes 19 y sábado 20 de septiembre del 2025**.
+Reserven en sus agendas para el **viernes 19 de septiembre del 2025**.
 
 ### Registro:
 
