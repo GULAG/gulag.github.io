@@ -37,8 +37,8 @@ Se tendrán las siguientes
 ### Conferencias:
 
 * 9:00 __"Ceremonia de inauguración"__ 
-* 9:30 __"MxOS: Fomentando la soberanía tecnológica"__ por _René Bon Ćirić_
-* 10:30 Seguridad - _Título por confirmar_
+* 9:30 __"[MxOS](https://mx-os.mx/): Fomentando la soberanía tecnológica"__ por _René Bon Ćirić_
+* 10:30 __"Cyber Kill Chain"__ por _Antonio Gurza_
 * 11:30 __Panel de Expertos__
 * 12:30 __"Mujeres Hackers"__ por _Dra. Irene Soria Guzmán_
 
@@ -66,7 +66,7 @@ Reserven en sus agendas para el **viernes 19 de septiembre del 2025**.
 
 ### Registro:
 
-Próximamente.
+[Te puedes registrar aquí para los talleres y conferencias](https://gl.ethercloud.mx/index.php/apps/forms/s/4X3QD2dDAc2XBFeEay9BfgTi).
 
 ### Patrocinadores:
 
