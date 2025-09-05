@@ -48,15 +48,27 @@ También contaremos con los siguientes
 
 * 15:00 __"Diseño Gráfico con Software Libre"__ por _Dra. Irene Soria Guzmán_
 * 15:00 __"Introducción a Contratos Inteligentes con Vyper"__ por _Alejandro Pineda_
-* 15:00 __"Taller de KEME"__ por _Gabriel Peña A._
-* 15:00 __"Taller de IA"__ por _Rogelio A. García M._
+* 15:00 __"Taller de [KEME](https://sourceforge.net/projects/keme/files/KEME-Contabilidad/)"__ por _Gabriel Peña A._
+* 15:00 __"Algoritmos de búsqueda de rutas"__ por _Rogelio A. García M._
 * 15:00 __"Crea código con cabeza: IA te ayuda y tú tomas decisiones"__ por _[Guillermo Valdés Lozano](https://movimientolibre.com/)_
-* 15:00 __"Mapeo con OpenStreetMap"__ por _[Chico](https://www.salazarysanchez.com/)_
+* 15:00 __"[Mapeo con OpenStreetMap](https://osmcal.org/event/4030/)"__ por _[Osvaldo R. Salazar S.](https://www.salazarysanchez.com/)_
 
 ### Ubicación de conferencias y talleres:
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/congreso-sl-2025_1254148?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/congreso-sl-2025_1254148?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
 
+### Software Freedom Day
+
+Estas actividades estarán dentro del **[Software Freedom Day](https://digitalfreedoms.org/en/sfd/events/congreso-de-software-libre-2)**
+
+<br />
+
+<center>
+<a href="https://digitalfreedoms.org/en/sfd/events/congreso-de-software-libre-2">
+<img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SFDLogo.svg/640px-SFDLogo.svg.png" alt="SFD"></a></small>
+</center>
+
+<br />
 
 ... y más sorpresas que estamos preparando.
 
