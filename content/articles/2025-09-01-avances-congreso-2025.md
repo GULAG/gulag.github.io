@@ -59,12 +59,12 @@ También contaremos con los siguientes
 
 ### Software Freedom Day
 
-Estas actividades estarán dentro del **[Software Freedom Day](https://digitalfreedoms.org/en/sfd/events/congreso-de-software-libre-2)**
+Estas actividades estarán dentro del **[Software Freedom Day](https://digitalfreedoms.org/en/sfd/events/congreso-de-software-libre-mexico-laguna)**
 
 <br />
 
 <center>
-<a href="https://digitalfreedoms.org/en/sfd/events/congreso-de-software-libre-2">
+<a href="https://digitalfreedoms.org/en/sfd/events/congreso-de-software-libre-mexico-laguna">
 <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/SFDLogo.svg/640px-SFDLogo.svg.png" alt="SFD"></a></small>
 </center>
 
