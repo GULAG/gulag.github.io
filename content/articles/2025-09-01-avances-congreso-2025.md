@@ -102,6 +102,12 @@ Reserven en sus agendas para el **viernes 19 de septiembre del 2025**.
 <br /><br />
 </center>
 
+### Promoción en medios de comunicación:
+
+* [Periódico Milenio](https://www.milenio.com/estados/gulag-celebra-20-anos-con-congreso-internacional-de-software-libre) : [GULag celebra 20 años con Congreso de Software Libre en Torreón]({attach}2025-09-20-resumen-congreso-2025/01MilenioNota.png)
+
+* [Voces del Desierto](https://vocesdeldesierto.com.mx/invitan-a-congreso-de-software-libre-en-la-ual/) : [Invitan a Congreso de Software Libre en la UAL]({attach}2025-09-20-resumen-congreso-2025/02NotaVdD.png)
+
 ### Descargas
 
 * [Fuentes de Poster](https://github.com/GULAG/PosterCongreso2025)
