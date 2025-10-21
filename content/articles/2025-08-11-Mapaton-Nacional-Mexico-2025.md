@@ -30,3 +30,22 @@ Si se completa __al menos 5 horas de mapeo de calidad__ y participan en __una se
 
 #### Esperamos sus participaciones :-)
 
+### Actualización(7/Oct)
+
+Agradecemos el certificado por apoyar en la difusión, coordinación y acompañamiento en el __Mapatón Nacional de México 2025__.
+
+<center>
+<a href="2025-08-11-Mapaton-Nacional-Mexico-2025/Mapaton_Mexico_2025_Convocantes_GULag.png"><img class="img-fluid" src="{attach}2025-08-11-Mapaton-Nacional-Mexico-2025/Mapaton_Mexico_2025_Convocantes_GULag.png" alt="Certificado participación" width="500" height="600"></a>
+<br />
+</center>
+
+Los logros del Mapatón son resultado del esfuerzo colectivo de cada una de las personas participantes, con quienes se logró:
+
+👥 970 mapeador@s
+
+🏠 349,032 edificios
+
+🛣️ 970 km de caminos
+
+💧 122 km de cuerpos de agua
+
