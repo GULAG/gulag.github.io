@@ -25,7 +25,8 @@ La cita es en nuestros canales de [youtube](https://www.youtube.com/@gulagmexico
 
 #### Aquí pueden seguir la reunión:
 
-Próximamente.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnXq_8avA4s?si=e-7-_vujgx3pWxYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
 
 La __entrada y acceso son libres.__
 
