@@ -50,7 +50,8 @@ Categoria: Reunião Ordinaria
 ### Pré-requisitos
 1. Ter git instalado e conta no github;
 2. Editor de texto favorito;
-3. Python 3.8+ instalado.
+3. Python 3.14+ instalado.
+4. uv instalado.
 
 
 Siga estes passos para contribuir com este repositorio. 
@@ -71,10 +72,10 @@ git clone https://github.com/GULAG/gulag.github.io.git
 cd gulag.github.io
 ```
 
-4. Instale as bibliotecas em `requirements.txt`
+4. Instale as bibliotecas
 
 ```bash
-pip install -r requirements.txt
+uv sync --frozen
 ```
 
 5. Crie um branch com o numero do issue.
@@ -92,10 +93,10 @@ git checkout -b issue_09/migracion_01
 
 ```bash
 # construa o site
-pelican content -o output -s pelicanconf.py
+uv run pelican content -o output -s pelicanconf.py
 
 # execute o site em um server local
-pelican -l -r
+uv run pelican -l -r
 
 # pressiona ctrl+c para sair do server local
 ```

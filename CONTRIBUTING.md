@@ -50,7 +50,8 @@ category: Junta Ordinaria
 ### Prerequisitos
 1. Tener git instalado y cuenta de github.
 2. Editor de texto favorito.
-3. Python 3.8+ instalado.
+3. Python 3.14+ instalado.
+4. uv instalado.
 
 
 Sigue estos pasos para aportar a este repositorio.
@@ -71,10 +72,10 @@ git clone https://github.com/GULAG/gulag.github.io.git
 cd gulag.github.io
 ```
 
-4. Instalar las librerias en `requirements.txt`
+4. Instalar las librerias
 
 ```bash
-pip install -r requirements.txt
+uv sync --frozen
 ```
 
 5. Crea un branch con el numero del issue.
@@ -92,10 +93,10 @@ git checkout -b issue_09/migracion_01
 
 ```bash
 # construir el sitio
-pelican content -o output -s pelicanconf.py
+uv run pelican content -o output -s pelicanconf.py
 
 # correr el sitio en server local
-pelican -l -r
+uv run pelican -l -r
 
 # presiona ctrl+c para salir del server local
 ```

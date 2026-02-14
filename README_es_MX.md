@@ -20,7 +20,8 @@ Nuestras guias de como aportar en este `hacktoberfest` en este repositorio.
 
 - Tener git instalado y cuenta de github.
 - Editor de texto favorito.
-- Python 3.8+ instalado.
+- Python 3.14+ instalado.
+- uv instalado.
 
 Sigue estos pasos para aportar a este repositorio.
 
@@ -40,10 +41,10 @@ git clone https://github.com/GULAG/gulag.github.io.git
 cd gulag.github.io
 ```
 
-3. Instalar las librerias en `requirements.txt`
+3. Instalar las librerias
 
 ```bash
-pip install -r requirements.txt
+uv sync --frozen
 ```
 
 4. Crea un branch con la fecha y el nombre del articulo.
@@ -75,10 +76,10 @@ Si tu articulo tiene imagenes, crea una carpeta con el mismo nombre que tu artic
 
 ```bash
 # construir el sitio
-pelican content -o output -s pelicanconf.py
+uv run pelican content -o output -s pelicanconf.py
 
 # correr el sitio en server local
-pelican -l -r
+uv run pelican -l -r
 
 # presiona ctrl+c para salir del server local
 ```

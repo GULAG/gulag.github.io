@@ -50,7 +50,8 @@ category: Junta Ordinaria
 ### Prerequisites
 1. Have git installed and a github account.
 2. Use your favorite text editor.
-3. Have Python 3.8+ installed.
+3. Have Python 3.14+ installed.
+4. Have uv installed.
 
 
 Follow these steps to contribute to this repository.
@@ -71,10 +72,10 @@ git clone https://github.com/GULAG/gulag.github.io.git
 cd gulag.github.io
 ```
 
-4. Install the libraries found in `requirements.txt`
+4. Install the libraries
 
 ```bash
-pip install -r requirements.txt
+uv sync --frozen
 ```
 
 5. Create a branch with the issue number.
@@ -92,10 +93,10 @@ git checkout -b issue_09/migration_01
 
 ```bash
 # build the site
-pelican content -o output -s pelicanconf.py
+uv run pelican content -o output -s pelicanconf.py
 
 # run the site in the local server
-pelican -l -r
+uv run pelican -l -r
 
 # press ctrl+c to exit the local server
 ```
@@ -137,4 +138,3 @@ Title: Issue 9 | Migration 01
 16. Click the button `Create PR`. This launches the site's CI process. If it goes through the checks, congratulations! Your PR will be ready to `merge`. Wait for someone in the team to review it.
 
 17. If it doesn't go through the checks, don't worry. Review the log and try again. Leave a comment and we'll help you.
-

@@ -4,6 +4,32 @@ Website for the GNU/Linux Users Group of la Laguna (Grupo de Usuarios GNU/Linux 
 
 [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
+## Local development
+
+### 1) Install uv
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+Alternative installers are available at: https://docs.astral.sh/uv/getting-started/installation/
+
+### 2) Install repository dependencies
+
+```bash
+uv sync --frozen
+```
+
+### 3) Run Pelican commands
+
+```bash
+# build the site
+uv run pelican content -o output -s pelicanconf.py
+
+# run local development server with autoreload
+uv run pelican -l -r
+```
+
 ## Participation Guides for HacktoberFest 2022
 
 Our guides about how to contribute to this `hacktoberfest` in this repository.
@@ -20,7 +46,8 @@ Our guides about how to contribute to this `hacktoberfest` in this repository.
 
 - Having a GitHub account and Git installed in your device.
 - Use your favorite text editor.
-- Have Python 3.8+ installed in your device.
+- Have Python 3.14+ installed in your device.
+- Have uv installed in your device.
 
 Follow these steps to contribute to this repository.
 
@@ -40,10 +67,10 @@ git clone https://github.com/GULAG/gulag.github.io.git
 cd gulag.github.io
 ```
 
-3. Install the libraries found in `requirements.txt`
+3. Install the libraries
 
 ```bash
-pip install -r requirements.txt
+uv sync --frozen
 ```
 
 4. Create a branch with the date and the name of the article.
@@ -75,10 +102,10 @@ If your article has images, create a folder with the same name as your article a
 
 ```bash
 # build the site
-pelican content -o output -s pelicanconf.py
+uv run pelican content -o output -s pelicanconf.py
 
 # run the site in local server
-pelican -l -r
+uv run pelican -l -r
 
 #press ctrl+c to exit the local server
 ```
