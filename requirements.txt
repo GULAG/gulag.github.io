@@ -1,4 +1,0 @@
-pelican
-markdown
-typogrify
-ghp-import

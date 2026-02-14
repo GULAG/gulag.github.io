@@ -1,0 +1,14 @@
+[project]
+name = "gulag-blog"
+version = "0.1.0"
+description = "Pelican site for GULAG"
+requires-python = ">=3.14"
+dependencies = [
+    "ghp-import",
+    "markdown",
+    "pelican",
+    "typogrify",
+]
+
+[tool.uv]
+required-version = ">=0.5.0"
