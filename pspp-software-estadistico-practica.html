@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content="Pelican Static Site Generator, Powered by Python" />
+    <meta name="description" content="Práctica en PSPP Inicio Ahora hagamos una pequeña práctica en PSPP. Tomando como referencia la publicación anterior, de como importar datos a PSPP, en el cual se importaron datos de un archivo de texto o de hoja electrónica en formato abierto ODS, y que fueron guardados en un archivo de …">
+    <meta name="keywords" content="PSPP, Artículos">
+    <meta name="author" content="guabyboy">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="PSPP Software estadístico - Práctica">
+    <meta name="twitter:description" content="Práctica en PSPP Inicio Ahora hagamos una pequeña práctica en PSPP. Tomando como referencia la publicación anterior, de como importar datos a PSPP, en el cual se importaron datos de un archivo de texto o de hoja electrónica en formato abierto ODS, y que fueron guardados en un archivo de …">
+    <meta property="og:title" content="PSPP Software estadístico - Práctica">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/pspp-software-estadistico-practica.html">
+    <meta property="og:description" content="Práctica en PSPP Inicio Ahora hagamos una pequeña práctica en PSPP. Tomando como referencia la publicación anterior, de como importar datos a PSPP, en el cual se importaron datos de un archivo de texto o de hoja electrónica en formato abierto ODS, y que fueron guardados en un archivo de …">
+    <meta property="og:site_name" content="GULAG">
+    <title>PSPP Software estadístico - Práctica - GULAG</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" href="/theme/images/icon-hires.png" sizes="192x192" />
+    <link rel="icon" href="/theme/images/icon-normal.png" sizes="128x128" />
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-76x76.png" sizes="76x76" />
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-120x120.png" sizes="120x120" />
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-152x152.png" sizes="152x152" />
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-180x180.png" sizes="180x180" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css" integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" />
+    <link rel="stylesheet" href="/theme/css/gulag.css" />
+</head>
+<body>
+<nav id="navigationBase" class="navbar navbar-expand-sm fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigationCollapse" aria-controls="navigationCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fas fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navigationCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-sm-0">
+                <li class="nav-item"><a class="nav-link" href="/category/eventos.html">Eventos</a></li>
+                <li class="nav-item"><a class="nav-link" href="/category/juntas.html">Juntas</a></li>
+                <li class="nav-item"><a class="nav-link" href="/category/revista.html">Revista</a></li>
+                <li class="nav-item"><a class="nav-link" href="/category/articulos.html">Artículos</a></li>
+            </ul>
+            <ul class="navbar-nav">
+                <li><a class="mx-2" href="https://twitter.com/gulagmexico/" target="_blank"><i class="fab fa-twitter-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://www.facebook.com/groups/282427405174957/" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://github.com/gulag" target="_blank"><i class="fab fa-github-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://t.me/amigos_del_software_libre" target="_blank"><i class="fab fa-telegram fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g" target="_blank"><i class="fab fa-youtube-square fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://fosstodon.org/@gulagmexico" target="_blank"><i class="fab fa-mastodon fa-2x"></i></a></li>
+                <li><a class="mx-2" href="https://www.instagram.com/gulagmexico" target="_blank"><i class="fab fa-instagram-square fa-2x"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</nav><header id="headerSite" class="mb-4">
+    <div id="headerSiteImage" class="container" itemscope itemtype="http://schema.org/Organization">
+        <div class="row">
+            <div class="col-xl-8">
+                <img src="/theme/images/logo.jpg">
+                <h1 class="display-2" itemprop="name" hidden>GULAG</h1>
+                <p class="lead" itemprop="description" hidden>Grupo de Usuarios de GNU/Linux de La Laguna</p>
+            </div>
+        </div>
+    </div>
+</header>    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+    <article>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "Article",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "GULAG",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "/pelican-themes/pelican-cait/logo.jpg"
+                    },
+                    "url": ""
+                },
+                "author": "guabyboy",
+                "name": "PSPP Software estadístico - Práctica",
+                "headline": "PSPP Software estadístico - Práctica",
+                "description": "Práctica en PSPP Inicio Ahora hagamos una pequeña práctica en PSPP. Tomando como referencia la publicación anterior, de como importar datos a PSPP, en el cual se importaron datos de un archivo de texto o de hoja electrónica en formato abierto ODS, y que fueron guardados en un archivo de …",
+                "dateCreated": "2022-10-30 10:00:00-06:00",
+                "datePublished": "2022-10-30 10:00:00-06:00",
+                "dateModified": "",
+                "image": "/pelican-themes/pelican-cait/logo.jpg",
+                "url": "/pspp-software-estadistico-practica.html"
+            }
+        </script>
+        <h2>PSPP Software estadístico - Práctica</h2>
+        <p class="lead">Práctica en PSPP Inicio Ahora hagamos una pequeña práctica en PSPP. Tomando como referencia la publicación anterior, de como importar datos a PSPP, en el cual se importaron datos de un archivo de texto o de hoja electrónica en formato abierto ODS, y que fueron guardados en un archivo de …</p>
+        <p>30 October 2022</p>
+        <h1>Práctica en PSPP</h1>
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="/2022-10-28-PSPP-impData/PSPP.png" alt="PSPP" width="65" height="50">
+</center>
+<p><br /> </p>
+<h2>Inicio</h2>
+<p>Ahora hagamos una pequeña práctica en PSPP. Tomando como referencia la publicación anterior, de como importar datos a PSPP, en el cual se importaron datos de un archivo de texto o de hoja electrónica en formato abierto ODS, y que fueron guardados en un archivo de PSPP (archivo.sav), ahora utilicemos este archivo guardado para hacer una pequeña práctica de análisis estadístico descriptivo de los datos o información, tanto en atributos <strong>cuantitativos</strong> como en categóricos o <strong>cualitativos</strong>.</p>
+<!-- break -->
+
+<h2>Abrir archivo de datos</h2>
+<p>Abrimos nuestro PSPP directamente con doble clic sobre el archivo.sav a utilizar o una vez abierto el PSPP, abrimos el archivo desde el menú de opciones, con la opción de menú <strong>Archivo -&gt; Abrir</strong> o si ha trabajado previamente con el archivo, menú <strong>Archivo -&gt; Datos utilizados recientemente</strong>. Una vez abierto el archivo de datos vamos a acceder a la opción de menú <strong>Analizar-&gt;Estadística descriptiva-&gt;Frecuencias</strong>. Vamos a seleccionar las variables Edad y Peso como variables cuantitativas, Talla (cualitativa ordinal) y Sexo (Cualitativa nominal).</p>
+<p>Para hacer la selección de varias variables que estan de manera consecutiva, podemos utilizar el teclado seleccionando la primer variable con mayúsculas, nos desplazamos hacia abajo hasta la última , con el ratón simplemente damos clic en la primera y en la última que queremos seleccionar con la tecla shift o mayúsculas, pero cuan van a ser variables alternas no consecutivas, vamos seleccionando una por una, manteniendo oprimida la tecla control y dando clic en cada una de las variables.</p>
+<h2>Análisis descriptivo</h2>
+<p>Empezamos con la selección de las variables EDAD PESO, TALLA SEXO, y agregamos dando clic en el triángulo negro hacia la derecha. Por defecto en el área de estadísticos se seleccionan media, desviación estándar, mínimo y máximo; hay otros estadśiticos que no se seleccionan por ejemplo el cálculo de la mediana o de la moda, <strong>modo</strong> en PSPP.</p>
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="/2022-10-30-PSPP-practica/01selec.png" alt="PSPP" width="65" height="50">
+</center>
+
+<p><strong>Tablas de frecuencias</strong>, esta opción nos permite decidir si se genera o no la tabla de frecuencias, o definir si se genera solo si los valores diferentes no superan una cantidad determinada por nosotros. Las otras opciones es si se muestra la tabla en orden ascendente o descendente, si son variables cualitativas, el orden se hace de acuerdo a abecedario. O bien ordenar por frecuencias ascendentes o descendentes. Clic en continuar.</p>
+<p><strong>Gráficas</strong> nos permite dibujar o no la gráfica, excluir valores por debajo o por arriba de valores establecidos por nosotros, esto nos permite quitar las colas o los valores muy fuera de los rangos que estamos esperando en los estadísticos, podemos dibujar los histogramas en escala de frecuencias o porcentajes y gráficos circulares o de sectores. Clic en continuar y aceptar para generar el reporte. <strong>Cuidado de NO tratar de generar un Histograma con datos Cualitativos</strong>, en ocasiones esto cierra el programa.</p>
+<h2>Reporte Objetivo</h2>
+<p>En el reporte objetivo, se van registrando todas las actividades en <strong>sintáxis</strong> de PSPP y los resultados obtenidos; el reporte objetivo se genera en una ventana aparte de la ventana principal del programa, este reporte lo podemos guardar para ejecutar la sintaxis generada en cuanto necesitemos volver a ejecutar las mismas operaciones.</p>
+<p>Para las <strong>variables cuantitativas (EDAD PES0)</strong> se genera la tabla de frecuencias, la tabla de estadísticos, el histograma y la gráfica circular. Para las <strong>variables cualitativas (TALLA SEXO)</strong> o factores solo se genera la tabla de frecuencias y el gráfico circular. Como podemos observar, el PSPP discrimina perfectamente entre variables Cuantitativas y datos categóricos también llamados cualitativos o factores.</p>
+<h3>Gráfico de barras</h3>
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="/2022-10-30-PSPP-practica/03talla.png" alt="PSPP" width="65" height="50">
+</center>
+
+<h3>Gráfico circular</h3>
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="/2022-10-30-PSPP-practica/02circEdad.png" alt="PSPP" width="65" height="50">
+</center>
+
+<p>En la opción de <strong>Analizar-&gt;Estadística descriptiva-&gt;Descriptivos</strong> solo aparecen las variables o atributos cuantitativos, con el cálculo de algunos estadísticos muy similares a los obtenidos en la opción de Frecuencias, dando la opción del cálculo considerando valores perdidos o no y la opción de calcular los valores de puntos Z de la normal.</p>
+<p>El reporte generado en la ventana de objetivo se puede guardar en un archivo PDF, tal como fue generado, con la salvedad de que se genera una página por tabla o por imagen. Y para guardarse en formato para procesador de texto solo se guardan los valores numéricos en tablas. Con el archivo de texto, podemos guadar la sintaxis y ejecutarla desde el menú <strong>Archivo-&gt;Nuevo-&gt;Sintaxis</strong>. Ahí lo copiamos y lo ejecutamos.</p>
+<h2>Frecuencias acumuladas</h2>
+<p>En el ejercico anterior utilizamos la opción de analizar frecuencias, pero en la variable <strong>PESO</strong> prácticamente no hay  repetición en los datos, por lo que la frecuencia es 1 y la gráfica de barras se presenta sin ninguna tendencia y la circular muestra una sección para cada dato. Para evitar esto, generaremos una tabla de <strong>Frecuencias acumuladas</strong>.
+PSPP no genera esta tabla, hay que construirla. Para ello tomamos el valor mayor y menor de la variable a acumular (<strong>PESO</strong>) y calculamos el número de rangos a utilizar. Para este ejemplo usaremos un incremento de 5, en 5.</p>
+<h3>Definiendo la tabla</h3>
+<p>Utilizaremos la opción de <strong>Transforar-&gt;Recodificar en Variables Diferentes</strong> , se abre un cuadro de diálogo donde incluiremos los valores. Seleccionamos la variable <strong>PESO</strong>  y luego damos clic en Valores de salida y escribimos el nombre de la nueva variable y clic en <strong>Cambio</strong>, y luego en <strong>Valores anteriores y nuevos</strong>, seleccionamos el botón de Rango, escribimos el valor mínimo y máximo de cada rango y en nuevo valor el valor medio del rango, que es con el que PSPP va a calcular un nuevo análisis.</p>
+<center>
+<img class="img-responsive" style="width:25%;height:auto;margin-right:12px;" src="/2022-10-30-PSPP-practica/04recodificar.png" alt="PSPP" width="65" height="50">
+</center>
+
+<p>Una vez completado todos los rangos que abarquen desde el valor mínimo al máximo damos <strong>Continuar</strong>, el proceso lo podemos repetir para varias variables, una vez concluido, damos <strong>OK</strong> y se genera una nueva columna con la nueva variable, y hacemos un nuevo análisis descritivo de frecuencias y veremos la diferencia.</p>
+<h2>Ejemplo de sistaxis</h2>
+<p>Les comparto un fragmento de un archivo de sintaxis, que pueden ejecutar desde PSPP, para que abra el archivo <strong>Datos.sav</strong> y lo ejecute desde el menú <strong>Archivo-&gt;Nuevo-&gt;Sintaxis</strong></p>
+<p>GET FILE="/home/usuario/Datos.sav".</p>
+<p>FREQUENCIES
+    /VARIABLES= EDAD PESO TALLA SEXO
+    /FORMAT=AVALUE TABLE
+    /PIECHART= NOMISSING
+    /BARCHART=.</p>
+<p>RECODE  PESO
+    (49.5 THRU 54.49 = 52) (54.5 THRU 59.49 = 57) (64.5 THRU 69.495 = 67) (59.5
+THRU 64.495 = 62) (69.5 THRU 74.495 = 72) (74.5 THRU 79.495 = 77) (79.5 THRU
+84.495 = 82) (84.5 THRU 89.495 = 87)
+    INTO PesoAcum .</p>
+<p>EXECUTE.</p>
+<p>FREQUENCIES
+    /VARIABLES= PesoAcum
+    /FORMAT=AVALUE TABLE
+    /PIECHART= NOMISSING
+    /BARCHART=.</p>
+    </article>
+            </div>
+            <div class="col-lg-4">
+                <aside>
+<div id="asideAbout" class="card border-0">
+    <div class="card-body">
+        <h3 class="card-title mt-0">GULAG</h3>
+        <p class="card-text">
+            El Grupo de Usuarios de GNU/Linux de La Laguna es un grupo heterogeneo de personas apasionadas en compartir el Software Libre que organizan reuniones donde se comparte conocimiento desde 2005 los segundos viernes de cada mes.
+        </p>
+    </div>
+</div><div id="asideTags" class="card border-0">
+    <div class="card-body">
+        <h3 class="card-title mt-0">Etiquetas</h3>
+        <ul class="list-group list-group-flush">
+<li class="list-group-item"><a href="/tag/bits-libres.html">Bits Libres</a></li><li class="list-group-item"><a href="/tag/conferencias.html">Conferencias</a></li><li class="list-group-item"><a href="/tag/congresos.html">Congresos</a></li><li class="list-group-item"><a href="/tag/contabilidad.html">Contabilidad</a></li><li class="list-group-item"><a href="/tag/datos-abiertos.html">Datos Abiertos</a></li><li class="list-group-item"><a href="/tag/debian.html">Debian</a></li><li class="list-group-item"><a href="/tag/debian-day.html">Debian Day</a></li><li class="list-group-item"><a href="/tag/document-freedom-day.html">Document Freedom Day</a></li><li class="list-group-item"><a href="/tag/flisol.html">FLISOL</a></li><li class="list-group-item"><a href="/tag/git.html">Git</a></li><li class="list-group-item"><a href="/tag/hacktoberfest.html">Hacktoberfest</a></li><li class="list-group-item"><a href="/tag/install-fest.html">Install Fest</a></li><li class="list-group-item"><a href="/tag/jekyll.html">Jekyll</a></li><li class="list-group-item"><a href="/tag/jon-maddog-hall.html">Jon "maddog" Hall</a></li><li class="list-group-item"><a href="/tag/junta-nada-ordinaria.html">Junta Nada Ordinaria</a></li><li class="list-group-item"><a href="/tag/juntas-ordinarias.html">Juntas Ordinarias</a></li><li class="list-group-item"><a href="/tag/keme.html">KEME</a></li><li class="list-group-item"><a href="/tag/mapaton.html">Mapatón</a></li><li class="list-group-item"><a href="/tag/markdown.html">Markdown</a></li><li class="list-group-item"><a href="/tag/open-data-day.html">Open Data Day</a></li><li class="list-group-item"><a href="/tag/opensuse-educativo.html">OpenSUSE Educativo</a></li><li class="list-group-item"><a href="/tag/programacion.html">Programación</a></li><li class="list-group-item"><a href="/tag/pspp.html">PSPP</a></li><li class="list-group-item"><a href="/tag/python.html">Python</a></li><li class="list-group-item"><a href="/tag/richard-stallman.html">Richard Stallman</a></li><li class="list-group-item"><a href="/tag/ruby.html">Ruby</a></li><li class="list-group-item"><a href="/tag/talleres.html">Talleres</a></li><li class="list-group-item"><a href="/tag/telegram.html">Telegram</a></li>        </ul>
+    </div>
+</div>                </aside>
+            </div>
+        </div>
+    </div>
+<footer class="text-muted">
+    <div class="container">
+        <p>
+            Protegidos por la licencia <a href="/licencias/gfdl-es/">GFDL</a>.
+            Se otorga permiso para copiar, distribuir y/o modificar estos documentos.
+            Sitio web elaborado con <a href="https://blog.getpelican.com/">Pelican</a> que es programado en <a href="https://python.org/">Python</a>; el código fuente está en <a href="https://github.com/MovimientoLibre/plataforma.web">GitHub</a> protegido por la licencia <a href="/licencias/gpl-2-es/">GPLv3</a>.
+        </p>
+    </div>
+</footer>    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.min.js" integrity="sha512-OvBgP9A2JBgiRad/mM36mkzXSXaJE9BEIENnVEmeZdITvwT09xnxLtT4twkCa8m/loMbPHsvPl0T8lRGVBwjlQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="/theme/js/navigation.js"></script>
+</body>
+</html>

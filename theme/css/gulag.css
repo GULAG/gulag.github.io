@@ -1,0 +1,123 @@
+/*
+ * movimientolibre-bs5.css
+ */
+
+body { font-family: 'Noto Sans', sans-serif; font-size: 12pt; }
+h1 { font-size: 1.6rem; font-weight: 600; margin-top: 1.4rem; }
+h2 { font-size: 1.4rem; font-weight: 600; margin-top: 1.4rem; }
+h3 { font-size: 1.2rem; font-weight: 600; margin-top: 1.4rem; }
+h4 { font-size: 1.0rem; font-weight: 600; margin-top: 1.2rem; }
+h5 { font-size: 0.8rem; font-weight: 600; }
+h6 { font-size: 0.6rem; font-weight: 600; }
+
+a         { color: #625c8c; text-decoration: none; }
+a:focus,
+a:hover   { color: #231a5c; text-decoration: underline; }
+a:active,
+a:visited { color: #625c8c; text-decoration: none; }
+
+#navigationBase {
+    position: absolute;
+    background-color: rgb(20, 16, 49);
+    border-bottom: 1px solid white;
+}
+
+.navbar-brand         { color: #c9c5df; text-decoration: none; }
+.navbar-brand:focus,
+.navbar-brand:hover   { color: #231a5c; text-decoration: underline; }
+.navbar-brand:active,
+.navbar-brand:visited { color: #c9c5df; text-decoration: none; }
+
+.navbar-nav a.nav-link         { color: #c9c5df; text-decoration: none; }
+.navbar-nav a.nav-link:focus,
+.navbar-nav a.nav-link:hover   { color: #231a5c; text-decoration: underline; }
+.navbar-nav a.nav-link:active,
+.navbar-nav a.nav-link:visited { color: #c9c5df; text-decoration: none; }
+
+.navbar-toggler { color: #231a5c; }
+
+#headerSite {
+    margin-top: 48px;
+    background-color: #625c8c;
+    color: #deeaf5;
+}
+#headerSiteImage {
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+
+pre {
+    font-family: 'Droid Sans Mono','Liberation Mono',monospace;
+    font-size: 12pt;
+    background: none repeat scroll 0 0 #F0F0F0;
+    font-style: normal;
+    letter-spacing: 0.015em;
+    line-height: 130%;
+    padding: 0.7em;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+
+    body { background-color: #1c1c1c; color: #eeeeee; }
+
+    a         { color: #579bdf; }
+    a:focus,
+    a:hover   { color: #bed1e3; }
+    a:active,
+    a:visited { color: #579bdf; }
+
+    #navigationBase { background-color: #161616; border-bottom: 1px solid gray; }
+
+    .navbar-brand         { color: #579bdf; }
+    .navbar-brand:focus,
+    .navbar-brand:hover   { color: #bed1e3; }
+    .navbar-brand:active,
+    .navbar-brand:visited { color: #579bdf; }
+
+    .navbar-nav a.nav-link         { color: #579bdf; }
+    .navbar-nav a.nav-link:focus,
+    .navbar-nav a.nav-link:hover   { color: #bed1e3; }
+    .navbar-nav a.nav-link:active,
+    .navbar-nav a.nav-link:visited { color: #579bdf; }
+
+    .navbar-toggler { color: #579bdf; }
+
+    .card { background-color: #1c1c1c; }
+
+    #asideTags li.list-group-item { background-color: #1c1c1c; }
+
+    pre { background-color: #282828; color: #eeeeee; }
+    code { color: #4fd2d2; }
+
+    a.page-link { background-color: #161616; border: 1px solid gray; }
+
+}
+
+/* Used by navigation.js to show the main navigation when scroll ups */
+@media only screen and (min-width: 992px) {
+
+    #navigationBase {
+        border-bottom: 1px solid transparent;
+    }
+
+    /* When the user scrolls down, we hide the header right above the viewport */
+    #navigationBase.is-fixed {
+        position: fixed;
+        top: -57px;
+        -webkit-transition: -webkit-transform 0.2s;
+        transition: -webkit-transform 0.2s;
+        transition: transform 0.2s;
+        transition: transform 0.2s, -webkit-transform 0.2s;
+        border-bottom: 1px solid #888;
+    }
+
+    /* If the user changes the scrolling direction, we show the header */
+    #navigationBase.is-visible {
+        -webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+    }
+
+}
