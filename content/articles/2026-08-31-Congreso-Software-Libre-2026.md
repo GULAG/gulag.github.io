@@ -13,15 +13,17 @@ El próximo **viernes 25 de septiembre del 2026**, estaremos celebrando un anive
 <br />
 
 <center>
-<a href="https://www.salazarysanchez.com/entradas/2026-09-02-Congreso-Software-Libre-2026/CongresoSL2026_01.jpg">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://www.salazarysanchez.com/entradas/2026-09-02-Congreso-Software-Libre-2026/CongresoSL2026_01.jpg" alt="Poster Congreso 2026" width="250" height="325">
+<a href="{attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_01.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_01.jpg" alt="Poster Congreso 2026" width="250" height="325">
 </a>
 <br />
 </center>
 
+<br /><br />
+
 <center>
-<a href="https://www.salazarysanchez.com/entradas/2026-09-02-Congreso-Software-Libre-2026/CongresoSL2026_02.jpg">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://www.salazarysanchez.com/entradas/2026-09-02-Congreso-Software-Libre-2026/CongresoSL2026_02.jpg" alt="Poster Congreso 2026" width="250" height="325">
+<a href="{attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_02.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_02.jpg" alt="Poster Congreso 2026" width="250" height="325">
 </a>
 <br />
 </center>
@@ -50,7 +52,7 @@ También contaremos con los siguientes
 
 ### Ubicación de conferencias y talleres:
 
-__Próximamente__
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/congreso-internacional-de-software-libre-2026_1463488?scaleControl=false&miniMapControl=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/congreso-internacional-de-software-libre-2026_1463488?scaleControl=false&miniMapControl=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver a pantalla completa</a></p>
 
 ### Registro:
 
@@ -58,15 +60,27 @@ __Próximamente__
 
 ### Patrocinadores:
 
-__Próximamente__
+<br />
+<center>
+<a href="{attach}2026-08-31-Congreso-Software-Libre-2026/Patrocinadores.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="{attach}2026-08-31-Congreso-Software-Libre-2026/Patrocinadores.jpg" alt="Patrocinadores" width="350" height="425">
+</a>
+<br />
+</center>
+<br />
 
 ### Promoción en medios de comunicación:
 
-__Próximamente__
+* [Periódico Milenio](https://www.milenio.com/estados/torreon-sede-congreso-internacional-software-libre-2026) : [Torreón será sede del Congreso Internacional de Software Libre 2026]({attach}2026-08-31-Congreso-Software-Libre-2026/Milenio_Congreso_2026.png)
 
 ### Descargas
 
-__Próximamente__
+* [Poster portada]({attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_01.jpg)
+* [Conferencias]({attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_02.jpg)
+* [Flyer Chavero]({attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_03_Chavero.jpg)
+* [Flyer Don Aletz]({attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_04_Aletz.jpg)
+* [Flyer Ángel]({attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_05_Angel.jpg)
+* [Flyer Osvaldo]({attach}2026-08-31-Congreso-Software-Libre-2026/Congreso_GULag_06_Chico.jpg)
 
 <br />
 
